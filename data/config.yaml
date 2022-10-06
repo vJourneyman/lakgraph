@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: John White
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -11,16 +11,15 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/vJourneyman/lakgraph/tree/hugo/content
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  An experiment in curating the existing news about the National Hockey League’s Los Angeles Kings franchise.
 page_title:
-  "🪴 Quartz 3.3"
+  "LA Kings Graph"
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
+    link: https://twitter.com/vJourneyman
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/vJourneyman
