@@ -11,9 +11,9 @@ NHL.com | Twitter
 -|-
 [Rasmus Kupari](https://www.nhl.com/player/rasmus-kupari-8480845) | []()
 
-Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
--|-|-|-|-|-|-|-
- C | R | 6'2" | 200 | 22 | 2000-03-15 | Kotka, FIN | 2018 LAK, 1st rd, 20th pk (20th overall)
+Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
+---|---|---|---|---|---|---|---|---
+Rasmus Kupari | |  C | R | 6'2" | 200 |2000-03-15 | Kotka, FIN | 2018 LAK, 1st rd, 20th pk (20th overall)
  
 
 

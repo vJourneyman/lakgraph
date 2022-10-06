@@ -1,25 +1,24 @@
 ---
-title: "Brandt Clarke"
+title: "Taylor Ward"
 date-created: 2022-10-06
 aliases: 
 tags: [Status/New,Player]
 ---
 
-# Brandt Clarke
+# Taylor Ward
 
 NHL.com | Twitter
 -|-
-[Brandt Clarke]() | [@twitter_handle](https://twitter.com/)
+[Taylor Ward](https://www.nhl.com/player/taylor-ward-8483406) | [@twitter_handle](https://twitter.com/)
 
 Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft 
 ---|---|---|---|---|---|---|---|---
-Brandt Clarke | | RD | R | 6' 2" | 185 | 2003-02-09 | Nepean, ON, CAN | 2021 LAK, 1st rd, 8th pk (8th overall)
-
+Taylor Ward | | RW | R | 6' 2" | 207 | 1998-03-31 | Kelowna, BC, CAN | undrafted
 
 ## NHL  Coverage
 Date | Site |  Title
 ---|---|---
- 2022-10-04   | [[LA Kings Insider]]  | [[10-4 Preview – Projected Lineup + Petersen expected, Clarke goes 5-for-5, Today’s Practice]]
+
 
 
 ## Minor League Coverage

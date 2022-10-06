@@ -5,7 +5,7 @@ day-of-week-created: Sun
 date-updated: 
 aliases: []
 tags: [NewsPost]
-status: unstarted
+status: stable
 ---
 
 # Taylor Ward feeling ready for first NHL training camp with fast start at Rookie Faceoff

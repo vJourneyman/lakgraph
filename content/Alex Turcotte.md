@@ -10,9 +10,9 @@ NHL.com | Twitter
 -|-
 [Alex Turcotte](https://www.nhl.com/player/alex-turcotte-8481532) | [Turcotte__71](https://twitter.com/Turcotte__71)
 
-Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
--|-|-|-|-|-|-|-
-C | L | 5'11" | 185 | 21 | 2001-02-26 | Elk Grove, IL, USA | 2019 LAK, 1st rd, 5th pk (5th overall)
+Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
+---|---|---|---|---|---|---|---|---
+Alex Turcotte | | C | L | 5' 11" | 185 | 2001-02-26 | Elk Grove, IL, USA | 2019 LAK, 1st rd, 5th pk (5th overall) 
  
 
 ## NHL  Coverage
