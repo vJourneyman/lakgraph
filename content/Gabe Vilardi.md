@@ -1,6 +1,6 @@
 ---
+title: "Gabe Vilardi"
 date-created: 2022-10-06
-title: Gabe Vilardi
 aliases: [Gabriel Vilardi]
 tags: [Status/New,Player]
 ---

@@ -1,8 +1,8 @@
 ---
+title: "Adrian Kempe"
 date-created: 2022-09-25
-title: Adrian Kempe
 aliases: 
-tags: [New,Player]
+tags: [Status/New,Player]
 ---
 
 # Adrian Kempe
@@ -19,16 +19,20 @@ Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
 - 
 
 ## NHL  Coverage
-- 
+Date | Title
+---|---
 
 
 ## Minor League Coverage
-- 
+Date | Title
+---|---
 
 
 ## Post-Draft Coverage
-- 
+Date | Title
+---|---
 
 
 ## Pre-Draft
-- 
+Date | Title
+---|---
