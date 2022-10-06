@@ -16,24 +16,26 @@ C | L | 5'11" | 185 | 21 | 2001-02-26 | Elk Grove, IL, USA | 2019 LAK, 1st rd, 5
  
 
 ## NHL  Coverage
-Date | Title
----|---
+Date | Site |  Title
+---|---|---
 
 
 ## Minor League Coverage
-Date | Title
----|---
+Date | Site |  Title
+---|---|---
 
 
 ## Post-Draft Coverage
-Date | Title
----|---
+Date | Site |  Title
+---|---|---
 
 
 ## Pre-Draft
-Date | Title
----|---
+Date | Site |  Title
+---|---|---
 
+
+## Unprocessed Coverage
 - https://www.broadstreethockey.com/2019/6/12/18661726/alex-turcotte-draft-profile-stats-analysis-analytics-highlights-2019-nhl-draft
 - https://www.diebytheblade.com/2019/5/7/18534846/draft-profile-alex-turcotte
 - https://www.habseyesontheprize.com/nhl-entry-draft-picks-2019/2019/6/14/18663582/alex-turcotte-2019-nhl-draft-prospect-profile-video-highlights-stats-scouting-report-analysis

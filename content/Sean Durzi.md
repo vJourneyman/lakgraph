@@ -1,23 +1,26 @@
 ---
-title: "{{title}}"
-date-created: {{date}}
+title: "Sean Durzi"
+date-created: 2022-10-06
 aliases: 
 tags: [Status/New,Player]
 ---
 
-# {{title}}
+# Sean Durzi
 
 NHL.com | Twitter
 -|-
-[{{title}}]() | [@twitter_handle](https://twitter.com/)
+[Sean Durzi](https://www.nhl.com/player/sean-durzi-8480434) | [@seandurzi](https://twitter.com/seandurzi)
 
 Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft 
 ---|---|---|---|---|---|---|---|---
+[[Sean Durzi]] | 50 | RD | R | 6' 0" | 195 | 1998-10-21 | Mississauga, ON, CAN | 2018 TOR, 2nd rd, 21st pk (52nd overall)
+
 
 
 ## NHL  Coverage
 Date | Site |  Title
 ---|---|---
+ 2022-10-05   | [[LA Kings Insider]]  | [[Practice Notebook 10-5]]
 
 
 

@@ -10,6 +10,8 @@ Welcome to the LA Kings News and Knowledge Graph. This is an experiment in curat
 
 Here's some places you might want to start:
 
+[[2022-2023 Season Preview]]
+
 [[2022-2023 Pre-Season]]
 
 [[LA Kings Roster]]

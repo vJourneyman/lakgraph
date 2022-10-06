@@ -17,26 +17,27 @@ C | L | 5'10" | 195 | <% moment | (birthday:: 1995-03-31) | |
 
 
 ## NHL  Coverage
-Date | Title
----|---
+Date | Site |  Title
+---|---|---
+ 2022-10-05   | [[LA Kings Insider]]  | [[Practice Notebook 10-5]]
 
 
 
 ## Minor League Coverage
-Date | Title
----|---
+Date | Site |  Title
+---|---|---
 
 
 
 ## Post-Draft Coverage
-Date | Title
----|---
+Date | Site |  Title
+---|---|---
 
 
 
 ## Pre-Draft Coverage
-Date | Title
----|---
+Date | Site |  Title
+---|---|---
 
 
 ## Unprocessed Articles

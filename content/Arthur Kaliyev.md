@@ -17,23 +17,23 @@ RW | L | 6'2" | 210 | 21 | 2001-06-26 | Tashkent, UZB | 2019 LAK, 2nd rd, 2nd pk
 
 
 ## NHL  Coverage
-Date | Title
----|---
+Date | Site |  Title
+---|---|---
 
 
 ## Minor League Coverage
-Date | Title
----|---
+Date | Site |  Title
+---|---|---
 
 
 ## Post-Draft Coverage
-Date | Title
----|---
+Date | Site |  Title
+---|---|---
 
 
-## Pre-Draft
-Date | Title
----|---
+## Pre-Draft Coverage
+Date | Site |  Title
+---|---|---
 
-##### Unprocessed Articles
+## Unprocessed Coverage
 - 

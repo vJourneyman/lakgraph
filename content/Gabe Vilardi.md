@@ -15,28 +15,29 @@ Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
 -|-|-|-|-|-|-|-
 W | R | 6'3" | 215 | 23 | 1999-08-16 | Kingston, ON, CA| 2017 LAK, 1st rd, 11th pk (11th overall)
 
-##### Unprocessed Articles
-- 
 
 ## NHL  Coverage
-Date | Title
----|---
-2022-10-05 | [[An enthusiastic Gabe Vilardi has made an impression on teammates and coaches in camp]]
-
+Date | Site| Title
+---|---|---
+2022-10-05 | [[LA Kings Insider]] |  [[An enthusiastic Gabe Vilardi has made an impression on teammates and coaches in camp]]
+2022-10-04   | [[LA Kings Insider]]  | [[PRESEASON FINAL – Kings 4, Ducks 5 – Vilardi, Edler, McLellan]]
 
 ## Minor League Coverage
-Date | Title
----|---
+Date | Site |  Title
+---|---|---
+
 
 
 
 ## Post-Draft Coverage
-Date | Title
----|---
+Date | Site |  Title
+---|---|---
 
 
 
 ## Pre-Draft Coverage
-Date | Title
----|---
+Date | Site |  Title
+---|---|---
 
+## Unprocessed Coverage
+- 

@@ -10,9 +10,9 @@ status: unstarted
 
 # {{title}}
 
-| Link | Date Published | Site |
-|---|---|---|
-| [{{title}}]()  |   |
+Date | Site | Link
+---|---|---
+ {{date}}   |   | [{{title}}]()
 
 ## Contributors:
 - 

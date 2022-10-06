@@ -17,25 +17,26 @@ Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
 
 
 ## NHL  Coverage
-Date | Title
----|---
+Date | Site |  Title
+---|---|---
 
 
 ## Minor League Coverage
-Date | Title
----|---
+Date | Site |  Title
+---|---|---
 
 
 ## Post-Draft Coverage
-Date | Title
----|---
+Date | Site |  Title
+---|---|---
 
 
 ## Pre-Draft
-Date | Title
----|---
-- [A Development Plan for Quinton Byfield](https://jhanhky.substack.com/p/a-development-plan-for-quinton-byfield?s=r) - [[Jack Han]] - [[The Hockey Tactics Newsletter]] 2020-06-26
+Date | Site |  Title
+---|---|---
+2020-06-26 | [[The Hockey Tactics Newsletter]] | [[A Development Plan for Quinton Byfield]]
 
 
 ## Unprocessed Articles
-- 
+- [A Development Plan for Quinton Byfield](https://jhanhky.substack.com/p/a-development-plan-for-quinton-byfield?s=r) - [[Jack Han]] - [[The Hockey Tactics Newsletter]] 2020-06-26
+

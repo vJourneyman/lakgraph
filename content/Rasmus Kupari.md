@@ -2,7 +2,7 @@
 title: "Rasmus Kupari"
 date-created: 2022-09-25
 aliases: 
-tags: [New,Player]
+tags: [Status/New,Player]
 ---
 
 # Rasmus Kupari
@@ -18,23 +18,24 @@ Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
 
 
 ## NHL  Coverage
-Date | Title
----|---
+Date | Site |  Title
+---|---|---
+
 
 
 ## Minor League Coverage
-Date | Title
----|---
+Date | Site |  Title
+---|---|---
 
 
 ## Post-Draft Coverage
-Date | Title
----|---
+Date | Site |  Title
+---|---|---
 
 
 ## Pre-Draft
-Date | Title
----|---
+Date | Site |  Title
+---|---|---
 
 
 ## Unprocessed Articles
