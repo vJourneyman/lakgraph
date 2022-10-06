@@ -15,8 +15,6 @@ Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
 -|-|-|-|-|-|-|-
 C | L | 5'10" | 195 | <% moment | (birthday:: 1995-03-31) | | 
 
-##### Unprocessed Articles
-- 
 
 ## NHL  Coverage
 Date | Title
@@ -40,3 +38,6 @@ Date | Title
 Date | Title
 ---|---
 
+
+## Unprocessed Articles
+- 

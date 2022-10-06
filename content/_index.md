@@ -11,10 +11,14 @@ Welcome to the LA Kings News and Knowledge Graph. This is an experiment in curat
 Here's some places you might want to start:
 
 [[2022-2023 Pre-Season]]
+
 [[LA Kings Roster]]
+
 [[Ontario Reign Roster]]
 
+
 [[Prospects]]
+
 
 [[2022 Entry Draft]]
 
