@@ -13,26 +13,32 @@ NHL.com | Twitter
 
 Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
 -|-|-|-|-|-|-|-
- C | L | 6'2" | 200 | 26 | 1996-09-13 | Kramfors, SWE | 2014 LAK, 1st rd, 29th pk (29th overall)
+[[Adrian Kempe]] | 9 | C | L | 6' 2" | 200 | 1996-09-13 | Kramfors, SWE
 
-##### Unprocessed Articles
-- 
+
+
 
 ## NHL  Coverage
-Date | Title
----|---
+Date | Site| Title
+---|---|---
+2022-10-06 | [[LA Kings Insider]] | [[PRESEASON FINAL – Kings 4, Golden Knights 6 – Kempe, Durzi, McLellan]]
+2022-10-03 | [[LA Kings Insider]] | [[With a fresh slate, the work is well underway when it comes to the LA Kings power play]]
 
 
 ## Minor League Coverage
-Date | Title
----|---
+Date | Site| Title
+---|---|---
 
 
 ## Post-Draft Coverage
-Date | Title
----|---
+Date | Site| Title
+---|---|---
 
 
-## Pre-Draft
-Date | Title
----|---
+## Pre-Draft Coverage
+Date | Site| Title
+---|---|---
+
+
+## Unprocessed Coverage 
+- 

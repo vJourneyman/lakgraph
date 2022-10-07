@@ -1,6 +1,6 @@
 ---
-title: "Trevor Moore"
 date-created: 2022-10-06
+title: Trevor Moore
 aliases: 
 tags: [Status/New,Player]
 ---
@@ -13,32 +13,30 @@ NHL.com | Twitter
 
 Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
 -|-|-|-|-|-|-|-
-C | L | 5'10" | 195 | <% moment | (birthday:: 1995-03-31) | | 
+C | L | 5'10" | 195 |  | (birthday:: 1995-03-31) | | 
 
+##### Unprocessed Articles
+- 
 
 ## NHL  Coverage
-Date | Site |  Title
----|---|---
- 2022-10-05   | [[LA Kings Insider]]  | [[Practice Notebook 10-5]]
+Date | Title
+---|---
 
 
 
 ## Minor League Coverage
-Date | Site |  Title
----|---|---
+Date | Title
+---|---
 
 
 
 ## Post-Draft Coverage
-Date | Site |  Title
----|---|---
+Date | Title
+---|---
 
 
 
 ## Pre-Draft Coverage
-Date | Site |  Title
----|---|---
+Date | Title
+---|---
 
-
-## Unprocessed Articles
-- 

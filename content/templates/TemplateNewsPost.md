@@ -14,7 +14,7 @@ Date | Site | Link
 ---|---|---
  {{date}}   |   | [{{title}}]()
 
-## Contributors:
+## Contributors
 - 
 
 ## Players

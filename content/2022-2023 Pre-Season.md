@@ -12,16 +12,24 @@ status: in-progress
 
 Date | Site | Title
 ---|---|---
+2022-10-06 | [[LA Kings Insider]] | [[PRESEASON FINAL – Kings 4, Golden Knights 6 – Kempe, Durzi, McLellan]]
+2022-10-06 | [[Mayor's Manor]] | [[Projected Lineup - Kings vs Golden Knights at Frozen Fury, aka Preseason Game 6]]
+2022-10-06 | [[LA Kings Insider]] | [[10-6 Preview – Projected Game Group + Durzi On Return, Moverare on Opportunity, Utes]]
+2022-10-05 | [[LA Kings Insider]] | [[An enthusiastic Gabe Vilardi has made an impression on teammates and coaches in camp]]
 2022-10-05 | [[LA Kings Insider]] | [[Day 14 Primer – The Split]]
 2022-10-05 | [[LA Kings Insider]] | [[Practice Notebook 10-5]]
 2022-10-04 | [[LA Kings Insider]] | [[PRESEASON FINAL – Kings 4, Ducks 5 – Vilardi, Edler, McLellan]]
 2022-10-04 | [[LA Kings Insider]] | [[10-4 Preview – Projected Lineup + Petersen expected, Clarke goes 5-for-5, Today’s Practice]]
-
+2022-10-04 | [[LA Kings Insider]] | [[LA Kings announce roster moves, trim training camp roster to 34 players]]
+2022-10-03 | [[LA Kings Insider]] | [[With a fresh slate, the work is well underway when it comes to the LA Kings power play]]
+2022-10-03 | [[LA Kings Insider]] | [[Day 12 Primer – Groupings + McLellan on roster cutdown & waivers]]
 
 ## Articles to process
-- 2022-10-04 | [[LA Kings Insider]] | [LA Kings announce roster moves, trim training camp roster to 34 players](https://lakingsinsider.com/2022/10/04/la-kings-announce-roster-moves-trim-training-camp-roster-to-34-players/)
-- 2022-10-03 | [[LA Kings Insider]] |  [With a fresh slate, the work is well underway when it comes to the LA Kings power play](https://lakingsinsider.com/2022/10/03/with-a-fresh-slate-the-work-is-well-underway-when-it-comes-to-the-la-kings-power-play/)
-- 2022-10-03 | [[LA Kings Insider]] |  [Day 12 Primer – Groupings + McLellan on roster cutdown & waivers](http://lakingsinsider.com/2022/10/03/day-12-primer-groupings-mclellan-on-roster-cutdown-waivers/)
+- 2022-10-04 | [[Mayor's Manor]] |  [Kings Goalie Prospect Matt Villalta Going with Mater, Red, and Rusty in 2022-23](https://mayorsmanor.com/2022/10/kings-goalie-prospect-matt-villalta-going-with-mater-and-lightning-in-2022-23/)
+- 2022-10-04 | [[Mayor's Manor]] |  [Projected Lineup - Kings vs Ducks in Anaheim, Preseason Game 5](https://mayorsmanor.com/2022/10/projected-lineup-kings-vs-ducks-in-la-preseason-game-5/)
+- 2022-10-02 | [[Mayor's Manor]] | [Projected Lineup: Kings vs Ducks in LA, Preseason Game 4](https://mayorsmanor.com/2022/10/projected-lineup-kings-vs-ducks-in-la-preseason-game-4/)
+- 2022-10-02 | [[Mayor's Manor]] | [Kings and Reign Rosters Almost Finished; Answering The Final Six Questions](https://mayorsmanor.com/2022/10/kings-and-reign-rosters-coming-into-focus-answering-the-final-six-questions/)
+- 
 - 2022-10-02 | [[LA Kings Insider]] |  [PRESEASON FINAL – Kings 2, Ducks 1 – Walker, Vilardi, McLellan](http://lakingsinsider.com/2022/10/02/preseason-final-kings-2-ducks-1-walker-vilardi-mclellan/)
 - 2022-10-02 | [[LA Kings Insider]] |  [10-2 Preview – Projected Lineup + Final 4 Plan, Walker’s Long Awaited Return, McLellan Video](http://lakingsinsider.com/2022/10/02/10-2-preview-projected-lineup-final-4-plan-walkers-long-awaited-return-mclellan-video/) 
 - 2022-10-01 | [[LA Kings Insider]] |  [With a blank slate, Kings focused on replicating second-half success on the penalty kill](http://lakingsinsider.com/2022/10/01/with-a-blank-slate-kings-focused-on-replicating-second-half-success-on-the-penalty-kill/)

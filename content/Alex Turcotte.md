@@ -18,6 +18,7 @@ Alex Turcotte | | C | L | 5' 11" | 185 | 2001-02-26 | Elk Grove, IL, USA | 2019 
 ## NHL  Coverage
 Date | Site |  Title
 ---|---|---
+2022-10-04 | [[LA Kings Insider]] | [[LA Kings announce roster moves, trim training camp roster to 34 players]]
 
 
 ## Minor League Coverage

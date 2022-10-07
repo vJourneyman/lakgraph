@@ -1,24 +1,26 @@
 ---
-title: "{{title}}"
-date-created: {{date}}
+title: "Lias Andersson"
+date-created: 2022-10-07
 aliases: 
 tags: [Status/New,Player]
 ---
 
-# {{title}}
+# Lias Andersson
 
 NHL.com | Twitter
 -|-
-[{{title}}]() | [@twitter_handle](https://twitter.com/)
+[Lias Andersson]() | [@twitter_handle](https://twitter.com/)
 
 Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft 
 -|-|-|-|-|-|-|-|-
+Lias Andersson | 17 | C | L | 6' 1" | 183 | 1998-10-13 | Smogen, SWE | 2017 NYR, 1st rd, 7th pk (7th overall)
 
 
 
 ## NHL  Coverage
 Date | Site |  Title
 ---|---|---
+2022-10-06 | [[Mayor's Manor]] | [[Projected Lineup - Kings vs Golden Knights at Frozen Fury, aka Preseason Game 6]]
 
 
 

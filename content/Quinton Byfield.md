@@ -19,6 +19,7 @@ Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
 ## NHL  Coverage
 Date | Site |  Title
 ---|---|---
+2022-10-03 | [[LA Kings Insider]] | [[Day 12 Primer – Groupings + McLellan on roster cutdown & waivers]]
 
 
 ## Minor League Coverage
