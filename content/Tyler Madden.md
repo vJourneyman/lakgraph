@@ -1,18 +1,19 @@
 ---
-title: "{{title}}"
-date-created: {{date}}
+title: "Tyler Madden"
+date-created: 2022-10-08
 aliases: 
 tags: [Status/New,Player]
 ---
 
-# {{title}}
+# Tyler Madden
 
 NHL.com / Ontario Reign | Twitter
 -|-
-[{{title}}]() | [@twitter_handle](https://twitter.com/)
+[Tyler Madden](https://ontarioreign.com/roster/tyler-madden) | [@twitter_handle](https://twitter.com/)
 
 Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft 
 -|-|-|-|-|-|-|-|-
+Tyler Madden | 10 | F | R | 5' 11" | 170 | 1999-11-09 | Deerfield Beach, FL | VAN 3rd RD, 2018 (68th)
 
 
 

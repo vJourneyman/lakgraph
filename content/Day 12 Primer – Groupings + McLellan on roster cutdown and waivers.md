@@ -1,5 +1,5 @@
 ---
-title: "Day 12 Primer – Groupings + McLellan on roster cutdown & waivers"
+title: "Day 12 Primer – Groupings + McLellan on roster cutdown and waivers"
 date-created: 2022-10-07
 day-of-week-created: Fri
 date-updated: 
@@ -8,7 +8,7 @@ tags: [NewsPost]
 status: unstarted
 ---
 
-# Day 12 Primer – Groupings + McLellan on roster cutdown & waivers
+# Day 12 Primer – Groupings + McLellan on roster cutdown and waivers
 
 Date | Site | Link
 ---|---|---

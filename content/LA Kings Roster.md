@@ -13,7 +13,7 @@ status: unstarted
 Source: [nhl.com/kings/roster (2021-2022)](https://www.nhl.com/kings/roster)
 
 ## Forwards
-Player | \# | Pos | Sh | Ht | Wt | Born | Birthplace 
+Player | \# | Position | Shoots | Height | Weight | Born | Birthplace 
 ---|---|---|---|---|---|---|---
 [[Jaret Anderson-Dolan]] | 28 | C | L | 5' 11" | 200 | 1999-09-12 | Calgary, AB, CAN
 [[Lias Andersson]] | 17 | C | L | 6' 1" | 183 | 1998-10-13 | Smogen, SWE

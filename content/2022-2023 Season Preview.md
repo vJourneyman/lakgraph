@@ -12,18 +12,18 @@ status: unstarted
 
 Date | Site | Title
 ---|---|---
-
+2022-09-10 | [[The Hockey Writers]] | [[Kings’ Prospect Preview - Samuel Fagemo]]
+2022-08-31 | [[The Hockey Writers]] | [[Kings’ Prospect Preview - Rasmus Kupari]]
 
 
 ## Articles to process
-https://theathletic.com/3571831/2022/09/07/kings-defense-doughty-inujuries?source=user-shared-article
+Date | Site | Title
+---|---|---
+2022-09-10 | [[Mayor's Manor]] | [[Kings Tidbits - Latest Updates on Mikey Anderson and Alex Turcotte]](https://mayorsmanor.com/2022/09/kings-tidbits-latest-updates-on-mikey-anderson-and-alex-turcotte/)
+2022-09-10 | [[HockeyBuzz]] | [[Kings re-sign Mikey Anderson]](https://hockeybuzz.com/blog/Ben-Shelley/Kings-re-sign-Mikey-Anderson/281/118655)
+2022-09-07 | [[The Athletic]] | [[State of the Kings -  Defense looks strong, but can Drew Doughty stay healthy]](https://theathletic.com/3571831/2022/09/07/kings-defense-doughty-inujuries)
+2022-07-16 | [[Mayor's Manor]] | [[Mike Donnelly on Standouts at LA Kings Dev Camp and Other Impressions]](https://mayorsmanor.com/2022/07/mike-donnelly-on-standouts-at-kings-development-camp-and-overall-impressions/)
 
-https://mayorsmanor.com/2022/09/kings-tidbits-latest-updates-on-mikey-anderson-and-alex-turcotte/
-
-https://mayorsmanor.com/2022/07/mike-donnelly-on-standouts-at-kings-development-camp-and-overall-impressions/
-
-
-https://hockeybuzz.com/blog/Ben-Shelley/Kings-re-sign-Mikey-Anderson/281/118655
 
 https://www.thefourthperiod.com/bernstein/lak-summer-from-the-hunted-to-the-hunters
 
@@ -81,8 +81,7 @@ Check out this Podcast: Top 10 Questions at Training Camp & Rookie Face-Off Reca
 
 https://lakingsinsider.com/2022/09/18/kotp-ep-135-with-lak-coach-todd-mclellan/
 
-https://lakingsinsider.com/2022/09/18/kings-practice-in-san-jose-prior-to-rookie-finale-lines-thomas-lawrence/
 
-https://lakingsinsider.com/2022/09/17/rookies-final-kings-5-golden-knights-4-takeaways-chromiak-spence-sturm/
-
-https://lakingsinsider.com/2022/09/16/rookies-final-avalanche-3-kings-2-takeaways-clarke-pinelli-sturm/
+2022-09-18 | [[LA Kings Insider]] | [[Kings Practice in San Jose Prior to Rookie Finale – Lines + Thomas, Lawrence]](https://lakingsinsider.com/2022/09/18/kings-practice-in-san-jose-prior-to-rookie-finale-lines-thomas-lawrence/)
+2022-09-17 | [[LA Kings Insider]] | [[ROOKIES FINAL - Kings 5, Golden Knights 4 – Takeaways + Chromiak, Spence, Sturm]](https://lakingsinsider.com/2022/09/17/rookies-final-kings-5-golden-knights-4-takeaways-chromiak-spence-sturm/)
+2022-09-16 | [[LA Kings Insider]] | [[ROOKIES FINAL - Avalanche 3, Kings 2 – Takeaways + Clarke, Pinelli, Sturm]](https://lakingsinsider.com/2022/09/16/rookies-final-avalanche-3-kings-2-takeaways-clarke-pinelli-sturm/)

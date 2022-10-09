@@ -19,7 +19,7 @@ RW | L | 6'2" | 210 | 21 | 2001-06-26 | Tashkent, UZB | 2019 LAK, 2nd rd, 2nd pk
 ## NHL  Coverage
 Date | Site |  Title
 ---|---|---
-
+2022-10-08 | [[LA Kings Insider]] | [[PRESEASON FINAL – Kings 6, Ducks 3 – Arvidsson, Kaliyev, McLellan]]
 
 ## Minor League Coverage
 Date | Site |  Title

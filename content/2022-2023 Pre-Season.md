@@ -12,6 +12,17 @@ status: in-progress
 
 Date | Site | Title
 ---|---|---
+2022-10-08 | [[Ontario Reign on Youtube]] | [[Taylor Ward Preseason Postgame 10-8]]
+2022-10-08 | [[Ontario Reign on Youtube]] | [[Marco Sturm Preseason Postgame 10-8]]
+2022-10-08 | [[LA Kings Insider]] | [[REIGN PRESEASON FINAL – Reign 2, Gulls 6 – Sturm, Ward]]
+2022-10-08 | [[LA Kings Insider]] | [[PRESEASON FINAL – Kings 6, Ducks 3 – Arvidsson, Kaliyev, McLellan]]
+2022-10-08 | [[LA Kings Insider]] | [[10-8 Preview – Gameday Thoughts + Byfield Update, Net Play, Versatility At The Bottom]]
+2022-10-07 | [[Ontario Reign on Youtube]] | [[Marco Sturm - Reign Training Camp Day 2]]
+2022-10-07 | [[Ontario Reign on Youtube]] | [[Martin Chromiak - Reign Training Camp Day 2]]
+2022-10-07 | [[LA Kings Insider]] | [[Ontario Reign Training Camp Update – Hear from Sturm, Gaunce and Chromiak]]
+2022-10-07 | [[LA Kings Insider]] | [[10-7 Practice – Arvidsson approaches game action + final tuneups & Tu Liga schedule]]
+2022-10-07 | [[LA Kings Insider]] | [[Day 15 Primer – The Finale + Roster Moves]]
+2022-10-06 | [[Ontario Reign on Youtube]] | [[Cameron Gaunce - Reign Training Camp Day 1]]
 2022-10-06 | [[LA Kings Insider]] | [[PRESEASON FINAL – Kings 4, Golden Knights 6 – Kempe, Durzi, McLellan]]
 2022-10-06 | [[Mayor's Manor]] | [[Projected Lineup - Kings vs Golden Knights at Frozen Fury, aka Preseason Game 6]]
 2022-10-06 | [[LA Kings Insider]] | [[10-6 Preview – Projected Game Group + Durzi On Return, Moverare on Opportunity, Utes]]
@@ -22,7 +33,7 @@ Date | Site | Title
 2022-10-04 | [[LA Kings Insider]] | [[10-4 Preview – Projected Lineup + Petersen expected, Clarke goes 5-for-5, Today’s Practice]]
 2022-10-04 | [[LA Kings Insider]] | [[LA Kings announce roster moves, trim training camp roster to 34 players]]
 2022-10-03 | [[LA Kings Insider]] | [[With a fresh slate, the work is well underway when it comes to the LA Kings power play]]
-2022-10-03 | [[LA Kings Insider]] | [[Day 12 Primer – Groupings + McLellan on roster cutdown & waivers]]
+2022-10-03 | [[LA Kings Insider]] | [[Day 12 Primer – Groupings + McLellan on roster cutdown and waivers]]
 
 ## Articles to process
 - 2022-10-04 | [[Mayor's Manor]] |  [Kings Goalie Prospect Matt Villalta Going with Mater, Red, and Rusty in 2022-23](https://mayorsmanor.com/2022/10/kings-goalie-prospect-matt-villalta-going-with-mater-and-lightning-in-2022-23/)

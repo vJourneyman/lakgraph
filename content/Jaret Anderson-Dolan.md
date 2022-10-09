@@ -1,15 +1,15 @@
 ---
-title: "{{title}}"
-date-created: {{date}}
+title: "Jaret Anderson-Dolan"
+date-created: 2022-10-09
 aliases: 
 tags: [Status/New,Player]
 ---
 
-# {{title}}
+# Jaret Anderson-Dolan
 
 NHL.com / Ontario Reign | Twitter
 -|-
-[{{title}}]() | [@twitter_handle](https://twitter.com/)
+[Jaret Anderson-Dolan]() | [@twitter_handle](https://twitter.com/)
 
 Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft 
 -|-|-|-|-|-|-|-|-
@@ -19,7 +19,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 Date | Site |  Title
 ---|---|---
-
+2022-10-08 | [[LA Kings Insider]] | [[10-8 Preview – Gameday Thoughts + Byfield Update, Net Play, Versatility At The Bottom]]
 
 
 ## Minor League Coverage

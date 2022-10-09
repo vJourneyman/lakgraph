@@ -1,18 +1,19 @@
 ---
-title: "{{title}}"
-date-created: {{date}}
+title: "Samuel Helenius"
+date-created: 2022-10-08
 aliases: 
 tags: [Status/New,Player]
 ---
 
-# {{title}}
+# Samuel Helenius
 
 NHL.com / Ontario Reign | Twitter
 -|-
-[{{title}}]() | [@twitter_handle](https://twitter.com/)
+[Samuel Helenius](https://ontarioreign.com/roster/samuel-helenius) | [@twitter_handle](https://twitter.com/)
 
 Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft 
 -|-|-|-|-|-|-|-|-
+Samuel Helenius | 25 | C | L | 6" 6" | 215 | 2002-11-26 | Järvenpää, Finland | LAK 2nd RD, 2021 (59th)
 
 
 

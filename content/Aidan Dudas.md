@@ -1,18 +1,19 @@
 ---
-title: "{{title}}"
-date-created: {{date}}
+title: "Aidan Dudas"
+date-created: 2022-10-08
 aliases: 
 tags: [Status/New,Player]
 ---
 
-# {{title}}
+# Aidan Dudas
 
 NHL.com / Ontario Reign | Twitter
 -|-
-[{{title}}]() | [@twitter_handle](https://twitter.com/)
+[Aidan Dudas](https://ontarioreign.com/roster/aidan-dudas) | [@twitter_handle](https://twitter.com/)
 
 Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft 
 -|-|-|-|-|-|-|-|-
+Aidan Dudas | 47 | F | R | 5' 7" | 164 | 2000-06-15 | Parry Sound, ON, CAN | LAK 4th RD, 2018 (113th)
 
 
 

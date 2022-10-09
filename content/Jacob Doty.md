@@ -1,18 +1,19 @@
 ---
-title: "{{title}}"
-date-created: {{date}}
+title: "Jacob Doty"
+date-created: 2022-10-08
 aliases: 
 tags: [Status/New,Player]
 ---
 
-# {{title}}
+# Jacob Doty
 
 NHL.com / Ontario Reign | Twitter
 -|-
-[{{title}}]() | [@twitter_handle](https://twitter.com/)
+[Jacob Doty](https://ontarioreign.com/roster/jacob-doty) | [@twitter_handle](https://twitter.com/)
 
 Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft 
 -|-|-|-|-|-|-|-|-
+Jacob Doty | 37 | RW | R | 6' 3" | 225 | 1993-06-19 | Billings, MT | 
 
 
 
