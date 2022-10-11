@@ -12,7 +12,7 @@ status: unstarted
 
 Date | Site | Link
 ---|---|---
- 2022-10-07   | [[Mayor's Manor]]  | [Projected Lineup - Kings vs Golden Knights at Frozen Fury, aka Preseason Game 6](https://mayorsmanor.com/2022/10/projected-lineup-kings-vs-golden-knights-at-frozen-fury-aka-preseason-game-6/)
+ 2022-10-07   | [[Mayors Manor]]  | [Projected Lineup - Kings vs Golden Knights at Frozen Fury, aka Preseason Game 6](https://mayorsmanor.com/2022/10/projected-lineup-kings-vs-golden-knights-at-frozen-fury-aka-preseason-game-6/)
 
 ## Contributors
 - [[Scott Coffman]]

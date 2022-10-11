@@ -12,7 +12,7 @@ status: unstarted
 
 Date | Site | Link
 ---|---|---
-2022-10-08 | [[Mayor's Manor]] | [Kings Opening Night Final Roster Decisions Set – And, There Are Some Swerves](https://mayorsmanor.com/2022/10/kings-opening-night-final-roster-decisions-set-and-there-are-some-swerves/)
+2022-10-08 | [[Mayors Manor]] | [Kings Opening Night Final Roster Decisions Set – And, There Are Some Swerves](https://mayorsmanor.com/2022/10/kings-opening-night-final-roster-decisions-set-and-there-are-some-swerves/)
 
 ## Contributors
 - [[John Hoven]]

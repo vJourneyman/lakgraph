@@ -21,7 +21,7 @@ Date | Site | Title
 2022-10-09 | [[LA Kings Insider]] | [[Angeles Analysis - Next Stop, Regular Season - LA Kings Insider]]
 2022-10-08 | [[Hockey Royalty]] | [[LA Kings - A look into Gabriel Vilardis Frozen Fury]]
 2022-10-08 | [[Hockey Royalty]] | [[Three takeaways from LA Kings’ 6-3 win against Anaheim]]
-2022-10-08 | [[Mayor's Manor]] | [[Kings Opening Night Final Roster Decisions Set – And, There Are Some Swerves]]
+2022-10-08 | [[Mayors Manor]] | [[Kings Opening Night Final Roster Decisions Set – And, There Are Some Swerves]]
 2022-10-08 | [[The Athletic]] | [[L.A. Kings roster projection 2.0 - Tough decision on Clarke, and Vilardis rise]]
 2022-10-08 | [[Ontario Reign on Youtube]] | [[Taylor Ward Preseason Postgame 10-8]]
 2022-10-08 | [[Ontario Reign on Youtube]] | [[Marco Sturm Preseason Postgame 10-8]]
@@ -35,7 +35,7 @@ Date | Site | Title
 2022-10-07 | [[LA Kings Insider]] | [[Day 15 Primer – The Finale + Roster Moves]]
 2022-10-06 | [[Ontario Reign on Youtube]] | [[Cameron Gaunce - Reign Training Camp Day 1]]
 2022-10-06 | [[LA Kings Insider]] | [[PRESEASON FINAL – Kings 4, Golden Knights 6 – Kempe, Durzi, McLellan]]
-2022-10-06 | [[Mayor's Manor]] | [[Projected Lineup - Kings vs Golden Knights at Frozen Fury, aka Preseason Game 6]]
+2022-10-06 | [[Mayors Manor]] | [[Projected Lineup - Kings vs Golden Knights at Frozen Fury, aka Preseason Game 6]]
 2022-10-06 | [[LA Kings Insider]] | [[10-6 Preview – Projected Game Group + Durzi On Return, Moverare on Opportunity, Utes]]
 2022-10-05 | [[LA Kings Insider]] | [[An enthusiastic Gabe Vilardi has made an impression on teammates and coaches in camp]]
 2022-10-05 | [[LA Kings Insider]] | [[Day 14 Primer – The Split]]
@@ -49,10 +49,10 @@ Date | Site | Title
 ## Articles to process
 Date | Site | Title
 ---|---|---
-2022-10-04 | [[Mayor's Manor]] |  [Kings Goalie Prospect Matt Villalta Going with Mater, Red, and Rusty in 2022-23](https://mayorsmanor.com/2022/10/kings-goalie-prospect-matt-villalta-going-with-mater-and-lightning-in-2022-23/)
-2022-10-04 | [[Mayor's Manor]] |  [Projected Lineup - Kings vs Ducks in Anaheim, Preseason Game 5](https://mayorsmanor.com/2022/10/projected-lineup-kings-vs-ducks-in-la-preseason-game-5/)
-2022-10-02 | [[Mayor's Manor]] | [Projected Lineup: Kings vs Ducks in LA, Preseason Game 4](https://mayorsmanor.com/2022/10/projected-lineup-kings-vs-ducks-in-la-preseason-game-4/)
-2022-10-02 | [[Mayor's Manor]] | [Kings and Reign Rosters Almost Finished; Answering The Final Six Questions](https://mayorsmanor.com/2022/10/kings-and-reign-rosters-coming-into-focus-answering-the-final-six-questions/)
+2022-10-04 | [[Mayors Manor]] |  [Kings Goalie Prospect Matt Villalta Going with Mater, Red, and Rusty in 2022-23](https://mayorsmanor.com/2022/10/kings-goalie-prospect-matt-villalta-going-with-mater-and-lightning-in-2022-23/)
+2022-10-04 | [[Mayors Manor]] |  [Projected Lineup - Kings vs Ducks in Anaheim, Preseason Game 5](https://mayorsmanor.com/2022/10/projected-lineup-kings-vs-ducks-in-la-preseason-game-5/)
+2022-10-02 | [[Mayors Manor]] | [Projected Lineup: Kings vs Ducks in LA, Preseason Game 4](https://mayorsmanor.com/2022/10/projected-lineup-kings-vs-ducks-in-la-preseason-game-4/)
+2022-10-02 | [[Mayors Manor]] | [Kings and Reign Rosters Almost Finished; Answering The Final Six Questions](https://mayorsmanor.com/2022/10/kings-and-reign-rosters-coming-into-focus-answering-the-final-six-questions/)
 2022-10-02 | [[LA Kings Insider]] |  [PRESEASON FINAL – Kings 2, Ducks 1 – Walker, Vilardi, McLellan](http://lakingsinsider.com/2022/10/02/preseason-final-kings-2-ducks-1-walker-vilardi-mclellan/)
 2022-10-02 | [[LA Kings Insider]] |  [10-2 Preview – Projected Lineup + Final 4 Plan, Walker’s Long Awaited Return, McLellan Video](http://lakingsinsider.com/2022/10/02/10-2-preview-projected-lineup-final-4-plan-walkers-long-awaited-return-mclellan-video/) 
 2022-10-01 | [[LA Kings Insider]] |  [With a blank slate, Kings focused on replicating second-half success on the penalty kill](http://lakingsinsider.com/2022/10/01/with-a-blank-slate-kings-focused-on-replicating-second-half-success-on-the-penalty-kill/)

@@ -1,5 +1,5 @@
 ---
-title: "Mayor's Manor"
+title: "Mayors Manor"
 date-created: 2022-10-09
 day-of-week-created: Sun
 date-updated: 
