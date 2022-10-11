@@ -12,6 +12,17 @@ status: in-progress
 
 Date | Site | Title
 ---|---|---
+2022-10-10 | [[LA Kings on YouTube]] | [[Head Coach Todd McLellan speaks to the media after Monday's practice]]
+2022-10-10 | [[LA Kings on YouTube]] | [[GM Rob Blake speaks to the media before the 2022-23 Regular Season]]
+2022-10-10 | [[LA Kings Insider]] | [[On the eve of the 2022-23 season, Kings leadership expecting progress from increased expectations - LA Kings Insider]]
+2022-10-10 | [[LA Kings Insider]] | [[With a spot on the opening night roster, Brandt Clarke is ready to seize his surreal opportunity - LA Kings Insider]]
+2022-10-10 | [[Hockey Royalty]] | [[Brandt Clarke Makes the Opening Night Roster]]
+2022-10-10 | [[LA Kings Insider]] | [[Kings Announce Opening-Night Roster and Roster Moves - LA Kings Insider]]
+2022-10-09 | [[LA Kings Insider]] | [[Angeles Analysis - Next Stop, Regular Season - LA Kings Insider]]
+2022-10-08 | [[Hockey Royalty]] | [[LA Kings - A look into Gabriel Vilardi's Frozen Fury]]
+2022-10-08 | [[Hockey Royalty]] | [[Three takeaways from LA Kings’ 6-3 win against Anaheim]]
+2022-10-08 | [[Mayor's Manor]] | [[Kings Opening Night Final Roster Decisions Set – And, There Are Some Swerves]]
+2022-10-08 | [[The Athletic]] | [[L.A. Kings roster projection 2.0 - Tough decision on Clarke, and Vilardi’s rise]]
 2022-10-08 | [[Ontario Reign on Youtube]] | [[Taylor Ward Preseason Postgame 10-8]]
 2022-10-08 | [[Ontario Reign on Youtube]] | [[Marco Sturm Preseason Postgame 10-8]]
 2022-10-08 | [[LA Kings Insider]] | [[REIGN PRESEASON FINAL – Reign 2, Gulls 6 – Sturm, Ward]]
@@ -20,7 +31,7 @@ Date | Site | Title
 2022-10-07 | [[Ontario Reign on Youtube]] | [[Marco Sturm - Reign Training Camp Day 2]]
 2022-10-07 | [[Ontario Reign on Youtube]] | [[Martin Chromiak - Reign Training Camp Day 2]]
 2022-10-07 | [[LA Kings Insider]] | [[Ontario Reign Training Camp Update – Hear from Sturm, Gaunce and Chromiak]]
-2022-10-07 | [[LA Kings Insider]] | [[10-7 Practice – Arvidsson approaches game action + final tuneups & Tu Liga schedule]]
+2022-10-07 | [[LA Kings Insider]] | [[10-7 Practice – Arvidsson approaches game action + final tuneups and Tu Liga schedule]]
 2022-10-07 | [[LA Kings Insider]] | [[Day 15 Primer – The Finale + Roster Moves]]
 2022-10-06 | [[Ontario Reign on Youtube]] | [[Cameron Gaunce - Reign Training Camp Day 1]]
 2022-10-06 | [[LA Kings Insider]] | [[PRESEASON FINAL – Kings 4, Golden Knights 6 – Kempe, Durzi, McLellan]]
@@ -36,36 +47,37 @@ Date | Site | Title
 2022-10-03 | [[LA Kings Insider]] | [[Day 12 Primer – Groupings + McLellan on roster cutdown and waivers]]
 
 ## Articles to process
-- 2022-10-04 | [[Mayor's Manor]] |  [Kings Goalie Prospect Matt Villalta Going with Mater, Red, and Rusty in 2022-23](https://mayorsmanor.com/2022/10/kings-goalie-prospect-matt-villalta-going-with-mater-and-lightning-in-2022-23/)
-- 2022-10-04 | [[Mayor's Manor]] |  [Projected Lineup - Kings vs Ducks in Anaheim, Preseason Game 5](https://mayorsmanor.com/2022/10/projected-lineup-kings-vs-ducks-in-la-preseason-game-5/)
-- 2022-10-02 | [[Mayor's Manor]] | [Projected Lineup: Kings vs Ducks in LA, Preseason Game 4](https://mayorsmanor.com/2022/10/projected-lineup-kings-vs-ducks-in-la-preseason-game-4/)
-- 2022-10-02 | [[Mayor's Manor]] | [Kings and Reign Rosters Almost Finished; Answering The Final Six Questions](https://mayorsmanor.com/2022/10/kings-and-reign-rosters-coming-into-focus-answering-the-final-six-questions/)
-- 
-- 2022-10-02 | [[LA Kings Insider]] |  [PRESEASON FINAL – Kings 2, Ducks 1 – Walker, Vilardi, McLellan](http://lakingsinsider.com/2022/10/02/preseason-final-kings-2-ducks-1-walker-vilardi-mclellan/)
-- 2022-10-02 | [[LA Kings Insider]] |  [10-2 Preview – Projected Lineup + Final 4 Plan, Walker’s Long Awaited Return, McLellan Video](http://lakingsinsider.com/2022/10/02/10-2-preview-projected-lineup-final-4-plan-walkers-long-awaited-return-mclellan-video/) 
-- 2022-10-01 | [[LA Kings Insider]] |  [With a blank slate, Kings focused on replicating second-half success on the penalty kill](http://lakingsinsider.com/2022/10/01/with-a-blank-slate-kings-focused-on-replicating-second-half-success-on-the-penalty-kill/)
-- 2022-10-01 | [[LA Kings Insider]] |  [Day 10 Practice Notes – Petersen/Byfield Updates + Durzi talks contract, Walker on the left](http://lakingsinsider.com/2022/10/01/day-10-practice-notes-petersen-byfield-updates-durzi-talks-contract-walker-on-the-left/)
-- 2022-10-01 | [[LA Kings Insider]] |  [With offseason shoulder surgery behind him, Sean Durzi is right on track in his return to action](http://lakingsinsider.com/2022/10/01/with-offseason-shoulder-surgery-behind-him-sean-durzi-is-right-on-track-in-his-return-to-action/)
-- 2022-09-30 | [[LA Kings Insider]] |  [After a mentally and physically challenging summer, Viktor Arvidsson is looking to the bright side in camp](http://lakingsinsider.com/2022/09/30/after-a-mentally-and-physically-challenging-summer-viktor-arvidsson-is-looking-to-the-bright-side-in-camp/)
-- 2022-09-30 | [[LA Kings Insider]] | [Day 9 Primer – Today’s Groups + Arvidsson & Durzi with main group, Wagner clears waivers](http://lakingsinsider.com/2022/09/30/day-9-primer-todays-groups-arvidsson-durzi-with-main-group-wagner-assigned-to-ont/)
-- 2022-09-29 | [[LA Kings Insider]] | [Blake Lizotte & Brendan Lemieux excited to add Carl Grundstrom to “buzzing, physical” line](http://lakingsinsider.com/2022/09/29/blake-lizotte-brendan-lemieux-excited-to-add-carl-grundstrom-to-buzzing-physical-line/)
-- 2022-09-29 | [[LA Kings Insider]] |  [Angeles Analysis – Thoughts From The First Week Of Training Camp](http://lakingsinsider.com/2022/09/29/angeles-analysis-thoughts-from-the-first-week-of-training-camp/)
-- 2022-09-28 | [[LA Kings Insider]] |  [PRESEASON FINAL – Kings 1, Sharks 3 – Doughty, Villalta, McLellan](http://lakingsinsider.com/2022/09/28/preseason-final-kings-1-sharks-3-doughty-villalta-mclellan/)
-- 2022-09-28 | [[LA Kings Insider]] |  [9-28 Preview – Projected Lineup + Reign Returners, Defensive Camp Battle, Bjornfot Quotes](http://lakingsinsider.com/2022/09/28/9-28-preview-projected-lineup-reign-returners-defensive-camp-battle-bjornfot-quotes/)
-- 2022-09-27 | [[LA Kings Insider]] |  [Day 6 Notes – Injury Updates + Grundstrom’s Opportunity, Anderson’s Debut & Kempe joins ATKM](http://lakingsinsider.com/2022/09/27/day-6-notes-injury-updates-grundstroms-opportunity-andersons-debut-kempe-joins-atkm/)
-- 2022-09-27 | [[LA Kings Insider]] |  [Day 6 Primer + The Differences Between Playing Center & Playing Winger](http://lakingsinsider.com/2022/09/27/day-6-primer-the-differences-between-playing-center-playing-winger/)
-- 2022-09-26 | [[LA Kings Insider]] |  [PRESEASON FINAL – Kings 2, Golden Knights 1 (OT) – Fiala, Copley, McLellan](http://lakingsinsider.com/2022/09/26/preseason-final-kings-2-golden-knights-1-ot-fiala-copley-mclellan/) 
-- 2022-09-26 | [[LA Kings Insider]] | [9-26 Preview – Projected Lineup + Back-To-Back Thoughts, JAD’s Focus, Spence/Moverare debuts](http://lakingsinsider.com/2022/09/26/9-26-preview-projected-lineup-back-to-back-thoughts-jads-focus-spence-moverare-debuts/)
-- 2022-09-25 | [[LA Kings Insider]] |  [PRESEASON FINAL – Kings 2, Sharks 3 OT – McLellan’s takeaways + Clarke’s preseason debut & notes](http://lakingsinsider.com/2022/09/25/preseason-final-kings-2-sharks-3-ot-mclellans-takeaways-clarkes-preseason-debut-notes/) 
-- 2022-09-25 | [[LA Kings Insider]] | [9-25 Preview – Projected Game Group + early camp notes on Roy, Clarke & Thomas](http://lakingsinsider.com/2022/09/25/9-25-preview-projected-game-group-early-camp-notes-on-roy-clarke-thomas/)
-- 2022-09-24 | [[LA Kings Insider]] |  [Three days in, teammates and coaches weigh in on the exciting addition of Kevin Fiala](http://lakingsinsider.com/2022/09/24/three-days-in-teammates-and-coaches-weigh-in-on-the-exciting-addition-of-kevin-fiala/)
-- 2022-09-24 | [[LA Kings Insider]] |  [Day 3 Notes & Quotes – Scrimmage Recap + Danault Skates, 19-55-34 Line & Walker’s Return](http://lakingsinsider.com/2022/09/24/day-3-notes-quotes-scrimmage-recap-danault-skates-19-55-34-line-walkers-return/) 
-- 2022-09-24 | [[LA Kings Insider]] |  [Day 3 Camp Primer + Goalies talk getting back into the swing of things](http://lakingsinsider.com/2022/09/24/day-3-camp-primer-goalies-talk-getting-back-into-the-swing-of-things/) 
-- 2022-09-23 | [[LA Kings Insider]] |  [Day 2 Notes – Offensively Minded Scrimmage + Danault update, Edler on re-signing, Fagemo’s opportunity](http://lakingsinsider.com/2022/09/23/day-2-notes-offensively-minded-scrimmage-danault-update-edler-on-re-signing-fagemos-opportunity/) 
-- 2022-09-23 | [[LA Kings Insider]] |  [30 years later, LA Kings staffer Manon Rheaume reflects back on historic NHL debut](http://lakingsinsider.com/2022/09/23/30-years-later-la-kings-staffer-manon-rheaume-reflects-back-on-historic-nhl-debut/) 
-- 2022-09-23 | [[LA Kings Insider]] |  [Mikey Anderson talks one-year contract extension + Day 2 Camp Primer](http://lakingsinsider.com/2022/09/23/mikey-anderson-talks-one-year-contract-extension-day-2-camp-primer/) 
-- 2022-09-22 | [[LA Kings Insider]] |  [Expectations – Defining Them, Internalizing Them, Meeting Them](http://lakingsinsider.com/2022/09/22/expectations-defining-them-internalizing-them-meeting-them/)
-- 2022-09-22 | [[LA Kings Insider]] |  [Day 1! Butterflies, Scrimmage Notes & Arvidsson/Durzi Updates + Players Talk First Day Focuses](http://lakingsinsider.com/2022/09/22/day-1-butterflies-scrimmage-notes-arvidsson-durzi-updates-players-talk-first-day-focuses/)
-- 2022-09-22 | [[LA Kings Insider]] |  [Training Camp Primer – Day 1](http://lakingsinsider.com/2022/09/22/training-camp-primer-day-1/)
-
+Date | Site | Title
+---|---|---
+2022-10-04 | [[Mayor's Manor]] |  [Kings Goalie Prospect Matt Villalta Going with Mater, Red, and Rusty in 2022-23](https://mayorsmanor.com/2022/10/kings-goalie-prospect-matt-villalta-going-with-mater-and-lightning-in-2022-23/)
+2022-10-04 | [[Mayor's Manor]] |  [Projected Lineup - Kings vs Ducks in Anaheim, Preseason Game 5](https://mayorsmanor.com/2022/10/projected-lineup-kings-vs-ducks-in-la-preseason-game-5/)
+2022-10-02 | [[Mayor's Manor]] | [Projected Lineup: Kings vs Ducks in LA, Preseason Game 4](https://mayorsmanor.com/2022/10/projected-lineup-kings-vs-ducks-in-la-preseason-game-4/)
+2022-10-02 | [[Mayor's Manor]] | [Kings and Reign Rosters Almost Finished; Answering The Final Six Questions](https://mayorsmanor.com/2022/10/kings-and-reign-rosters-coming-into-focus-answering-the-final-six-questions/)
+2022-10-02 | [[LA Kings Insider]] |  [PRESEASON FINAL – Kings 2, Ducks 1 – Walker, Vilardi, McLellan](http://lakingsinsider.com/2022/10/02/preseason-final-kings-2-ducks-1-walker-vilardi-mclellan/)
+2022-10-02 | [[LA Kings Insider]] |  [10-2 Preview – Projected Lineup + Final 4 Plan, Walker’s Long Awaited Return, McLellan Video](http://lakingsinsider.com/2022/10/02/10-2-preview-projected-lineup-final-4-plan-walkers-long-awaited-return-mclellan-video/) 
+2022-10-01 | [[LA Kings Insider]] |  [With a blank slate, Kings focused on replicating second-half success on the penalty kill](http://lakingsinsider.com/2022/10/01/with-a-blank-slate-kings-focused-on-replicating-second-half-success-on-the-penalty-kill/)
+2022-10-01 | [[LA Kings Insider]] |  [Day 10 Practice Notes – Petersen/Byfield Updates + Durzi talks contract, Walker on the left](http://lakingsinsider.com/2022/10/01/day-10-practice-notes-petersen-byfield-updates-durzi-talks-contract-walker-on-the-left/)
+2022-10-01 | [[LA Kings Insider]] |  [With offseason shoulder surgery behind him, Sean Durzi is right on track in his return to action](http://lakingsinsider.com/2022/10/01/with-offseason-shoulder-surgery-behind-him-sean-durzi-is-right-on-track-in-his-return-to-action/)
+2022-09-30 | [[LA Kings Insider]] |  [After a mentally and physically challenging summer, Viktor Arvidsson is looking to the bright side in camp](http://lakingsinsider.com/2022/09/30/after-a-mentally-and-physically-challenging-summer-viktor-arvidsson-is-looking-to-the-bright-side-in-camp/)
+2022-09-30 | [[LA Kings Insider]] | [Day 9 Primer – Today’s Groups + Arvidsson & Durzi with main group, Wagner clears waivers](http://lakingsinsider.com/2022/09/30/day-9-primer-todays-groups-arvidsson-durzi-with-main-group-wagner-assigned-to-ont/)
+2022-09-29 | [[LA Kings Insider]] | [Blake Lizotte & Brendan Lemieux excited to add Carl Grundstrom to “buzzing, physical” line](http://lakingsinsider.com/2022/09/29/blake-lizotte-brendan-lemieux-excited-to-add-carl-grundstrom-to-buzzing-physical-line/)
+2022-09-29 | [[LA Kings Insider]] |  [Angeles Analysis – Thoughts From The First Week Of Training Camp](http://lakingsinsider.com/2022/09/29/angeles-analysis-thoughts-from-the-first-week-of-training-camp/)
+2022-09-28 | [[LA Kings Insider]] |  [PRESEASON FINAL – Kings 1, Sharks 3 – Doughty, Villalta, McLellan](http://lakingsinsider.com/2022/09/28/preseason-final-kings-1-sharks-3-doughty-villalta-mclellan/)
+2022-09-28 | [[LA Kings Insider]] |  [9-28 Preview – Projected Lineup + Reign Returners, Defensive Camp Battle, Bjornfot Quotes](http://lakingsinsider.com/2022/09/28/9-28-preview-projected-lineup-reign-returners-defensive-camp-battle-bjornfot-quotes/)
+2022-09-27 | [[LA Kings Insider]] |  [Day 6 Notes – Injury Updates + Grundstrom’s Opportunity, Anderson’s Debut & Kempe joins ATKM](http://lakingsinsider.com/2022/09/27/day-6-notes-injury-updates-grundstroms-opportunity-andersons-debut-kempe-joins-atkm/)
+2022-09-27 | [[LA Kings Insider]] |  [Day 6 Primer + The Differences Between Playing Center & Playing Winger](http://lakingsinsider.com/2022/09/27/day-6-primer-the-differences-between-playing-center-playing-winger/)
+2022-09-26 | [[LA Kings Insider]] |  [PRESEASON FINAL – Kings 2, Golden Knights 1 (OT) – Fiala, Copley, McLellan](http://lakingsinsider.com/2022/09/26/preseason-final-kings-2-golden-knights-1-ot-fiala-copley-mclellan/) 
+2022-09-26 | [[LA Kings Insider]] | [9-26 Preview – Projected Lineup + Back-To-Back Thoughts, JAD’s Focus, Spence/Moverare debuts](http://lakingsinsider.com/2022/09/26/9-26-preview-projected-lineup-back-to-back-thoughts-jads-focus-spence-moverare-debuts/)
+2022-09-25 | [[LA Kings Insider]] |  [PRESEASON FINAL – Kings 2, Sharks 3 OT – McLellan’s takeaways + Clarke’s preseason debut & notes](http://lakingsinsider.com/2022/09/25/preseason-final-kings-2-sharks-3-ot-mclellans-takeaways-clarkes-preseason-debut-notes/) 
+2022-09-25 | [[LA Kings Insider]] | [9-25 Preview – Projected Game Group + early camp notes on Roy, Clarke & Thomas](http://lakingsinsider.com/2022/09/25/9-25-preview-projected-game-group-early-camp-notes-on-roy-clarke-thomas/)
+2022-09-24 | [[LA Kings Insider]] |  [Three days in, teammates and coaches weigh in on the exciting addition of Kevin Fiala](http://lakingsinsider.com/2022/09/24/three-days-in-teammates-and-coaches-weigh-in-on-the-exciting-addition-of-kevin-fiala/)
+2022-09-24 | [[LA Kings Insider]] |  [Day 3 Notes & Quotes – Scrimmage Recap + Danault Skates, 19-55-34 Line & Walker’s Return](http://lakingsinsider.com/2022/09/24/day-3-notes-quotes-scrimmage-recap-danault-skates-19-55-34-line-walkers-return/) 
+2022-09-24 | [[LA Kings Insider]] |  [Day 3 Camp Primer + Goalies talk getting back into the swing of things](http://lakingsinsider.com/2022/09/24/day-3-camp-primer-goalies-talk-getting-back-into-the-swing-of-things/) 
+2022-09-23 | [[LA Kings Insider]] |  [Day 2 Notes – Offensively Minded Scrimmage + Danault update, Edler on re-signing, Fagemo’s opportunity](http://lakingsinsider.com/2022/09/23/day-2-notes-offensively-minded-scrimmage-danault-update-edler-on-re-signing-fagemos-opportunity/) 
+2022-09-23 | [[LA Kings Insider]] |  [30 years later, LA Kings staffer Manon Rheaume reflects back on historic NHL debut](http://lakingsinsider.com/2022/09/23/30-years-later-la-kings-staffer-manon-rheaume-reflects-back-on-historic-nhl-debut/) 
+2022-09-23 | [[LA Kings Insider]] |  [Mikey Anderson talks one-year contract extension + Day 2 Camp Primer](http://lakingsinsider.com/2022/09/23/mikey-anderson-talks-one-year-contract-extension-day-2-camp-primer/) 
+2022-09-22 | [[LA Kings Insider]] |  [Expectations – Defining Them, Internalizing Them, Meeting Them](http://lakingsinsider.com/2022/09/22/expectations-defining-them-internalizing-them-meeting-them/)
+2022-09-22 | [[LA Kings Insider]] |  [Day 1! Butterflies, Scrimmage Notes & Arvidsson/Durzi Updates + Players Talk First Day Focuses](http://lakingsinsider.com/2022/09/22/day-1-butterflies-scrimmage-notes-arvidsson-durzi-updates-players-talk-first-day-focuses/)
+2022-09-22 | [[LA Kings Insider]] |  [Training Camp Primer – Day 1](http://lakingsinsider.com/2022/09/22/training-camp-primer-day-1/)
+ 
 

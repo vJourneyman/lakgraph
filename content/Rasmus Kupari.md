@@ -20,7 +20,7 @@ Rasmus Kupari | |  C | R | 6'2" | 200 |2000-03-15 | Kotka, FIN | 2018 LAK, 1st r
 ## NHL  Coverage
 Date | Site |  Title
 ---|---|---
-
+2022-10-10 | [[LA Kings Insider]] | [[Kings Announce Opening-Night Roster and Roster Moves - LA Kings Insider]]
 
 
 ## Minor League Coverage

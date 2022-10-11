@@ -19,7 +19,8 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 Date | Site |  Title
 ---|---|---
- 2022-10-06   | [[LA Kings Insider]]  | [[10-6 Preview – Projected Game Group + Durzi On Return, Moverare on Opportunity, Utes]]
+2022-10-08 | [[Mayor's Manor]] | [[Kings Opening Night Final Roster Decisions Set – And, There Are Some Swerves]]
+2022-10-06 | [[LA Kings Insider]]  | [[10-6 Preview – Projected Game Group + Durzi On Return, Moverare on Opportunity, Utes]]
 
 
 

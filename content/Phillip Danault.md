@@ -20,7 +20,8 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 Date | Site |  Title
 ---|---|---
- 2022-10-05   | [[LA Kings Insider]]  | [[Practice Notebook 10-5]]
+2022-10-10 | [[LA Kings on YouTube]] | [[Head Coach Todd McLellan speaks to the media after Monday's practice]]
+2022-10-05   | [[LA Kings Insider]]  | [[Practice Notebook 10-5]]
 
 	
 

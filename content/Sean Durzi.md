@@ -20,6 +20,8 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 Date | Site |  Title
 ---|---|---
+2022-10-08 | [[Mayor's Manor]] | [[Kings Opening Night Final Roster Decisions Set – And, There Are Some Swerves]]
+2022-10-08 | [[The Athletic]] | [[L.A. Kings roster projection 2.0 - Tough decision on Clarke, and Vilardi’s rise]]
 2022-10-07 | [[LA Kings Insider]] | [[Day 15 Primer – The Finale + Roster Moves]]
 2022-10-06 | [[LA Kings Insider]] | [[PRESEASON FINAL – Kings 4, Golden Knights 6 – Kempe, Durzi, McLellan]]
 2022-10-06 | [[LA Kings Insider]] | [[10-6 Preview – Projected Game Group + Durzi On Return, Moverare on Opportunity, Utes]]

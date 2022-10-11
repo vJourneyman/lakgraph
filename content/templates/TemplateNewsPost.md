@@ -17,12 +17,19 @@ Date | Site | Link
 ## Contributors
 - 
 
+
 ## Players
 - 
 
+
+## Staff
+- 
+
+
 ## Summary
+> 
 
 
-## Notes
-
+## Notes and Quotes
+> 
 

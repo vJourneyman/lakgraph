@@ -38,6 +38,7 @@ Player | \# | Pos | Sh | Ht | Wt | Born | Birthplace
 ---|---|---|---|---|---|---|---
 [[Mikey Anderson]] | 44 | LD | L | 6' 0" | 195 | 1999-05-25 | Roseville, MN, USA
 [[Tobias Bjornfot]] | 7 | LD | L | 6' 0" | 200 | 2001-04-06 | Upplands Vasby, SWE
+[[Brandt Clarke]] | 92 | RD | R | 6' 2" | 185 | 2003-02-09 | Nepean, ON, CAN | 2021 LAK, 1st rd, 8th pk (8th overall)
 [[Drew Doughty]] | 8 | RD | R | 6' 1" | 210 | 1989-12-08 | London, ON, CAN
 [[Sean Durzi]] | 50 | RD | R | 6' 0" | 195 | 1998-10-21 | Mississauga, ON, CAN
 [[Alex Edler]] | 2 | LD | L| 6' 4" | 210 | 1986-04-21 | Ostersund, SWE

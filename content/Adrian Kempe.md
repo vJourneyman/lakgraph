@@ -21,6 +21,7 @@ Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
 ## NHL  Coverage
 Date | Site| Title
 ---|---|---
+2022-10-10 | [[LA Kings on YouTube]] | [[Head Coach Todd McLellan speaks to the media after Monday's practice]]
 2022-10-06 | [[LA Kings Insider]] | [[PRESEASON FINAL – Kings 4, Golden Knights 6 – Kempe, Durzi, McLellan]]
 2022-10-03 | [[LA Kings Insider]] | [[With a fresh slate, the work is well underway when it comes to the LA Kings power play]]
 

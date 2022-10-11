@@ -1,19 +1,19 @@
 ---
-title: "Drew Doughty"
-date-created: 2022-10-09
+title: "Anze Kopitar"
+date-created: 2022-10-11
 aliases: 
 tags: [Status/New,Player]
 ---
 
-# Drew Doughty
+# Anze Kopitar
 
 NHL.com / Ontario Reign | Twitter
 -|-
-[Drew Doughty](https://www.nhl.com/player/drew-doughty-8474563) | [@dewyy8](https://twitter.com/dewyy8)
+[Anze Kopitar](https://www.nhl.com/player/anze-kopitar-8471685) | [@AnzeKopitar](https://twitter.com/AnzeKopitar)
 
 Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft 
 -|-|-|-|-|-|-|-|-
-Drew Doughty | 8 | RD | R | 6' 1" | 210 | 1989-12-08 | London, ON, CAN | 2008 LAK, 1st rd, 2nd pk (2nd overall)
+Anze Kopitar | 11 | C | L | 6' 3" | 225 | 1987-08-24 | Jesenice, SVN | 2005 LAK, 1st rd, 11th pk (11th overall)
 
 
 
@@ -22,7 +22,7 @@ Drew Doughty | 8 | RD | R | 6' 1" | 210 | 1989-12-08 | London, ON, CAN | 2008 LA
 Date | Site |  Title
 ---|---|---
 2022-10-10 | [[LA Kings Insider]] | [[On the eve of the 2022-23 season, Kings leadership expecting progress from increased expectations - LA Kings Insider]]
-2022-10-08 | [[LA Kings Insider]] | [[10-8 Preview – Gameday Thoughts + Byfield Update, Net Play, Versatility At The Bottom]]
+
 
 
 ## Minor League Coverage
