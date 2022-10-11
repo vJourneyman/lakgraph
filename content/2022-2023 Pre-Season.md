@@ -22,7 +22,7 @@ Date | Site | Title
 2022-10-08 | [[Hockey Royalty]] | [[LA Kings - A look into Gabriel Vilardis Frozen Fury]]
 2022-10-08 | [[Hockey Royalty]] | [[Three takeaways from LA Kings’ 6-3 win against Anaheim]]
 2022-10-08 | [[Mayors Manor]] | [[Kings Opening Night Final Roster Decisions Set – And, There Are Some Swerves]]
-2022-10-08 | [[The Athletic]] | [[L.A. Kings roster projection 2.0 - Tough decision on Clarke, and Vilardis rise]]
+2022-10-08 | [[The Athletic]] | [[LA Kings roster projection 2.0 - Tough decision on Clarke, and Vilardis rise]]
 2022-10-08 | [[Ontario Reign on Youtube]] | [[Taylor Ward Preseason Postgame 10-8]]
 2022-10-08 | [[Ontario Reign on Youtube]] | [[Marco Sturm Preseason Postgame 10-8]]
 2022-10-08 | [[LA Kings Insider]] | [[REIGN PRESEASON FINAL – Reign 2, Gulls 6 – Sturm, Ward]]
