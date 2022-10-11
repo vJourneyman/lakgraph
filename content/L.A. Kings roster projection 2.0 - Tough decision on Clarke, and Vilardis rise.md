@@ -19,7 +19,8 @@ Date | Site | Link
 - [[Eric Stephens]]
 
 ## Players
-- 
+- [[Gabe Vilardi]]
+- [[Brandt Clarke]]
 
 ## Summary
 > The thing about a team confronting high expectations and having, as a goal, winning playoff round is that there’s less worry about who will fill out the lineup when the puck drops on opening night.

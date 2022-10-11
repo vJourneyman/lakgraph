@@ -25,6 +25,9 @@ Date | Site |  Title
 2022-10-08 | [[LA Kings Insider]] | [[PRESEASON FINAL – Kings 6, Ducks 3 – Arvidsson, Kaliyev, McLellan]]
 2022-10-07 | [[LA Kings Insider]] | [[10-7 Practice – Arvidsson approaches game action + final tuneups and Tu Liga schedule]]
 2022-10-07 | [[LA Kings Insider]] | [[Day 15 Primer – The Finale + Roster Moves]]
+2022-10-02 | [[Mayors Manor]] | [[Kings and Reign Rosters Almost Finished - Answering The Final Six Questions]]
+2022-09-30 | [[LA Kings Insider]] |  [[After a mentally and physically challenging summer, Viktor Arvidsson is looking to the bright side in camp]]
+2022-09-30 | [[LA Kings Insider]] | [[Day 9 Primer – Today’s Groups + Arvidsson and Durzi with main group, Wagner clears waivers]]
 
 
 

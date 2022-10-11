@@ -1,42 +1,45 @@
 ---
-date-created: 2022-10-06
-title: Trevor Moore
+title: "Blake Lizotte"
+date-created: 2022-10-11
 aliases: 
 tags: [Status/New,Player]
 ---
 
-# Trevor Moore
+# Blake Lizotte
 
-NHL.com | Twitter
+NHL.com / Ontario Reign | Twitter
 -|-
-[Trevor Moore](https://www.nhl.com/player/trevor-moore-8479675) | 
+[Blake Lizotte]() | [@twitter_handle](https://twitter.com/)
 
 Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft 
 -|-|-|-|-|-|-|-|-
-Trevor Moore | 12 | C | L | 5' 10" | 195 | 1995-03-31 | Thousand Oaks, CA, USA
+	[[Blake Lizotte]] | 46 | C | L | 5' 9" | 170 | 1997-12-13 | Lindstrom, MN, USA | 
+ 
+
+
 
 
 ## NHL  Coverage
-Date | Site| Title
+Date | Site |  Title
 ---|---|---
 2022-10-01 | [[LA Kings Insider]] |  [[With a blank slate, Kings focused on replicating second-half success on the penalty kill]]
 
 
 
 ## Minor League Coverage
-Date | Site| Title
+Date | Site |  Title
 ---|---|---
 
 
 
 ## Post-Draft Coverage
-Date | Site| Title
+Date | Site |  Title
 ---|---|---
 
 
 
 ## Pre-Draft Coverage
-Date | Site| Title
+Date | Site |  Title
 ---|---|---
 
 

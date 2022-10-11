@@ -26,6 +26,11 @@ Date | Site |  Title
 2022-10-06 | [[LA Kings Insider]] | [[PRESEASON FINAL – Kings 4, Golden Knights 6 – Kempe, Durzi, McLellan]]
 2022-10-06 | [[LA Kings Insider]] | [[10-6 Preview – Projected Game Group + Durzi On Return, Moverare on Opportunity, Utes]]
 2022-10-05 | [[LA Kings Insider]] | [[Practice Notebook 10-5]]
+2022-10-02 | [[Mayors Manor]] | [[Kings and Reign Rosters Almost Finished - Answering The Final Six Questions]]
+2022-10-01 | [[LA Kings Insider]] |  [[Day 10 Practice Notes – Petersen, Byfield Updates + Durzi talks contract, Walker on the left]]
+2022-10-01 | [[LA Kings Insider]] |  [[With offseason shoulder surgery behind him, Sean Durzi is right on track in his return to action]]
+2022-09-30 | [[LA Kings Insider]] | [[Day 9 Primer – Today’s Groups + Arvidsson and Durzi with main group, Wagner clears waivers]]
+
 
 
 

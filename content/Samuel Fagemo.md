@@ -21,6 +21,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 Date | Site |  Title
 ---|---|---
 2022-10-07 | [[LA Kings Insider]] | [[Day 15 Primer – The Finale + Roster Moves]]
+2022-10-02 | [[Mayors Manor]] | [[Kings and Reign Rosters Almost Finished - Answering The Final Six Questions]]
 2022-09-10 | [[The Hockey Writers]] | [[Kings’ Prospect Preview - Samuel Fagemo]]
 
 

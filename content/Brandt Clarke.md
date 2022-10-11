@@ -26,6 +26,7 @@ Date | Site |  Title
 2022-10-08 | [[Mayors Manor]] | [[Kings Opening Night Final Roster Decisions Set – And, There Are Some Swerves]]
 2022-10-08 | [[The Athletic]] | [[L.A. Kings roster projection 2.0 - Tough decision on Clarke, and Vilardis rise]]
 2022-10-04 | [[LA Kings Insider]]  | [[10-4 Preview – Projected Lineup + Petersen expected, Clarke goes 5-for-5, Today’s Practice]]
+2022-10-02 | [[Mayors Manor]] | [[Kings and Reign Rosters Almost Finished - Answering The Final Six Questions]]
 
 
 ## Minor League Coverage

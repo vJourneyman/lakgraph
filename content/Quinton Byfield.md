@@ -23,6 +23,7 @@ Date | Site |  Title
 2022-10-08 | [[Mayors Manor]] | [[Kings Opening Night Final Roster Decisions Set – And, There Are Some Swerves]]
 2022-10-08 | [[LA Kings Insider]] | [[10-8 Preview – Gameday Thoughts + Byfield Update, Net Play, Versatility At The Bottom]]
 2022-10-03 | [[LA Kings Insider]] | [[Day 12 Primer – Groupings + McLellan on roster cutdown and waivers]]
+2022-10-01 | [[LA Kings Insider]] |  [[Day 10 Practice Notes – Petersen, Byfield Updates + Durzi talks contract, Walker on the left]]
 
 
 ## Minor League Coverage
