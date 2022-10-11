@@ -24,7 +24,7 @@ Date | Site| Title
 2022-10-08 | [[Hockey Royalty]] | [[LA Kings - A look into Gabriel Vilardis Frozen Fury]]
 2022-10-08 | [[Hockey Royalty]] | [[Three takeaways from LA Kings’ 6-3 win against Anaheim]]
 2022-10-08 | [[Mayors Manor]] | [[Kings Opening Night Final Roster Decisions Set – And, There Are Some Swerves]]
-2022-10-08 | [[The Athletic]] | [[LA Kings roster projection 2.0 - Tough decision on Clarke, and Vilardis rise]]
+2022-10-08 | [[The Athletic]] | [[LA Kings roster projection 2-dot-0 - Tough decision on Clarke, and Vilardis rise]]
 2022-10-06 | [[LA Kings Insider]] | [[PRESEASON FINAL – Kings 4, Golden Knights 6 – Kempe, Durzi, McLellan]]
 2022-10-06 | [[Mayors Manor]] | [[Projected Lineup - Kings vs Golden Knights at Frozen Fury, aka Preseason Game 6]]
 2022-10-05 | [[LA Kings Insider]] |  [[An enthusiastic Gabe Vilardi has made an impression on teammates and coaches in camp]]

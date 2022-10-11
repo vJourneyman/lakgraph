@@ -13,7 +13,7 @@ status: unstarted
 Date | Site | Link
 ---|---|---
 2022-10-08 | [[The Athletic]] | [L.A. Kings roster projection 2.0 - Tough decision on Clarke, and Vilardi’s rise](https://theathletic.com/3669602/2022/10/08/la-kings-roster-season-opener/)
-2022-10-08 | [[The Athletic]] | [[LA Kings roster projection 2.0 - Tough decision on Clarke, and Vilardis rise]]
+2022-10-08 | [[The Athletic]] | [[LA Kings roster projection 2-dot-0 - Tough decision on Clarke, and Vilardis rise]]
 
 ## Contributors
 - [[Eric Stephens]]
