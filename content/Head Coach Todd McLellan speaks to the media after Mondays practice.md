@@ -1,5 +1,5 @@
 ---
-title: "Head Coach Todd McLellan speaks to the media after Monday's practice"
+title: "Head Coach Todd McLellan speaks to the media after Mondays practice"
 date-created: 2022-10-11
 day-of-week-created: Tue
 date-updated: 
@@ -8,7 +8,7 @@ tags: [NewsPost]
 status: unstarted
 ---
 
-# Head Coach Todd McLellan speaks to the media after Monday's practice
+# Head Coach Todd McLellan speaks to the media after Mondays practice
 
 Date | Site | Link
 ---|---|---

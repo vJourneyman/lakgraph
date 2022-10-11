@@ -1,5 +1,5 @@
 ---
-title: "LA Kings - A look into Gabriel Vilardi's Frozen Fury"
+title: "LA Kings - A look into Gabriel Vilardis Frozen Fury"
 date-created: 2022-10-10
 day-of-week-created: Mon
 date-updated: 
@@ -8,7 +8,7 @@ tags: [NewsPost]
 status: stable
 ---
 
-# LA Kings - A look into Gabriel Vilardi's Frozen Fury
+# LA Kings - A look into Gabriel Vilardis Frozen Fury
 
 Date | Site | Link
 ---|---|---

@@ -12,17 +12,17 @@ status: in-progress
 
 Date | Site | Title
 ---|---|---
-2022-10-10 | [[LA Kings on YouTube]] | [[Head Coach Todd McLellan speaks to the media after Monday's practice]]
+2022-10-10 | [[LA Kings on YouTube]] | [[Head Coach Todd McLellan speaks to the media after Mondays practice]]
 2022-10-10 | [[LA Kings on YouTube]] | [[GM Rob Blake speaks to the media before the 2022-23 Regular Season]]
 2022-10-10 | [[LA Kings Insider]] | [[On the eve of the 2022-23 season, Kings leadership expecting progress from increased expectations - LA Kings Insider]]
 2022-10-10 | [[LA Kings Insider]] | [[With a spot on the opening night roster, Brandt Clarke is ready to seize his surreal opportunity - LA Kings Insider]]
 2022-10-10 | [[Hockey Royalty]] | [[Brandt Clarke Makes the Opening Night Roster]]
 2022-10-10 | [[LA Kings Insider]] | [[Kings Announce Opening-Night Roster and Roster Moves - LA Kings Insider]]
 2022-10-09 | [[LA Kings Insider]] | [[Angeles Analysis - Next Stop, Regular Season - LA Kings Insider]]
-2022-10-08 | [[Hockey Royalty]] | [[LA Kings - A look into Gabriel Vilardi's Frozen Fury]]
+2022-10-08 | [[Hockey Royalty]] | [[LA Kings - A look into Gabriel Vilardis Frozen Fury]]
 2022-10-08 | [[Hockey Royalty]] | [[Three takeaways from LA Kings’ 6-3 win against Anaheim]]
 2022-10-08 | [[Mayor's Manor]] | [[Kings Opening Night Final Roster Decisions Set – And, There Are Some Swerves]]
-2022-10-08 | [[The Athletic]] | [[L.A. Kings roster projection 2.0 - Tough decision on Clarke, and Vilardi’s rise]]
+2022-10-08 | [[The Athletic]] | [[L.A. Kings roster projection 2.0 - Tough decision on Clarke, and Vilardis rise]]
 2022-10-08 | [[Ontario Reign on Youtube]] | [[Taylor Ward Preseason Postgame 10-8]]
 2022-10-08 | [[Ontario Reign on Youtube]] | [[Marco Sturm Preseason Postgame 10-8]]
 2022-10-08 | [[LA Kings Insider]] | [[REIGN PRESEASON FINAL – Reign 2, Gulls 6 – Sturm, Ward]]

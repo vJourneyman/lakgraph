@@ -21,7 +21,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 Date | Site| Title
 ---|---|---
 2022-10-10 | [[LA Kings Insider]] | [[Kings Announce Opening-Night Roster and Roster Moves - LA Kings Insider]]
-2022-10-08 | [[Hockey Royalty]] | [[LA Kings - A look into Gabriel Vilardi's Frozen Fury]]
+2022-10-08 | [[Hockey Royalty]] | [[LA Kings - A look into Gabriel Vilardis Frozen Fury]]
 2022-10-08 | [[Hockey Royalty]] | [[Three takeaways from LA Kings’ 6-3 win against Anaheim]]
 2022-10-08 | [[Mayor's Manor]] | [[Kings Opening Night Final Roster Decisions Set – And, There Are Some Swerves]]
 2022-10-06 | [[LA Kings Insider]] | [[PRESEASON FINAL – Kings 4, Golden Knights 6 – Kempe, Durzi, McLellan]]

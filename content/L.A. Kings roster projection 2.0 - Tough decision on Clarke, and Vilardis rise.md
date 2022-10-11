@@ -1,5 +1,5 @@
 ---
-title: "L.A. Kings roster projection 2.0 - Tough decision on Clarke, and Vilardi’s rise"
+title: "L.A. Kings roster projection 2.0 - Tough decision on Clarke, and Vilardis rise"
 date-created: 2022-10-10
 day-of-week-created: Mon
 date-updated: 
@@ -8,12 +8,12 @@ tags: [NewsPost]
 status: unstarted
 ---
 
-# L.A. Kings roster projection 2.0 - Tough decision on Clarke, and Vilardi’s rise
+# L.A. Kings roster projection 2.0 - Tough decision on Clarke, and Vilardis rise
 
 Date | Site | Link
 ---|---|---
 2022-10-08 | [[The Athletic]] | [L.A. Kings roster projection 2.0 - Tough decision on Clarke, and Vilardi’s rise](https://theathletic.com/3669602/2022/10/08/la-kings-roster-season-opener/)
-2022-10-08 | [[The Athletic]] | [[L.A. Kings roster projection 2.0 - Tough decision on Clarke, and Vilardi’s rise]]
+2022-10-08 | [[The Athletic]] | [[L.A. Kings roster projection 2.0 - Tough decision on Clarke, and Vilardis rise]]
 
 ## Contributors
 - [[Eric Stephens]]

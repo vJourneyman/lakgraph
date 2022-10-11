@@ -20,7 +20,7 @@ Viktor Arvidsson | 33 | LW | R | 5' 10" | 185 | 1993-04-08 | Skellefteå, SWE | 
 ## NHL  Coverage
 Date | Site |  Title
 ---|---|---
-2022-10-10 | [[LA Kings on YouTube]] | [[Head Coach Todd McLellan speaks to the media after Monday's practice]]
+2022-10-10 | [[LA Kings on YouTube]] | [[Head Coach Todd McLellan speaks to the media after Mondays practice]]
 2022-10-08 | [[Mayor's Manor]] | [[Kings Opening Night Final Roster Decisions Set – And, There Are Some Swerves]]
 2022-10-08 | [[LA Kings Insider]] | [[PRESEASON FINAL – Kings 6, Ducks 3 – Arvidsson, Kaliyev, McLellan]]
 2022-10-07 | [[LA Kings Insider]] | [[10-7 Practice – Arvidsson approaches game action + final tuneups and Tu Liga schedule]]

@@ -5,7 +5,7 @@ day-of-week-created: Mon
 date-updated: 
 aliases: []
 tags: []
-status: unstarted
+status: early-progress
 ---
 
 # 2022 Off-Season
