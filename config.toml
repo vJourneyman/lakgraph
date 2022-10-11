@@ -1,6 +1,6 @@
 baseURL = "https://lakings-graph.com/"
 languageCode = "en-us"
-googleAnalytics = "G-XYFD95KB4J"
+googleAnalytics = "G-Q500K5ERCT"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
