@@ -3,6 +3,7 @@ title: "Blake Lizotte"
 date-created: 2022-10-11
 aliases: 
 tags: [Status/New,Player]
+status: stable
 ---
 
 # Blake Lizotte

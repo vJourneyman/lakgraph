@@ -2,7 +2,9 @@
 title: "Phillip Danault"
 date-created: 2022-10-06
 aliases: 
-tags: [Status/New,Player]
+tags: [Status/Stable,Player]
+status: stable
+priority: high
 ---
 
 # Phillip Danault

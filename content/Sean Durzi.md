@@ -2,7 +2,9 @@
 title: "Sean Durzi"
 date-created: 2022-10-06
 aliases: 
-tags: [Status/New,Player]
+tags: [Status/Stable,Player]
+status: stable
+priority: high
 ---
 
 # Sean Durzi
@@ -20,6 +22,8 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 Date | Site |  Title
 ---|---|---
+2022-10-11 | [[Mayors Manor]] | [[Kings Of The Podcast - Ep 138 – Season Preview with LA GM Rob Blake]]
+2022-10-11 | [[ESPN]] | [[What to watch in Rangers-Lightning, Kings-Knights on ESPN]]
 2022-10-08 | [[Mayors Manor]] | [[Kings Opening Night Final Roster Decisions Set – And, There Are Some Swerves]]
 2022-10-08 | [[The Athletic]] | [[LA Kings roster projection 2-dot-0 - Tough decision on Clarke, and Vilardis rise]]
 2022-10-07 | [[LA Kings Insider]] | [[Day 15 Primer – The Finale + Roster Moves]]

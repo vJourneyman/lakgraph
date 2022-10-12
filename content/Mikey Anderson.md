@@ -3,6 +3,7 @@ title: "Mikey Anderson"
 date-created: 2022-10-11
 aliases: 
 tags: [Status/New,Player]
+status: stable
 ---
 
 # Mikey Anderson
@@ -20,6 +21,7 @@ Mikey Anderson | 44 | LD | L | 6' 0" | 195 | 1999-05-25 | Roseville, MN, USA | 2
 ## NHL  Coverage
 Date | Site |  Title
 ---|---|---
+2022-10-11 | [[ESPN]] | [[What to watch in Rangers-Lightning, Kings-Knights on ESPN]]
 2022-10-01 | [[LA Kings Insider]] |  [[With a blank slate, Kings focused on replicating second-half success on the penalty kill]]
 
 

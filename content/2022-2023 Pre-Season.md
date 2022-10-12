@@ -4,7 +4,7 @@ date-created: 2022-10-06
 day-of-week-created: Thu
 date-updated: 
 aliases: []
-tags: []
+tags: [Event]
 status: in-progress
 ---
 
@@ -63,6 +63,7 @@ Date | Site | Title
 ## Articles to process
 Date | Site | Title
 ---|---|---
+2022-10-05 | [[LA Times]] | [[Manon Rheaume, first woman to play NHL period, starts anew with Kings - Los Angeles Times]](https://www.latimes.com/sports/hockey/story/2022-10-05/column-nhl-woman-goalie-manon-rheaume)
 2022-09-29 | [[LA Kings Insider]] | [[Blake Lizotte and Brendan Lemieux excited to add Carl Grundstrom to buzzing, physical line]](http://lakingsinsider.com/2022/09/29/blake-lizotte-brendan-lemieux-excited-to-add-carl-grundstrom-to-buzzing-physical-line/)
 2022-09-29 | [[LA Kings Insider]] |  [[Angeles Analysis – Thoughts From The First Week Of Training Camp]](http://lakingsinsider.com/2022/09/29/angeles-analysis-thoughts-from-the-first-week-of-training-camp/)
 2022-09-28 | [[LA Kings Insider]] |  [[PRESEASON FINAL – Kings 1, Sharks 3 – Doughty, Villalta, McLellan]](http://lakingsinsider.com/2022/09/28/preseason-final-kings-1-sharks-3-doughty-villalta-mclellan/)
@@ -82,5 +83,8 @@ Date | Site | Title
 2022-09-22 | [[LA Kings Insider]] |  [[Expectations – Defining Them, Internalizing Them, Meeting Them]](http://lakingsinsider.com/2022/09/22/expectations-defining-them-internalizing-them-meeting-them/)
 2022-09-22 | [[LA Kings Insider]] |  [[Day 1! Butterflies, Scrimmage Notes & Arvidsson, Durzi Updates + Players Talk First Day Focuses]](http://lakingsinsider.com/2022/09/22/day-1-butterflies-scrimmage-notes-arvidsson-durzi-updates-players-talk-first-day-focuses/)
 2022-09-22 | [[LA Kings Insider]] |  [[Training Camp Primer – Day 1]](http://lakingsinsider.com/2022/09/22/training-camp-primer-day-1/)
- 
+2022-09-22 | [[The Fourth Period]] | [[Camping out in L.A. — The Fourth Period]](https://www.thefourthperiod.com/bernstein/camping-out-in-la)
+2022-09-16 | [[www.prohockeyrumors.com]] | [[Injury Updates: Keller, Turcotte, Perfetti]](https://www.prohockeyrumors.com/2022/09/injury-updates-keller-turcotte-perfetti.html)
+2022-09-15 | [[Los Angeles Daily News]] | [[Kings prep for Rookie Faceoff with Quinton Byfield, but without Alex Turcotte]](https://www.dailynews.com/2022/09/15/kings-prep-for-rookie-faceoff-with-quinton-byfield-but-without-alex-turcotte/)
+
 

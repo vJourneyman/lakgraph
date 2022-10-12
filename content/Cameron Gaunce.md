@@ -2,7 +2,8 @@
 title: "Cameron Gaunce"
 date-created: 2022-10-09
 aliases: 
-tags: [Status/New,Player]
+tags: [Status/Stable,Player]
+status: stable
 ---
 
 # Cameron Gaunce

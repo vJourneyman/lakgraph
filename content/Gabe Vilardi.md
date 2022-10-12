@@ -2,7 +2,9 @@
 title: "Gabe Vilardi"
 date-created: 2022-10-06
 aliases: [Gabriel Vilardi]
-tags: [Status/New,Player]
+tags: [Status/Stable,Player]
+status: stable
+priority: high
 ---
 
 # Gabe Vilardi
@@ -21,6 +23,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 Date | Site| Title
 ---|---|---
 2022-10-10 | [[LA Kings Insider]] | [[Kings Announce Opening-Night Roster and Roster Moves - LA Kings Insider]]
+2022-10-10 | [[LA Times]] | [[Five things to watch for as LA Kings embark on new NHL season - Los Angeles Times]]
 2022-10-08 | [[Hockey Royalty]] | [[LA Kings - A look into Gabriel Vilardis Frozen Fury]]
 2022-10-08 | [[Hockey Royalty]] | [[Three takeaways from LA Kings’ 6-3 win against Anaheim]]
 2022-10-08 | [[Mayors Manor]] | [[Kings Opening Night Final Roster Decisions Set – And, There Are Some Swerves]]

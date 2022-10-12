@@ -2,7 +2,9 @@
 title: "Rasmus Kupari"
 date-created: 2022-09-25
 aliases: 
-tags: [Status/New,Player]
+tags: [Status/Stable,Player]
+status: stable
+priority: high
 ---
 
 # Rasmus Kupari

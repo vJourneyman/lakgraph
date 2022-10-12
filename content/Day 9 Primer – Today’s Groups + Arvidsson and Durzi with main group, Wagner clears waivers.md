@@ -5,7 +5,7 @@ day-of-week-created: Tue
 date-updated: 
 aliases: []
 tags: [NewsPost]
-status: unstarted
+status: stable
 ---
 
 # Day 9 Primer – Today’s Groups + Arvidsson and Durzi with main group, Wagner clears waivers

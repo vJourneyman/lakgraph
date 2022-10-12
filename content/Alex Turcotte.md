@@ -1,7 +1,9 @@
 ---
 title: "Alex Turcotte"
 date-created: 2022-09-25
-tags: [Status/New,Player]
+tags: [Status/Stable,Player]
+status: stable
+priority: high
 ---
 
 # Alex Turcotte

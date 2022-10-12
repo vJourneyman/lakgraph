@@ -2,7 +2,8 @@
 title: "Lias Andersson"
 date-created: 2022-10-07
 aliases: 
-tags: [Status/New,Player]
+tags: [Status/Stable,Player]
+status: stable
 ---
 
 # Lias Andersson

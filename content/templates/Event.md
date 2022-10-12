@@ -4,9 +4,18 @@ date-created: {{date:YYYY-MM-DD}}
 day-of-week-created: {{date:ddd}}
 date-updated: 
 aliases: []
-tags: []
+tags: [Event,Status/New]
 status: unstarted
 ---
 
 # {{title}}
+Date | Site | Title
+---|---|---
+
+
+## Unprocessed Coverage
+Date | Site | Title
+---|---|---
+
+
 

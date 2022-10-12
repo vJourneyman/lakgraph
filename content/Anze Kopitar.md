@@ -2,7 +2,8 @@
 title: "Anze Kopitar"
 date-created: 2022-10-11
 aliases: 
-tags: [Status/New,Player]
+tags: [Status/Stable,Player]
+status: stable
 ---
 
 # Anze Kopitar
@@ -21,7 +22,9 @@ Anze Kopitar | 11 | C | L | 6' 3" | 225 | 1987-08-24 | Jesenice, SVN | 2005 LAK,
 ## NHL  Coverage
 Date | Site |  Title
 ---|---|---
+2022-10-11 | [[LA Kings Insider]] | [[10-11 Preview - Projected Lineup + Opening Night Jitters, First Line Coming Together, Blake on Final Moves - LA Kings Insider]]
 2022-10-10 | [[LA Kings Insider]] | [[On the eve of the 2022-23 season, Kings leadership expecting progress from increased expectations - LA Kings Insider]]
+2022-10-03 | [[LA Times]] | [[Younger Kings players must beat Anze Kopitar for scoring title - Los Angeles Times]]
 
 
 

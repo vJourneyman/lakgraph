@@ -2,7 +2,8 @@
 title: "Kevin Fiala"
 date-created: 2022-10-07
 aliases: 
-tags: [Status/New,Player]
+tags: [Status/NeedsImprovement,Player]
+status: NeedsImprovement
 ---
 
 # Kevin Fiala
@@ -19,7 +20,12 @@ Kevin Fiala | 22 | LW | L | 5' 10" | 204 | 1996-07-22 | St. Gallen, CHE | 2014 N
 ## NHL  Coverage
 Date | Site |  Title
 ---|---|---
+2022-10-11 | [[Mayors Manor]] | [[Kings Of The Podcast - Ep 138 – Season Preview with LA GM Rob Blake]]
+2022-10-11 | [[LA Kings Insider]] | [[10-11 Preview - Projected Lineup + Opening Night Jitters, First Line Coming Together, Blake on Final Moves - LA Kings Insider]]
+2022-10-11 | [[Hockey Royalty]] | [[Week 1 Pacific Division Power Rankings]]
+2022-10-11 | [[ESPN]] | [[What to watch in Rangers-Lightning, Kings-Knights on ESPN]]
 2022-10-10 | [[LA Kings on YouTube]] | [[Head Coach Todd McLellan speaks to the media after Mondays practice]]
+2022-10-10 | [[LA Times]] | [[Five things to watch for as LA Kings embark on new NHL season - Los Angeles Times]]
 2022-10-03 | [[LA Kings Insider]] | [[With a fresh slate, the work is well underway when it comes to the LA Kings power play]]
 
 

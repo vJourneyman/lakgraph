@@ -4,7 +4,7 @@ date-created: 2022-10-06
 day-of-week-created: Thu
 date-updated: 
 aliases: []
-tags: []
+tags: [Event]
 status: unstarted
 ---
 

@@ -2,7 +2,8 @@
 title: "Jack Jablonski"
 date-created: 2022-10-11
 aliases: 
-tags: [Status/New,Staff]
+tags: [Status/stable,Staff]
+status: stable
 ---
 
 # Jack Jablonski
@@ -15,8 +16,6 @@ Title | Organization
 --- | ---
 Associate Digital Media Content Specialist | LA Kings
 
-##### Unprocessed Articles
-- 
 
 ## NHL  Coverage
 Date | Title
@@ -29,4 +28,6 @@ Date | Title
 ---|---
 
 
+## Unprocessed Coverage
+- 
 

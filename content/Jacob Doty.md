@@ -3,6 +3,7 @@ title: "Jacob Doty"
 date-created: 2022-10-08
 aliases: 
 tags: [Status/New,Player]
+status: stable
 ---
 
 # Jacob Doty

@@ -3,6 +3,7 @@ title: "Zach Dooley"
 date-created: 2022-10-11
 aliases: 
 tags: [Status/New,Staff]
+status: stable
 ---
 
 # Zach Dooley

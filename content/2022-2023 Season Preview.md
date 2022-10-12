@@ -19,6 +19,7 @@ Date | Site | Title
 ## Articles to process
 Date | Site | Title
 ---|---|---
+2022-09-21 | [[LA Times]] | [[Elliott: After ending playoff drought, Kings face next challenge — getting better - Los Angeles Times]](https://www.latimes.com/sports/hockey/story/2022-09-21/column-kings-training-camp-todd-mcllellan-heightened-expectations)
 2022-09-10 | [[Mayors Manor]] | [[Kings Tidbits - Latest Updates on Mikey Anderson and Alex Turcotte]](https://mayorsmanor.com/2022/09/kings-tidbits-latest-updates-on-mikey-anderson-and-alex-turcotte/)
 2022-09-10 | [[HockeyBuzz]] | [[Kings re-sign Mikey Anderson]](https://hockeybuzz.com/blog/Ben-Shelley/Kings-re-sign-Mikey-Anderson/281/118655)
 2022-09-07 | [[The Athletic]] | [[State of the Kings -  Defense looks strong, but can Drew Doughty stay healthy]](https://theathletic.com/3571831/2022/09/07/kings-defense-doughty-inujuries)
