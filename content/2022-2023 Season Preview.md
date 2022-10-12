@@ -12,6 +12,8 @@ status: unstarted
 
 Date | Site | Title
 ---|---|---
+2022-09-21 | [[legorock99 on YouTube]] | [[He Is The FUTURE Of The LA Kings Blue Line - Brandt Clarke - Top NHL Prospects News and Rumours Today]]
+2022-09-12 | [[legorock99 on YouTube]] | [[LA KINGS PROSPECTS - Alex Turcotte VS Moritz Seider, Trevor Zegras - Detroit Red Wings, Anaheim Ducks]]
 2022-09-10 | [[The Hockey Writers]] | [[Kings’ Prospect Preview - Samuel Fagemo]]
 2022-08-31 | [[The Hockey Writers]] | [[Kings’ Prospect Preview - Rasmus Kupari]]
 
