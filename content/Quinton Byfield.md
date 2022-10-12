@@ -24,6 +24,7 @@ Date | Site |  Title
 2022-10-11 | [[The Fourth Period]] | [[Steaks and Stakes — The Fourth Period]]
 2022-10-11 | [[Mayors Manor]] | [[Kings Of The Podcast - Ep 138 – Season Preview with LA GM Rob Blake]]
 2022-10-10 | [[LA Kings on YouTube]] | [[Head Coach Todd McLellan speaks to the media after Mondays practice]]
+2022-10-10 | [[LA Kings on YouTube]] | [[GM Rob Blake speaks to the media before the 2022-23 Regular Season]]
 2022-10-10 | [[LA Times]] | [[Five things to watch for as LA Kings embark on new NHL season - Los Angeles Times]]
 2022-10-08 | [[Mayors Manor]] | [[Kings Opening Night Final Roster Decisions Set – And, There Are Some Swerves]]
 2022-10-08 | [[LA Kings Insider]] | [[10-8 Preview – Gameday Thoughts + Byfield Update, Net Play, Versatility At The Bottom]]

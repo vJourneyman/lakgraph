@@ -43,6 +43,7 @@ rediscovering from what you guys had
 last year how have you seen that kind of
 progress through the last preseason game
 and to now today's Final practice? 
+>
 > A: well I think that's a process that's
 going to continue not just for the Kings
 but for for every team that's beginning
@@ -72,11 +73,13 @@ progression towards it pardon me
 um but it will take some time and um
 we're no different than any other team
 in the league
+
 > Q: Todd you talked about identity. 
 > The last three games were high scoring
 > games, not really your identity
 > Is there a lot to clean up defensively
 > or is that just an offshoot of preseason? 
+> 
 > A:  there are some things to clean up
 defensively
 um some of it's game management some of
@@ -101,9 +104,11 @@ uh we'll probably learn some valuable
 lessons along the way and we'll have to
 reel some things in but that's who we
 are and that's how we'll have to play
+
 > Q: you uh you took a while before you were
 able to define the identity of the team
 what about now what is it
+>
 > A: well we should be really hard to play
 against because we're a structured team
 we have some predictability
@@ -128,6 +133,7 @@ but if we're chasing goals all over the
 place and giving up too many we're
 probably uh
 you know going to be in trouble
+
 > Q: on [[Brandt Clarke|Brandt]]
 we've talked about obviously you know
 what he's shown in Camp on the ice the
@@ -142,6 +148,7 @@ carried him
 through this camp and to this point
 where maybe he can be playing tomorrow
 night 
+>
 > A: I I think that that has helped him
 immensely
 um
@@ -162,11 +169,13 @@ misread
 in other environments
 um where it could hurt him but so far
 not in ours not one bit
+
 > Q: Todd, the last few preseason games it's like a
 lot of goals in the second period I
 think I counted 10 goals against
 anything that tendencies that were
 happening or not happening
+>
 > A: um while we get off we've had good
 starts in the exhibition season
 we get to the break we come out and we
@@ -183,12 +192,14 @@ cleaned up and um early in the year that
 can swing the momentum a big way but
 other than that I don't have
 anything else to put my finger on
+
 > Q: You just mentioned [[Phillip Danault|Danault]] and [[Adrian Kempe|Kempe]] who
 > both had career seasons last year
 >  what have you seen or what do you know
 about them that means you to believe
 that could be the norm as opposed to be
 except that being exceptions
+>
 > A: well I have a longer track record with
 Adrian and to me where Adrian the day I
 walked in the door and Adrian was there
@@ -215,10 +226,12 @@ defensive side of the puck he's going to
 get those opportunities offensively as
 well so they haven't shown signs that
 they can't repeat
+
 > Q: What are you looking to bring out of
 > [[Quinton Byfield]]'s game how would you
 > assess where he's at and what you want
 > to see from him, I guess a blueprint this year
+>
 > A: well a year ago we were putting him in a
 cast and we were putting them on the
 shelf for
@@ -239,6 +252,7 @@ um
 the rest should happen as the night goes
 on but as the year goes on Pardon Me not
 tonight but as the year goes on
+
 > Q: Todd with [[Kevin Fiala|Fiala]], he might be the only new player in your
 lineup tomorrow night
 now that you've seen him in the
@@ -246,6 +260,7 @@ preseason games practices for a couple
 of weeks is there anything about his
 game that maybe he didn't know that
 you're really appreciating
+> 
 > A: um
 there were
 assumptions that we made based on his
@@ -262,11 +277,13 @@ what we
 had viewed in the past but now we see it
 full time or if that makes any sense but
 that's that would be my answer for that
+
 > Q: the [[Viktor Arvidsson]] uh did he come back
 sooner than you as anticipated and how
 did he look off the other off the other
 night in terms of being able to jump in
 the front
+>
 > A: um not necessarily sooner uh Victor's
 been on a
 from the day he was ruled out last year
@@ -288,12 +305,14 @@ analyzing how they play that's I think
 makes them effective
 and he shown no signs of
 fatigue or anything else negative
+
 > Q: this is the healthiest the roster has
 been a year
 gee thanks
 is it harder or easier to make decisions
 now
 based on everyone being available
+>
 > A: um
 it's a mix some players made it easy
 some are making it harder some are
@@ -309,11 +328,13 @@ without a lot of
 um training camp time
 other teams are in that situation too so
 we just got to figure it out as we go
+
 > Q: when you were introduced as head coach
 you introduced the marathon metaphor now
 it's the start of year four how far
 along is the club in that metaphorical
 Marathon compared to where you'd like
+>
 > A: well we've settled into the race now
 we've climbed some hills we've got in
 some valleys

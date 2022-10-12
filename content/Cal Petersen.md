@@ -21,6 +21,7 @@ Date | Site |  Title
 ---|---|---
 2022-10-11 | [[Mayors Manor]] | [[Kings Of The Podcast - Ep 138 – Season Preview with LA GM Rob Blake]]
 2022-10-11 | [[Hockey Royalty]] | [[Week 1 Pacific Division Power Rankings]]
+2022-10-10 | [[LA Kings on YouTube]] | [[GM Rob Blake speaks to the media before the 2022-23 Regular Season]]
 2022-10-10 | [[LA Times]] | [[Five things to watch for as LA Kings embark on new NHL season - Los Angeles Times]]
 2022-10-04 | [[LA Kings Insider]]  | [[PRESEASON FINAL – Kings 4, Ducks 5 – Vilardi, Edler, McLellan]]
 2022-10-04 | [[LA Kings Insider]]  | [[10-4 Preview – Projected Lineup + Petersen expected, Clarke goes 5-for-5, Today’s Practice]]

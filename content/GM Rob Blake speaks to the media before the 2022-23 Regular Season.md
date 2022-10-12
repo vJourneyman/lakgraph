@@ -5,7 +5,7 @@ day-of-week-created: Tue
 date-updated: 
 aliases: []
 tags: [NewsPost]
-status: partial-transcript
+status: stable
 ---
 
 # GM Rob Blake speaks to the media before the 2022-23 Regular Season
@@ -22,11 +22,18 @@ Date | Site | Link
 - [[Brandt Clarke]]
 - [[Sean Walker]]
 - [[Sean Durzi]]
-- 
+- [[Rasmus Kupari]]
+- [[Jacob Moverare]]
+- [[Cal Petersen]]
+- [[Alex Turcotte]]
+- [[Quinton Byfield]]
+ 
 
 
 ## Staff
 - [[Rob Blake]]
+- [[Trent Yawney]]
+- [[Jim Hiller]]
 
 
 ## Summary
@@ -62,7 +69,6 @@ that way and we'll let that play out
 here the the first little while and and
 probably have to reevaluate again
 
-5:42
 > Q: Rob, following off of that what is it
 > that you saw in his game and you broke it
 > down where you felt comfortable
@@ -227,15 +233,19 @@ very creative in in the types of plays
 he wants to make uh you know probably
 from the red line in
 
-> oh last season
-you've got uh show any new dimension to
+
+> Q:  last season
+you've got career highs from Kempe
+you had Danault show a new dimension to
 his game
 is there any sense in your Roundup was
 that a fluke or is that the beginning of
 something new I mean how do you judge
-that how do you look at that um well I I
+that how do you look at that
+>
+> A: um well I I
 see progress in those guys games I'll
-speak I guess first on campy he's been
+speak I guess first on Kempe he's been
 in the organization for a long time we
 saw glimpses of that you know at the
 times they they may have been 10 or 15
@@ -251,7 +261,7 @@ know we knew we were getting a good
 player we weren't sure at that level of
 offense and and now
 um he seems to find a real good
-compliment with Trevor Morin arvidson
+compliment with [[Trevor Moore]] and [[Viktor Arvidsson|Avridsson]]
 and in the way they play uh down low and
 everything but yeah we definitely have a
 a you know an expectation of Phil that
@@ -261,15 +271,19 @@ around his leadership I felt that he
 added a big touch to that but but you
 know that was created excitement that
 some of those players bought in and now
-we have to get that out of Kevin fiala
-we have to get it out of Summer our
+we have to get that out of Kevin Fiala
+we have to get it out of some of our
 young guys that are are going to take a
 little bit more prominent roles on the
 team
-I'm still in Minnesota
+
+> Q: Rob, on Fiala, we know that Minnesota
+> had some cap difficulties obviously
 but when did you first kind of Target
 him kind of really had him in mind as as
-a possibility yeah it's a little
+a possibility 
+>
+> A: yeah it's a little
 different situation a lot of times you
 know as you prepare for free agency
 you're Gathering lists of of players
@@ -281,7 +295,7 @@ player within our lineup and what it
 would do but then there's also players
 that names come about just because of
 certain situations where their teams not
-necessarily for agents and now now you
+necessarily free agents and now now you
 have to go and try to acquire it so
 there was a process leading up to it
 that that all teams do you speak to all
@@ -290,8 +304,11 @@ available but it fit a specific need we
 were looking for that we may have had to
 address in free agency but were able to
 do it beforehand just because of the
-situation how quickly
-uh it was probably a well it it's a
+situation 
+
+> Q: how quickly does the deal come together
+> 
+> A: uh it was probably a well it it's a
 longer process in the car in the in the
 um the talks and everything this one was
 a little bit different in uh the
@@ -306,28 +323,35 @@ there's a lot of process beforehand that
 takes place but when when you understand
 both sides want to get the same thing
 accomplished then then you go to work
-put all the right hand
-Ed wow yeah no it's uh it's a unique
+
+> Q: Rob, what do you do with all the right handed
+> defensemen now. 
+> 
+> A: well yeah no it's uh it's a unique
 situation I'm not sure we see it too
 often in the league you see a lot of
 lefties over righties like I said I
 think Trent's been good at experimenting
 or or or trying like with with the
-jersey and the Walker and Clark and uh
+Durzi and the Walker and Clarke and uh
 these are good players that I don't I
 don't feel
 a necessary worried about having to put
 a guy on the left side it's just the way
 our makeup is on our team
 um you know with some of the injuries
-last year to Walker to Dowdy to Roy we
+last year to Walker to Doughty to Roy we
 had to put some guys in the lineup early
-with Jersey and and he took advantage of
+with Durzi and and he took advantage of
 that and Jordan Spence they just happen
-to be all B righties
-yeah he's a very good player
+to be all be righties
+
+> Q: Talking about Spence, is it tough to
+> have the conversation with him? 
+>
+> A:  yeah he's a very good player
 yep I had to have that with him with
-Rasmus capari with Jake movari you know
+[[Rasmus Kupari]] with [[Jacob Moverare]] you know
 a number of players there
 um I still think those players can learn
 in the American League I I think a
@@ -342,7 +366,12 @@ terrific job you've done everything
 we've asked you to do so far we still
 think you can get better and we're gonna
 we're gonna need you down the stretch
-well I I think he is I I you know
+
+> Q: how do you evaluate [[Quinton Byfield]]'s preseason
+> what are you looking for we're getting the information
+> that he's alright.
+>
+> A: well I I think he is I I you know
 unfortunately we had a little setback
 during training camp here with with an
 illness there that kept him out a week
@@ -361,8 +390,11 @@ times he's come into Camp ready to go
 and and look to us like he could earn
 that spot and uh he'll get his chance
 there now
-yeah
-yeah no we you know I think he can be
+
+> Q: What about [[Cal Petersen]] and your
+> concerns if any about him
+> 
+> A: yeah no we you know I think he can be
 better than he was in preseason and he
 knows that he had a period where he had
 an injury there in Vegas and had to come
@@ -377,11 +409,14 @@ Quick and Cal is the exact same as it
 was last year they're going to battle
 each other for those starts but but in
 turn that's going to help our team
-forecast the Pacific
+
+
+> Q: Rob, how do you forecast the Pacific
 this year
-you know we've wound up getting where
-they were yeah
-they're they're good teams they're all
+you know lost to Edmonton wound up getting where
+they were in transition
+>
+> A: they're they're good teams they're all
 good teams and then I don't think you
 know that
 that part of the equation it works
@@ -390,15 +425,18 @@ we're going to be in a battle to get in
 just like we were last year we want to
 be a little more consistent
 um you know as especially on the Special
-Teams both penalty kale and power play
+Teams both penalty kill and power play
 throughout but just the dictate the
 style of play that we want early on in
 the season too
-yeah
-um as he's now become a veteran like how
+
+> Q: Kempe's always seemed to have a great
+> work ethic, constitution.
+um has he's now become a veteran like how
 how is his leadership vocal Drive how is
-that playing
-it takes more a prominent role I think
+that playing out
+>
+> A: it takes more a prominent role I think
 we saw that a little bit last year
 coming out with them
 um
@@ -408,8 +446,8 @@ think his biggest accomplishment last
 year was his consistency right from day
 one and and obviously scored a A large
 number of goals but but that transfers
-over to okay we we need that again out
-here so so not only are we expecting
+over to okay we we need that again outta
+you. so so not only are we expecting
 that we know we can accomplish it but
 but the leadership part that comes with
 it and when you get into tight
@@ -417,16 +455,19 @@ situations or you get into an overtime
 situation and you're relying on a big
 player to step up he's now at that level
 for us
-go with 7B as opposed
-oh
+
+> Q: What factors went into the decision
+> to go with 7 D as opposed to 8 D
+> 
+> A: oh
 well Lots I I think the way you look at
-it if you're in R12 or our starting six
+it if you're in our 12 or our starting six
 which we would project upstairs
 regardless of your situation in the CBA
 way realize you're we're making a spot
 right now you have the ability to carry
 uh three extra players whether it's two
-Fords or a d then we we have to look a
+forwards or a d then we we have to look a
 little bit at the waivers and and
 understand that we want to protect some
 of the assets and the players and
@@ -441,10 +482,14 @@ back we know we're going to deal with
 injuries and we're going to need some
 added depth down there that can come in
 and play
-yeah
-well I I think he had a real good
+
+> Q: What strides have you seen from 
+> Gabe Villardi in preseason after the time
+> he had last year
+> 
+> A: well I I think he had a real good
 preseason last year and uh he's playing
-alongside I think Liz and Quentin in
+alongside I think [[Lias Andersson|Lias]] and Quentin and
 both those two ran into injuries and uh
 you know his first four or five games
 probably wasn't the start after coming
@@ -453,9 +498,9 @@ you saw him in a slightly different role
 this year I think on the Special Teams a
 little net front which which kind of
 fits his characteristics he's got uh
-real good size protects Puck well got
+real good size protects the puck well got
 good vision and everything and in good
-hand I would move in place so I think he
+hand-eye would move in plays so I think he
 can compliment our special teams and he
 was having some success in the uh
 preseason with that now we've got to
@@ -466,8 +511,11 @@ got 12 and you're looking for two or
 three extras in there he was able to
 separate himself from a group because of
 the way he played
-uh turkey he obviously dealing with a
-concussion injury that uh that is
+
+> Q: what's the status of [[Alex Turcotte]]
+> 
+> A: uh turk he obviously dealing with a
+concussion injury that uh that he
 sustained at the end of last year
 um and was on track doing well in the
 summer but then had a setback during the
@@ -489,10 +537,14 @@ all this and everything but he has to be
 healthy with himself in in that
 situation before he can get back into a
 practice
-playoff team that go from playoff team
-to like serious in the cup Contender now
+
+> Q: Rob is it more difficult to make the jump
+> from non-contending team to playoff team than go from playoff team
+to like serious Stanley Cup Contender now
 because you're not going to sneak up on
-anybody yeah we're not sneaking up on it
+anybody 
+> 
+> A: yeah we're not sneaking up on it
 um yeah I would I would say it's tougher
 once you once you become a playoff team
 to be able to become a real Contender
@@ -504,12 +556,16 @@ now now we have to make sure we're we're
 taking the ability to move past that and
 and keep that going so
 um yeah I think Todd used the words not
-sneaking up on anyway no not anymore
+sneaking up on anybody no not anymore
 like but but I I think our coaching
 staff will have our players prepared for
 that
-closest the club to what your ideal
-version of the club would be it's
+
+> Q: heading into the season how
+close is the club to what your ideal
+version of the club would be 
+> 
+> A: it's
 getting there it's getting there I think
 there's less and less
 concerns through a lineup I think there
@@ -525,33 +581,39 @@ set and understood well enough with
 major injuries that some of these guys
 were able to step in and play those
 minutes and and now we I think we're in
-that same situation now we know that do
-you feel like you're situated today
+that same situation now we know that 
+
+> Q: do you feel like you're situated today
 do you feel like your strategy for
 running the club over the last few
 seasons has put you in a position of
-strength that you are glad you did to
-that yeah I think we're in a spot where
+strength that you are glad you did 
+that 
+> 
+> A: yeah I think we're in a spot where
 we continue to build on it you know the
 roster is starting to take that shape
 um you know the you know we've talked a
 lot about younger players the last few
-years or not but now they're getting
+years  but now they're getting
 they're getting some of the games in
-they're getting uh you know where
-there's time in the American League or
+they're getting uh you know whether 
+it's time in the American League or
 valuable time in the playoffs to to
 become not only players in our lineup
 but help us start winning
-big picture for seeing here but now
+
+> Q: Rob bit of a big picture that we're seeing here but now
 you're obviously more tighter against
 the cap than whatsoever how do you just
 look at in terms of managing the cap
 over the season and maintaining the kind
 of flexibility that you want to be able
-to have if and when in season moves yeah
-yeah or well it's a day-to-day basis
-Jake Goldberg runs a lot of that on our
+to have if and when in-season moves or...
+> 
+> A: yeah
+yeah well it's a day-to-day basis
+[[Jake Goldberg]] runs a lot of that on our
 you know or in the back room here and he
 provides an update on every day and and
 and where we are at the cap the type of
@@ -563,23 +625,36 @@ any deals you're looking at any
 potential deals and everything once
 you're up against the cap or very close
 to it you have to take all that into
-consideration what was that the plan
-especially after obviously at Kevin
-Adrian whatsoever but you knew going
+consideration 
+
+> Q: what was that the plan
+especially after obviously adding Kevin
+signing Adrian whatsoever but you knew going
 into this year okay we're going to be at
 this spot we're going to be tighter and
-yep no and it's it's constant planning
+> 
+> A: yep no and it's it's constant planning
 not not only for tomorrow or the next
 day or month but for a year past year
 you know and then
 um but but all teams are have those
 restrictions and deal within that
-yeah
-what about Tom yep yes he's got a year
+
+> Q: Rob you mentioned about your contract with us
+what about Todd 
+>
+> A: yep yes he's got a year
 left yes
-yep yep uh well this year and next year
-yes okay yes sorry
-no I don't think we would get into that
+>
+> Q: one year?
+>  
+> A: yep yep uh well this year and next year
+yes yes sorry
+>
+> Q: Any movement for any kind of extension
+> that far?
+> 
+> A: no I don't think we would get into that
 right now you know I'm sure that that
 conversation takes place at the end of
 next year like once it went to Seasons
@@ -587,16 +662,20 @@ but
 um you know most of our coaching staff
 all of our coaching staff is pretty much
 equal in that situation too so
-there any
-attention to other
-than making your decision
-um yeah you know we go over that
+
+> Q: In past seasons you had players claimed
+> off waivers from the LA Kings. This season is
+>  there any time or thought spent paying 
+attention to other teams rosters 
+when making your decision about when to expose 
+> 
+> A: um yeah you know we go over that
 constantly if if we
 if we're in a healthy situation we have
 players that that may have to be exposed
 in waivers when do you when you put them
 on and when don't you and I mean there's
-two thoughts you put them on early but
+two  thoughts you put them on early but
 then the team can claim them and look at
 them you put them on later that still
 allows the team to have injuries most of
@@ -611,5 +690,8 @@ process I think we have to understand
 that and and when you start getting
 better and you have more quality players
 you'll be in those situations
-all right everyone thanks
 
+> all right everyone thanks
+
+## Editorial Comment
+- At 12:43, Blake is asked about the decision to go with 7 defnsemen instead of 8. In his reply, he states that if players are in the top 12 forwards or top 6 defensement, they'll make a spot regardless of CBA protection or waiver wire. "We're making a spot." It's the 21st through 23rd palyers where waiver eligibility enters into the equation, to manage assets.

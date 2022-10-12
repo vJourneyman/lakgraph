@@ -20,6 +20,7 @@ Alex Turcotte | | C | L | 5' 11" | 185 | 2001-02-26 | Elk Grove, IL, USA | 2019 
 ## NHL  Coverage
 Date | Site |  Title
 ---|---|---
+2022-10-10 | [[LA Kings on YouTube]] | [[GM Rob Blake speaks to the media before the 2022-23 Regular Season]]
 2022-10-04 | [[LA Kings Insider]] | [[LA Kings announce roster moves, trim training camp roster to 34 players]]
 2022-09-12 | [[legorock99 on YouTube]] | [[LA KINGS PROSPECTS - Alex Turcotte VS Moritz Seider, Trevor Zegras - Detroit Red Wings, Anaheim Ducks]]
 
