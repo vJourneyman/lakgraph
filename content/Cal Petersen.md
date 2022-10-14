@@ -26,6 +26,7 @@ Date | Site |  Title
 2022-10-04 | [[LA Kings Insider]]  | [[PRESEASON FINAL – Kings 4, Ducks 5 – Vilardi, Edler, McLellan]]
 2022-10-04 | [[LA Kings Insider]]  | [[10-4 Preview – Projected Lineup + Petersen expected, Clarke goes 5-for-5, Today’s Practice]]
 2022-10-01 | [[LA Kings Insider]] |  [[Day 10 Practice Notes – Petersen, Byfield Updates + Durzi talks contract, Walker on the left]]
+2022-09-27 | [[LA Kings Insider]] |  [[Day 6 Notes – Injury Updates + Grundstrom Opportunity, Anderson Debut and Kempe joins ATKM]]
 
 
 

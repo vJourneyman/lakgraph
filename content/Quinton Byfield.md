@@ -21,6 +21,9 @@ Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
 ## NHL  Coverage
 Date | Site |  Title
 ---|---|---
+2022-10-12 | [[The Forum Report]] | [[Possession Chart - October 11 vs VGK]]
+2022-10-12 | [[The Forum Report]] | [[Waking up with the Kings - October 12]]
+2022-10-12 | [[LA Kings Insider]] | [[Practice 10-12 - Identity Through 3 Periods + Notes on Vilardi's Speed, Fourth Goal, Looking Ahead - LA Kings Insider]]
 2022-10-11 | [[The Fourth Period]] | [[Steaks and Stakes — The Fourth Period]]
 2022-10-11 | [[Mayors Manor]] | [[Kings Of The Podcast - Ep 138 – Season Preview with LA GM Rob Blake]]
 2022-10-10 | [[LA Kings on YouTube]] | [[Head Coach Todd McLellan speaks to the media after Mondays practice]]

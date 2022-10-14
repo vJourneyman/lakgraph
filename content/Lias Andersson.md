@@ -22,6 +22,8 @@ Lias Andersson | 17 | C | L | 6' 1" | 183 | 1998-10-13 | Smogen, SWE | 2017 NYR,
 Date | Site |  Title
 ---|---|---
 2022-10-06 | [[Mayors Manor]] | [[Projected Lineup - Kings vs Golden Knights at Frozen Fury, aka Preseason Game 6]]
+2022-09-27 | [[LA Kings Insider]] |  [[Day 6 Primer + The Differences Between Playing Center and Playing Winger]]
+2022-09-26 | [[LA Kings Insider]] | [[9-26 Preview – Projected Lineup + Back-To-Back Thoughts, JADs Focus, Spence, Moverare debuts]]
 
 
 

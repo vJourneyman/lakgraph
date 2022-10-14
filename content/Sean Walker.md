@@ -26,6 +26,8 @@ Date | Site |  Title
 2022-10-02 | [[LA Kings Insider]] |  [[10-2 Preview – Projected Lineup + Final 4 Plan, Walker’s Long Awaited Return, McLellan Video]] 
  2022-07-09 | [[Hockey Royalty]] | [[Look for the LA Kings to take a cautious approach in free agency]]
 2022-10-01 | [[LA Kings Insider]] |  [[Day 10 Practice Notes – Petersen, Byfield Updates + Durzi talks contract, Walker on the left]]
+2022-09-29 | [[LA Kings Insider]] |  [[Angeles Analysis – Thoughts From The First Week Of Training Camp]]
+2022-09-28 | [[LA Kings Insider]] |  [[9-28 Preview – Projected Lineup + Reign Returners, Defensive Camp Battle, Bjornfot Quotes]]
 
 
 ## Minor League Coverage

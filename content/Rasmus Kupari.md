@@ -25,6 +25,8 @@ Date | Site |  Title
 2022-10-10 | [[LA Kings on YouTube]] | [[GM Rob Blake speaks to the media before the 2022-23 Regular Season]]
 2022-10-10 | [[LA Kings Insider]] | [[Kings Announce Opening-Night Roster and Roster Moves - LA Kings Insider]]
 2022-10-02 | [[Mayors Manor]] | [[Kings and Reign Rosters Almost Finished - Answering The Final Six Questions]]
+2022-09-27 | [[LA Kings Insider]] |  [[Day 6 Primer + The Differences Between Playing Center and Playing Winger]]
+
 
 ## Minor League Coverage
 Date | Site |  Title

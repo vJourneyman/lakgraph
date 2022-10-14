@@ -29,6 +29,8 @@ Date | Site |  Title
 2022-10-02 | [[Mayors Manor]] | [[Kings and Reign Rosters Almost Finished - Answering The Final Six Questions]]
 2022-09-30 | [[LA Kings Insider]] |  [[After a mentally and physically challenging summer, Viktor Arvidsson is looking to the bright side in camp]]
 2022-09-30 | [[LA Kings Insider]] | [[Day 9 Primer – Today’s Groups + Arvidsson and Durzi with main group, Wagner clears waivers]]
+2022-09-29 | [[LA Kings Insider]] |  [[Angeles Analysis – Thoughts From The First Week Of Training Camp]]
+2022-09-27 | [[LA Kings Insider]] |  [[Day 6 Notes – Injury Updates + Grundstrom Opportunity, Anderson Debut and Kempe joins ATKM]]
 
 
 

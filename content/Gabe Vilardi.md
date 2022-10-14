@@ -22,6 +22,11 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 Date | Site| Title
 ---|---|---
+2022-10-12 | [[The Forum Report]] | [[Possession Chart - October 11 vs VGK]]
+2022-10-12 | [[The Forum Report]] | [[Waking up with the Kings - October 12]]
+2022-10-12 | [[LA Kings Insider]] | [[Practice 10-12 - Identity Through 3 Periods + Notes on Vilardi's Speed, Fourth Goal, Looking Ahead - LA Kings Insider]]
+2022-10-11 | [[Mayors Manor]] | [[Rapid Review - Golden Knights def Kings in Game 1]]
+2022-10-11 | [[The Forum Report]] | [[Postgame - Terrible LA game management - Bettman talks RSNs with LA media]]
 2022-10-11 | [[ESPN]] | [Golden Knights vs Kings - Game Recap - October 11, 2022 - ESPN](https://www.espn.com/nhl/recap/_/gameId/401458592)
 2022-10-11 | [[LA Kings Insider]] | [[FINAL - Kings 3, Golden Knights 4 - Vilardi, Kopitar, McLellan - LA Kings Insider]]
 2022-10-11 | [[The Fourth Period]] | [[Steaks and Stakes — The Fourth Period]]
@@ -36,6 +41,9 @@ Date | Site| Title
 2022-10-05 | [[LA Kings Insider]] |  [[An enthusiastic Gabe Vilardi has made an impression on teammates and coaches in camp]]
 2022-10-04   | [[LA Kings Insider]]  | [[PRESEASON FINAL – Kings 4, Ducks 5 – Vilardi, Edler, McLellan]]
 2022-10-02 | [[LA Kings Insider]] |  [[PRESEASON FINAL – Kings 2, Ducks 1 – Walker, Vilardi, McLellan]]
+2022-09-29 | [[LA Kings Insider]] |  [[Angeles Analysis – Thoughts From The First Week Of Training Camp]]
+2022-09-27 | [[LA Kings Insider]] |  [[Day 6 Primer + The Differences Between Playing Center and Playing Winger]]
+
 
 
 

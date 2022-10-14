@@ -1,21 +1,19 @@
 ---
-title: "Blake Lizotte"
-date-created: 2022-10-11
+title: "Brendan Lemieux"
+date-created: 2022-10-12
 aliases: 
 tags: [Status/New,Player]
-status: stable
 ---
 
-# Blake Lizotte
+# Brendan Lemieux
 
 NHL.com / Ontario Reign | Twitter
 -|-
-[Blake Lizotte]() | [@twitter_handle](https://twitter.com/)
+[Brendan Lemieux](https://www.nhl.com/player/brendan-lemieux-8477962) | [@blemieux22](https://twitter.com/blemieux22)
 
 Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft 
 -|-|-|-|-|-|-|-|-
-	[[Blake Lizotte]] | 46 | C | L | 5' 9" | 170 | 1997-12-13 | Lindstrom, MN, USA | 
- 
+Brendan Lemieux | 48 | LW | L | 6' 1" | 215 | 1996-03-15 | Denver, CO, USA | 2014 BUF, 2nd rd, 1st pk (31st overall)
 
 
 
@@ -23,8 +21,6 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 Date | Site |  Title
 ---|---|---
-2022-10-12 | [[The Forum Report]] | [[Possession Chart - October 11 vs VGK]]
-2022-10-01 | [[LA Kings Insider]] |  [[With a blank slate, Kings focused on replicating second-half success on the penalty kill]]
 2022-09-29 | [[LA Kings Insider]] | [[Blake Lizotte and Brendan Lemieux excited to add Carl Grundstrom to buzzing, physical line]]
 
 

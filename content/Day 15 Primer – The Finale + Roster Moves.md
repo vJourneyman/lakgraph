@@ -12,7 +12,8 @@ status: unstarted
 
 Date | Site | Link
 ---|---|---
- 2022-10-07   | [[LA Kings Insider]]  | [Day 15 Primer – The Finale + Roster Moves](https://lakingsinsider.com/2022/10/07/day-15-primer-the-finale-roster-moves/)
+2022-10-07 | [[LA Kings Insider]] | [Day 15 Primer – The Finale + Roster Moves](https://lakingsinsider.com/2022/10/07/day-15-primer-the-finale-roster-moves/)
+2022-10-07 | [[LA Kings Insider]] | [[Day 15 Primer – The Finale + Roster Moves]]
 
 ## Contributors
 - [[Zach Dooley]]

@@ -21,6 +21,7 @@ RW | L | 6'2" | 210 | 21 | 2001-06-26 | Tashkent, UZB | 2019 LAK, 2nd rd, 2nd pk
 ## NHL  Coverage
 Date | Site |  Title
 ---|---|---
+2022-10-11 | [[The Forum Report]] | [[Postgame - Terrible LA game management - Bettman talks RSNs with LA media]]
 2022-10-11 | [[ESPN]] | [Golden Knights vs Kings - Game Recap - October 11, 2022 - ESPN](https://www.espn.com/nhl/recap/_/gameId/401458592)
 2022-10-11 | [[LA Kings Insider]] | [[FINAL - Kings 3, Golden Knights 4 - Vilardi, Kopitar, McLellan - LA Kings Insider]]
 2022-10-11 | [[The Fourth Period]] | [[Steaks and Stakes — The Fourth Period]]

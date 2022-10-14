@@ -12,6 +12,14 @@ status: in-progress
 
 Date | Site | Title
 ---|---|---
+2022-10-12 | [[Mayors Manor]] | [[Rob Blake on the Plan for Kings Rookie Brandt Clarke]]
+2022-10-12 | [[The Forum Report]] | [[Possession Chart - October 11 vs VGK]]
+2022-10-12 | [[The Forum Report]] | [[Dressing rooms may be quieter, but one Kings presence is growing -  This one right next to me Kopitar said]]
+2022-10-12 | [[The Forum Report]] | [[Waking up with the Kings - October 12]]
+2022-10-12 | [[LA Kings Insider]] | [[Practice 10-12 - Identity Through 3 Periods + Notes on Vilardi's Speed, Fourth Goal, Looking Ahead - LA Kings Insider]]
+2022-10-12 | [[LA Kings Insider]] | [[Bettman Speaks in Los Angeles + Reign Sign Thompson, Hrenak to Greenville, Seeley On Season Ahead - LA Kings Insider]]
+2022-10-11 | [[Mayors Manor]] | [[Rapid Review - Golden Knights def Kings in Game 1]]
+2022-10-11 | [[The Forum Report]] | [[Postgame - Terrible LA game management - Bettman talks RSNs with LA media]]
 2022-10-11 | [[ESPN]] | [[Golden Knights vs Kings - Game Recap - October 11, 2022 - ESPN]]
 2022-10-11 | [[LA Kings Insider]] | [[FINAL - Kings 3, Golden Knights 4 - Vilardi, Kopitar, McLellan - LA Kings Insider]]
 2022-10-11 | [[The Fourth Period]] | [[Steaks and Stakes — The Fourth Period]]
@@ -33,3 +41,5 @@ Date | Site | Title
 ## Unprocessed Coverage
 Date | Site | Title
 ---|---|---
+2022-10-13 | [[Hockey Royalty]] | [[LA Kings, Kopitar aim to correct mistakes; Notes on Quick, Vilardi, Fiala]](https://hockeyroyalty.com/2022/10/12/la-kings-kopitar-aim-to-correct-mistakes-plus-notes-on-quick-vilardi-fiala/)
+2022-10-12 | [[Hockey Royalty]] | [[LA Kings - Three takeaways from 4-3 loss against VGK]](https://hockeyroyalty.com/2022/10/12/three-takeaways-from-la-kings-4-3-loss-against-vgk/)

@@ -22,11 +22,13 @@ Drew Doughty | 8 | RD | R | 6' 1" | 210 | 1989-12-08 | London, ON, CAN | 2008 LA
 ## NHL  Coverage
 Date | Site |  Title
 ---|---|---
+2022-10-12 | [[The Forum Report]] | [[Possession Chart - October 11 vs VGK]]
 2022-10-11 | [[Hockey Royalty]] | [[Week 1 Pacific Division Power Rankings]]
 2022-10-10 | [[LA Kings Insider]] | [[On the eve of the 2022-23 season, Kings leadership expecting progress from increased expectations - LA Kings Insider]]
 2022-10-10 | [[LA Times]] | [[Five things to watch for as LA Kings embark on new NHL season - Los Angeles Times]]
 2022-10-08 | [[LA Kings Insider]] | [[10-8 Preview – Gameday Thoughts + Byfield Update, Net Play, Versatility At The Bottom]]
 2022-10-03 | [[LA Times]] | [[Younger Kings players must beat Anze Kopitar for scoring title - Los Angeles Times]]
+2022-09-28 | [[LA Kings Insider]] |  [[PRESEASON FINAL – Kings 1, Sharks 3 – Doughty, Villalta, McLellan]]
 
 
 ## Minor League Coverage

@@ -32,6 +32,10 @@ Date | Site |  Title
 2022-10-08 | [[The Athletic]] | [[LA Kings roster projection 2-dot-0 - Tough decision on Clarke, and Vilardis rise]]
 2022-10-04 | [[LA Kings Insider]]  | [[10-4 Preview – Projected Lineup + Petersen expected, Clarke goes 5-for-5, Today’s Practice]]
 2022-10-02 | [[Mayors Manor]] | [[Kings and Reign Rosters Almost Finished - Answering The Final Six Questions]]
+2022-09-29 | [[LA Kings Insider]] |  [[Angeles Analysis – Thoughts From The First Week Of Training Camp]]
+2022-09-26 | [[LA Kings Insider]] | [[9-26 Preview – Projected Lineup + Back-To-Back Thoughts, JADs Focus, Spence, Moverare debuts]]
+2022-09-25 | [[LA Kings Insider]] |  [[PRESEASON FINAL – Kings 2, Sharks 3 OT – McLellan takeaways + Clarke preseason debut and notes]] 
+2022-09-25 | [[LA Kings Insider]] | [[9-25 Preview – Projected Game Group + early camp notes on Roy, Clarke and Thomas]]
 2022-09-21 | [[legorock99 on YouTube]] | [[He Is The FUTURE Of The LA Kings Blue Line - Brandt Clarke - Top NHL Prospects News and Rumours Today]]
 
 

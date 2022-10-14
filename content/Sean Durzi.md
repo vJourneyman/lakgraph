@@ -34,6 +34,9 @@ Date | Site |  Title
 2022-10-01 | [[LA Kings Insider]] |  [[Day 10 Practice Notes – Petersen, Byfield Updates + Durzi talks contract, Walker on the left]]
 2022-10-01 | [[LA Kings Insider]] |  [[With offseason shoulder surgery behind him, Sean Durzi is right on track in his return to action]]
 2022-09-30 | [[LA Kings Insider]] | [[Day 9 Primer – Today’s Groups + Arvidsson and Durzi with main group, Wagner clears waivers]]
+2022-09-29 | [[LA Kings Insider]] |  [[Angeles Analysis – Thoughts From The First Week Of Training Camp]]
+2022-09-28 | [[LA Kings Insider]] |  [[9-28 Preview – Projected Lineup + Reign Returners, Defensive Camp Battle, Bjornfot Quotes]]
+2022-09-27 | [[LA Kings Insider]] |  [[Day 6 Notes – Injury Updates + Grundstrom Opportunity, Anderson Debut and Kempe joins ATKM]]
 
 
 

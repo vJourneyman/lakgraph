@@ -2,13 +2,13 @@
 date-created: 2022-09-25
 day-of-week-created: Sun
 date-updated: 
-title: Top 10 Questions at Training Camp & Rookie Face-Off Recap
+title: "Top 10 Questions at Training Camp and Rookie Face-Off Recap"
 aliases: []
 tags: [PodcastEpisode]
-status: unstarted
+status: stable
 ---
 
-# Top 10 Questions at Training Camp & Rookie Face-Off Recap
+# Top 10 Questions at Training Camp and Rookie Face-Off Recap
 
 | Link | Date Published | Sequence | Length|
 |---|---|---|---|

@@ -21,8 +21,10 @@ Mikey Anderson | 44 | LD | L | 6' 0" | 195 | 1999-05-25 | Roseville, MN, USA | 2
 ## NHL  Coverage
 Date | Site |  Title
 ---|---|---
+2022-10-12 | [[The Forum Report]] | [[Possession Chart - October 11 vs VGK]]
 2022-10-11 | [[ESPN]] | [[What to watch in Rangers-Lightning, Kings-Knights on ESPN]]
 2022-10-01 | [[LA Kings Insider]] |  [[With a blank slate, Kings focused on replicating second-half success on the penalty kill]]
+2022-09-27 | [[LA Kings Insider]] |  [[Day 6 Notes – Injury Updates + Grundstrom Opportunity, Anderson Debut and Kempe joins ATKM]]
 
 
 
