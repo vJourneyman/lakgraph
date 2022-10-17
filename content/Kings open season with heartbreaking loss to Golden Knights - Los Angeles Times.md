@@ -1,5 +1,5 @@
 ---
-title: "Kings open season with heartbreaking loss to Golden Knights - Los Angeles Times"
+title: Kings open season with heartbreaking loss to Golden Knights - Los Angeles Times
 date-created: 2022-10-16
 day-of-week-created: Sun
 date-updated: 
