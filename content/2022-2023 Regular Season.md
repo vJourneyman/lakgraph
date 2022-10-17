@@ -22,7 +22,7 @@ status: in-progress
 | 2022-10-16 | [[The Forum Report]]  | [[Possession Chart - 10-15 at MIN]]                                                                                               |
 | 2022-10-16 | [[The Forum Report]]  | [[Waking up with the Kings - October 16]]                                                                                         |
 | 2022-10-16 | [[LA Kings Insider]]  | [[A Special Night In St Paul - A Look Inside Jack Jablonskis Gala - LA Kings Insider]]                                            |
-| 2022-10-16 | [[LA Kings Insider]]  | [[REIGN PREVIEW – Ontario vs. Bakersfield, 10-16 - LA Kings Insider]]                                                             |
+| 2022-10-16 | [[LA Kings Insider]]  | [[REIGN PREVIEW – Ontario vs Bakersfield, 10-16 - LA Kings Insider]]                                                             |
 | 2022-10-15 | [[Hockey Royalty]]    | [[Three takeaways from Ontario Reign 8-2 win over Abbottsford]]                                                                   |
 | 2022-10-15 | [[Hockey Royalty]]    | [[LA Kings at Minnesota Wild projected lineups and betting preview]]                                                              |
 | 2022-10-15 | [[Mayors Manor]]      | [[Rapid Review - Kings Win First Game of the Season with Offensive Explosion]]                                                    |

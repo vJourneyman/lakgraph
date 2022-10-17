@@ -1,5 +1,5 @@
 ---
-title: "REIGN PREVIEW – Ontario vs. Bakersfield, 10-16 - LA Kings Insider"
+title: "REIGN PREVIEW – Ontario vs Bakersfield, 10-16 - LA Kings Insider"
 date-created: 2022-10-16
 day-of-week-created: Sun
 date-updated: 
@@ -8,12 +8,12 @@ tags: [NewsPost]
 status: unstarted
 ---
 
-# REIGN PREVIEW – Ontario vs. Bakersfield, 10-16 - LA Kings Insider
+# REIGN PREVIEW – Ontario vs Bakersfield, 10-16 - LA Kings Insider
 
 | Date       | Site                 | Link                                                                                                                                                   |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 2022-10-16 | [[LA Kings Insider]] | [REIGN PREVIEW – Ontario vs. Bakersfield, 10-16 - LA Kings Insider](https://lakingsinsider.com/2022/10/16/reign-preview-ontario-vs-bakersfield-10-16/) | 
-| 2022-10-16 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs. Bakersfield, 10-16 - LA Kings Insider]]                                                                                  |
+| 2022-10-16 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Bakersfield, 10-16 - LA Kings Insider]]                                                                                  |
 
 ## Contributors
 - [[Jared Shafran]]
