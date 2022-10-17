@@ -22,12 +22,15 @@ Kevin Fiala | 22 | LW | L | 5' 10" | 204 | 1996-07-22 | St. Gallen, CHE | 2014 N
 | ---------- | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | 2022-10-16 | [[ESPN]]                        | [[Kings vs Wild - NHL Game Recap - October 15, 2022 - ESPN]]                                                                      |
 | 2022-10-16 | [[Kings at NHL.com]]            | [[Kings score seven, hold off late rally by Wild for first win of season]]                                                        |
+| 2022-10-16 | [[Hockey Royalty]]              | [[Fiala Talks Return, Analytical Winners, Kopitar Passes Taylor, and other LA Kings Bullets]]                                     |
+| 2022-10-16 | [[Hockey Royalty]]              | [[Three takeaways from LA Kings 7-6 wild win vs Minnesota]]                                                                       |
 | 2022-10-16 | [[The Athletic]]                | [[Kevin Fiala felt right at home in Minnesota return - ‘I feel pretty confident in this arena’]]                                  |
 | 2022-10-16 | [[The Forum Report]]            | [[Waking up with the Kings - October 16]]                                                                                         |
 | 2022-10-15 | [[Mayors Manor]]                | [[Projected Lineup -LA Kings at Minnesota Wild, Game 3]]                                                                          |
 | 2022-10-15 | [[The Forum Report]]            | [[Cal starts -building NHL role with Wild, ex-prospect Middleton credits LA -Fialas big return -changes on defense]]              |
 | 2022-10-15 | [[LA Kings Insider]]            | [[FINAL - Kings 7, Wild 6 - Fiala, Kempe, McLellan - LA Kings Insider]]                                                           |
 | 2022-10-15 | [[LA Kings Insider]]            | [[10-15 Preview - Potential Lineup + Fialas Return, Minnesota Natives, Seeking Identity - LA Kings Insider]]                      |
+| 2022-10-14 | [[Hockey Royalty]]              | [[LA Kings Todd McLellan not worried about Kevin Fialas slow start]]                                                              |
 | 2022-10-14 | [[The Athletic]]                | [[Duhatschek - Nazem Kadri Flames observations, the Kraken’s improvements, the Kings struggle]]                                   |
 | 2022-10-14 | [[The Forum Report]]            | [[Possession Chart - 10-13 vs SEA]]                                                                                               |
 | 2022-10-13 | [[ESPN]]                        | [[Kracken vs Kings - NHL Game Recap - October 13, 2022 - ESPN]]                                                                   |

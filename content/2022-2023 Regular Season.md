@@ -14,6 +14,8 @@ status: in-progress
 | ---------- | --------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | 2022-10-16 | [[ESPN]]              | [[Kings vs Wild - NHL Game Recap - October 15, 2022 - ESPN]]                                                                      |
 | 2022-10-16 | [[Kings at NHL.com]]  | [[Kings score seven, hold off late rally by Wild for first win of season]]                                                        |
+| 2022-10-16 | [[Hockey Royalty]]    | [[Fiala Talks Return, Analytical Winners, Kopitar Passes Taylor, and other LA Kings Bullets]]                                     |
+| 2022-10-16 | [[Hockey Royalty]]    | [[Three takeaways from LA Kings 7-6 wild win vs Minnesota]]                                                                       |
 | 2022-10-16 | [[Mayors Manor]]      | [[Reign Recap and Highlights - Bakersfield Hands Ontario First Loss of the Season]]                                               |
 | 2022-10-16 | [[Mayors Manor]]      | [[Ontario Reign - Projected Lineup vs Bakersfield Condors on Sunday]]                                                             |
 | 2022-10-16 | [[The Athletic]]      | [[Kevin Fiala felt right at home in Minnesota return - ‘I feel pretty confident in this arena’]]                                  |
@@ -21,6 +23,8 @@ status: in-progress
 | 2022-10-16 | [[The Forum Report]]  | [[Waking up with the Kings - October 16]]                                                                                         |
 | 2022-10-16 | [[LA Kings Insider]]  | [[A Special Night In St Paul - A Look Inside Jack Jablonskis Gala - LA Kings Insider]]                                            |
 | 2022-10-16 | [[LA Kings Insider]]  | [[REIGN PREVIEW – Ontario vs. Bakersfield, 10-16 - LA Kings Insider]]                                                             |
+| 2022-10-15 | [[Hockey Royalty]]    | [[Three takeaways from Ontario Reign 8-2 win over Abbottsford]]                                                                   |
+| 2022-10-15 | [[Hockey Royalty]]    | [[LA Kings at Minnesota Wild projected lineups and betting preview]]                                                              |
 | 2022-10-15 | [[Mayors Manor]]      | [[Rapid Review - Kings Win First Game of the Season with Offensive Explosion]]                                                    |
 | 2022-10-15 | [[Mayors Manor]]      | [[Projected Lineup -LA Kings at Minnesota Wild, Game 3]]                                                                          |
 | 2022-10-15 | [[Mayors Manor]]      | [[NHL RADIO REPLAY Hoven on LA Kings Season Thus Far Plus Key Player Storylines]]                                                 |
@@ -29,6 +33,8 @@ status: in-progress
 | 2022-10-15 | [[The Forum Report]]  | [[Good morning, St Paul]]                                                                                                         |
 | 2022-10-15 | [[LA Kings Insider]]  | [[FINAL - Kings 7, Wild 6 - Fiala, Kempe, McLellan - LA Kings Insider]]                                                           |
 | 2022-10-15 | [[LA Kings Insider]]  | [[10-15 Preview - Potential Lineup + Fialas Return, Minnesota Natives, Seeking Identity - LA Kings Insider]]                      |
+| 2022-10-14 | [[Hockey Royalty]]    | [[LA Kings Todd McLellan not worried about Kevin Fialas slow start]]                                                              |
+| 2022-10-14 | [[Hockey Royalty]]    | [[Three takeaways from LA Kings 4-1 loss against Seattle]]                                                                        |
 | 2022-10-14 | [[Mayors Manor]]      | [[Update and Next Steps with Kings Prospect Alex Turcotte]]                                                                       |
 | 2022-10-14 | [[Mayors Manor]]      | [[Ontario Reign - Opening Night Lineup vs Abbotsford Canucks]]                                                                    |
 | 2022-10-14 | [[The Athletic]]      | [[Duhatschek - Nazem Kadri Flames observations, the Kraken’s improvements, the Kings struggle]]                                   |

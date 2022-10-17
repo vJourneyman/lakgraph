@@ -25,6 +25,7 @@ Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | 2022-10-16 | [[ESPN]]                | [[Kings vs Wild - NHL Game Recap - October 15, 2022 - ESPN]]                                                        |
 | 2022-10-16 | [[Kings at NHL.com]]    | [[Kings score seven, hold off late rally by Wild for first win of season]]                                          |
+| 2022-10-16 | [[Hockey Royalty]]      | [[Three takeaways from LA Kings 7-6 wild win vs Minnesota]]                                                         |
 | 2022-10-16 | [[The Athletic]]        | [[Kevin Fiala felt right at home in Minnesota return - ‘I feel pretty confident in this arena’]]                    |
 | 2022-10-16 | [[The Forum Report]]    | [[Possession Chart - 10-15 at MIN]]                                                                                 |
 | 2022-10-15 | [[LA Kings Insider]]    | [[FINAL - Kings 7, Wild 6 - Fiala, Kempe, McLellan - LA Kings Insider]]                                             |
