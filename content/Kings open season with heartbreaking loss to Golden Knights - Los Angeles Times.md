@@ -1,6 +1,6 @@
 ---
-title: "Kings open season with heartbreaking loss to Golden Knights - Los Angeles Times"
 date-created: 2022-10-16
+title: "Kings open season with heartbreaking loss to Golden Knights - Los Angeles Times"
 day-of-week-created: Sun
 date-updated: 
 aliases: []
