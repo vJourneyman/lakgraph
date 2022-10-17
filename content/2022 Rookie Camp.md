@@ -24,3 +24,4 @@ Date | Site | Title
 - 2022-09-16 | [[LA Kings Insider]] | [ROOKIES FINAL: Avalanche 3, Kings 2 – Takeaways + Clarke, Pinelli, Sturm](http://lakingsinsider.com/2022/09/16/rookies-final-avalanche-3-kings-2-takeaways-clarke-pinelli-sturm/) 
 - 2022-09-15 | [[LA Kings Insider]] |  [Brandt Clarke Eyes 2022 Rookie Faceoff as Opportunity to Impress](http://lakingsinsider.com/2022/09/15/brandt-clarke-eyes-2022-rookie-faceoff-as-opportunity-to-impress/)
 - 2022-09-15 | [[LA Kings Insider]] | [Rookies Practice at TSPC Prior to 2022 Rookie Faceoff – Lines, Returners, Chromiak, Sturm](http://lakingsinsider.com/2022/09/15/rookies-practice-at-tspc-prior-to-2022-rookie-faceoff-lines-returners-chromiak-sturm/)
+| 2022-09-08 | [[LA Kings Insider]] | [[Kings announce roster, details for 2022 Rookie Faceoff - LA Kings Insider]](https://lakingsinsider.com/2022/09/08/kings-announce-roster-details-for-2022-rookie-faceoff/) |

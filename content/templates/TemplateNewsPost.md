@@ -10,9 +10,9 @@ status: unstarted
 
 # {{title}}
 
-Date | Site | Link
----|---|---
-{{date}} |  | [{{title}}]()  <% tp.file.cursor(1) %>
+| Date     | Site | Link                                   |
+| -------- | ---- | -------------------------------------- |
+| {{date}} |      | [{{title}}]()<% tp.file.cursor(1) %> |
 
 ## Contributors
 - 

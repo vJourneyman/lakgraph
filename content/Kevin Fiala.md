@@ -18,44 +18,57 @@ Kevin Fiala | 22 | LW | L | 5' 10" | 204 | 1996-07-22 | St. Gallen, CHE | 2014 N
 
 
 ## NHL  Coverage
-Date | Site |  Title
----|---|---
-2022-10-12 | [[The Forum Report]] | [[Possession Chart - October 11 vs VGK]]
-2022-10-11 | [[The Forum Report]] | [[October 11 - Lineup notes - Fiala, Kopitar, Kempe buddies - Clarke debut to wait]]
-2022-10-11 | [[The Fourth Period]] | [[Steaks and Stakes — The Fourth Period]]
-2022-10-11 | [[Mayors Manor]] | [[Kings Of The Podcast - Ep 138 – Season Preview with LA GM Rob Blake]]
-2022-10-11 | [[LA Kings Insider]] | [[10-11 Preview - Projected Lineup + Opening Night Jitters, First Line Coming Together, Blake on Final Moves - LA Kings Insider]]
-2022-10-11 | [[Hockey Royalty]] | [[Week 1 Pacific Division Power Rankings]]
-2022-10-11 | [[ESPN]] | [[What to watch in Rangers-Lightning, Kings-Knights on ESPN]]
-2022-10-10 | [[LA Kings on YouTube]] | [[Head Coach Todd McLellan speaks to the media after Mondays practice]]
-2022-10-10 | [[LA Times]] | [[Five things to watch for as LA Kings embark on new NHL season - Los Angeles Times]]
-2022-10-03 | [[LA Kings Insider]] | [[With a fresh slate, the work is well underway when it comes to the LA Kings power play]]
-2022-09-26 | [[LA Kings Insider on YouTube]] | [[Kevin Fiala - 9.26]]
-2022-09-26 | [[LA Kings Insider]] |  [[PRESEASON FINAL – Kings 2, Golden Knights 1 OT – Fiala, Copley, McLellan]] 
+| Date       | Site                            | Title                                                                                                                             |
+| ---------- | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-10-16 | [[ESPN]]                        | [[Kings vs Wild - NHL Game Recap - October 15, 2022 - ESPN]]                                                                      |
+| 2022-10-16 | [[Kings at NHL.com]]            | [[Kings score seven, hold off late rally by Wild for first win of season]]                                                        |
+| 2022-10-16 | [[The Athletic]]                | [[Kevin Fiala felt right at home in Minnesota return - ‘I feel pretty confident in this arena’]]                                  |
+| 2022-10-16 | [[The Forum Report]]            | [[Waking up with the Kings - October 16]]                                                                                         |
+| 2022-10-15 | [[Mayors Manor]]                | [[Projected Lineup -LA Kings at Minnesota Wild, Game 3]]                                                                          |
+| 2022-10-15 | [[The Forum Report]]            | [[Cal starts -building NHL role with Wild, ex-prospect Middleton credits LA -Fialas big return -changes on defense]]              |
+| 2022-10-15 | [[LA Kings Insider]]            | [[FINAL - Kings 7, Wild 6 - Fiala, Kempe, McLellan - LA Kings Insider]]                                                           |
+| 2022-10-15 | [[LA Kings Insider]]            | [[10-15 Preview - Potential Lineup + Fialas Return, Minnesota Natives, Seeking Identity - LA Kings Insider]]                      |
+| 2022-10-14 | [[The Athletic]]                | [[Duhatschek - Nazem Kadri Flames observations, the Kraken’s improvements, the Kings struggle]]                                   |
+| 2022-10-14 | [[The Forum Report]]            | [[Possession Chart - 10-13 vs SEA]]                                                                                               |
+| 2022-10-13 | [[ESPN]]                        | [[Kracken vs Kings - NHL Game Recap - October 13, 2022 - ESPN]]                                                                   |
+| 2022-10-12 | [[Hockey Royalty]]              | [[LA Kings, Kopitar aim to correct mistakes - Notes on Quick, Vilardi, Fiala]]                                                    |
+| 2022-10-12 | [[Hockey Royalty]]              | [[LA Kings - Three takeaways from 4-3 loss against VGK]]                                                                          |
+| 2022-10-12 | [[The Forum Report]]            | [[Possession Chart - October 11 vs VGK]]                                                                                          |
+| 2022-10-11 | [[The Forum Report]]            | [[October 11 - Lineup notes - Fiala, Kopitar, Kempe buddies - Clarke debut to wait]]                                              |
+| 2022-10-11 | [[The Fourth Period]]           | [[Steaks and Stakes — The Fourth Period]]                                                                                         |
+| 2022-10-11 | [[Mayors Manor]]                | [[Kings Of The Podcast - Ep 138 – Season Preview with LA GM Rob Blake]]                                                           |
+| 2022-10-11 | [[LA Kings Insider]]            | [[10-11 Preview - Projected Lineup + Opening Night Jitters, First Line Coming Together, Blake on Final Moves - LA Kings Insider]] |
+| 2022-10-11 | [[Hockey Royalty]]              | [[Week 1 Pacific Division Power Rankings]]                                                                                        |
+| 2022-10-11 | [[ESPN]]                        | [[What to watch in Rangers-Lightning, Kings-Knights on ESPN]]                                                                     |
+| 2022-10-10 | [[LA Kings on YouTube]]         | [[Head Coach Todd McLellan speaks to the media after Mondays practice]]                                                           |
+| 2022-10-10 | [[LA Times]]                    | [[Five things to watch for as LA Kings embark on new NHL season - Los Angeles Times]]                                             |
+| 2022-10-03 | [[LA Kings Insider]]            | [[With a fresh slate, the work is well underway when it comes to the LA Kings power play]]                                        |
+| 2022-09-26 | [[LA Kings Insider on YouTube]] | [[Kevin Fiala - 9.26]]                                                                                                            |
+| 2022-09-26 | [[LA Kings Insider]]            | [[PRESEASON FINAL – Kings 2, Golden Knights 1 OT – Fiala, Copley, McLellan]]                                                      |
 
 
 
 ## Minor League Coverage
-Date | Site |  Title
----|---|---
+| Date       | Site             | Title                                                    |
+| ---------- | ---------------- | -------------------------------------------------------- |
 
 
 
 ## Post-Draft Coverage
-Date | Site |  Title
----|---|---
+| Date       | Site             | Title                                                    |
+| ---------- | ---------------- | -------------------------------------------------------- |
 
 
 
 ## Pre-Draft Coverage
-Date | Site |  Title
----|---|---
+| Date       | Site             | Title                                                    |
+| ---------- | ---------------- | -------------------------------------------------------- |
 
 
 ## Unprocessed Coverage
-- 
-Date | Site |  Title
----|---|---
+ 
+| Date       | Site             | Title                                                    |
+| ---------- | ---------------- | -------------------------------------------------------- |
 2022-10-09 | [[bleacherreport.com]] | [[8 Overhyped Players at the Start of the 2022-23 NHL Season]](https://bleacherreport.com/articles/10051673-8-overhyped-players-at-the-start-of-the-2022-23-nhl-season)
 2022-09-28 | [[The Athletic]] | [[Kings’ Kevin Fiala on meshing with Kopitar and playing on a ‘dangerous’ line]](https://theathletic.com/3638517/2022/09/28/kevin-fiala-kings-wild-kopitar/)
 2022-09-27 | [[NHLPA]] | [[KEVIN FIALA REUNITES WITH FORMER TEAMMATES, AIMS FOR STANDOUT SEASON IN LA]](https://www.nhlpa.com/news/1-22375/kevin-fiala-reunites-with-former-teammates-aims-for-standout-season-in-la)

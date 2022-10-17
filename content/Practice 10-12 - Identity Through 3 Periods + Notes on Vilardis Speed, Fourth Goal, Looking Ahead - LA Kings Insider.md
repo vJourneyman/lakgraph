@@ -1,5 +1,5 @@
 ---
-title: "Practice 10-12 - Identity Through 3 Periods + Notes on Vilardi's Speed, Fourth Goal, Looking Ahead - LA Kings Insider"
+title: "Practice 10-12 - Identity Through 3 Periods + Notes on Vilardis Speed, Fourth Goal, Looking Ahead - LA Kings Insider"
 date-created: 2022-10-13
 day-of-week-created: Thu
 date-updated: 
@@ -8,12 +8,12 @@ tags: [NewsPost]
 status: unstarted
 ---
 
-# Practice 10-12 - Identity Through 3 Periods + Notes on Vilardi's Speed, Fourth Goal, Looking Ahead - LA Kings Insider
+# Practice 10-12 - Identity Through 3 Periods + Notes on Vilardis Speed, Fourth Goal, Looking Ahead - LA Kings Insider
 
 Date | Site | Link
 ---|---|---
 2022-10-12 | [[LA Kings Insider]] | [Practice 10-12 - Identity Through 3 Periods + Notes on Vilardi's Speed, Fourth Goal, Looking Ahead - LA Kings Insider](https://lakingsinsider.com/2022/10/12/practice-10-12-identity-through-3-periods-notes-on-vilardis-speed-fourth-goal-looking-ahead/)
-2022-10-12 | [[LA Kings Insider]] | [[Practice 10-12 - Identity Through 3 Periods + Notes on Vilardi's Speed, Fourth Goal, Looking Ahead - LA Kings Insider]]
+2022-10-12 | [[LA Kings Insider]] | [[Practice 10-12 - Identity Through 3 Periods + Notes on Vilardis Speed, Fourth Goal, Looking Ahead - LA Kings Insider]]
 
 
 ## Contributors

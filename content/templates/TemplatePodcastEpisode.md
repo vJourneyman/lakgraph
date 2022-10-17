@@ -1,6 +1,7 @@
 ---
 title: "{{title}}"
-date-created: {{date:YYYY-MM-DD}}
+podcast: {{podcast}}
+date-published: {{date:YYYY-MM-DD}}
 day-of-week-created: {{date:ddd}}
 date-updated: 
 aliases: []
@@ -10,9 +11,9 @@ status: unstarted
 
 # {{title}}
 
-| Link | Date Published | Sequence | Length|
-|---|---|---|---|
-| [{{title}}]()  |   |
+| Date     | Site        | Link                 |
+| -------- | ----------- | -------------------- |
+| {{date}} | {{podcast}} | [{{title}}]({{url}}) | 
 
 ## Contributors:
 - 
@@ -21,8 +22,9 @@ status: unstarted
 - 
 
 ## Summary
-
+> 
 
 ## Notes
+
 
 

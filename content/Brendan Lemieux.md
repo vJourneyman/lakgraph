@@ -21,6 +21,9 @@ Brendan Lemieux | 48 | LW | L | 6' 1" | 215 | 1996-03-15 | Denver, CO, USA | 201
 ## NHL  Coverage
 Date | Site |  Title
 ---|---|---
+2022-10-14 | [[LA Kings Insider]] | [[Practice 10-14 - Off To Minny - Getting on the road, todays alignment, Arvidsson skates - LA Kings Insider]]
+2022-10-13 | [[The Forum Report]] | [[October 13 - McLellan envisions “instinctual” hockey in Clarkes debut - Arvidsson ill - Quick-Jones]]
+2022-10-13 | [[LA Kings Insider]] | [[10-13 Preview - Clarke Debut Expected + Arvidsson out, 19-55-13 Line, Being First - LA Kings Insider]]
 2022-09-29 | [[LA Kings Insider]] | [[Blake Lizotte and Brendan Lemieux excited to add Carl Grundstrom to buzzing, physical line]]
 
 

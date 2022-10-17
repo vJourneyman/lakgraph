@@ -19,27 +19,30 @@ Samuel Helenius | 25 | C | L | 6" 6" | 215 | 2002-11-26 | Järvenpää, Finland 
 
 
 ## NHL  Coverage
-Date | Site |  Title
----|---|---
-
+| Date | Site | Title | 
+| ---- | ---- | ----- |
 
 
 ## Minor League Coverage
-Date | Site |  Title
----|---|---
+| Date | Site | Title | 
+| ---- | ---- | ----- |
+| 2022-10-13 | [[Hockey Royalty]] | [[LA Kings - 2022-23 prospect rankings, 10-6]]                                                                              |
 
 
 
 ## Post-Draft Coverage
-Date | Site |  Title
----|---|---
+| Date | Site | Title | 
+| ---- | ---- | ----- |
 
 
 
 ## Pre-Draft Coverage
-Date | Site |  Title
----|---|---
+| Date | Site | Title | 
+| ---- | ---- | ----- |
 
 
 ## Unprocessed Coverage
-- 
+| Date | Site | Title | 
+| ---- | ---- | ----- |
+
+

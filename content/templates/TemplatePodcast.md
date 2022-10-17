@@ -10,7 +10,7 @@ status: unstarted
 
 # {{title}}
 
-URL | Feed | Twitter
--|-|-
-[Homepage]() | [Feed]() | [@twitterHandle](https://twitter.com/) 
+| URL          | Feed     | Twitter                                |
+| ------------ | -------- | -------------------------------------- |
+| [Homepage]() | [Feed]() | [@twitterHandle](https://twitter.com/) | 
 

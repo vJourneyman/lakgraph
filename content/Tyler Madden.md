@@ -19,14 +19,15 @@ Tyler Madden | 10 | F | R | 5' 11" | 170 | 1999-11-09 | Deerfield Beach, FL | VA
 
 
 ## NHL  Coverage
-Date | Site |  Title
----|---|---
+| Date | Site | Title |
+| ---- | ---- | ----- |
 
 
 
 ## Minor League Coverage
-Date | Site |  Title
----|---|---
+| Date       | Site             | Title                                                                 |
+| ---------- | ---------------- | --------------------------------------------------------------------- |
+| 2022-10-16 | [[Mayors Manor]] | [[Ontario Reign - Projected Lineup vs Bakersfield Condors on Sunday]] |
 
 
 

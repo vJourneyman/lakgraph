@@ -9,13 +9,16 @@ status: unstarted
 ---
 
 # {{title}}
-Date | Site | Title
----|---|---
+| Date | Site | Title |
+| ---- | ---- | ----- |
+|      |      |       |
+
 
 
 ## Unprocessed Coverage
-Date | Site | Title
----|---|---
+| Date | Site | Title |
+| ---- | ---- | ----- |
+|      |      |       |
 
 
 

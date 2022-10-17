@@ -7,26 +7,26 @@ tags: [Status/New,Staff]
 
 # {{title}}
 
-NHL.com | Twitter
--|-
-[{{title}}]() | [@twitter_handle](https://twitter.com/)
+| NHL.com | Twitter |
+| ------- | ------- |
+| [{{title}}]() | [@twitter_handle](https://twitter.com/)
 
-Title | Organization 
---- | ---
+| Title | Organization |
+| ----- | ------------ |
+|       |              |
 
 
-##### Unprocessed Articles
-- 
 
 ## NHL  Coverage
-Date | Title
----|---
+| Date | Title |
+| ---- | ----- |
+|      |       |
 
 
 
 ## Minor League Coverage
-Date | Title
----|---
-
+| Date | Title |
+| ---- | ----- |
+|      |       |
 
 

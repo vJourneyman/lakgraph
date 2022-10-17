@@ -28,6 +28,7 @@ Date | Site |  Title
 ## Minor League Coverage
 Date | Site |  Title
 ---|---|---
+2022-10-14 | [[Mayors Manor]] | [[Update and Next Steps with Kings Prospect Alex Turcotte]]
 
 
 ## Post-Draft Coverage

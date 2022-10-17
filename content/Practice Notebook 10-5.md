@@ -12,7 +12,7 @@ status: unstarted
 
 Date | Site | Link
 ---|---|---
- 2022-10-05   | [[LA Kings Insider]]  | [Practice Notebook 10-5](https://lakingsinsider.com/2022/10/05/practice-notebook-10-5-three-groups-of-players-durzis-progression-alternate-jersey-schedule/)
+2022-10-05   | [[LA Kings Insider]]  | [Practice Notebook 10-5](https://lakingsinsider.com/2022/10/05/practice-notebook-10-5-three-groups-of-players-durzis-progression-alternate-jersey-schedule/)
 
 ## Contributors:
 - [[Zach Dooley]]

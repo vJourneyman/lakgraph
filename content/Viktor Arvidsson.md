@@ -21,6 +21,12 @@ Viktor Arvidsson | 33 | LW | R | 5' 10" | 185 | 1993-04-08 | Skellefteå, SWE | 
 ## NHL  Coverage
 Date | Site |  Title
 ---|---|---
+2022-10-15 | [[LA Kings Insider]] | [[10-15 Preview - Potential Lineup + Fialas Return, Minnesota Natives, Seeking Identity - LA Kings Insider]]
+2022-10-14 | [[The Forum Report]] | [[Arvidsson skates, Clarke savors the moment and more from a travel day in El Segundo]]
+2022-10-14 | [[LA Kings Insider]] | [[Practice 10-14 - Off To Minny - Getting on the road, todays alignment, Arvidsson skates - LA Kings Insider]]
+2022-10-13 | [[The Forum Report]] | [[October 13 - McLellan envisions “instinctual” hockey in Clarkes debut - Arvidsson ill - Quick-Jones]]
+2022-10-13 | [[LA Kings Insider]] | [[10-13 Preview - Clarke Debut Expected + Arvidsson out, 19-55-13 Line, Being First - LA Kings Insider]]
+2022-10-12 | [[The Athletic]] | [[LA Kings hope to ‘settle in’ after penalties and mistakes evident vs Vegas]]
 2022-10-10 | [[LA Kings on YouTube]] | [[Head Coach Todd McLellan speaks to the media after Mondays practice]]
 2022-10-08 | [[Mayors Manor]] | [[Kings Opening Night Final Roster Decisions Set – And, There Are Some Swerves]]
 2022-10-08 | [[LA Kings Insider]] | [[PRESEASON FINAL – Kings 6, Ducks 3 – Arvidsson, Kaliyev, McLellan]]

@@ -27,6 +27,7 @@ Date | Site |  Title
 ## Minor League Coverage
 Date | Site |  Title
 ---|---|---
+2022-10-14 | [[Mayors Manor]] | [[Ontario Reign - Opening Night Lineup vs Abbotsford Canucks]]
 2022-10-06 | [[Ontario Reign on Youtube]] | [[Cameron Gaunce - Reign Training Camp Day 1]]
 
 

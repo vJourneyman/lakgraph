@@ -49,8 +49,7 @@ Player | \# | Pos | Sh | Ht | Wt | Born | Birthplace
  
 
 ## Goalies
-Player | \# | Ht | Wt | Born | Birthplace 
----|---|---|---|---|---
-[[Pheonix Copley]] | 29 | 6' 4" | 200 | 1992-01-18 | North Pole, AK, USA
-[[Cal Petersen]] | 40 | 6' 2" | 185 | 1994-10-19 | Waterloo, IA, USA
-[[Jonathan Quick]] | 32 | 6' 1" | 220 | 1986-01-21 | Milford, CT, USA
+| Player             | \#  | Ht    | Wt  | Born       | Birthplace        |
+| ------------------ | --- | ----- | --- | ---------- | ----------------- |
+| [[Cal Petersen]]   | 40  | 6' 2" | 185 | 1994-10-19 | Waterloo, IA, USA |
+| [[Jonathan Quick]] | 32  | 6' 1" | 220 | 1986-01-21 | Milford, CT, USA  |

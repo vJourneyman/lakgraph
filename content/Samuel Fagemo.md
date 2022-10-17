@@ -19,17 +19,20 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 
 
 ## NHL  Coverage
-Date | Site |  Title
----|---|---
-2022-10-07 | [[LA Kings Insider]] | [[Day 15 Primer – The Finale + Roster Moves]]
-2022-10-02 | [[Mayors Manor]] | [[Kings and Reign Rosters Almost Finished - Answering The Final Six Questions]]
-2022-09-29 | [[LA Kings Insider]] |  [[Angeles Analysis – Thoughts From The First Week Of Training Camp]]
-2022-09-10 | [[The Hockey Writers]] | [[Kings’ Prospect Preview - Samuel Fagemo]]
+| Date       | Site                   | Title                                                                           |
+| ---------- | ---------------------- | ------------------------------------------------------------------------------- |
+| 2022-10-07 | [[LA Kings Insider]]   | [[Day 15 Primer – The Finale + Roster Moves]]                                   |
+| 2022-10-02 | [[Mayors Manor]]       | [[Kings and Reign Rosters Almost Finished - Answering The Final Six Questions]] |
+| 2022-09-29 | [[LA Kings Insider]]   | [[Angeles Analysis – Thoughts From The First Week Of Training Camp]]            |
+| 2022-09-10 | [[The Hockey Writers]] | [[Kings’ Prospect Preview - Samuel Fagemo]]                                     |
 
 
 ## Minor League Coverage
-Date | Site |  Title
----|---|---
+| Date       | Site                 | Title                                                                               |
+| ---------- | -------------------- | ----------------------------------------------------------------------------------- |
+| 2022-10-16 | [[Mayors Manor]]     | [[Reign Recap and Highlights - Bakersfield Hands Ontario First Loss of the Season]] |
+| 2022-10-16 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs. Bakersfield, 10-16 - LA Kings Insider]]               |
+| 2022-10-14 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 8, Canucks 2 – Sturm, Tynan, Grans - LA Kings Insider]]       |
 
 
 

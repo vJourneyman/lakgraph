@@ -25,8 +25,10 @@ Date | Site |  Title
 
 
 ## Minor League Coverage
-Date | Site |  Title
----|---|---
+| Date       | Site               | Title                                                          |
+| ---------- | ------------------ | -------------------------------------------------------------- |
+| 2022-10-14 | [[Mayors Manor]]   | [[Ontario Reign - Opening Night Lineup vs Abbotsford Canucks]] |
+| 2022-10-13 | [[Hockey Royalty]] | [[LA Kings - 2022-23 prospect rankings, 10-6]]                 |
 
 
 

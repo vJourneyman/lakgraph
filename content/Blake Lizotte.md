@@ -23,6 +23,8 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 Date | Site |  Title
 ---|---|---
+2022-10-15 | [[LA Kings Insider]] | [[10-15 Preview - Potential Lineup + Fialas Return, Minnesota Natives, Seeking Identity - LA Kings Insider]]
+2022-10-14 | [[The Forum Report]] | [[Possession Chart - 10-13 vs SEA]]
 2022-10-12 | [[The Forum Report]] | [[Possession Chart - October 11 vs VGK]]
 2022-10-01 | [[LA Kings Insider]] |  [[With a blank slate, Kings focused on replicating second-half success on the penalty kill]]
 2022-09-29 | [[LA Kings Insider]] | [[Blake Lizotte and Brendan Lemieux excited to add Carl Grundstrom to buzzing, physical line]]

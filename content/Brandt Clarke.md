@@ -21,6 +21,16 @@ Brandt Clarke | 92 | RD | R | 6' 2" | 185 | 2003-02-09 | Nepean, ON, CAN | 2021 
 ## NHL  Coverage
 Date | Site |  Title
 ---|---|---
+2022-10-14 | [[The Athletic]] | [[Brandt Clarkes NHL debut - Shift-by-shift analysis of the LA Kings rookie]]
+2022-10-14 | [[The Forum Report]] | [[Arvidsson skates, Clarke savors the moment and more from a travel day in El Segundo]]
+2022-10-14 | [[The Forum Report]] | [[Waking up with the Kings - October 14]]
+2022-10-14 | [[LA Kings Insider]] | [[Practice 10-14 - Off To Minny - Getting on the road, todays alignment, Arvidsson skates - LA Kings Insider]]
+2022-10-13 | [[ESPN]] | [[Kracken vs Kings - NHL Game Recap - October 13, 2022 - ESPN]]
+2022-10-13 | [[Mayors Manor]] | [[Projected Lineup -Kings vs Kraken, Game 2]]
+2022-10-13 | [[The Forum Report]] | [[McLellan - “We didn’t want to shoot the puck”- Beniers on ex-USA teammate Kaliyev- Clarkes debut -Jones on returning to LA]]
+2022-10-13 | [[The Forum Report]] | [[October 13 - McLellan envisions “instinctual” hockey in Clarkes debut - Arvidsson ill - Quick-Jones]]
+2022-10-13 | [[LA Kings Insider]] | [[FINAL - Kings 1, Kraken 4 - Clarke, Danault, McLellan - LA Kings Insider]]
+2022-10-13 | [[LA Kings Insider]] | [[10-13 Preview - Clarke Debut Expected + Arvidsson out, 19-55-13 Line, Being First - LA Kings Insider]]
 2022-10-11 | [[The Forum Report]] | [[October 11 - Lineup notes - Fiala, Kopitar, Kempe buddies - Clarke debut to wait]]
 2022-10-11 | [[Mayors Manor]] | [[Kings Of The Podcast - Ep 138 – Season Preview with LA GM Rob Blake]]
 2022-10-11 | [[Hockey Royalty]] | [[LA Kings - Key to Brandt Clarke development is right amount of minutes]]

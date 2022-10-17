@@ -22,6 +22,11 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 Date | Site |  Title
 ---|---|---
+2022-10-15 | [[The Forum Report]] | [[Cal starts -building NHL role with Wild, ex-prospect Middleton credits LA -Fialas big return -changes on defense]]
+2022-10-15 | [[LA Kings Insider]] | [[10-15 Preview - Potential Lineup + Fialas Return, Minnesota Natives, Seeking Identity - LA Kings Insider]]
+2022-10-12 | [[Hockey Royalty]] | [[LA Kings, Kopitar aim to correct mistakes - Notes on Quick, Vilardi, Fiala]]
+2022-10-12 | [[Hockey Royalty]] | [[LA Kings - Three takeaways from 4-3 loss against VGK]]
+2022-10-12 | [[The Athletic]] | [[LA Kings hope to ‘settle in’ after penalties and mistakes evident vs Vegas]]
 2022-10-11 | [[Mayors Manor]] | [[Kings Of The Podcast - Ep 138 – Season Preview with LA GM Rob Blake]]
 2022-10-11 | [[ESPN]] | [[What to watch in Rangers-Lightning, Kings-Knights on ESPN]]
 2022-10-08 | [[Mayors Manor]] | [[Kings Opening Night Final Roster Decisions Set – And, There Are Some Swerves]]
