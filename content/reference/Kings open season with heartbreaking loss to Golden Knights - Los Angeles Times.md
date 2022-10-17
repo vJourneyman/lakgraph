@@ -1,6 +1,5 @@
 ---
 created: 2022-10-16
-entry: | 2022-10-16 | [[LA Times]] | [[Kings open season with heartbreaking loss to Golden Knights - Los Angeles Times]](https://www.latimes.com/sports/hockey/story/2022-10-11/kings-season-opener-golden-knights-stanley-cup) |
 ---
 
 # Kings open season with heartbreaking loss to Golden Knights - Los Angeles Times
