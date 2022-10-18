@@ -11,6 +11,8 @@ Welcome to the LA Kings News and Knowledge Graph. This is an experiment in curat
 
 Here's some places you might want to start:
 
+[[About]] the site
+
 [[2022-2023 Regular Season]]
 
 [[2022-2023 Pre-Season]]
