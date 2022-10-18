@@ -12,6 +12,20 @@ status: in-progress
 
 | Date       | Site                  | Title                                                                                                                             |
 | ---------- | --------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-10-17 | [[Kings at NHL.com]]  | [[Danaults second goal gives Kings OT win against Red Wings]]                                                                     |
+| 2022-10-17 | [[Hockey Royalty]]    | [[LA Kings at Detroit Red Wings projected lineups and betting preview]]                                                           |
+| 2022-10-17 | [[Mayors Manor]]      | [[Rapid Review - Kings Get Back to Even With OT Win in Motor City]]                                                               |
+| 2022-10-17 | [[Mayors Manor]]      | [[Projected Lineup - LA Kings at Detroit Red Wings, Game 4]]                                                                      |
+| 2022-10-17 | [[The Athletic]]      | [[LA Kings goalie Cal Petersen needs to show more after six-goal opening game]]                                                   |
+| 2022-10-17 | [[The Forum Report]]  | [[No firm Edler, Iafallo updates - “Everybody wanted to win it for Arvy”]]                                                        |
+| 2022-10-17 | [[The Forum Report]]  | [[Walker in after Edler takes puck to face in warm-ups]]                                                                          |
+| 2022-10-17 | [[The Forum Report]]  | [[Quick projected - Roy expecting 150 supporters - Grundstrom in for Kaliyev - Määttä on LA growth]]                              |
+| 2022-10-17 | [[The Forum Report]]  | [[Good morning, Detroit]]                                                                                                         |
+| 2022-10-17 | [[LA Kings Insider]]  | [[FINAL - Kings 5, Red Wings 4 (OT) - Danault, Moore, Walker, McLellan - LA Kings Insider]]                                       |
+| 2022-10-17 | [[LA Kings Insider]]  | [[10-17 Preview - Full Morning Skate Today + McLellan on Offense-Defense, Zone Entries and detROYt - LA Kings Insider]]           |
+| 2022-10-17 | [[LA Kings Insider]]  | [[Week One Recap with Dennis Bernstein - LA Kings Insider]]                                                                       |
+| 2022-10-16 | [[LA Kings Insider]]  | [[REIGN FINAL – Reign 2, Condors 3 – Sturm, Fagemo - LA Kings Insider]]                                                           |
+| 2022-10-16 | [[LA Kings Insider]]  | [[Fial-ing Right At Home - Film, Analysis and Quotes from a successful Minnesota return - LA Kings Insider]]                      |
 | 2022-10-16 | [[ESPN]]              | [[Kings vs Wild - NHL Game Recap - October 15, 2022 - ESPN]]                                                                      |
 | 2022-10-16 | [[Kings at NHL.com]]  | [[Kings score seven, hold off late rally by Wild for first win of season]]                                                        |
 | 2022-10-16 | [[Hockey Royalty]]    | [[Fiala Talks Return, Analytical Winners, Kopitar Passes Taylor, and other LA Kings Bullets]]                                     |
@@ -22,7 +36,7 @@ status: in-progress
 | 2022-10-16 | [[The Forum Report]]  | [[Possession Chart - 10-15 at MIN]]                                                                                               |
 | 2022-10-16 | [[The Forum Report]]  | [[Waking up with the Kings - October 16]]                                                                                         |
 | 2022-10-16 | [[LA Kings Insider]]  | [[A Special Night In St Paul - A Look Inside Jack Jablonskis Gala - LA Kings Insider]]                                            |
-| 2022-10-16 | [[LA Kings Insider]]  | [[REIGN PREVIEW – Ontario vs Bakersfield, 10-16 - LA Kings Insider]]                                                             |
+| 2022-10-16 | [[LA Kings Insider]]  | [[REIGN PREVIEW – Ontario vs Bakersfield, 10-16 - LA Kings Insider]]                                                              |
 | 2022-10-15 | [[Hockey Royalty]]    | [[Three takeaways from Ontario Reign 8-2 win over Abbottsford]]                                                                   |
 | 2022-10-15 | [[Hockey Royalty]]    | [[LA Kings at Minnesota Wild projected lineups and betting preview]]                                                              |
 | 2022-10-15 | [[Mayors Manor]]      | [[Rapid Review - Kings Win First Game of the Season with Offensive Explosion]]                                                    |
@@ -89,5 +103,3 @@ status: in-progress
 ## Unprocessed Coverage
 | Date | Site | Title |
 | ---- | ---- | ----- |
-|      |      |       |
-

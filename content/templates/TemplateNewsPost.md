@@ -18,16 +18,16 @@ status: unstarted
 - 
 
 
+## Summary
+> 
+
+
 ## Players
 - 
 
 
 ## Staff
 - 
-
-
-## Summary
-> 
 
 
 ## Notes and Quotes

@@ -12,13 +12,15 @@ NHL.com | Twitter
 -|-
 [Cal Petersen]() | [@twitter_handle](https://twitter.com/)
 
-Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft 
----|---|---|---|---|---|---|---|---
+| Player | \#  | Position | Shoots | Height | Weight | Born | Birthplace | Draft |
+| ------ | --- | -------- | ------ | ------ | ------ | ---- | ---------- | ----- |
 
 
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                |
 | ---------- | ----------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| 2022-10-17 | [[Hockey Royalty]]      | [[LA Kings at Detroit Red Wings projected lineups and betting preview]]                                              |
+| 2022-10-17 | [[The Athletic]]        | [[LA Kings goalie Cal Petersen needs to show more after six-goal opening game]]                                      |
 | 2022-10-16 | [[Hockey Royalty]]      | [[Fiala Talks Return, Analytical Winners, Kopitar Passes Taylor, and other LA Kings Bullets]]                        |
 | 2022-10-16 | [[Hockey Royalty]]      | [[Three takeaways from LA Kings 7-6 wild win vs Minnesota]]                                                          |
 | 2022-10-16 | [[The Athletic]]        | [[Kevin Fiala felt right at home in Minnesota return - ‘I feel pretty confident in this arena’]]                     |

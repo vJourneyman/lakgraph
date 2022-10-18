@@ -20,6 +20,7 @@ Kevin Fiala | 22 | LW | L | 5' 10" | 204 | 1996-07-22 | St. Gallen, CHE | 2014 N
 ## NHL  Coverage
 | Date       | Site                            | Title                                                                                                                             |
 | ---------- | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-10-16 | [[LA Kings Insider]] | [[Fial-ing Right At Home - Film, Analysis and Quotes from a successful Minnesota return - LA Kings Insider]]                                                                                                                      |
 | 2022-10-16 | [[ESPN]]                        | [[Kings vs Wild - NHL Game Recap - October 15, 2022 - ESPN]]                                                                      |
 | 2022-10-16 | [[Kings at NHL.com]]            | [[Kings score seven, hold off late rally by Wild for first win of season]]                                                        |
 | 2022-10-16 | [[Hockey Royalty]]              | [[Fiala Talks Return, Analytical Winners, Kopitar Passes Taylor, and other LA Kings Bullets]]                                     |

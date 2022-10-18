@@ -21,6 +21,7 @@ Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                 | Title                               |     | 
 | ---------- | -------------------- | ----------------------------------- | --- |
+| 2022-10-17 | [[The Forum Report]] | [[Quick projected - Roy expecting 150 supporters - Grundstrom in for Kaliyev - Määttä on LA growth]]                                                                                                                        |
 | 2022-10-16 | [[The Forum Report]] | [[Possession Chart - 10-15 at MIN]]                                                       |
 | 2022-10-14 | [[The Forum Report]] | [[Possession Chart - 10-13 vs SEA]] |     |
 | 2022-10-14 | [[The Forum Report]] | [[Waking up with the Kings - October 14]]
@@ -40,6 +41,8 @@ Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
 | 2022-10-06 | [[The Hockey News]] | [[Breakout Candidates in the Pacific Division]]                                                                                                                                        |
 | 2022-10-03 | [[LA Kings Insider]] | [[Day 12 Primer – Groupings + McLellan on roster cutdown and waivers]]
 | 2022-10-01 | [[LA Kings Insider]] |  [[Day 10 Practice Notes – Petersen, Byfield Updates + Durzi talks contract, Walker on the left]]
+| 2022-09-17 | [[The Athletic]] | [[Kings look for Quinton Byfield to ‘play big’ and show leadership among rookies]]                                                                                    |
+| 2022-08-27 | [[The Hockey Writers]] | [[Kings Prospect Preview - Quinton Byfield]]                                                                             |
 
 
 ## Minor League Coverage

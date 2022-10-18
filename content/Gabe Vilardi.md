@@ -22,6 +22,9 @@ NHL.com | Twitter
 ## NHL  Coverage
 | Date       | Site                 | Title                                     |
 | ---------- | -------------------- | ----------------------------------------- |
+| 2022-10-17 | [[Mayors Manor]] | [[Rapid Review - Kings Get Back to Even With OT Win in Motor City]]                                                                                            |
+| 2022-10-17 | [[The Forum Report]] | [[No firm Edler, Iafallo updates - “Everybody wanted to win it for Arvy”]]                                                                                              |
+| 2022-10-17 | [[LA Kings Insider]] | [[10-17 Preview - Full Morning Skate Today + McLellan on Offense-Defense, Zone Entries and detROYt - LA Kings Insider]]                                                                                                                               |
 | 2022-10-16 | [[Kings at NHL.com]] | [[Kings score seven, hold off late rally by Wild for first win of season]]                                                                                 |
 | 2022-10-16 | [[The Forum Report]] | [[Possession Chart - 10-15 at MIN]]                                                       |
 | 2022-10-16 | [[The Forum Report]] | [[Waking up with the Kings - October 16]]                                                                |

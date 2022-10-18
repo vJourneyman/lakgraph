@@ -10,22 +10,28 @@ status: unstarted
 
 # 2022-2023 Season Preview
 
-Date | Site | Title
----|---|---
-2022-09-21 | [[legorock99 on YouTube]] | [[He Is The FUTURE Of The LA Kings Blue Line - Brandt Clarke - Top NHL Prospects News and Rumours Today]]
-2022-09-12 | [[legorock99 on YouTube]] | [[LA KINGS PROSPECTS - Alex Turcotte VS Moritz Seider, Trevor Zegras - Detroit Red Wings, Anaheim Ducks]]
-2022-09-10 | [[The Hockey Writers]] | [[Kings’ Prospect Preview - Samuel Fagemo]]
-2022-08-31 | [[The Hockey Writers]] | [[Kings’ Prospect Preview - Rasmus Kupari]]
+| Date       | Site                      | Title                                                                                                                      |
+| ---------- | ------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| 2022-09-21 | [[legorock99 on YouTube]] | [[He Is The FUTURE Of The LA Kings Blue Line - Brandt Clarke - Top NHL Prospects News and Rumours Today]]                  |
+| 2022-09-17 | [[The Athletic]]          | [[Kings look for Quinton Byfield to ‘play big’ and show leadership among rookies]]                                         |
+| 2022-09-12 | [[legorock99 on YouTube]] | [[LA KINGS PROSPECTS - Alex Turcotte VS Moritz Seider, Trevor Zegras - Detroit Red Wings, Anaheim Ducks]]                  |
+| 2022-09-10 | [[The Hockey Writers]]    | [[Kings Prospect Preview - Samuel Fagemo]]                                                                                 |
+| 2022-08-31 | [[The Hockey Writers]]    | [[Kings Prospect Preview - Rasmus Kupari]]                                                                                 |
+| 2022-08-27 | [[The Hockey Writers]]    | [[Kings Prospect Preview - Quinton Byfield]] |
+| 2022-08-21 | [[The Hockey Writers]] | [[Kings Prospect Preview - Gabe Vilardi]](https://thehockeywriters.com/kings-prospect-preview-gabe-vilardi-2022-23/) |
+| 2022-08-18 | [[The Hockey Writers]] | [[Kings Prospect Preview - Arthur Kaliyev]](https://thehockeywriters.com/kings-prospect-preview-arthur-kaliyev/) |
+| 2022-08-15 | [[The Hockey Writers]] | [[Kings Biggest Questions Heading Into 2022-23 Season]](https://thehockeywriters.com/kings-biggest-questions-2022-23-season/) |
 
 
 ## Articles to process
-Date | Site | Title
----|---|---
-2022-09-21 | [[LA Times]] | [[Elliott: After ending playoff drought, Kings face next challenge — getting better - Los Angeles Times]](https://www.latimes.com/sports/hockey/story/2022-09-21/column-kings-training-camp-todd-mcllellan-heightened-expectations)
-2022-09-10 | [[Mayors Manor]] | [[Kings Tidbits - Latest Updates on Mikey Anderson and Alex Turcotte]](https://mayorsmanor.com/2022/09/kings-tidbits-latest-updates-on-mikey-anderson-and-alex-turcotte/)
-2022-09-10 | [[HockeyBuzz]] | [[Kings re-sign Mikey Anderson]](https://hockeybuzz.com/blog/Ben-Shelley/Kings-re-sign-Mikey-Anderson/281/118655)
-2022-09-07 | [[The Athletic]] | [[State of the Kings -  Defense looks strong, but can Drew Doughty stay healthy]](https://theathletic.com/3571831/2022/09/07/kings-defense-doughty-inujuries)
-2022-07-16 | [[Mayors Manor]] | [[Mike Donnelly on Standouts at LA Kings Dev Camp and Other Impressions]](https://mayorsmanor.com/2022/07/mike-donnelly-on-standouts-at-kings-development-camp-and-overall-impressions/)
+| Date | Site | Title | 
+| ---- | ---- | ----- |
+
+| 2022-09-21 | [[LA Times]] | [[Elliott: After ending playoff drought, Kings face next challenge — getting better - Los Angeles Times]](https://www.latimes.com/sports/hockey/story/2022-09-21/column-kings-training-camp-todd-mcllellan-heightened-expectations)
+| 2022-09-10 | [[Mayors Manor]] | [[Kings Tidbits - Latest Updates on Mikey Anderson and Alex Turcotte]](https://mayorsmanor.com/2022/09/kings-tidbits-latest-updates-on-mikey-anderson-and-alex-turcotte/)
+| 2022-09-10 | [[HockeyBuzz]] | [[Kings re-sign Mikey Anderson]](https://hockeybuzz.com/blog/Ben-Shelley/Kings-re-sign-Mikey-Anderson/281/118655)
+| 2022-09-07 | [[The Athletic]] | [[State of the Kings -  Defense looks strong, but can Drew Doughty stay healthy]](https://theathletic.com/3571831/2022/09/07/kings-defense-doughty-inujuries)
+| 2022-07-16 | [[Mayors Manor]] | [[Mike Donnelly on Standouts at LA Kings Dev Camp and Other Impressions]](https://mayorsmanor.com/2022/07/mike-donnelly-on-standouts-at-kings-development-camp-and-overall-impressions/)
 
 
 https://www.thefourthperiod.com/bernstein/lak-summer-from-the-hunted-to-the-hunters
