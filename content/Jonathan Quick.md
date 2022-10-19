@@ -20,6 +20,7 @@ Jonathan Quick | 32 | 6' 1" | 220 | 1986-01-21 | Milford, CT, USA | -   2005 LAK
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                    |
 | ---------- | -------------------- | -------------------------------------------------------------------------------------------------------- |
+| 2022-10-18 | [[The Forum Report]] | [[Possession Chart - 10-17 at DET]]                                                       |
 | 2022-10-17 | [[The Athletic]]     | [[LA Kings goalie Cal Petersen needs to show more after six-goal opening game]]                          |
 | 2022-10-17 | [[The Forum Report]] | [[Quick projected - Roy expecting 150 supporters - Grundstrom in for Kaliyev - Määttä on LA growth]]     |
 | 2022-10-13 | [[The Forum Report]] | [[October 13 - McLellan envisions “instinctual” hockey in Clarkes debut - Arvidsson ill - Quick-Jones]]  |

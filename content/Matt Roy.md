@@ -21,6 +21,7 @@ Matt Roy | 3 | RD | R | 6' 1" | 205 | 1995-03-01 | Detroit, MI, USA | 2015 LAK, 
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                                   |     |
 | ---------- | -------------------- | ----------------------------------------------------------------------------------------------------------------------- | --- |
+| 2022-10-18 | [[LA Kings Insider]] | [[FINAL - Kings 4, Predators 3 (SO) - Roy, Petersen, McLellan - LA Kings Insider]]                                                                                          |
 | 2022-10-17 | [[Hockey Royalty]] | [[LA Kings at Detroit Red Wings projected lineups and betting preview]]                                                                                                      |
 | 2022-10-17 | [[The Forum Report]] | [[Quick projected - Roy expecting 150 supporters - Grundstrom in for Kaliyev - Määttä on LA growth]]                                                                                                                        |
 | 2022-10-17 | [[LA Kings Insider]] | [[10-17 Preview - Full Morning Skate Today + McLellan on Offense-Defense, Zone Entries and detROYt - LA Kings Insider]] |     |

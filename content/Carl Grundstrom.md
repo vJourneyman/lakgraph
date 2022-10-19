@@ -21,6 +21,7 @@ Carl Grundstrom | 91 | RW | L | 6' 0" | 195 | 1997-12-01 | Umea, SWE | 2016 TOR,
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                |
 | ---------- | -------------------- | ---------------------------------------------------------------------------------------------------- |
+| 2022-10-18 | [[The Forum Report]] | [[Possession Chart - 10-17 at DET]]                                                       |
 | 2022-10-17 | [[The Forum Report]] | [[Quick projected - Roy expecting 150 supporters - Grundstrom in for Kaliyev - Määttä on LA growth]]                                                                                                                        |
 | 2022-10-17 | [[The Forum Report]] | [[Good morning, Detroit]]                                                                            |
 | 2022-10-13 | [[LA Kings Insider]] | 10-13 Preview - Clarke Debut Expected + Arvidsson out, 19-55-13 Line, Being First - LA Kings Insider |

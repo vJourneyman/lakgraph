@@ -21,6 +21,7 @@ RW | L | 6'2" | 210 | 21 | 2001-06-26 | Tashkent, UZB | 2019 LAK, 2nd rd, 2nd pk
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                          |     |
 | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------ | --- |
+| 2022-10-18 | [[Pro Hockey Rumors]] | [[Alex Iafallo Placed On Injured Reserve]]                                                                                    |
 | 2022-10-17 | [[The Forum Report]] | [[Quick projected - Roy expecting 150 supporters - Grundstrom in for Kaliyev - Määttä on LA growth]]                                                                                                                        |
 | 2022-10-17 | [[The Forum Report]]  | [[Good morning, Detroit]]                                                                                                      |     |
 | 2022-10-13 | [[The Forum Report]]  | [[McLellan - “We didn’t want to shoot the puck”- Beniers on ex-USA teammate Kaliyev- Clarkes debut -Jones on returning to LA]] |     |

@@ -20,6 +20,10 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                                             |
 | ---------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-10-18 | [[Hockey Royalty]] | [[LA Kings at Nashville Predators Projected Lineups and Betting Preview]]                                                                                                            |
+| 2022-10-18 | [[The Forum Report]] | [[Iafallo, “week-to-week for now,” returns home for evaluation -  Tuesday morning skate updates]]                                                                                                                   |
+| 2022-10-18 | [[The Forum Report]] | [[Waking up with the Kings - October 18]]                                                                |
+| 2022-10-18 | [[LA Kings Insider]] | [[Kings recall Jacob Moverare from Ontario + Alexes out tonight, Iafallo to IR - LA Kings Insider]]                                                                                                                 |
 | 2022-10-17 | [[The Forum Report]] | [[No firm Edler, Iafallo updates - “Everybody wanted to win it for Arvy”]]                                                                                              |
 | 2022-10-17 | [[The Forum Report]] | [[Walker in after Edler takes puck to face in warm-ups]]                                                                                            |
 | 2022-10-16 | [[The Forum Report]] | [[Possession Chart - 10-15 at MIN]]                                                       |

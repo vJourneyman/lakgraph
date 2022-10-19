@@ -30,6 +30,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                               |
 | ---------- | -------------------- | ----------------------------------------------------------------------------------- |
+| 2022-10-18 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Henderson, 10-18 - LA Kings Insider]]                                                                                |
 | 2022-10-16 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 2, Condors 3 – Sturm, Fagemo - LA Kings Insider]]                                                                                  |
 | 2022-10-16 | [[Mayors Manor]]     | [[Reign Recap and Highlights - Bakersfield Hands Ontario First Loss of the Season]] |
 | 2022-10-16 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Bakersfield, 10-16 - LA Kings Insider]]               |

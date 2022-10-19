@@ -10,8 +10,22 @@ status: in-progress
 
 # 2022-2023 Regular Season
 
-| Date       | Site                  | Title                                                                                                                             |
+| Date       | Site                  | Title                                                                                                                             | 
 | ---------- | --------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-10-18 | [[Pro Hockey Rumors]] | [[Alex Iafallo Placed On Injured Reserve]]                                                                                        |
+| 2022-10-18 | [[Hockey Royalty]]    | [[LA Kings Recall Defenseman Jacob Moverare, Place Alex Iafallo on IR]]                                                           |
+| 2022-10-18 | [[Hockey Royalty]]    | [[LA Kings at Nashville Predators Projected Lineups and Betting Preview]]                                                         |
+| 2022-10-18 | [[Hockey Royalty]]    | [[LA Kings 5, Red Wings 4 OT - Danault scores twice, bails out Arvidsson]]                                                        |
+| 2022-10-18 | [[Mayors Manor]]      | [[Projected Lineup - LA Kings at Nashville Predators, Game 5]]                                                                    |
+| 2022-10-18 | [[Mayors Manor]]      | [[Ontario Reign - Projected Lineup vs Henderson Silver Knights on Tuesday]]                                                       |
+| 2022-10-18 | [[The Forum Report]]  | [[Possession Chart - 10-17 at DET]]                                                                                               |
+| 2022-10-18 | [[The Forum Report]]  | [[Iafallo, “week-to-week for now,” returns home for evaluation -  Tuesday morning skate updates]]                                 |
+| 2022-10-18 | [[The Forum Report]]  | [[Waking up with the Kings - October 18]]                                                                                         |
+| 2022-10-18 | [[LA Kings Insider]]  | [[FINAL - Kings 4, Predators 3 (SO) - Roy, Petersen, McLellan - LA Kings Insider]]                                                |
+| 2022-10-18 | [[LA Kings Insider]]  | [[REIGN FINAL – Reign 5, Silver Knights 3 – Sturm, Madden - LA Kings Insider]]                                                    |
+| 2022-10-18 | [[LA Kings Insider]]  | [[10-18 Preview - Petersen in Net and 2,19 Out + First Back-To-Back, Second Line Stands Out - LA Kings Insider]]                  |
+| 2022-10-18 | [[LA Kings Insider]]  | [[Kings recall Jacob Moverare from Ontario + Alexes out tonight, Iafallo to IR - LA Kings Insider]]                               |
+| 2022-10-18 | [[LA Kings Insider]]  | [[REIGN PREVIEW – Ontario vs Henderson, 10-18 - LA Kings Insider]]                                                                |
 | 2022-10-17 | [[Kings at NHL.com]]  | [[Danaults second goal gives Kings OT win against Red Wings]]                                                                     |
 | 2022-10-17 | [[Hockey Royalty]]    | [[LA Kings at Detroit Red Wings projected lineups and betting preview]]                                                           |
 | 2022-10-17 | [[Mayors Manor]]      | [[Rapid Review - Kings Get Back to Even With OT Win in Motor City]]                                                               |

@@ -22,6 +22,8 @@ NHL.com | Twitter
 ## NHL  Coverage
 | Date       | Site                 | Title                                     |
 | ---------- | -------------------- | ----------------------------------------- |
+| 2022-10-18 | [[Hockey Royalty]] | [[LA Kings 5, Red Wings 4 OT - Danault scores twice, bails out Arvidsson]]                                                                                                         |
+| 2022-10-18 | [[LA Kings Insider]] | [[FINAL - Kings 4, Predators 3 (SO) - Roy, Petersen, McLellan - LA Kings Insider]]                                                                                          |
 | 2022-10-17 | [[Mayors Manor]] | [[Rapid Review - Kings Get Back to Even With OT Win in Motor City]]                                                                                            |
 | 2022-10-17 | [[The Forum Report]] | [[No firm Edler, Iafallo updates - “Everybody wanted to win it for Arvy”]]                                                                                              |
 | 2022-10-17 | [[LA Kings Insider]] | [[10-17 Preview - Full Morning Skate Today + McLellan on Offense-Defense, Zone Entries and detROYt - LA Kings Insider]]                                                                                                                               |

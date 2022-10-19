@@ -20,6 +20,9 @@ Sean Walker | 26 | RD | R | 5' 11" | 195 | 1994-11-13 | Keswick, ON, CAN
 ## NHL  Coverage
 | Date | Site | Title |
 | ---- | ---- | ----- |
+| 2022-10-18 | [[Hockey Royalty]] | [[LA Kings at Nashville Predators Projected Lineups and Betting Preview]]                                                                                                            |
+| 2022-10-18 | [[Hockey Royalty]] | [[LA Kings 5, Red Wings 4 OT - Danault scores twice, bails out Arvidsson]]                                                                                                         |
+| 2022-10-18 | [[LA Kings Insider]] | [[10-18 Preview - Petersen in Net and 2,19 Out + First Back-To-Back, Second Line Stands Out - LA Kings Insider]]                                                                                                                        |
 | 2022-10-17 | [[The Forum Report]] | [[No firm Edler, Iafallo updates - “Everybody wanted to win it for Arvy”]]                                                                                              |
 | 2022-10-17 | [[The Forum Report]] | [[Walker in after Edler takes puck to face in warm-ups]]                                                                                            |
 | 2022-10-17 | [[LA Kings Insider]] | [[FINAL - Kings 5, Red Wings 4 (OT) - Danault, Moore, Walker, McLellan - LA Kings Insider]]                                                                                                  |

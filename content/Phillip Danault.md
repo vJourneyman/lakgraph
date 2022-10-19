@@ -22,6 +22,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                 |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------- |
+| 2022-10-18 | [[Hockey Royalty]] | [[LA Kings 5, Red Wings 4 OT - Danault scores twice, bails out Arvidsson]]                                                                                                         |
 | 2022-10-17 | [[Kings at NHL.com]]  | [[Danaults second goal gives Kings OT win against Red Wings]]                                                                     |
 | 2022-10-17 | [[Mayors Manor]] | [[Rapid Review - Kings Get Back to Even With OT Win in Motor City]]                                                                                            |
 | 2022-10-17 | [[The Forum Report]] | [[No firm Edler, Iafallo updates - “Everybody wanted to win it for Arvy”]]                                                                                              |

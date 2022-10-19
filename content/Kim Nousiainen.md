@@ -27,7 +27,7 @@ tags: [Status/New,Player]
 ## Minor League Coverage
 | Date | Site | Title |
 | ---- | ---- | ----- |
-|      |      |       |
+| 2022-10-18 | [[Mayors Manor]] | [[Ontario Reign - Projected Lineup vs Henderson Silver Knights on Tuesday]]                                                                                                       |
 
 
 
