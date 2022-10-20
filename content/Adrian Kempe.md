@@ -23,6 +23,7 @@ Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                               |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| 2022-10-19 | [[Hockey Royalty]] | [[LA Kings powerplay breakdown versus Nashville]] |
 | 2022-10-18 | [[The Forum Report]] | [[Possession Chart - 10-17 at DET]]                                                       |
 | 2022-10-17 | [[Mayors Manor]]        | [[Rapid Review - Kings Get Back to Even With OT Win in Motor City]]                                                 |
 | 2022-10-16 | [[ESPN]]                | [[Kings vs Wild - NHL Game Recap - October 15, 2022 - ESPN]]                                                        |

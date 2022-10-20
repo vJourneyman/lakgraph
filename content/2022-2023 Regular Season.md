@@ -13,13 +13,13 @@ status: in-progress
 
 | Date       | Site                   | Title                                                                                                                                                                                                                                              |
 | ---------- | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-10-19 | [[Hockey Royalty]] | [[LA Kings powerplay breakdown versus Nashville]](https://hockeyroyalty.com/2022/10/19/la-kings-powerplay-breakdown-versus-nashville/) |
-| 2022-10-19 | [[Hockey Royalty]] | [[Ontario Reign - Three takeaways from 5-3 win against Henderson]](https://hockeyroyalty.com/2022/10/19/ontario-reign-three-takeaways-from-5-3-win-against-henderson/) |
-| 2022-10-19 | [[Hockey Royalty]]  | [[LA Kings 4, Predators 3 SO - Matt Roy, Cal Petersen shine in win]](https://hockeyroyalty.com/2022/10/19/takeaways-la-kings-4-predators-3-so-matt-roy-cal-petersen-shine-in-win/)                                                                 |
-| 2022-10-19 | [[Mayors Manor]]    | [[Rapid Review - Vilardi Remains Hot, Helps Kings Secure Shootout Win in Nashville]](https://mayorsmanor.com/2022/10/rapid-review-vilardi-remains-hot-helps-kings-secure-so-win-in-nashville/)                                                      |
-| 2022-10-19 | [[Mayors Manor]]    | [[LA Kings Top Goaltending Prospect to Have Back Surgery This Week]](https://mayorsmanor.com/2022/10/la-kings-top-goaltending-prospect-to-have-back-surgery-this-week/)                                                                            |
-| 2022-10-19 | [[Mayors Manor]]    | [[LA Kings Weekly Reign Report, October 16, 2022]](https://mayorsmanor.com/2022/10/la-kings-weekly-prospect-tracker-week-ending-october-16-2022-ontario-reign/)                                                                                    |
-| 2022-10-19 | [[The Forum Report]] | [[Waking up with the Kings - October 19]](https://theforumreport.com/waking-up-with-the-kings-october-19/)                                                                                                                                          |
+| 2022-10-19 | [[Hockey Royalty]] | [[LA Kings powerplay breakdown versus Nashville]] |
+| 2022-10-19 | [[Hockey Royalty]] | [[Ontario Reign - Three takeaways from 5-3 win against Henderson]] |
+| 2022-10-19 | [[Hockey Royalty]]  | [[LA Kings 4, Predators 3 SO - Matt Roy, Cal Petersen shine in win]]                                                                 |
+| 2022-10-19 | [[Mayors Manor]]    | [[Rapid Review - Vilardi Remains Hot, Helps Kings Secure Shootout Win in Nashville]]                                                      |
+| 2022-10-19 | [[Mayors Manor]]    | [[LA Kings Top Goaltending Prospect to Have Back Surgery This Week]]                                                                            |
+| 2022-10-19 | [[Mayors Manor]]    | [[LA Kings Weekly Reign Report, October 16, 2022]]                                                                                    |
+| 2022-10-19 | [[The Forum Report]] | [[Waking up with the Kings - October 19]]                                                                                                                                          |
 | 2022-10-19 | [[LA Kings Insider]] | [[High scoring forwards have Ontario Reign off to hot start - LA Kings Insider]]                                                                 |
 | 2022-10-19 | [[LA Kings Insider]] | [[Angeles Analysis - Good To See You, Positive Trends - LA Kings Insider]]                                                                                |
 | 2022-10-19 | [[LA Kings Insider]] | [[A Few More Narratives - Young Guys With Old Plays, Penalty Kill Prowess, Shootout Selection - LA Kings Insider]] |

@@ -22,6 +22,9 @@ NHL.com | Twitter
 ## NHL  Coverage
 | Date       | Site                 | Title                                     |
 | ---------- | -------------------- | ----------------------------------------- |
+| 2022-10-19 | [[Hockey Royalty]] | [[LA Kings powerplay breakdown versus Nashville]] |
+| 2022-10-19 | [[Hockey Royalty]] | [[LA Kings 4, Predators 3 SO - Matt Roy, Cal Petersen shine in win]]                                                                                                             | 
+| 2022-10-19 | [[Mayors Manor]] | [[Rapid Review - Vilardi Remains Hot, Helps Kings Secure Shootout Win in Nashville]]                                                                                                         |
 | 2022-10-19 | [[LA Kings Insider]] | [[A Few More Narratives - Young Guys With Old Plays, Penalty Kill Prowess, Shootout Selection - LA Kings Insider]]                                                                                                                               |
 | 2022-10-18 | [[Kings at NHL.com]] | [[10-18 FINAL - Kings 4, Predators 3 (SO)]]                                                                               |
 | 2022-10-18 | [[Hockey Royalty]] | [[LA Kings 5, Red Wings 4 OT - Danault scores twice, bails out Arvidsson]]                                                                                                         |

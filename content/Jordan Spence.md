@@ -29,6 +29,7 @@ Date | Site |  Title
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                         |
 | ---------- | -------------------- | ----------------------------------------------------------------------------- |
+| 2022-10-19 | [[Mayors Manor]] | [[LA Kings Weekly Reign Report, October 16, 2022]]                                                                                                            |
 | 2022-10-18 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Henderson, 10-18 - LA Kings Insider]]                                                                                |
 | 2022-10-16 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Bakersfield, 10-16 - LA Kings Insider]]         |
 | 2022-10-14 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 8, Canucks 2 – Sturm, Tynan, Grans - LA Kings Insider]] |

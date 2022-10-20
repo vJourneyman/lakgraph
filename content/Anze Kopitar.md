@@ -22,6 +22,7 @@ Anze Kopitar | 11 | C | L | 6' 3" | 225 | 1987-08-24 | Jesenice, SVN | 2005 LAK,
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                                             |
 | ---------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-10-19 | [[Hockey Royalty]] | [[LA Kings powerplay breakdown versus Nashville]] |
 | 2022-10-18 | [[Hockey Royalty]] | [[LA Kings 5, Red Wings 4 OT - Danault scores twice, bails out Arvidsson]]                                                                                                         |
 | 2022-10-16 | [[Hockey Royalty]]   | [[Fiala Talks Return, Analytical Winners, Kopitar Passes Taylor, and other LA Kings Bullets]]                                     |
 | 2022-10-16 | [[The Athletic]]     | [[Kevin Fiala felt right at home in Minnesota return - ‘I feel pretty confident in this arena’]]                                  |

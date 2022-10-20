@@ -21,6 +21,9 @@ Matt Roy | 3 | RD | R | 6' 1" | 205 | 1995-03-01 | Detroit, MI, USA | 2015 LAK, 
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                                   |     |
 | ---------- | -------------------- | ----------------------------------------------------------------------------------------------------------------------- | --- |
+| 2022-10-19 | [[Hockey Royalty]] | [[LA Kings 4, Predators 3 SO - Matt Roy, Cal Petersen shine in win]]                                                                                                             | 
+| 2022-10-19 | [[Mayors Manor]] | [[Rapid Review - Vilardi Remains Hot, Helps Kings Secure Shootout Win in Nashville]]                                                                                                         |
+| 2022-10-19 | [[The Forum Report]] | [[Waking up with the Kings - October 19]]                                                                |
 | 2022-10-19 | [[LA Kings Insider]] | [[A Few More Narratives - Young Guys With Old Plays, Penalty Kill Prowess, Shootout Selection - LA Kings Insider]]                                                                                                                               |
 | 2022-10-18 | [[Kings at NHL.com]] | [[10-18 FINAL - Kings 4, Predators 3 (SO)]]                                                                               |
 | 2022-10-18 | [[LA Kings Insider]] | [[FINAL - Kings 4, Predators 3 (SO) - Roy, Petersen, McLellan - LA Kings Insider]]                                                                                          |
