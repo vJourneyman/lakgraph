@@ -21,6 +21,7 @@ Brendan Lemieux | 48 | LW | L | 6' 1" | 215 | 1996-03-15 | Denver, CO, USA | 201
 ## NHL  Coverage
 | Date       | Site                 | Title                               |
 | ---------- | -------------------- | ----------------------------------- |
+| 2022-10-19 | [[LA Kings Insider]] | [[Angeles Analysis - Good To See You, Positive Trends - LA Kings Insider]]                                                                                        |
 | 2022-10-18 | [[The Forum Report]] | [[Possession Chart - 10-17 at DET]] |
 | 2022-10-14 | [[LA Kings Insider]] | [[Practice 10-14 - Off To Minny - Getting on the road, todays alignment, Arvidsson skates - LA Kings Insider]]
 | 2022-10-13 | [[The Forum Report]] | [[October 13 - McLellan envisions “instinctual” hockey in Clarkes debut - Arvidsson ill - Quick-Jones]]

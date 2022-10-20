@@ -32,7 +32,7 @@ status: unstarted
 
 
 ## Notes and Quotes
-- Trained with Gary Roberts over the summer.
+- Trained with [[Gary Roberts]] over the summer.
 
 ### [[Quinton Byfield]]
 > It was unbelievable. We were staying on the bench for ‘O Canada.’ You look up. The whole crowd is wearing orange. Singing ‘O Canada.’ You actually had goosebumps in there. How loud it was.

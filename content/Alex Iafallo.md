@@ -21,6 +21,7 @@ Alex Iafallo | 19 | LW | L | 6' 0" | 200 | 1993-12-21 | Eden, NY, USA |
 | Date       | Site                 | Title                                                                                                                             |
 | ---------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | 2022-10-18 | [[Pro Hockey Rumors]] | [[Alex Iafallo Placed On Injured Reserve]]                                                                                    |
+| 2022-10-18 | [[Kings at NHL.com]] | [[Kings Recall Defenseman Jacob Moverare]]                                                                                  |
 | 2022-10-18 | [[Hockey Royalty]] | [[LA Kings Recall Defenseman Jacob Moverare, Place Alex Iafallo on IR]]                                                                                                         |
 | 2022-10-18 | [[Hockey Royalty]] | [[LA Kings at Nashville Predators Projected Lineups and Betting Preview]]                                                                                                            |
 | 2022-10-18 | [[Hockey Royalty]] | [[LA Kings 5, Red Wings 4 OT - Danault scores twice, bails out Arvidsson]]                                                                                                         |

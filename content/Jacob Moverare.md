@@ -21,6 +21,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 | Date       | Site                    | Title                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------- |
 | 2022-10-18 | [[Pro Hockey Rumors]] | [[Alex Iafallo Placed On Injured Reserve]]                                                                                    |
+| 2022-10-18 | [[Kings at NHL.com]] | [[Kings Recall Defenseman Jacob Moverare]]                                                                                  |
 | 2022-10-18 | [[Hockey Royalty]] | [[LA Kings Recall Defenseman Jacob Moverare, Place Alex Iafallo on IR]]                                                                                                         |
 | 2022-10-18 | [[Mayors Manor]] | [[Projected Lineup - LA Kings at Nashville Predators, Game 5]]                                                                                         |
 | 2022-10-18 | [[LA Kings Insider]]    | [[Kings recall Jacob Moverare from Ontario + Alexes out tonight, Iafallo to IR - LA Kings Insider]] |

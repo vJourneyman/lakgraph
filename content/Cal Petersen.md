@@ -19,10 +19,13 @@ NHL.com | Twitter
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                |
 | ---------- | ----------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| 2022-10-18 | [[Hockey Royalty]] | [[LA Kings Recall Defenseman Jacob Moverare, Place Alex Iafallo on IR]]                                                                                                         |
-| 2022-10-18 | [[Hockey Royalty]] | [[LA Kings at Nashville Predators Projected Lineups and Betting Preview]]                                                                                                            |
-| 2022-10-18 | [[LA Kings Insider]] | [[FINAL - Kings 4, Predators 3 (SO) - Roy, Petersen, McLellan - LA Kings Insider]]                                                                                          |
-| 2022-10-18 | [[LA Kings Insider]] | [[10-18 Preview - Petersen in Net and 2,19 Out + First Back-To-Back, Second Line Stands Out - LA Kings Insider]]                                                                                                                        |
+| 2022-10-19 | [[LA Kings Insider]]    | [[Angeles Analysis - Good To See You, Positive Trends - LA Kings Insider]]                                           |
+| 2022-10-19 | [[LA Kings Insider]]    | [[A Few More Narratives - Young Guys With Old Plays, Penalty Kill Prowess, Shootout Selection - LA Kings Insider]]   |
+| 2022-10-18 | [[Kings at NHL.com]]    | [[10-18 FINAL - Kings 4, Predators 3 (SO)]]                                                                          |
+| 2022-10-18 | [[Hockey Royalty]]      | [[LA Kings Recall Defenseman Jacob Moverare, Place Alex Iafallo on IR]]                                              |
+| 2022-10-18 | [[Hockey Royalty]]      | [[LA Kings at Nashville Predators Projected Lineups and Betting Preview]]                                            |
+| 2022-10-18 | [[LA Kings Insider]]    | [[FINAL - Kings 4, Predators 3 (SO) - Roy, Petersen, McLellan - LA Kings Insider]]                                   |
+| 2022-10-18 | [[LA Kings Insider]]    | [[10-18 Preview - Petersen in Net and 2,19 Out + First Back-To-Back, Second Line Stands Out - LA Kings Insider]]     |
 | 2022-10-17 | [[Hockey Royalty]]      | [[LA Kings at Detroit Red Wings projected lineups and betting preview]]                                              |
 | 2022-10-17 | [[The Athletic]]        | [[LA Kings goalie Cal Petersen needs to show more after six-goal opening game]]                                      |
 | 2022-10-16 | [[Hockey Royalty]]      | [[Fiala Talks Return, Analytical Winners, Kopitar Passes Taylor, and other LA Kings Bullets]]                        |

@@ -21,6 +21,7 @@ Brandt Clarke | 92 | RD | R | 6' 2" | 185 | 2003-02-09 | Nepean, ON, CAN | 2021 
 ## NHL  Coverage
 | Date       | Site                      | Title                                                                                                                          |
 | ---------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-10-19 | [[LA Kings Insider]] | [[A Few More Narratives - Young Guys With Old Plays, Penalty Kill Prowess, Shootout Selection - LA Kings Insider]]                                                                                                                               |
 | 2022-10-18 | [[Hockey Royalty]] | [[LA Kings at Nashville Predators Projected Lineups and Betting Preview]]                                                                                                            |
 | 2022-10-18 | [[The Forum Report]] | [[Waking up with the Kings - October 18]]                                                                |
 | 2022-10-17 | [[Hockey Royalty]]        | [[LA Kings at Detroit Red Wings projected lineups and betting preview]]                                                        |

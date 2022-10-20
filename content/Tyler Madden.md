@@ -25,10 +25,11 @@ Tyler Madden | 10 | F | R | 5' 11" | 170 | 1999-11-09 | Deerfield Beach, FL | VA
 
 
 ## Minor League Coverage
-| Date       | Site             | Title                                                                 |
-| ---------- | ---------------- | --------------------------------------------------------------------- |
-| 2022-10-18 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 5, Silver Knights 3 – Sturm, Madden - LA Kings Insider]]                                                                                         |
-| 2022-10-16 | [[Mayors Manor]] | [[Ontario Reign - Projected Lineup vs Bakersfield Condors on Sunday]] |
+| Date       | Site                 | Title                                                                                   |
+| ---------- | -------------------- | --------------------------------------------------------------------------------------- |
+| 2022-10-18 | [[Mayors Manor]]     | [[Reign Recap and Highlights - Madden and Kupari Shine in Victory over Silver Knights]] |
+| 2022-10-18 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 5, Silver Knights 3 – Sturm, Madden - LA Kings Insider]]          |
+| 2022-10-16 | [[Mayors Manor]]     | [[Ontario Reign - Projected Lineup vs Bakersfield Condors on Sunday]]                   |
 
 
 

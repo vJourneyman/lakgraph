@@ -21,6 +21,7 @@ Viktor Arvidsson | 33 | LW | R | 5' 10" | 185 | 1993-04-08 | Skellefteå, SWE | 
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                            |
 | ---------- | ----------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| 2022-10-19 | [[LA Kings Insider]] | [[Angeles Analysis - Good To See You, Positive Trends - LA Kings Insider]]                                                                                        |
 | 2022-10-18 | [[Hockey Royalty]] | [[LA Kings 5, Red Wings 4 OT - Danault scores twice, bails out Arvidsson]]                                                                                                         |
 | 2022-10-18 | [[Mayors Manor]] | [[Projected Lineup - LA Kings at Nashville Predators, Game 5]]                                                                                         |
 | 2022-10-18 | [[The Forum Report]]    | [[Iafallo, “week-to-week for now,” returns home for evaluation -  Tuesday morning skate updates]]                |

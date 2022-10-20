@@ -21,6 +21,7 @@ Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                 | Title                               |     | 
 | ---------- | -------------------- | ----------------------------------- | --- |
+| 2022-10-19 | [[LA Kings Insider]] | [[A Few More Narratives - Young Guys With Old Plays, Penalty Kill Prowess, Shootout Selection - LA Kings Insider]]                                                                                                                               |
 | 2022-10-17 | [[The Forum Report]] | [[Quick projected - Roy expecting 150 supporters - Grundstrom in for Kaliyev - Määttä on LA growth]]                                                                                                                        |
 | 2022-10-16 | [[The Forum Report]] | [[Possession Chart - 10-15 at MIN]]                                                       |
 | 2022-10-14 | [[The Forum Report]] | [[Possession Chart - 10-13 vs SEA]] |     |
@@ -51,16 +52,37 @@ Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
 
 
 ## Post-Draft Coverage
-| Date       | Site                 | Title                               |     | 
-| ---------- | -------------------- | ----------------------------------- | --- |
+| Date       | Site             | Title                                                                                                                                                                                        |
+| ---------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2020-10-07 | [[SB Nation]] | [[Quinton Byfield makes history as highest-drafted Black player]]                                                                                                                                                                                                                      |
+| 2020-10-07 | [[Global News]]     | [[Ontarios Quinton Byfield makes history by becoming highest-drafted Black player in NHL Draft]]
+| 2020-10-07 | [[Mayors Manor]]     | [[Anatomy of a Draft Pick – How the Kings Decided on Byfield]]
+| 2020-10-06 | [[LA Kings on YouTube]]     | [[Quinton Byfield Meets With Media]]
+| 2020-10-06 | [[The Athletic]] | [[Pronmans scouting report - What the Kings are getting in Quinton Byfield]]                                                                                                                 |
+| 2020-10-06 | [[SB Nation]]     | [[2020 NHL Draft - LA Kings select Quinton Byfield with No 2 pick]]
 
 
 ## Pre-Draft
 | Date       | Site                              | Title                                      |
 | ---------- | --------------------------------- | ------------------------------------------ |
+| 2020-10-06 | [[The Athletic]]     | [[Quinton Byfield makes history as highest-drafted Black player]]
+| 2020-10-05 | [[Sportsnet]] | [[Prospect of Interest - Quinton Byfield has makings of franchise centre]]
 | 2020-06-26 | [[The Hockey Tactics Newsletter]] | [[A Development Plan for Quinton Byfield]] | 
+| 2020-05-29 | [[The Hockey Tactics Newsletter]] | [[How will Byfield answer The Question]]                                                                                                            |
+| 2020-04-15 | [[Last Word On Sports]] | [[Quinton Byfield Scouting Report - 2020 NHL Draft No 2]]
+| 2020-04-08 | [[NHL]] | [[Prospects talk Draft prep]]
+| 2020-02-20 | [[CHL]] | [[In Conversation - Wolves centre Quinton Byfield]]                                                                                                                        |
+| 2019-10-03 | [[The Hockey Writers]] | [[Prospect Profile - An Early Look at Quinton Byfield]]                                                                                |
+| 2019-07-31 | [[Sportsnet]] | [[Wolves Quinton Byfield ready for big year ahead of 2020 NHL draft]]
 
 
 ## Unprocessed Articles
-- [A Development Plan for Quinton Byfield](https://jhanhky.substack.com/p/a-development-plan-for-quinton-byfield?s=r) - [[Jack Han]] - [[The Hockey Tactics Newsletter]] 2020-06-26
+| Date       | Site                   | Title                                                                                                                                                                                                              |
+| ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2021-04-28 | [[Puck Prose]]         | [[LA Kings - Three big predictions for Quinton Byfields long-awaited NHL Debut]](https://puckprose.com/2021/04/28/la-kings-three-big-predictions-quinton-byfields-nhl-debut/)                                      | 
+| 2021-04-27 | [[ep Rinkside]] | [[Film Room - An examination of Quinton Byfields progress with the AHLs Ontario Reign]](https://eprinkside.com/2021/04/27/film-room-an-examination-of-quinton-byfields-progress-with-the-ahls-ontario-reign) |
+| 2021-01-13 | [[Rink Royalty]]       | [[LA Kings - The great Quinton Byfield dilemma and whether he should play]](https://rinkroyalty.com/2021/01/13/la-kings-great-quinton-byfield-dilemma-whether-should-play/)                                        |
+| 2020-10-04 | [[Mayors Manor]]       | [[Kings Of the Podcast - Ep Q16 with Mark Yannetti, LA Kings Director of Amateur Scouting]](https://mayorsmanor.com/2020/10/kings-of-the-podcast-ep-q16-with-mark-yannetti-la-kings-director-of-amateur-scouting/) |
+| 2020-09-25 | [[The Hockey Writers]] | [[The Kings Must Draft Quinton Byfield]](https://thehockeywriters.com/kings-must-draft-quinton-byfield/)                                                                                                           |
+
 

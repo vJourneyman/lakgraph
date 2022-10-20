@@ -22,6 +22,8 @@ NHL.com | Twitter
 ## NHL  Coverage
 | Date       | Site                 | Title                                     |
 | ---------- | -------------------- | ----------------------------------------- |
+| 2022-10-19 | [[LA Kings Insider]] | [[A Few More Narratives - Young Guys With Old Plays, Penalty Kill Prowess, Shootout Selection - LA Kings Insider]]                                                                                                                               |
+| 2022-10-18 | [[Kings at NHL.com]] | [[10-18 FINAL - Kings 4, Predators 3 (SO)]]                                                                               |
 | 2022-10-18 | [[Hockey Royalty]] | [[LA Kings 5, Red Wings 4 OT - Danault scores twice, bails out Arvidsson]]                                                                                                         |
 | 2022-10-18 | [[LA Kings Insider]] | [[FINAL - Kings 4, Predators 3 (SO) - Roy, Petersen, McLellan - LA Kings Insider]]                                                                                          |
 | 2022-10-17 | [[Mayors Manor]] | [[Rapid Review - Kings Get Back to Even With OT Win in Motor City]]                                                                                            |
