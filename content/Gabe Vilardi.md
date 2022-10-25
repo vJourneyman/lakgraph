@@ -22,6 +22,9 @@ NHL.com | Twitter
 ## NHL  Coverage
 | Date       | Site                 | Title                                     |
 | ---------- | -------------------- | ----------------------------------------- |
+| 2022-10-24 | [[The Forum Report]] | [[Playmaking Chart - 10-22 at WSH]]                                                       |
+| 2022-10-22 | [[The Forum Report]] | [[Friends sent Clarke gifs after move on Crosby - Lemieuxs effective, simple game - Quick-Kuemper - Edler in]]                                                                                                                                |
+| 2022-10-20 | [[Kings at NHL.com]] | [[LA Kings at Pittsburgh Penguins - How to Watch]]                                                                                      |
 | 2022-10-19 | [[Hockey Royalty]] | [[LA Kings powerplay breakdown versus Nashville]] |
 | 2022-10-19 | [[Hockey Royalty]] | [[LA Kings 4, Predators 3 SO - Matt Roy, Cal Petersen shine in win]]                                                                                                             | 
 | 2022-10-19 | [[Mayors Manor]] | [[Rapid Review - Vilardi Remains Hot, Helps Kings Secure Shootout Win in Nashville]]                                                                                                         |

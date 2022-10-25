@@ -21,6 +21,9 @@ RW | L | 6'2" | 210 | 21 | 2001-06-26 | Tashkent, UZB | 2019 LAK, 2nd rd, 2nd pk
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                          |     |
 | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------ | --- |
+| 2022-10-21 | [[The Forum Report]] | [[Possession Chart - 10-20 at PIT]]                                                       |
+| 2022-10-20 | [[Hockey Royalty]] | [[LA Kings at Pittsburgh Penguins projected lineups, betting preview]]                                                                                                        |
+| 2022-10-20 | [[LA Kings Insider]] | [[10-20 Preview - Starting How It Ended + Growth and Mentality, Third Line Makeup, Byfield On Trust - LA Kings Insider]]                                                                                                                               |
 | 2022-10-19 | [[Hockey Royalty]] | [[LA Kings powerplay breakdown versus Nashville]] |
 | 2022-10-18 | [[Kings at NHL.com]] | [[10-18 FINAL - Kings 4, Predators 3 (SO)]]                                                                               |
 | 2022-10-17 | [[The Forum Report]] | [[Quick projected - Roy expecting 150 supporters - Grundstrom in for Kaliyev - Määttä on LA growth]]                                                                                                                        |

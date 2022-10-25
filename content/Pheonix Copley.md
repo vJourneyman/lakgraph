@@ -25,10 +25,16 @@ tags: [Status/New,Player]
 
 
 ## Minor League Coverage
-| Date       | Site                 | Title                                                                              |
-| ---------- | -------------------- | ----------------------------------------------------------------------------- |
-| 2022-10-16 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 2, Condors 3 – Sturm, Fagemo - LA Kings Insider]]                                                                                  |
-| 2022-10-16 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Bakersfield, 10-16 - LA Kings Insider]]         |
+| Date       | Site                 | Title                                                                   |
+| ---------- | -------------------- | ----------------------------------------------------------------------- |
+| 2022-10-24 | [[Hockey Royalty]] | [[Ontario Reign - Three stars of the week from 10-17 to 10-23]]                                                                                                |
+| 2022-10-22 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs San Diego, 10-22 - LA Kings Insider]]      |
+| 2022-10-21 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 2-1 win against the Gulls]]      |
+| 2022-10-21 | [[Mayors Manor]]     | [[Reign Recap and Highlights - Dudas Helps Down the Gulls]]             |
+| 2022-10-21 | [[Mayors Manor]]     | [[Ontario Reign - Projected Lineup at San Diego on Friday]]             |
+| 2022-10-21 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 2, Gulls 1 – Sturm, Copley - LA Kings Insider]]   |
+| 2022-10-16 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 2, Condors 3 – Sturm, Fagemo - LA Kings Insider]] |
+| 2022-10-16 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Bakersfield, 10-16 - LA Kings Insider]]    |
 | 2022-10-14 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 8, Canucks 2 – Sturm, Tynan, Grans - LA Kings Insider]] |
 
 

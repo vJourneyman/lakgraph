@@ -19,26 +19,27 @@ Jacob Doty | 37 | RW | R | 6' 3" | 225 | 1993-06-19 | Billings, MT |
 
 
 ## NHL  Coverage
-Date | Site |  Title
----|---|---
+| Date | Site | Title |
+| ---- | ---- | ----- |
 
 
 
 ## Minor League Coverage
-Date | Site |  Title
----|---|---
+| Date | Site | Title |
+| ---- | ---- | ----- |
+| 2022-10-22 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 5, Gulls 1 – Sturm, Doty - LA Kings Insider]]                                                                              |
 
 
 
 ## Post-Draft Coverage
-Date | Site |  Title
----|---|---
+| Date | Site | Title |
+| ---- | ---- | ----- |
 
 
 
 ## Pre-Draft Coverage
-Date | Site |  Title
----|---|---
+| Date | Site | Title |
+| ---- | ---- | ----- |
 
 
 ## Unprocessed Coverage

@@ -30,12 +30,14 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                               |
 | ---------- | -------------------- | ----------------------------------------------------------------------------------- |
-| 2022-10-19 | [[Mayors Manor]] | [[LA Kings Weekly Reign Report, October 16, 2022]]                                                                                                            |
-| 2022-10-19 | [[LA Kings Insider]] | [[High scoring forwards have Ontario Reign off to hot start - LA Kings Insider]]                                                                                                 |
-| 2022-10-18 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Henderson, 10-18 - LA Kings Insider]]                                                                                |
-| 2022-10-16 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 2, Condors 3 – Sturm, Fagemo - LA Kings Insider]]                                                                                  |
+| 2022-10-23 | [[Mayors Manor]]     | [[Reign Recap and Highlights - Kupari and Fagemo Keep Train Rolling Over Gulls]]    |
+| 2022-10-21 | [[Kings at NHL.com]] | [[LA Kings Prospect Report, 10-21]]                                                 |
+| 2022-10-19 | [[Mayors Manor]]     | [[LA Kings Weekly Reign Report, October 16, 2022]]                                  |
+| 2022-10-19 | [[LA Kings Insider]] | [[High scoring forwards have Ontario Reign off to hot start - LA Kings Insider]]    |
+| 2022-10-18 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Henderson, 10-18 - LA Kings Insider]]                  |
+| 2022-10-16 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 2, Condors 3 – Sturm, Fagemo - LA Kings Insider]]             |
 | 2022-10-16 | [[Mayors Manor]]     | [[Reign Recap and Highlights - Bakersfield Hands Ontario First Loss of the Season]] |
-| 2022-10-16 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Bakersfield, 10-16 - LA Kings Insider]]               |
+| 2022-10-16 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Bakersfield, 10-16 - LA Kings Insider]]                |
 | 2022-10-14 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 8, Canucks 2 – Sturm, Tynan, Grans - LA Kings Insider]]       |
 
 

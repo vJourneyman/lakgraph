@@ -26,6 +26,7 @@ tags: [Status/New,Player]
 ## Minor League Coverage
 | Date | Site | Title |
 | ---- | ---- | ----- |
+| 2022-10-22 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 5, Gulls 1 – Sturm, Doty - LA Kings Insider]]                                                                              |
 | 2022-10-19 | [[Hockey Royalty]] | [[Ontario Reign - Three takeaways from 5-3 win against Henderson]]                                                                                                   |
 | 2022-10-18 | [[Mayors Manor]] | [[Ontario Reign - Projected Lineup vs Henderson Silver Knights on Tuesday]]                                                                                                       |
 | 2022-10-18 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 5, Silver Knights 3 – Sturm, Madden - LA Kings Insider]]                                                                                         |

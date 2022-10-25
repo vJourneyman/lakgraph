@@ -21,6 +21,13 @@ Brendan Lemieux | 48 | LW | L | 6' 1" | 215 | 1996-03-15 | Denver, CO, USA | 201
 ## NHL  Coverage
 | Date       | Site                 | Title                               |
 | ---------- | -------------------- | ----------------------------------- |
+| 2022-10-22 | [[The Forum Report]] | [[Friends sent Clarke gifs after move on Crosby - Lemieuxs effective, simple game - Quick-Kuemper - Edler in]]                                                                                                                                |
+| 2022-10-22 | [[LA Kings Insider]] | [[10-22 Preview - Full Team Skate in Washington + Edler Returns, Preaching Defense, Fourth Line Fury - LA Kings Insider]]                                                                                                                                    |
+| 2022-10-21 | [[Hockey Royalty]] | [[LA Kings at Washington Capitals projected lineups, betting preview]]                                                                                                        |
+| 2022-10-21 | [[The Forum Report]] | [[Possession Chart - 10-20 at PIT]]                                                       |
+| 2022-10-20 | [[The Athletic]] | [[LA Kings Cal Petersen pulled, and hears it from coach — He has to be better]]                                                                        |
+| 2022-10-20 | [[The Forum Report]] | [[McLellan addresses Petersens start - “Weve got to get him going Hes got to play like he can play”]]                                                                                                                          |
+| 2022-10-20 | [[LA Kings Insider]] | [[FINAL - Kings 1, Penguins 6 - Kopitar, McLellan - LA Kings Insider]]                                                                                 |
 | 2022-10-19 | [[LA Kings Insider]] | [[Angeles Analysis - Good To See You, Positive Trends - LA Kings Insider]]                                                                                        |
 | 2022-10-18 | [[The Forum Report]] | [[Possession Chart - 10-17 at DET]] |
 | 2022-10-14 | [[LA Kings Insider]] | [[Practice 10-14 - Off To Minny - Getting on the road, todays alignment, Arvidsson skates - LA Kings Insider]]

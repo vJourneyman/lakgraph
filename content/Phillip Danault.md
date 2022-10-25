@@ -22,7 +22,10 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                 |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------- |
-| 2022-10-19 | [[Hockey Royalty]] | [[LA Kings powerplay breakdown versus Nashville]] |
+| 2022-10-24 | [[Kings at NHL.com]]    | [[10-24 - The Week That Was, The Week That Is]]                                                       |
+| 2022-10-24 | [[The Athletic]]        | [[Kings observations - Shaky goaltending, defense, power play and more]]                              |
+| 2022-10-22 | [[LA Kings Insider]]    | [[FINAL - Kings 3, Capitals 4 - Arvidsson, McLellan - LA Kings Insider]]                              |
+| 2022-10-19 | [[Hockey Royalty]]      | [[LA Kings powerplay breakdown versus Nashville]]                                                     |
 | 2022-10-19 | [[LA Kings Insider]]    | [[Angeles Analysis - Good To See You, Positive Trends - LA Kings Insider]]                            |
 | 2022-10-18 | [[Hockey Royalty]]      | [[LA Kings 5, Red Wings 4 OT - Danault scores twice, bails out Arvidsson]]                            |
 | 2022-10-17 | [[Kings at NHL.com]]    | [[Danaults second goal gives Kings OT win against Red Wings]]                                         |

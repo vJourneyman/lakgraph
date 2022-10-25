@@ -19,26 +19,29 @@ Aidan Dudas | 47 | F | R | 5' 7" | 164 | 2000-06-15 | Parry Sound, ON, CAN | LAK
 
 
 ## NHL  Coverage
-Date | Site |  Title
----|---|---
+| Date | Site | Title |
+| ---- | ---- | ----- |
 
 
 
 ## Minor League Coverage
-Date | Site |  Title
----|---|---
+| Date | Site | Title |
+| ---- | ---- | ----- |
+| 2022-10-23 | [[Mayors Manor]] | [[Reign Recap and Highlights - Kupari and Fagemo Keep Train Rolling Over Gulls]]                                                                                                            |
+| 2022-10-22 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs San Diego, 10-22 - LA Kings Insider]]                                                                                |
+| 2022-10-21 | [[Hockey Royalty]] | [[Ontario Reign - Three takeaways from 2-1 win against the Gulls]]                                                                                                   |
 
 
 
 ## Post-Draft Coverage
-Date | Site |  Title
----|---|---
+| Date | Site | Title |
+| ---- | ---- | ----- |
 
 
 
 ## Pre-Draft Coverage
-Date | Site |  Title
----|---|---
+| Date | Site | Title |
+| ---- | ---- | ----- |
 
 
 ## Unprocessed Coverage

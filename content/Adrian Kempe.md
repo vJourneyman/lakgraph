@@ -23,7 +23,11 @@ Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                               |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| 2022-10-24 | [[The Athletic]] | [[Kings observations - Shaky goaltending, defense, power play and more]]                                                                                              |
+| 2022-10-24 | [[LA Kings Insider]] | [[10-24 Practice - Kings address areas of focus + McLellan on Lines, Lizotte on Identity, Robitaille Joins ATKM - LA Kings Insider]]                                                                                                                                               |
+| 2022-10-19 | [[Kings at NHL.com]] | [[Adrian Kempe reflects back on first hat trick]]                                                                                         |
 | 2022-10-19 | [[Hockey Royalty]] | [[LA Kings powerplay breakdown versus Nashville]] |
+| 2022-10-18 | [[ESPN]] | [[2022-23 NHL Rank - Top player predictions across teams]]                                                                                           |
 | 2022-10-18 | [[The Forum Report]] | [[Possession Chart - 10-17 at DET]]                                                       |
 | 2022-10-17 | [[Mayors Manor]]        | [[Rapid Review - Kings Get Back to Even With OT Win in Motor City]]                                                 |
 | 2022-10-16 | [[ESPN]]                | [[Kings vs Wild - NHL Game Recap - October 15, 2022 - ESPN]]                                                        |

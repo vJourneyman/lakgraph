@@ -2,7 +2,8 @@
 title: "Jonathan Quick"
 date-created: 2022-10-13
 aliases: 
-tags: [Status/New,Player]
+tags: [Player]
+status: stable
 ---
 
 # Jonathan Quick
@@ -11,16 +12,27 @@ NHL.com / Ontario Reign | Twitter
 -|-
 [Jonathan Quick](https://www.nhl.com/player/jonathan-quick-8471734) | [@JonathanQuick32](https://twitter.com/JonathanQuick32)
 
-Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft 
--|-|-|-|-|-|-|-|-
-Jonathan Quick | 32 | 6' 1" | 220 | 1986-01-21 | Milford, CT, USA | -   2005 LAK, 3rd rd, 11th pk (72nd overall)
+| Player         | \#  | Position | Shoots | Height | Weight | Born       | Birthplace       | Draft                                        |
+| -------------- | --- | -------- | ------ | ------ | ------ | ---------- | ---------------- | -------------------------------------------- |
+| Jonathan Quick | 32  | G        | L      | 6' 1"  | 220    | 1986-01-21 | Milford, CT, USA | -   2005 LAK, 3rd rd, 11th pk (72nd overall) |
 
 
 
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                    |
 | ---------- | -------------------- | -------------------------------------------------------------------------------------------------------- |
-| 2022-10-18 | [[The Forum Report]] | [[Possession Chart - 10-17 at DET]]                                                       |
+| 2022-10-24 | [[The Athletic]] | [[Kings observations - Shaky goaltending, defense, power play and more]]                                                                                              |
+| 2022-10-24 | [[The Forum Report]] | [[Playmaking Chart - 10-22 at WSH]]                                                       |
+| 2022-10-23 | [[Hockey Royalty]] | [[Why has LA Kings goalie Cal Petersen been underperforming]]                                                                                                |
+| 2022-10-22 | [[The Forum Report]] | [[“Im not sure that we were that good in the first 40, either,” and more from McLellan, Durzi and Dowd]]                                                                                                                            |
+| 2022-10-22 | [[The Forum Report]] | [[Friends sent Clarke gifs after move on Crosby - Lemieuxs effective, simple game - Quick-Kuemper - Edler in]]                                                                                                                                |
+| 2022-10-22 | [[LA Kings Insider]] | [[10-22 Preview - Full Team Skate in Washington + Edler Returns, Preaching Defense, Fourth Line Fury - LA Kings Insider]]                                                                                                                                    |
+| 2022-10-21 | [[Hockey Royalty]] | [[LA Kings at Washington Capitals projected lineups, betting preview]]                                                                                                        |
+| 2022-10-21 | [[Hockey Royalty]]   | [[Three Takeaways from the LA Kings 6-1 loss to the Penguins]]                                           |
+| 2022-10-21 | [[The Athletic]]     | [[NHL goalie confidence meter 2022-23 - Our early-season ratings for all 32 teams]]                      |
+| 2022-10-21 | [[The Forum Report]] | [[Waking up with the Kings - October 21]]                                                                |
+| 2022-10-20 | [[Hockey Royalty]]   | [[LA Kings at Pittsburgh Penguins projected lineups, betting preview]]                                   |
+| 2022-10-18 | [[The Forum Report]] | [[Possession Chart - 10-17 at DET]]                                                                      |
 | 2022-10-17 | [[The Athletic]]     | [[LA Kings goalie Cal Petersen needs to show more after six-goal opening game]]                          |
 | 2022-10-17 | [[The Forum Report]] | [[Quick projected - Roy expecting 150 supporters - Grundstrom in for Kaliyev - Määttä on LA growth]]     |
 | 2022-10-13 | [[The Forum Report]] | [[October 13 - McLellan envisions “instinctual” hockey in Clarkes debut - Arvidsson ill - Quick-Jones]]  |

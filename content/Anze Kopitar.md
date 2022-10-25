@@ -22,7 +22,14 @@ Anze Kopitar | 11 | C | L | 6' 3" | 225 | 1987-08-24 | Jesenice, SVN | 2005 LAK,
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                                             |
 | ---------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-10-24 | [[The Athletic]] | [[Kings observations - Shaky goaltending, defense, power play and more]]                                                                                              |
+| 2022-10-24 | [[LA Kings Insider]] | [[10-24 Practice - Kings address areas of focus + McLellan on Lines, Lizotte on Identity, Robitaille Joins ATKM - LA Kings Insider]]                                                                                                                                               |
+| 2022-10-21 | [[Hockey Royalty]] | [[Quotes, notes and video from the LA Kings 6-1 loss in Pittsburgh]]                                                                                                      |
+| 2022-10-20 | [[Kings at NHL.com]] | [[Penguins rout Kings, Sullivan earns 300th win as Pittsburgh coach]]                                                                                      |
+| 2022-10-20 | [[The Athletic]] | [[LA Kings Cal Petersen pulled, and hears it from coach — He has to be better]]                                                                        |
+| 2022-10-20 | [[LA Kings Insider]] | [[FINAL - Kings 1, Penguins 6 - Kopitar, McLellan - LA Kings Insider]]                                                                                 |
 | 2022-10-19 | [[Hockey Royalty]] | [[LA Kings powerplay breakdown versus Nashville]] |
+| 2022-10-18 | [[ESPN]] | [[2022-23 NHL Rank - Top player predictions across teams]]                                                                                           |
 | 2022-10-18 | [[Hockey Royalty]] | [[LA Kings 5, Red Wings 4 OT - Danault scores twice, bails out Arvidsson]]                                                                                                         |
 | 2022-10-16 | [[Hockey Royalty]]   | [[Fiala Talks Return, Analytical Winners, Kopitar Passes Taylor, and other LA Kings Bullets]]                                     |
 | 2022-10-16 | [[The Athletic]]     | [[Kevin Fiala felt right at home in Minnesota return - ‘I feel pretty confident in this arena’]]                                  |

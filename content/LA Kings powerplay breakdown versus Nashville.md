@@ -38,5 +38,4 @@ status: unstarted
 
 
 ## Notes and Quotes
-> 
-
+- [[InStat]] video analysis

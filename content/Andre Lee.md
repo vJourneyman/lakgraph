@@ -27,7 +27,8 @@ tags: [Status/New,Player]
 ## Minor League Coverage
 | Date | Site | Title |
 | ---- | ---- | ----- |
-|      |      |       |
+| 2022-10-22 | [[Mayors Manor]] | [[Ontario Reign - Projected Lineup vs San Diego Gulls on Saturday]]                                                                                                 |
+| 2022-10-21 | [[Mayors Manor]] | [[Ontario Reign - Projected Lineup at San Diego on Friday]]                                                                                       |
 
 
 

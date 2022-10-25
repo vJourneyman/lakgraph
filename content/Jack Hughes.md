@@ -34,7 +34,7 @@ tags: [Status/New,Player]
 ## Post-Draft Coverage
 | Date | Site | Title |
 | ---- | ---- | ----- |
-|      |      |       |
+| 2022-10-22 | [[Mayors Manor]] | [[And So It Begins – Kings On Kings Crime On TV Today]]                                                                                   |
 
 
 
