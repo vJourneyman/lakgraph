@@ -1,11 +1,12 @@
 ---
-title: "Possession Chart - 10-20 at PIT"
+title: Possession Chart - 10-20 at PIT
 date-created: 2022-10-23
 day-of-week-created: Sun
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Possession Chart - 10-20 at PIT

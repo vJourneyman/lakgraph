@@ -1,11 +1,12 @@
 ---
-title: "NHL goalie confidence meter 2022-23 - Our early-season ratings for all 32 teams"
+title: NHL goalie confidence meter 2022-23 - Our early-season ratings for all 32 teams
 date-created: 2022-10-23
 day-of-week-created: Sun
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # NHL goalie confidence meter 2022-23 - Our early-season ratings for all 32 teams

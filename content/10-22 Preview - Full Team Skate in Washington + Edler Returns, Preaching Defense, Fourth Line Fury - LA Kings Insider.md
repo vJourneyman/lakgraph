@@ -1,11 +1,12 @@
 ---
-title: "10-22 Preview - Full Team Skate in Washington + Edler Returns, Preaching Defense, Fourth Line Fury - LA Kings Insider"
+title: 10-22 Preview - Full Team Skate in Washington + Edler Returns, Preaching Defense, Fourth Line Fury - LA Kings Insider
 date-created: 2022-10-23
 day-of-week-created: Sun
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # 10-22 Preview - Full Team Skate in Washington + Edler Returns, Preaching Defense, Fourth Line Fury - LA Kings Insider

@@ -1,11 +1,12 @@
 ---
-title: "Projected Lineup - LA Kings at Washington Capitals, Game 7"
+title: Projected Lineup - LA Kings at Washington Capitals, Game 7
 date-created: 2022-10-24
 day-of-week-created: Mon
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Projected Lineup - LA Kings at Washington Capitals, Game 7

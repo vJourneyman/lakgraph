@@ -1,11 +1,12 @@
 ---
-title: "FINAL - Kings 3, Capitals 4 - Arvidsson, McLellan - LA Kings Insider"
+title: FINAL - Kings 3, Capitals 4 - Arvidsson, McLellan - LA Kings Insider
 date-created: 2022-10-23
 day-of-week-created: Sun
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # FINAL - Kings 3, Capitals 4 - Arvidsson, McLellan - LA Kings Insider

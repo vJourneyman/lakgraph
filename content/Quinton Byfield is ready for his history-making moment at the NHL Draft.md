@@ -1,11 +1,12 @@
 ---
-title: "Quinton Byfield is ready for his history-making moment at the NHL Draft"
+title: Quinton Byfield is ready for his history-making moment at the NHL Draft
 date-created: 2022-10-19
 day-of-week-created: Wed
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Quinton Byfield is ready for his history-making moment at the NHL Draft

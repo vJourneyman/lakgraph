@@ -1,11 +1,12 @@
 ---
-title: "A Few More Narratives - Young Guys With Old Plays, Penalty Kill Prowess, Shootout Selection - LA Kings Insider"
+title: A Few More Narratives - Young Guys With Old Plays, Penalty Kill Prowess, Shootout Selection - LA Kings Insider
 date-created: 2022-10-19
 day-of-week-created: Wed
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # A Few More Narratives - Young Guys With Old Plays, Penalty Kill Prowess, Shootout Selection - LA Kings Insider

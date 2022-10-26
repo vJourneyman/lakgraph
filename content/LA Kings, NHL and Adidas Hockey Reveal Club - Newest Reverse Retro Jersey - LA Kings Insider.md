@@ -1,11 +1,12 @@
 ---
-title: "LA Kings, NHL and Adidas Hockey Reveal Club - Newest Reverse Retro Jersey - LA Kings Insider"
+title: LA Kings, NHL and Adidas Hockey Reveal Club - Newest Reverse Retro Jersey - LA Kings Insider
 date-created: 2022-10-20
 day-of-week-created: Thu
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # LA Kings, NHL and Adidas Hockey Reveal Club - Newest Reverse Retro Jersey - LA Kings Insider

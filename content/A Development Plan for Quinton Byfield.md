@@ -1,11 +1,12 @@
 ---
-title: "A Development Plan for Quinton Byfield"
+title: A Development Plan for Quinton Byfield
 date-created: 2022-10-19
 day-of-week-created: Wed
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # A Development Plan for Quinton Byfield

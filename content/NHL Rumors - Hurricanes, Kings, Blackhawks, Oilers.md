@@ -1,11 +1,12 @@
 ---
-title: "NHL Rumors - Hurricanes, Kings, Blackhawks, Oilers"
+title: NHL Rumors - Hurricanes, Kings, Blackhawks, Oilers
 date-created: 2022-10-24
 day-of-week-created: Mon
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # NHL Rumors - Hurricanes, Kings, Blackhawks, Oilers

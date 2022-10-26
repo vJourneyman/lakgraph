@@ -1,11 +1,12 @@
 ---
-title: "Angeles Analysis - The First Trip - LA Kings Insider"
+title: Angeles Analysis - The First Trip - LA Kings Insider
 date-created: 2022-10-24
 day-of-week-created: Mon
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Angeles Analysis - The First Trip - LA Kings Insider

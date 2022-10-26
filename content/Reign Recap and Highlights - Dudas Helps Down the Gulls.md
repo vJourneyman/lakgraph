@@ -1,11 +1,12 @@
 ---
-title: "Reign Recap and Highlights - Dudas Helps Down the Gulls"
+title: Reign Recap and Highlights - Dudas Helps Down the Gulls
 date-created: 2022-10-23
 day-of-week-created: Sun
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Reign Recap and Highlights - Dudas Helps Down the Gulls

@@ -1,11 +1,12 @@
 ---
-title: "The Hockey Tactics Newsletter"
+title: The Hockey Tactics Newsletter
 date-created: 2022-10-19
 day-of-week-created: Wed
 date-updated: 
-aliases: []
-tags: [NewsSite]
-status: unstarted
+aliases: 
+tags:
+ - NewsSite
+status: stable
 ---
 
 # The Hockey Tactics Newsletter

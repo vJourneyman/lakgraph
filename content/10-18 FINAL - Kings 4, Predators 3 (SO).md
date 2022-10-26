@@ -1,11 +1,12 @@
 ---
-title: "10-18 FINAL - Kings 4, Predators 3 (SO)"
+title: 10-18 FINAL - Kings 4, Predators 3 (SO)
 date-created: 2022-10-19
 day-of-week-created: Wed
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # 10-18 FINAL - Kings 4, Predators 3 (SO)

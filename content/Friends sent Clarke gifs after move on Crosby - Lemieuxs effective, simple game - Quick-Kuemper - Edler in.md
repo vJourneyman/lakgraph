@@ -1,11 +1,12 @@
 ---
-title: "Friends sent Clarke gifs after move on Crosby - Lemieuxs effective, simple game - Quick-Kuemper - Edler in"
+title: Friends sent Clarke gifs after move on Crosby - Lemieuxs effective, simple game - Quick-Kuemper - Edler in
 date-created: 2022-10-23
 day-of-week-created: Sun
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Friends sent Clarke gifs after move on Crosby - Lemieuxs effective, simple game - Quick-Kuemper - Edler in

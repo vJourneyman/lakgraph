@@ -1,11 +1,12 @@
 ---
-title: "2022-23 NHL Rank - Top player predictions across teams"
+title: 2022-23 NHL Rank - Top player predictions across teams
 date-created: 2022-10-20
 day-of-week-created: Thu
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # 2022-23 NHL Rank - Top player predictions across teams

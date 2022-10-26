@@ -1,11 +1,12 @@
 ---
-title: "Petersen starts - Edler cleared - Carter on culture, 10th reunion"
+title: Petersen starts - Edler cleared - Carter on culture, 10th reunion
 date-created: 2022-10-20
 day-of-week-created: Thu
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Petersen starts - Edler cleared - Carter on culture, 10th reunion

@@ -1,11 +1,12 @@
 ---
-title: "Rapid Review - Highlights from Kings-Caps, Where History Repeats Itself"
+title: Rapid Review - Highlights from Kings-Caps, Where History Repeats Itself
 date-created: 2022-10-24
 day-of-week-created: Mon
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Rapid Review - Highlights from Kings-Caps, Where History Repeats Itself

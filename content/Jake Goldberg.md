@@ -1,8 +1,11 @@
 ---
-title: "Jake Goldberg"
+title: Jake Goldberg
 date-created: 2022-10-12
 aliases: 
-tags: [Status/New,Staff]
+tags:
+ - Status/New
+ - Staff
+status: unstarted
 ---
 
 # Jake Goldberg

@@ -1,11 +1,12 @@
 ---
-title: "Prospect Profile - An Early Look at Quinton Byfield"
+title: Prospect Profile - An Early Look at Quinton Byfield
 date-created: 2022-10-19
 day-of-week-created: Wed
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Prospect Profile - An Early Look at Quinton Byfield

@@ -1,8 +1,9 @@
 ---
-title: "Alex Iafallo"
+title: Alex Iafallo
 date-created: 2022-10-13
 aliases: 
-tags: [Status/New,Player]
+tags: [Player]
+status: stable
 ---
 
 # Alex Iafallo
@@ -20,6 +21,8 @@ Alex Iafallo | 19 | LW | L | 6' 0" | 200 | 1993-12-21 | Eden, NY, USA |
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                                |
 | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-10-25 | [[The Fourth Period]] | [[LAK at 7 - Now for Something Completely Different — The Fourth Period]]                                                                                          |
+| 2022-10-25 | [[The Forum Report]] | [[“Going in the right direction, but inconsistently,” forwards chemistry, identity become key - Quick starts]]                                                                                                                                |
 | 2022-10-24 | [[Kings at NHL.com]]  | [[10-24 - The Week That Was, The Week That Is]]                                                                                      |
 | 2022-10-24 | [[LA Kings Insider]]  | [[10-24 Practice - Kings address areas of focus + McLellan on Lines, Lizotte on Identity, Robitaille Joins ATKM - LA Kings Insider]] |
 | 2022-10-23 | [[Pro Hockey Rumors]] | [[Alex Iafallo Moved To LTIR, Austin Wagner Recalled]]                                                                               |

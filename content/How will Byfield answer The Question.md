@@ -1,11 +1,12 @@
 ---
-title: "How will Byfield answer The Question"
+title: How will Byfield answer The Question
 date-created: 2022-10-19
 day-of-week-created: Wed
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # How will Byfield answer The Question

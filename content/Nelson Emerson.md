@@ -1,8 +1,11 @@
 ---
-title: "Nelson Emerson"
+title: Nelson Emerson
 date-created: 2022-10-14
 aliases: 
-tags: [Status/New,Staff]
+tags:
+ - Status/New
+ - Staff
+status: unstarted
 ---
 
 # Nelson Emerson

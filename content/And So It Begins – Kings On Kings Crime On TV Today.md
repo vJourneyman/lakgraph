@@ -1,11 +1,12 @@
 ---
-title: "And So It Begins – Kings On Kings Crime On TV Today"
+title: And So It Begins – Kings On Kings Crime On TV Today
 date-created: 2022-10-24
 day-of-week-created: Mon
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # And So It Begins – Kings On Kings Crime On TV Today

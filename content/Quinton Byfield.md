@@ -2,7 +2,7 @@
 title: "Quinton Byfield"
 date-created: 2022-09-25
 aliases: 
-tags: [Status/Stable,Player]
+tags: [Player]
 status: stable
 priority: high
 ---
@@ -21,6 +21,7 @@ Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                |     |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | --- |
+| 2022-10-25 | [[The Forum Report]] | [[“Going in the right direction, but inconsistently,” forwards chemistry, identity become key - Quick starts]]                                                                                                                                |
 | 2022-10-24 | [[The Forum Report]]    | [[Playmaking Chart - 10-22 at WSH]]                                                                                                  |     |
 | 2022-10-24 | [[LA Kings Insider]]    | [[10-24 Practice - Kings address areas of focus + McLellan on Lines, Lizotte on Identity, Robitaille Joins ATKM - LA Kings Insider]] |     |
 | 2022-10-20 | [[LA Kings Insider]]    | [[10-20 Preview - Starting How It Ended + Growth and Mentality, Third Line Makeup, Byfield On Trust - LA Kings Insider]]             |     |

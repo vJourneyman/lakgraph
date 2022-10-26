@@ -2,7 +2,7 @@
 title: "Blake Lizotte"
 date-created: 2022-10-11
 aliases: 
-tags: [Status/New,Player]
+tags: [Player]
 status: stable
 ---
 
@@ -23,6 +23,9 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                        |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------------------------ |
+| 2022-10-25 | [[The Fourth Period]] | [[LAK at 7 - Now for Something Completely Different — The Fourth Period]]                                                                                          |
+| 2022-10-25 | [[The Forum Report]] | [[“He doesnt hide, he doesnt crumble” and more on Clarke, Lizotte and Anderson-Dolan]]                                                                                                           |
+| 2022-10-25 | [[LA Kings Insider]] | [[10-25 Preview - Potential Alignment + Facing The Bolts, Grundstroms Metrics, Clarke on Firsts - LA Kings Insider]]                                                                                                                               |
 | 2022-10-24 | [[The Forum Report]] | [[Playmaking Chart - 10-22 at WSH]]                                                       |
 | 2022-10-24 | [[LA Kings Insider]] | [[10-24 Practice - Kings address areas of focus + McLellan on Lines, Lizotte on Identity, Robitaille Joins ATKM - LA Kings Insider]]                                                                                                                                               |
 | 2022-10-22 | [[The Forum Report]] | [[Friends sent Clarke gifs after move on Crosby - Lemieuxs effective, simple game - Quick-Kuemper - Edler in]]                                                                                                                                |

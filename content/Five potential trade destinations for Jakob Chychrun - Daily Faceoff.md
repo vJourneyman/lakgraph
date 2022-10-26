@@ -1,11 +1,12 @@
 ---
-title: "Five potential trade destinations for Jakob Chychrun - Daily Faceoff"
+title: Five potential trade destinations for Jakob Chychrun - Daily Faceoff
 date-created: 2022-10-24
 day-of-week-created: Mon
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Five potential trade destinations for Jakob Chychrun - Daily Faceoff

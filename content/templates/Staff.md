@@ -2,7 +2,8 @@
 title: "{{title}}"
 date-created: {{date}}
 aliases: 
-tags: [Status/New,Staff]
+tags: [Staff]
+status: unstarted
 ---
 
 # {{title}}

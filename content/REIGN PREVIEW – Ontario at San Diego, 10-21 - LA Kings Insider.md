@@ -1,11 +1,12 @@
 ---
-title: "REIGN PREVIEW – Ontario at San Diego, 10-21 - LA Kings Insider"
+title: REIGN PREVIEW – Ontario at San Diego, 10-21 - LA Kings Insider
 date-created: 2022-10-23
 day-of-week-created: Sun
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # REIGN PREVIEW – Ontario at San Diego, 10-21 - LA Kings Insider

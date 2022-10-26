@@ -1,11 +1,12 @@
 ---
-title: "Prospect of Interest - Quinton Byfield has makings of franchise centre"
+title: Prospect of Interest - Quinton Byfield has makings of franchise centre
 date-created: 2022-10-19
 day-of-week-created: Wed
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Prospect of Interest - Quinton Byfield has makings of franchise centre

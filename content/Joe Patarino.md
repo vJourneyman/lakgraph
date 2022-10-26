@@ -1,8 +1,11 @@
 ---
-title: "Joe Patarino"
+title: Joe Patarino
 date-created: 2022-10-22
 aliases: 
-tags: [Status/New,Staff]
+tags:
+ - Status/New
+ - Staff
+status: unstarted
 ---
 
 # Joe Patarino

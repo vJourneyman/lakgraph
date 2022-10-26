@@ -2,7 +2,7 @@
 title: "Viktor Arvidsson"
 date-created: 2022-10-08
 aliases: 
-tags: [Status/Stable,Player]
+tags: [Player]
 status: stable
 ---
 
@@ -21,6 +21,9 @@ Viktor Arvidsson | 33 | LW | R | 5' 10" | 185 | 1993-04-08 | Skellefteå, SWE | 
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-10-25 | [[The Forum Report]] | [[“He doesnt hide, he doesnt crumble” and more on Clarke, Lizotte and Anderson-Dolan]]                                                                                                           |
+| 2022-10-25 | [[The Forum Report]] | [[“Going in the right direction, but inconsistently,” forwards chemistry, identity become key - Quick starts]]                                                                                                                                |
+| 2022-10-25 | [[LA Kings Insider]] | [[FINAL - Kings 4, Lightning 2 - Danault, Vilardi, Clarke, McLellan - LA Kings Insider]]                                                                                                 |
 | 2022-10-24 | [[The Athletic]]        | [[Kings observations - Shaky goaltending, defense, power play and more]]                                                             |
 | 2022-10-24 | [[LA Kings Insider]]    | [[10-24 Practice - Kings address areas of focus + McLellan on Lines, Lizotte on Identity, Robitaille Joins ATKM - LA Kings Insider]] |
 | 2022-10-23 | [[The Forum Report]]    | [[Waking up with the Kings - October 23]]                                                                                            |

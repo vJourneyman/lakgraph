@@ -1,8 +1,10 @@
 ---
-title: "Otto Salin"
+title: Otto Salin
 date-created: 2022-10-17
 aliases: 
-tags: [Status/New,Player]
+tags:
+ - Player
+status: needs-draft-content
 ---
 
 # Otto Salin

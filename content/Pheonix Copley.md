@@ -1,8 +1,11 @@
 ---
-title: "Pheonix Copley"
+title: Pheonix Copley
 date-created: 2022-10-16
 aliases: 
-tags: [Status/New,Player]
+tags:
+ - Status/New
+ - Player
+status: stable
 ---
 
 # Pheonix Copley

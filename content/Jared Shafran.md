@@ -1,8 +1,11 @@
 ---
-title: "Jared Shafran"
+title: Jared Shafran
 date-created: 2022-10-19
 aliases: 
-tags: [Status/New,Staff]
+tags:
+ - Status/New
+ - Staff
+status: needs-draft-content
 ---
 
 # Jared Shafran

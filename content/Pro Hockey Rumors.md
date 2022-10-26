@@ -1,11 +1,12 @@
 ---
-title: "Pro Hockey Rumors"
+title: Pro Hockey Rumors
 date-created: 2022-10-19
 day-of-week-created: Wed
 date-updated: 
-aliases: []
-tags: [NewsSite]
-status: unstarted
+aliases: 
+tags:
+ - NewsSite
+status: stable
 ---
 
 # Pro Hockey Rumors

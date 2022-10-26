@@ -22,6 +22,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                                |
 | ---------- | -------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| 2022-10-25 | [[Hockey Royalty]] | [[LA Kings vs Tampa Bay Lightning projected lineup, betting preview]]                                                                                                       |
 | 2022-10-24 | [[LA Kings Insider]] | [[Kings seek balance between increased offensive point production from blueline and limiting goals against - LA Kings Insider]]                                                                                                                                            |
 | 2022-10-24 | [[LA Kings Insider]] | [[10-24 Practice - Kings address areas of focus + McLellan on Lines, Lizotte on Identity, Robitaille Joins ATKM - LA Kings Insider]]                                                                                                                                               |
 | 2022-10-23 | [[The Forum Report]] | [[Waking up with the Kings - October 23]]                                                                |

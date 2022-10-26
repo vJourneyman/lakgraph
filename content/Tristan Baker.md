@@ -1,8 +1,10 @@
 ---
-title: "Tristan Baker"
+title: Tristan Baker
 date-created: 2022-10-23
 aliases: 
-tags: [Status/New,Staff]
+tags:
+ - Staff
+status: unstarted
 ---
 
 # Tristan Baker

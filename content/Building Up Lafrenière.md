@@ -1,11 +1,12 @@
 ---
-title: "Building Up Lafrenière"
+title: Building Up Lafrenière
 date-created: 2022-10-19
 day-of-week-created: Wed
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Building Up Lafrenière

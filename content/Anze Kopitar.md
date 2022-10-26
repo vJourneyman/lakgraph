@@ -2,7 +2,7 @@
 title: "Anze Kopitar"
 date-created: 2022-10-11
 aliases: 
-tags: [Status/Stable,Player]
+tags: [Player]
 status: stable
 ---
 
@@ -22,6 +22,8 @@ Anze Kopitar | 11 | C | L | 6' 3" | 225 | 1987-08-24 | Jesenice, SVN | 2005 LAK,
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                                             |
 | ---------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-10-25 | [[The Fourth Period]] | [[LAK at 7 - Now for Something Completely Different — The Fourth Period]]                                                                                          |
+| 2022-10-25 | [[The Forum Report]] | [[“Going in the right direction, but inconsistently,” forwards chemistry, identity become key - Quick starts]]                                                                                                                                |
 | 2022-10-24 | [[The Athletic]] | [[Kings observations - Shaky goaltending, defense, power play and more]]                                                                                              |
 | 2022-10-24 | [[LA Kings Insider]] | [[10-24 Practice - Kings address areas of focus + McLellan on Lines, Lizotte on Identity, Robitaille Joins ATKM - LA Kings Insider]]                                                                                                                                               |
 | 2022-10-21 | [[Hockey Royalty]] | [[Quotes, notes and video from the LA Kings 6-1 loss in Pittsburgh]]                                                                                                      |

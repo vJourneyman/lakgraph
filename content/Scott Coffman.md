@@ -1,8 +1,11 @@
 ---
-title: "Scott Coffman"
+title: Scott Coffman
 date-created: 2022-10-22
 aliases: 
-tags: [Status/New,Staff]
+tags:
+ - Status/New
+ - Staff
+status: unstarted
 ---
 
 # Scott Coffman

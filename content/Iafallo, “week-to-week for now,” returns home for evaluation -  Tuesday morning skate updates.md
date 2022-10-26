@@ -1,11 +1,12 @@
 ---
-title: "Iafallo, “week-to-week for now,” returns home for evaluation -  Tuesday morning skate updates"
+title: Iafallo, “week-to-week for now,” returns home for evaluation -  Tuesday morning skate updates
 date-created: 2022-10-19
 day-of-week-created: Wed
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Iafallo, “week-to-week for now,” returns home for evaluation -  Tuesday morning skate updates

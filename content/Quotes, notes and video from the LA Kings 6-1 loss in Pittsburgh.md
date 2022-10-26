@@ -1,11 +1,12 @@
 ---
-title: "Quotes, notes and video from the LA Kings 6-1 loss in Pittsburgh"
+title: Quotes, notes and video from the LA Kings 6-1 loss in Pittsburgh
 date-created: 2022-10-23
 day-of-week-created: Sun
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Quotes, notes and video from the LA Kings 6-1 loss in Pittsburgh

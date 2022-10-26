@@ -1,11 +1,12 @@
 ---
-title: "REIGN FINAL – Reign 5, Gulls 1 – Sturm, Doty - LA Kings Insider"
+title: REIGN FINAL – Reign 5, Gulls 1 – Sturm, Doty - LA Kings Insider
 date-created: 2022-10-24
 day-of-week-created: Mon
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # REIGN FINAL – Reign 5, Gulls 1 – Sturm, Doty - LA Kings Insider

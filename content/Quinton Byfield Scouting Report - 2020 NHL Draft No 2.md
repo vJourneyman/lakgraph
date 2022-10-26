@@ -1,11 +1,12 @@
 ---
-title: "Quinton Byfield Scouting Report - 2020 NHL Draft No 2"
+title: Quinton Byfield Scouting Report - 2020 NHL Draft No 2
 date-created: 2022-10-19
 day-of-week-created: Wed
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Quinton Byfield Scouting Report - 2020 NHL Draft No 2

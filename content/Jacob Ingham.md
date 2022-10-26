@@ -1,8 +1,11 @@
 ---
-title: "Jacob Ingham"
+title: Jacob Ingham
 date-created: 2022-10-20
 aliases: 
-tags: [Status/New,Player]
+tags:
+ - Status/New
+ - Player
+status: unstarted
 ---
 
 # Jacob Ingham

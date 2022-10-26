@@ -2,7 +2,7 @@
 title: "Brandt Clarke"
 date-created: 2022-10-06
 aliases: 
-tags: [Status/Stable,Player]
+tags: [Player]
 status: stable
 priority: high
 ---
@@ -21,10 +21,17 @@ Brandt Clarke | 92 | RD | R | 6' 2" | 185 | 2003-02-09 | Nepean, ON, CAN | 2021 
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                          |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-10-23 | [[Mayors Manor]] | [[Six Games Down, Whats Next For Kings Rookie Brandt Clarke]]                                                                                          |
-| 2022-10-22 | [[The Forum Report]] | [[Friends sent Clarke gifs after move on Crosby - Lemieuxs effective, simple game - Quick-Kuemper - Edler in]]                                                                                                                                |
-| 2022-10-21 | [[Kings at NHL.com]] | [[LA Kings Prospect Report, 10-21]]                                                                         |
-| 2022-10-21 | [[Hockey Royalty]] | [[Quotes, notes and video from the LA Kings 6-1 loss in Pittsburgh]]                                                                                                      |
+| 2022-10-25 | [[The Fourth Period]] | [[LAK at 7 - Now for Something Completely Different — The Fourth Period]]                                                                                          |
+| 2022-10-25 | [[Hockey Royalty]] | [[LA Kings vs Tampa Bay Lightning projected lineup, betting preview]]                                                                                                       |
+| 2022-10-25 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings vs Tampa Bay Lightning, Game 8]]                                                                 |
+| 2022-10-25 | [[The Forum Report]]    | [[“He doesnt hide, he doesnt crumble” and more on Clarke, Lizotte and Anderson-Dolan]]                                         |
+| 2022-10-25 | [[The Forum Report]]    | [[“Going in the right direction, but inconsistently,” forwards chemistry, identity become key - Quick starts]]                 |
+| 2022-10-25 | [[LA Kings Insider]]    | [[FINAL - Kings 4, Lightning 2 - Danault, Vilardi, Clarke, McLellan - LA Kings Insider]]                                       |
+| 2022-10-25 | [[LA Kings Insider]]    | [[10-25 Preview - Potential Alignment + Facing The Bolts, Grundstroms Metrics, Clarke on Firsts - LA Kings Insider]]           |
+| 2022-10-23 | [[Mayors Manor]]        | [[Six Games Down, Whats Next For Kings Rookie Brandt Clarke]]                                                                  |
+| 2022-10-22 | [[The Forum Report]]    | [[Friends sent Clarke gifs after move on Crosby - Lemieuxs effective, simple game - Quick-Kuemper - Edler in]]                 |
+| 2022-10-21 | [[Kings at NHL.com]]    | [[LA Kings Prospect Report, 10-21]]                                                                                            |
+| 2022-10-21 | [[Hockey Royalty]]      | [[Quotes, notes and video from the LA Kings 6-1 loss in Pittsburgh]]                                                           |
 | 2022-10-21 | [[Hockey Royalty]]      | [[Three Takeaways from the LA Kings 6-1 loss to the Penguins]]                                                                 |
 | 2022-10-21 | [[The Forum Report]]    | [[Possession Chart - 10-20 at PIT]]                                                                                            |
 | 2022-10-21 | [[The Forum Report]]    | [[Forechecks improvements - Doughty thinks Clarke “looks like an NHL-ready player,” prefers summer World Cup]]                 |

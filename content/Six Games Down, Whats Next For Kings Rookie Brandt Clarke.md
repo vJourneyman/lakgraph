@@ -1,11 +1,12 @@
 ---
-title: "Six Games Down, Whats Next For Kings Rookie Brandt Clarke"
+title: Six Games Down, Whats Next For Kings Rookie Brandt Clarke
 date-created: 2022-10-24
 day-of-week-created: Mon
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Six Games Down, Whats Next For Kings Rookie Brandt Clarke

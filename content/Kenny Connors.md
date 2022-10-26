@@ -1,8 +1,10 @@
 ---
-title: "Kenny Connors"
+title: Kenny Connors
 date-created: 2022-10-24
 aliases: 
-tags: [Status/New,Player]
+tags:
+ - Player
+status: stable
 ---
 
 # Kenny Connors

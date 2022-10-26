@@ -1,11 +1,12 @@
 ---
-title: "Ontario Reign - Projected Lineup vs Henderson Silver Knights on Tuesday"
+title: Ontario Reign - Projected Lineup vs Henderson Silver Knights on Tuesday
 date-created: 2022-10-19
 day-of-week-created: Wed
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Ontario Reign - Projected Lineup vs Henderson Silver Knights on Tuesday

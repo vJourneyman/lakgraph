@@ -1,11 +1,12 @@
 ---
-title: "LA Kings at Nashville Predators Projected Lineups and Betting Preview"
+title: LA Kings at Nashville Predators Projected Lineups and Betting Preview
 date-created: 2022-10-19
 day-of-week-created: Wed
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # LA Kings at Nashville Predators Projected Lineups and Betting Preview

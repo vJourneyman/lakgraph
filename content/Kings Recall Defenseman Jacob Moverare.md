@@ -1,11 +1,12 @@
 ---
-title: "Kings Recall Defenseman Jacob Moverare"
+title: Kings Recall Defenseman Jacob Moverare
 date-created: 2022-10-19
 day-of-week-created: Wed
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Kings Recall Defenseman Jacob Moverare

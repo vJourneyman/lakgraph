@@ -1,11 +1,12 @@
 ---
-title: "Adrian Kempe reflects back on first hat trick"
+title: Adrian Kempe reflects back on first hat trick
 date-created: 2022-10-22
 day-of-week-created: Sat
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Adrian Kempe reflects back on first hat trick

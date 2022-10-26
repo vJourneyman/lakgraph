@@ -1,11 +1,12 @@
 ---
-title: "REIGN FINAL – Reign 5, Silver Knights 3 – Sturm, Madden - LA Kings Insider"
+title: REIGN FINAL – Reign 5, Silver Knights 3 – Sturm, Madden - LA Kings Insider
 date-created: 2022-10-19
 day-of-week-created: Wed
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # REIGN FINAL – Reign 5, Silver Knights 3 – Sturm, Madden - LA Kings Insider

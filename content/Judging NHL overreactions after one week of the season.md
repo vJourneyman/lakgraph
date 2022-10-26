@@ -1,11 +1,12 @@
 ---
-title: "Judging NHL overreactions after one week of the season"
+title: Judging NHL overreactions after one week of the season
 date-created: 2022-10-22
 day-of-week-created: Sat
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Judging NHL overreactions after one week of the season

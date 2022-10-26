@@ -2,7 +2,7 @@
 title: "Phillip Danault"
 date-created: 2022-10-06
 aliases: 
-tags: [Status/Stable,Player]
+tags: [Player]
 status: stable
 priority: high
 ---
@@ -22,6 +22,9 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                 |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------- |
+| 2022-10-25 | [[The Fourth Period]] | [[LAK at 7 - Now for Something Completely Different — The Fourth Period]]                                                                                          |
+| 2022-10-25 | [[The Forum Report]] | [[“Going in the right direction, but inconsistently,” forwards chemistry, identity become key - Quick starts]]                                                                                                                                |
+| 2022-10-25 | [[LA Kings Insider]] | [[FINAL - Kings 4, Lightning 2 - Danault, Vilardi, Clarke, McLellan - LA Kings Insider]]                                                                                                 |
 | 2022-10-24 | [[Kings at NHL.com]]    | [[10-24 - The Week That Was, The Week That Is]]                                                       |
 | 2022-10-24 | [[The Athletic]]        | [[Kings observations - Shaky goaltending, defense, power play and more]]                              |
 | 2022-10-22 | [[LA Kings Insider]]    | [[FINAL - Kings 3, Capitals 4 - Arvidsson, McLellan - LA Kings Insider]]                              |

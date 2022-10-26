@@ -1,11 +1,12 @@
 ---
-title: "FINAL - Kings 4, Predators 3 (SO) - Roy, Petersen, McLellan - LA Kings Insider"
+title: FINAL - Kings 4, Predators 3 (SO) - Roy, Petersen, McLellan - LA Kings Insider
 date-created: 2022-10-19
 day-of-week-created: Wed
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # FINAL - Kings 4, Predators 3 (SO) - Roy, Petersen, McLellan - LA Kings Insider

@@ -1,11 +1,12 @@
 ---
-title: "Penguins rout Kings, Sullivan earns 300th win as Pittsburgh coach"
+title: Penguins rout Kings, Sullivan earns 300th win as Pittsburgh coach
 date-created: 2022-10-22
 day-of-week-created: Sat
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Penguins rout Kings, Sullivan earns 300th win as Pittsburgh coach

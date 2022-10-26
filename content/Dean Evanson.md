@@ -1,8 +1,11 @@
 ---
-title: "Dean Evanson"
+title: Dean Evanson
 date-created: 2022-10-16
 aliases: 
-tags: [Status/New,Staff]
+tags:
+ - Status/New
+ - Staff
+status: unstarted
 ---
 
 # Dean Evanson

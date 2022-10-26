@@ -1,8 +1,10 @@
 ---
-title: "Pierre LeBrun"
+title: Pierre LeBrun
 date-created: 2022-10-25
 aliases: 
-tags: [Status/New,Staff]
+tags:
+ - Staff
+status: unstarted
 ---
 
 # Pierre LeBrun

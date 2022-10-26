@@ -1,11 +1,12 @@
 ---
-title: "LA Kings 5, Red Wings 4 OT - Danault scores twice, bails out Arvidsson"
+title: LA Kings 5, Red Wings 4 OT - Danault scores twice, bails out Arvidsson
 date-created: 2022-10-19
 day-of-week-created: Wed
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # LA Kings 5, Red Wings 4 OT - Danault scores twice, bails out Arvidsson

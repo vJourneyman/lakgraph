@@ -1,11 +1,12 @@
 ---
-title: "Reign Recap and Highlights - Kupari and Fagemo Keep Train Rolling Over Gulls"
+title: Reign Recap and Highlights - Kupari and Fagemo Keep Train Rolling Over Gulls
 date-created: 2022-10-24
 day-of-week-created: Mon
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Reign Recap and Highlights - Kupari and Fagemo Keep Train Rolling Over Gulls

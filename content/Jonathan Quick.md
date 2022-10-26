@@ -21,6 +21,10 @@ NHL.com / Ontario Reign | Twitter
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                    |
 | ---------- | -------------------- | -------------------------------------------------------------------------------------------------------- |
+| 2022-10-25 | [[The Hockey News]] | [[Los Angeles Kings Goaltending Must Tighten Up To Win A Playoff Round]]                                                                                                    |
+| 2022-10-25 | [[Hockey Royalty]] | [[LA Kings vs Tampa Bay Lightning projected lineup, betting preview]]                                                                                                       |
+| 2022-10-25 | [[The Forum Report]] | [[“Going in the right direction, but inconsistently,” forwards chemistry, identity become key - Quick starts]]                                                                                                                                |
+| 2022-10-25 | [[LA Kings Insider]] | [[10-25 Preview - Potential Alignment + Facing The Bolts, Grundstroms Metrics, Clarke on Firsts - LA Kings Insider]]                                                                                                                               |
 | 2022-10-24 | [[The Athletic]] | [[Kings observations - Shaky goaltending, defense, power play and more]]                                                                                              |
 | 2022-10-24 | [[The Forum Report]] | [[Playmaking Chart - 10-22 at WSH]]                                                       |
 | 2022-10-23 | [[Hockey Royalty]] | [[Why has LA Kings goalie Cal Petersen been underperforming]]                                                                                                |

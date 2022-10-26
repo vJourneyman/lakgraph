@@ -1,11 +1,12 @@
 ---
-title: "FINAL - Kings 1, Penguins 6 - Kopitar, McLellan - LA Kings Insider"
+title: FINAL - Kings 1, Penguins 6 - Kopitar, McLellan - LA Kings Insider
 date-created: 2022-10-22
 day-of-week-created: Sat
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # FINAL - Kings 1, Penguins 6 - Kopitar, McLellan - LA Kings Insider

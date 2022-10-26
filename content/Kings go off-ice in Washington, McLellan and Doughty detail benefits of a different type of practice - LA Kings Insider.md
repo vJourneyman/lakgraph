@@ -1,11 +1,12 @@
 ---
-title: "Kings go off-ice in Washington, McLellan and Doughty detail benefits of a different type of practice - LA Kings Insider"
+title: Kings go off-ice in Washington, McLellan and Doughty detail benefits of a different type of practice - LA Kings Insider
 date-created: 2022-10-23
 day-of-week-created: Sun
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Kings go off-ice in Washington, McLellan and Doughty detail benefits of a different type of practice - LA Kings Insider

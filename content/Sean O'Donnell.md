@@ -1,8 +1,11 @@
 ---
-title: "Sean O'Donnell"
+title: Sean O'Donnell
 date-created: 2022-10-16
 aliases: 
-tags: [Status/New,Staff]
+tags:
+ - Status/New
+ - Staff
+status: unstarted
 ---
 
 # Sean O'Donnell

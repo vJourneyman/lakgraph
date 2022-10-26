@@ -1,8 +1,11 @@
 ---
-title: "Eric Stephens"
+title: Eric Stephens
 date-created: 2022-10-22
 aliases: 
-tags: [Status/New,Staff]
+tags:
+ - Status/New
+ - Staff
+status: unstarted
 ---
 
 # Eric Stephens

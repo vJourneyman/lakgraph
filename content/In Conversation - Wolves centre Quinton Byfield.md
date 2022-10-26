@@ -1,11 +1,12 @@
 ---
-title: "In Conversation - Wolves centre Quinton Byfield"
+title: In Conversation - Wolves centre Quinton Byfield
 date-created: 2022-10-19
 day-of-week-created: Wed
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # In Conversation - Wolves centre Quinton Byfield

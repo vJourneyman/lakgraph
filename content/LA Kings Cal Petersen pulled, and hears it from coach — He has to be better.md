@@ -1,11 +1,12 @@
 ---
-title: "LA Kings Cal Petersen pulled, and hears it from coach — He has to be better"
+title: LA Kings Cal Petersen pulled, and hears it from coach — He has to be better
 date-created: 2022-10-22
 day-of-week-created: Sat
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # LA Kings Cal Petersen pulled, and hears it from coach — He has to be better

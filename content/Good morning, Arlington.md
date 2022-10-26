@@ -1,11 +1,12 @@
 ---
-title: "Good morning, Arlington"
+title: Good morning, Arlington
 date-created: 2022-10-23
 day-of-week-created: Sun
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Good morning, Arlington

@@ -1,8 +1,11 @@
 ---
-title: "Alan Quine"
+title: Alan Quine
 date-created: 2022-10-23
 aliases: 
-tags: [Status/New,Player]
+tags:
+ - Status/New
+ - Player
+status: unstarted
 ---
 
 # Alan Quine

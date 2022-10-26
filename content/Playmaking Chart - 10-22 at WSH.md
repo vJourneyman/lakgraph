@@ -1,11 +1,12 @@
 ---
-title: "Playmaking Chart - 10-22 at WSH"
+title: Playmaking Chart - 10-22 at WSH
 date-created: 2022-10-25
 day-of-week-created: Tue
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Playmaking Chart - 10-22 at WSH

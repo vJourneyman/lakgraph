@@ -1,11 +1,12 @@
 ---
-title: "Ontarios Quinton Byfield makes history by becoming highest-drafted Black player in NHL Draft"
+title: Ontarios Quinton Byfield makes history by becoming highest-drafted Black player in NHL Draft
 date-created: 2022-10-19
 day-of-week-created: Wed
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Ontarios Quinton Byfield makes history by becoming highest-drafted Black player in NHL Draft

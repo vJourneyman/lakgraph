@@ -1,11 +1,12 @@
 ---
-title: "McLellan addresses Petersens start - “Weve got to get him going Hes got to play like he can play”"
+title: McLellan addresses Petersens start - “Weve got to get him going Hes got to play like he can play”
 date-created: 2022-10-22
 day-of-week-created: Sat
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # McLellan addresses Petersens start - “Weve got to get him going Hes got to play like he can play”

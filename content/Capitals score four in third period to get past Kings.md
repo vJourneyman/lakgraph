@@ -1,11 +1,12 @@
 ---
-title: "Capitals score four in third period to get past Kings"
+title: Capitals score four in third period to get past Kings
 date-created: 2022-10-24
 day-of-week-created: Mon
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Capitals score four in third period to get past Kings

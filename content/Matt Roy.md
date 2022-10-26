@@ -1,8 +1,9 @@
 ---
-title: "Matt Roy"
+title: Matt Roy
 date-created: 2022-10-13
 aliases: 
-tags: [Status/New,Player]
+tags: [Player]
+status: stable
 ---
 
 # Matt Roy
@@ -21,6 +22,7 @@ Matt Roy | 3 | RD | R | 6' 1" | 205 | 1995-03-01 | Detroit, MI, USA | 2015 LAK, 
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                                           |     |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------- | --- |
+| 2022-10-25 | [[The Fourth Period]] | [[LAK at 7 - Now for Something Completely Different — The Fourth Period]]                                                                                          |
 | 2022-10-24 | [[LA Kings Insider]] | [[Kings seek balance between increased offensive point production from blueline and limiting goals against - LA Kings Insider]] |     |
 | 2022-10-20 | [[Kings at NHL.com]] | [[LA Kings at Pittsburgh Penguins - How to Watch]]                                                                              |     |
 | 2022-10-19 | [[Hockey Royalty]]   | [[LA Kings 4, Predators 3 SO - Matt Roy, Cal Petersen shine in win]]                                                            |     |

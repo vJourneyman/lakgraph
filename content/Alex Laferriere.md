@@ -1,8 +1,10 @@
 ---
-title: "Alex Laferriere"
+title: Alex Laferriere
 date-created: 2022-10-17
 aliases: 
-tags: [Status/New,Player]
+tags:
+ - Player
+status: needs-draft-content
 ---
 
 # Alex Laferriere

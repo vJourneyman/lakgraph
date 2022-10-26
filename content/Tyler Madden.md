@@ -2,7 +2,7 @@
 title: "Tyler Madden"
 date-created: 2022-10-08
 aliases: 
-tags: [Status/Stable,Player]
+tags: [Player]
 status: stable
 ---
 
@@ -27,6 +27,7 @@ Tyler Madden | 10 | F | R | 5' 11" | 170 | 1999-11-09 | Deerfield Beach, FL | VA
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                   |
 | ---------- | -------------------- | --------------------------------------------------------------------------------------- |
+| 2022-10-25 | [[Mayors Manor]] | [[LAK Prospects - Weekly Reign Report – October 24, 2022]]                                                                                                    |
 | 2022-10-22 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs San Diego, 10-22 - LA Kings Insider]]                                                                                |
 | 2022-10-21 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at San Diego, 10-21 - LA Kings Insider]]                                                                                |
 | 2022-10-19 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 5-3 win against Henderson]]                      |

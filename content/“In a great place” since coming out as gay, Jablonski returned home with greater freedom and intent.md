@@ -1,11 +1,12 @@
 ---
-title: "“In a great place” since coming out as gay, Jablonski returned home with greater freedom and intent"
+title: “In a great place” since coming out as gay, Jablonski returned home with greater freedom and intent
 date-created: 2022-10-22
 day-of-week-created: Sat
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # “In a great place” since coming out as gay, Jablonski returned home with greater freedom and intent

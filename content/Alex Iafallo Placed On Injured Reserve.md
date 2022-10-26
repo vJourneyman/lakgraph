@@ -1,11 +1,12 @@
 ---
-title: "Alex Iafallo Placed On Injured Reserve"
+title: Alex Iafallo Placed On Injured Reserve
 date-created: 2022-10-19
 day-of-week-created: Wed
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Alex Iafallo Placed On Injured Reserve

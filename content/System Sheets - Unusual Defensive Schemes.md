@@ -1,11 +1,12 @@
 ---
-title: "System Sheets - Unusual Defensive Schemes"
+title: System Sheets - Unusual Defensive Schemes
 date-created: 2022-10-19
 day-of-week-created: Wed
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # System Sheets - Unusual Defensive Schemes

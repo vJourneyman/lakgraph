@@ -1,11 +1,13 @@
 ---
 title: "NHL RADIO REPLAY: Hoven on LA Kings Season Thus Far, Plus Key Player Storylines"
 podcast: Mayor's Manor
+date-created: 2022-10-15
 date-published: 2022-10-15
 day-of-week-created: Sat
 date-updated: 
-aliases: []
-tags: [PodcastEpisode]
+aliases: 
+tags:
+ - PodcastEpisode
 status: unstarted
 ---
 

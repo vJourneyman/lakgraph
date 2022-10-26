@@ -1,8 +1,10 @@
 ---
-title: "Braden Doyle"
+title: Braden Doyle
 date-created: 2022-10-24
 aliases: 
-tags: [Status/New,Player]
+tags:
+ - Player
+status: stable
 ---
 
 # Braden Doyle

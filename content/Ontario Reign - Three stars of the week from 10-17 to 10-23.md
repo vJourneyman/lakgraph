@@ -1,11 +1,12 @@
 ---
-title: "Ontario Reign - Three stars of the week from 10-17 to 10-23"
+title: Ontario Reign - Three stars of the week from 10-17 to 10-23
 date-created: 2022-10-25
 day-of-week-created: Tue
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Ontario Reign - Three stars of the week from 10-17 to 10-23

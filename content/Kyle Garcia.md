@@ -1,8 +1,10 @@
 ---
-title: "Kyle Garcia"
+title: Kyle Garcia
 date-created: 2022-10-24
 aliases: 
-tags: [Status/New,Staff]
+tags:
+ - Staff
+status: unstarted
 ---
 
 # Kyle Garcia

@@ -1,11 +1,12 @@
 ---
-title: "Projected Lineup - LA Kings at Nashville Predators, Game 5"
+title: Projected Lineup - LA Kings at Nashville Predators, Game 5
 date-created: 2022-10-19
 day-of-week-created: Wed
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Projected Lineup - LA Kings at Nashville Predators, Game 5

@@ -1,11 +1,12 @@
 ---
-title: "Three Takeaways from the LA Kings 6-1 loss to the Penguins"
+title: Three Takeaways from the LA Kings 6-1 loss to the Penguins
 date-created: 2022-10-23
 day-of-week-created: Sun
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Three Takeaways from the LA Kings 6-1 loss to the Penguins

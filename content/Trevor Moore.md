@@ -2,7 +2,7 @@
 date-created: 2022-10-06
 title: Trevor Moore
 aliases: 
-tags: [Status/Stable,Player]
+tags: [Player]
 status: stable
 priority: high
 ---
@@ -21,6 +21,8 @@ Trevor Moore | 12 | C | L | 5' 10" | 195 | 1995-03-31 | Thousand Oaks, CA, USA
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                            |
 | ---------- | -------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| 2022-10-25 | [[Mayors Manor]] | [[Projected Lineup - LA Kings vs Tampa Bay Lightning, Game 8]]                                                                                         |
+| 2022-10-25 | [[The Forum Report]] | [[“Going in the right direction, but inconsistently,” forwards chemistry, identity become key - Quick starts]]                                                                                                                                |
 | 2022-10-24 | [[Kings at NHL.com]] | [[10-24 - The Week That Was, The Week That Is]]                                                                                     |
 | 2022-10-24 | [[The Athletic]] | [[Kings observations - Shaky goaltending, defense, power play and more]]                                                                                              |
 | 2022-10-23 | [[The Forum Report]] | [[Waking up with the Kings - October 23]]                                                                |

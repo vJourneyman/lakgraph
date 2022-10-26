@@ -1,8 +1,9 @@
 ---
-title: "Jordan Spence"
+title: Jordan Spence
 date-created: 2022-10-13
 aliases: 
-tags: [Status/New,Player]
+tags: [Player]
+status: stable
 ---
 
 # Jordan Spence
@@ -30,6 +31,7 @@ Jordan Spence | 58 | D | R | 5' 10" | 180 | 2001-02-24 | Manly, AUS | -   2019 L
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                         |
 | ---------- | -------------------- | ----------------------------------------------------------------------------- |
+| 2022-10-25 | [[Mayors Manor]] | [[LAK Prospects - Weekly Reign Report – October 24, 2022]]                                                                                                    |
 | 2022-10-21 | [[Kings at NHL.com]] | [[LA Kings Prospect Report, 10-21]]                                                                         |
 | 2022-10-19 | [[Mayors Manor]] | [[LA Kings Weekly Reign Report, October 16, 2022]]                                                                                                            |
 | 2022-10-18 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Henderson, 10-18 - LA Kings Insider]]                                                                                |

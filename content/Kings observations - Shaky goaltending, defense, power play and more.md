@@ -1,11 +1,12 @@
 ---
-title: "Kings observations - Shaky goaltending, defense, power play and more"
+title: Kings observations - Shaky goaltending, defense, power play and more
 date-created: 2022-10-25
 day-of-week-created: Tue
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Kings observations - Shaky goaltending, defense, power play and more

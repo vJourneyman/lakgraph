@@ -1,8 +1,11 @@
 ---
-title: "Kiffin McGinnis"
+title: Kiffin McGinnis
 date-created: 2022-10-23
 aliases: 
-tags: [Status/New,Staff]
+tags:
+ - Status/New
+ - Staff
+status: unstarted
 ---
 
 # Kiffin McGinnis

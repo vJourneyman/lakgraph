@@ -1,11 +1,12 @@
 ---
-title: "Alex Iafallo Moved To LTIR, Austin Wagner Recalled"
+title: Alex Iafallo Moved To LTIR, Austin Wagner Recalled
 date-created: 2022-10-24
 day-of-week-created: Mon
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Alex Iafallo Moved To LTIR, Austin Wagner Recalled

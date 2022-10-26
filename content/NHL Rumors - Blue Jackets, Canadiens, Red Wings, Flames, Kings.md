@@ -1,11 +1,12 @@
 ---
-title: "NHL Rumors - Blue Jackets, Canadiens, Red Wings, Flames, Kings"
+title: NHL Rumors - Blue Jackets, Canadiens, Red Wings, Flames, Kings
 date-created: 2022-10-22
 day-of-week-created: Sat
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # NHL Rumors - Blue Jackets, Canadiens, Red Wings, Flames, Kings

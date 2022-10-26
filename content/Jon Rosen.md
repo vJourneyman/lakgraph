@@ -1,8 +1,11 @@
 ---
-title: "Jon Rosen"
+title: Jon Rosen
 date-created: 2022-10-16
 aliases: 
-tags: [Status/New,Staff]
+tags:
+ - Status/New
+ - Staff
+status: unstarted
 ---
 
 # Jon Rosen

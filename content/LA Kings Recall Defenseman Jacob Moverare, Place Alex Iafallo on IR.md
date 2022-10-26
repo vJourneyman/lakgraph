@@ -1,11 +1,12 @@
 ---
-title: "LA Kings Recall Defenseman Jacob Moverare, Place Alex Iafallo on IR"
+title: LA Kings Recall Defenseman Jacob Moverare, Place Alex Iafallo on IR
 date-created: 2022-10-19
 day-of-week-created: Wed
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # LA Kings Recall Defenseman Jacob Moverare, Place Alex Iafallo on IR

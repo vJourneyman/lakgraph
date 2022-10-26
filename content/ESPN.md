@@ -1,11 +1,12 @@
 ---
-title: "ESPN"
+title: ESPN
 date-created: 2022-10-22
 day-of-week-created: Sat
 date-updated: 
-aliases: []
-tags: [NewsSite]
-status: unstarted
+aliases: 
+tags:
+ - NewsSite
+status: NeedsImprovement
 ---
 
 # ESPN

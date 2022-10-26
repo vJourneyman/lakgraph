@@ -1,11 +1,12 @@
 ---
-title: "LA Kings at Pittsburgh Penguins projected lineups, betting preview"
+title: LA Kings at Pittsburgh Penguins projected lineups, betting preview
 date-created: 2022-10-22
 day-of-week-created: Sat
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # LA Kings at Pittsburgh Penguins projected lineups, betting preview

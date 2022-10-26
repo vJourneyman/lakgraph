@@ -1,11 +1,12 @@
 ---
-title: "LA Kings Top Goaltending Prospect to Have Back Surgery This Week"
+title: LA Kings Top Goaltending Prospect to Have Back Surgery This Week
 date-created: 2022-10-20
 day-of-week-created: Thu
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # LA Kings Top Goaltending Prospect to Have Back Surgery This Week

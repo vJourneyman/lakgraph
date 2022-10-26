@@ -1,8 +1,11 @@
 ---
-title: "Tobias Bjornfot"
+title: Tobias Bjornfot
 date-created: 2022-10-13
 aliases: 
-tags: [Status/New,Player]
+tags:
+ - Status/New
+ - Player
+status: stable
 ---
 
 # Tobias Bjornfot

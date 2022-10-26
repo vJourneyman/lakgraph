@@ -1,11 +1,12 @@
 ---
-title: "Angeles Analysis - Good To See You, Positive Trends - LA Kings Insider"
+title: Angeles Analysis - Good To See You, Positive Trends - LA Kings Insider
 date-created: 2022-10-20
 day-of-week-created: Thu
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Angeles Analysis - Good To See You, Positive Trends - LA Kings Insider

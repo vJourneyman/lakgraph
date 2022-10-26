@@ -1,8 +1,11 @@
 ---
-title: "Akil Thomas"
+title: Akil Thomas
 date-created: 2022-10-13
 aliases: 
-tags: [Status/New,Player]
+tags:
+ - Status/New
+ - Player
+status: stable
 ---
 
 # Akil Thomas

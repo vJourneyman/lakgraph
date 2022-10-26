@@ -1,8 +1,10 @@
 ---
-title: "Jack Sparkes"
+title: Jack Sparkes
 date-created: 2022-10-17
 aliases: 
-tags: [Status/New,Player]
+tags:
+ - Player
+status: needs-draft-content
 ---
 
 # Jack Sparkes

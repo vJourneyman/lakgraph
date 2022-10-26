@@ -1,11 +1,12 @@
 ---
-title: "Ontario Reign - Projected Lineup vs San Diego Gulls on Saturday"
+title: Ontario Reign - Projected Lineup vs San Diego Gulls on Saturday
 date-created: 2022-10-24
 day-of-week-created: Mon
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Ontario Reign - Projected Lineup vs San Diego Gulls on Saturday

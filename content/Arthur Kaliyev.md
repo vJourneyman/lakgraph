@@ -2,7 +2,7 @@
 title: "Arthur Kaliyev"
 date-created: 2022-09-25
 aliases: 
-tags: [Status/Stable,Player]
+tags: [Player]
 status: stable
 priority: high
 ---
@@ -21,6 +21,7 @@ RW | L | 6'2" | 210 | 21 | 2001-06-26 | Tashkent, UZB | 2019 LAK, 2nd rd, 2nd pk
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                          |     |
 | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------ | --- |
+| 2022-10-25 | [[The Forum Report]] | [[“Going in the right direction, but inconsistently,” forwards chemistry, identity become key - Quick starts]]                                                                                                                                |
 | 2022-10-21 | [[The Forum Report]] | [[Possession Chart - 10-20 at PIT]]                                                       |
 | 2022-10-20 | [[Hockey Royalty]] | [[LA Kings at Pittsburgh Penguins projected lineups, betting preview]]                                                                                                        |
 | 2022-10-20 | [[LA Kings Insider]] | [[10-20 Preview - Starting How It Ended + Growth and Mentality, Third Line Makeup, Byfield On Trust - LA Kings Insider]]                                                                                                                               |

@@ -1,11 +1,12 @@
 ---
-title: "“Im not sure that we were that good in the first 40, either,” and more from McLellan, Durzi and Dowd"
+title: “Im not sure that we were that good in the first 40, either,” and more from McLellan, Durzi and Dowd
 date-created: 2022-10-23
 day-of-week-created: Sun
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # “Im not sure that we were that good in the first 40, either,” and more from McLellan, Durzi and Dowd

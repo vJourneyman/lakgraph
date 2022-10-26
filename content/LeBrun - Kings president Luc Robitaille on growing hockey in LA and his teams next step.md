@@ -1,11 +1,12 @@
 ---
-title: "LeBrun - Kings president Luc Robitaille on growing hockey in LA and his teams next step"
+title: LeBrun - Kings president Luc Robitaille on growing hockey in LA and his teams next step
 date-created: 2022-10-25
 day-of-week-created: Tue
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # LeBrun - Kings president Luc Robitaille on growing hockey in LA and his teams next step

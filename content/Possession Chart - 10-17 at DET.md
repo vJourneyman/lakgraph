@@ -1,11 +1,12 @@
 ---
-title: "Possession Chart - 10-17 at DET"
+title: Possession Chart - 10-17 at DET
 date-created: 2022-10-19
 day-of-week-created: Wed
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Possession Chart - 10-17 at DET

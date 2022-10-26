@@ -1,11 +1,12 @@
 ---
-title: "Forechecks improvements - Doughty thinks Clarke “looks like an NHL-ready player,” prefers summer World Cup"
+title: Forechecks improvements - Doughty thinks Clarke “looks like an NHL-ready player,” prefers summer World Cup
 date-created: 2022-10-23
 day-of-week-created: Sun
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Forechecks improvements - Doughty thinks Clarke “looks like an NHL-ready player,” prefers summer World Cup

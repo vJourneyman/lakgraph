@@ -1,11 +1,12 @@
 ---
-title: "Quinton Byfield makes history as highest-drafted Black player"
+title: Quinton Byfield makes history as highest-drafted Black player
 date-created: 2022-10-19
 day-of-week-created: Wed
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Quinton Byfield makes history as highest-drafted Black player

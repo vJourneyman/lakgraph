@@ -2,7 +2,7 @@
 title: "Cal Petersen"
 date-created: 2022-10-06
 aliases: 
-tags: [Status/Stable,Player]
+tags: [Player]
 status: stable
 ---
 
@@ -19,8 +19,9 @@ NHL.com | Twitter
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                    |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 2022-10-24 | [[The Athletic]] | [[Kings observations - Shaky goaltending, defense, power play and more]]                                                                                              |
-| 2022-10-23 | [[Hockey Royalty]] | [[Why has LA Kings goalie Cal Petersen been underperforming]]                                                                                                |
+| 2022-10-25 | [[The Hockey News]]     | [[Los Angeles Kings Goaltending Must Tighten Up To Win A Playoff Round]]                                                 |
+| 2022-10-24 | [[The Athletic]]        | [[Kings observations - Shaky goaltending, defense, power play and more]]                                                 |
+| 2022-10-23 | [[Hockey Royalty]]      | [[Why has LA Kings goalie Cal Petersen been underperforming]]                                                            |
 | 2022-10-21 | [[Hockey Royalty]]      | [[LA Kings at Washington Capitals projected lineups, betting preview]]                                                   |
 | 2022-10-21 | [[Hockey Royalty]]      | [[Quotes, notes and video from the LA Kings 6-1 loss in Pittsburgh]]                                                     |
 | 2022-10-21 | [[Hockey Royalty]]      | [[Three Takeaways from the LA Kings 6-1 loss to the Penguins]]                                                           |

@@ -1,11 +1,12 @@
 ---
-title: "2020 NHL Draft - LA Kings select Quinton Byfield with No 2 pick"
+title: 2020 NHL Draft - LA Kings select Quinton Byfield with No 2 pick
 date-created: 2022-10-19
 day-of-week-created: Wed
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # 2020 NHL Draft - LA Kings select Quinton Byfield with No 2 pick

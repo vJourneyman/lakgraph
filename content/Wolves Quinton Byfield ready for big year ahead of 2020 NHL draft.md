@@ -1,11 +1,12 @@
 ---
-title: "Wolves Quinton Byfield ready for big year ahead of 2020 NHL draft"
+title: Wolves Quinton Byfield ready for big year ahead of 2020 NHL draft
 date-created: 2022-10-19
 day-of-week-created: Wed
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Wolves Quinton Byfield ready for big year ahead of 2020 NHL draft

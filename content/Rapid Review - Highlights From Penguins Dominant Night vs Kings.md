@@ -1,11 +1,12 @@
 ---
-title: "Rapid Review - Highlights From Penguins Dominant Night vs Kings"
+title: Rapid Review - Highlights From Penguins Dominant Night vs Kings
 date-created: 2022-10-22
 day-of-week-created: Sat
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Rapid Review - Highlights From Penguins Dominant Night vs Kings

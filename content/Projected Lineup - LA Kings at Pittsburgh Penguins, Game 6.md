@@ -1,11 +1,12 @@
 ---
-title: "Projected Lineup - LA Kings at Pittsburgh Penguins, Game 6"
+title: Projected Lineup - LA Kings at Pittsburgh Penguins, Game 6
 date-created: 2022-10-22
 day-of-week-created: Sat
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Projected Lineup - LA Kings at Pittsburgh Penguins, Game 6

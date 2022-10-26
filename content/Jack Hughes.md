@@ -1,8 +1,11 @@
 ---
-title: "Jack Hughes"
+title: Jack Hughes
 date-created: 2022-10-17
 aliases: 
-tags: [Status/New,Player]
+tags:
+ - Status/New
+ - Player
+status: needs-draft-content
 ---
 
 # Jack Hughes

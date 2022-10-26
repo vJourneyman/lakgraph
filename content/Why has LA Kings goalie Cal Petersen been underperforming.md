@@ -1,11 +1,12 @@
 ---
-title: "Why has LA Kings goalie Cal Petersen been underperforming"
+title: Why has LA Kings goalie Cal Petersen been underperforming
 date-created: 2022-10-24
 day-of-week-created: Mon
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Why has LA Kings goalie Cal Petersen been underperforming

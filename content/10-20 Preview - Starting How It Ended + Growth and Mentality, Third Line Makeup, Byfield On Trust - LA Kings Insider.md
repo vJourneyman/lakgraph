@@ -1,11 +1,12 @@
 ---
-title: "10-20 Preview - Starting How It Ended + Growth and Mentality, Third Line Makeup, Byfield On Trust - LA Kings Insider"
+title: 10-20 Preview - Starting How It Ended + Growth and Mentality, Third Line Makeup, Byfield On Trust - LA Kings Insider
 date-created: 2022-10-20
 day-of-week-created: Thu
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # 10-20 Preview - Starting How It Ended + Growth and Mentality, Third Line Makeup, Byfield On Trust - LA Kings Insider

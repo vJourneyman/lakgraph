@@ -1,11 +1,12 @@
 ---
-title: "LA Kings Weekly Reign Report, October 16, 2022"
+title: LA Kings Weekly Reign Report, October 16, 2022
 date-created: 2022-10-20
 day-of-week-created: Thu
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # LA Kings Weekly Reign Report, October 16, 2022

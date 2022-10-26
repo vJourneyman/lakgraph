@@ -1,11 +1,12 @@
 ---
-title: "Waking up with the Kings - October 18"
+title: Waking up with the Kings - October 18
 date-created: 2022-10-19
 day-of-week-created: Wed
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Waking up with the Kings - October 18

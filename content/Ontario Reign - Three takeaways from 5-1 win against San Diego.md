@@ -1,11 +1,12 @@
 ---
-title: "Ontario Reign - Three takeaways from 5-1 win against San Diego"
+title: Ontario Reign - Three takeaways from 5-1 win against San Diego
 date-created: 2022-10-24
 day-of-week-created: Mon
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Ontario Reign - Three takeaways from 5-1 win against San Diego

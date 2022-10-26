@@ -1,11 +1,12 @@
 ---
-title: "LA Kings 4, Predators 3 SO - Matt Roy, Cal Petersen shine in win"
+title: LA Kings 4, Predators 3 SO - Matt Roy, Cal Petersen shine in win
 date-created: 2022-10-20
 day-of-week-created: Thu
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # LA Kings 4, Predators 3 SO - Matt Roy, Cal Petersen shine in win

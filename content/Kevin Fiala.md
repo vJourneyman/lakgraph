@@ -2,8 +2,8 @@
 title: "Kevin Fiala"
 date-created: 2022-10-07
 aliases: 
-tags: [Status/NeedsImprovement,Player]
-status: NeedsImprovement
+tags: [Player]
+status: UnprocessedContent
 ---
 
 # Kevin Fiala
@@ -20,7 +20,9 @@ Kevin Fiala | 22 | LW | L | 5' 10" | 204 | 1996-07-22 | St. Gallen, CHE | 2014 N
 ## NHL  Coverage
 | Date       | Site                            | Title                                                                                                                                |
 | ---------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-10-24 | [[The Athletic]] | [[Kings observations - Shaky goaltending, defense, power play and more]]                                                                                              |
+| 2022-10-25 | [[The Fourth Period]]           | [[LAK at 7 - Now for Something Completely Different — The Fourth Period]]                                                            |
+| 2022-10-25 | [[The Forum Report]]            | [[“Going in the right direction, but inconsistently,” forwards chemistry, identity become key - Quick starts]]                       |
+| 2022-10-24 | [[The Athletic]]                | [[Kings observations - Shaky goaltending, defense, power play and more]]                                                             |
 | 2022-10-24 | [[The Forum Report]]            | [[Playmaking Chart - 10-22 at WSH]]                                                                                                  |
 | 2022-10-24 | [[LA Kings Insider]]            | [[10-24 Practice - Kings address areas of focus + McLellan on Lines, Lizotte on Identity, Robitaille Joins ATKM - LA Kings Insider]] |
 | 2022-10-18 | [[ESPN]]                        | [[2022-23 NHL Rank - Top player predictions across teams]]                                                                           |

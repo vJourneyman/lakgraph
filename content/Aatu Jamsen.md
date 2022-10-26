@@ -1,8 +1,11 @@
 ---
-title: "Aatu Jamsen"
+title: Aatu Jamsen
 date-created: 2022-10-23
 aliases: 
-tags: [Status/New,Player]
+tags:
+ - Status/New
+ - Player
+status: needs-draft-content
 ---
 
 # Aatu Jamsen

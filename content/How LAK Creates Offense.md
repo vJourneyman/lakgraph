@@ -1,11 +1,12 @@
 ---
-title: "How LAK Creates Offense"
+title: How LAK Creates Offense
 date-created: 2022-10-19
 day-of-week-created: Wed
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # How LAK Creates Offense

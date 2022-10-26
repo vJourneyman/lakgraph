@@ -1,11 +1,12 @@
 ---
-title: "Ontario Reign - Three takeaways from 2-1 win against the Gulls"
+title: Ontario Reign - Three takeaways from 2-1 win against the Gulls
 date-created: 2022-10-23
 day-of-week-created: Sun
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Ontario Reign - Three takeaways from 2-1 win against the Gulls

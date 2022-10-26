@@ -1,8 +1,11 @@
 ---
-title: "Tony Ferrari"
+title: Tony Ferrari
 date-created: 2022-10-23
 aliases: 
-tags: [Status/New,Staff]
+tags:
+ - Status/New
+ - Staff
+status: unstarted
 ---
 
 # Tony Ferrari

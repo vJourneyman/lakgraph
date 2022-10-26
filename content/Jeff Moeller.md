@@ -1,8 +1,11 @@
 ---
-title: "Jeff Moeller"
+title: Jeff Moeller
 date-created: 2022-10-19
 aliases: 
-tags: [Status/New,Staff]
+tags:
+ - Status/New
+ - Staff
+status: unstarted
 ---
 
 # Jeff Moeller

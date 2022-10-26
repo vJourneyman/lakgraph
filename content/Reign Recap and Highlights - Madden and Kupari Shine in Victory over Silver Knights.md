@@ -1,11 +1,12 @@
 ---
-title: "Reign Recap and Highlights - Madden and Kupari Shine in Victory over Silver Knights"
+title: Reign Recap and Highlights - Madden and Kupari Shine in Victory over Silver Knights
 date-created: 2022-10-19
 day-of-week-created: Wed
 date-updated: 
-aliases: []
-tags: [NewsPost]
-status: unstarted
+aliases: 
+tags:
+ - NewsPost
+status: stable
 ---
 
 # Reign Recap and Highlights - Madden and Kupari Shine in Victory over Silver Knights
