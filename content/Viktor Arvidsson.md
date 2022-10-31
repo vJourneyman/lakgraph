@@ -21,10 +21,14 @@ Viktor Arvidsson | 33 | LW | R | 5' 10" | 185 | 1993-04-08 | Skellefteå, SWE | 
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-10-26 | [[Field Level Media]] | [[Things looking up for Kings ahead of Jets matchup]]                                                                                    |
-| 2022-10-26 | [[Hockey Royalty]] | [[LA Kings - Takeaways from the teams 4-2 win against the Lightning]]                                                                                        |
-| 2022-10-26 | [[The Athletic]] | [[LA Kings are showing signs of heading back in the right direction]]                                                                            |
-| 2022-10-26 | [[LA Kings Insider]] | [[10-26 Practice - Todays Alignment + First Line Makes Progress, The JADebut, Pinellis Hot Start - LA Kings Insider]]                                                                                                                                |
+| 2022-10-27 | [[LA Daily News]] | [[Kings early lead fades away as Winnipeg hands them 3rd loss in 4 games]]                                                                                                        |
+| 2022-10-27 | [[Hockey Royalty]] | [[LA Kings vs Winnipeg Jets projected lineups, betting preview]]                                                                                                  |
+| 2022-10-27 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings vs. Winnipeg Jets, Game 9]]                                                                            |
+| 2022-10-27 | [[LA Kings Insider]]    | [[10-27 Preview - Arvidsson Ready To Return + Potential Lineup, Durzi On The Left, TM on Jets - LA Kings Insider]]                   |
+| 2022-10-26 | [[Field Level Media]]   | [[Things looking up for Kings ahead of Jets matchup]]                                                                                |
+| 2022-10-26 | [[Hockey Royalty]]      | [[LA Kings - Takeaways from the teams 4-2 win against the Lightning]]                                                                |
+| 2022-10-26 | [[The Athletic]]        | [[LA Kings are showing signs of heading back in the right direction]]                                                                |
+| 2022-10-26 | [[LA Kings Insider]]    | [[10-26 Practice - Todays Alignment + First Line Makes Progress, The JADebut, Pinellis Hot Start - LA Kings Insider]]                |
 | 2022-10-25 | [[LA Daily News]]       | [[Gabe Vilardi sets the pace as Kings solve Lightning]]                                                                              |
 | 2022-10-25 | [[The Forum Report]]    | [[“He doesnt hide, he doesnt crumble” and more on Clarke, Lizotte and Anderson-Dolan]]                                               |
 | 2022-10-25 | [[The Forum Report]]    | [[“Going in the right direction, but inconsistently,” forwards chemistry, identity become key - Quick starts]]                       |

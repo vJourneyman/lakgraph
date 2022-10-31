@@ -22,6 +22,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                                |
 | ---------- | -------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| 2022-10-27 | [[LA Kings Insider]] | [[10-27 Preview - Arvidsson Ready To Return + Potential Lineup, Durzi On The Left, TM on Jets - LA Kings Insider]]                                                                                                                             |
 | 2022-10-26 | [[Hockey Royalty]] | [[LA Kings - Pros and cons of playing a defenseman on their off-side]]                                                                                                       |
 | 2022-10-25 | [[Hockey Royalty]] | [[LA Kings vs Tampa Bay Lightning projected lineup, betting preview]]                                                                                                       |
 | 2022-10-24 | [[Hockey Royalty]] | [[LA Kings After 7 Games - Its Something We Know We Need To Fix]]                                                                                                           |

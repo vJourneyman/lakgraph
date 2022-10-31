@@ -20,8 +20,9 @@ Kevin Fiala | 22 | LW | L | 5' 10" | 204 | 1996-07-22 | St. Gallen, CHE | 2014 N
 ## NHL  Coverage
 | Date       | Site                            | Title                                                                                                                                |
 | ---------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-10-26 | [[The Athletic]] | [[LA Kings are showing signs of heading back in the right direction]]                                                                            |
-| 2022-10-26 | [[LA Kings Insider]] | [[10-26 Practice - Todays Alignment + First Line Makes Progress, The JADebut, Pinellis Hot Start - LA Kings Insider]]                                                                                                                                |
+| 2022-10-27 | [[The Forum Report]]            | [[Loss a microcosm of early season play - former divisional foe understands McLellans push for structure, discipline]]               |
+| 2022-10-26 | [[The Athletic]]                | [[LA Kings are showing signs of heading back in the right direction]]                                                                |
+| 2022-10-26 | [[LA Kings Insider]]            | [[10-26 Practice - Todays Alignment + First Line Makes Progress, The JADebut, Pinellis Hot Start - LA Kings Insider]]                |
 | 2022-10-25 | [[The Fourth Period]]           | [[LAK at 7 - Now for Something Completely Different — The Fourth Period]]                                                            |
 | 2022-10-25 | [[The Forum Report]]            | [[“Going in the right direction, but inconsistently,” forwards chemistry, identity become key - Quick starts]]                       |
 | 2022-10-24 | [[The Athletic]]                | [[Kings observations - Shaky goaltending, defense, power play and more]]                                                             |

@@ -29,6 +29,7 @@ status: needs-draft-content
 ## Minor League Coverage
 | Date | Site | Title |
 | ---- | ---- | ----- |
+| 2022-10-27 | [[Mayors Manor]] | [[Reign Recap - Ontario Surge in Standings with Win Over San Jose]]                                                                                                |
 | 2022-10-26 | [[Mayors Manor]] | [[Ontario Reign - Projected Lineup at San Jose Barracuda on Wednesday]]                                                                                                   |
 | 2022-10-22 | [[Mayors Manor]] | [[Ontario Reign - Projected Lineup vs San Diego Gulls on Saturday]]                                                                                                 |
 | 2022-10-21 | [[Mayors Manor]] | [[Ontario Reign - Projected Lineup at San Diego on Friday]]                                                                                       |

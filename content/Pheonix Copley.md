@@ -29,6 +29,7 @@ status: stable
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                   |
 | ---------- | -------------------- | ----------------------------------------------------------------------- |
+| 2022-10-27 | [[Mayors Manor]] | [[Reign Recap - Ontario Surge in Standings with Win Over San Jose]]                                                                                                |
 | 2022-10-26 | [[Mayors Manor]] | [[Ontario Reign - Projected Lineup at San Jose Barracuda on Wednesday]]                                                                                                   |
 | 2022-10-26 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 2, Barracuda 1 – Sturm - LA Kings Insider]]                                                                             |
 | 2022-10-24 | [[Hockey Royalty]] | [[Ontario Reign - Three stars of the week from 10-17 to 10-23]]                                                                                                |

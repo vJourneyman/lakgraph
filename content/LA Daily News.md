@@ -3,7 +3,7 @@ title: "LA Daily News"
 date-created: 2022-10-30
 day-of-week-created: Sun
 date-updated: 
-aliases: [dailynews.com]
+aliases: [dailynews.com,www.dailynews.com]
 tags: [NewsSite]
 status: unstarted
 ---

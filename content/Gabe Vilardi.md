@@ -24,15 +24,18 @@ NHL.com | Twitter
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                    |
 | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 2022-10-26 | [[Hockey Royalty]] | [[LA Kings - Takeaways from the teams 4-2 win against the Lightning]]                                                                                        |
-| 2022-10-26 | [[Mayors Manor]] | [[Rapid Review - Highlights from Kings-Lightning, A Calming of the Waters]]                                                                                                      |
-| 2022-10-26 | [[The Athletic]] | [[LA Kings are showing signs of heading back in the right direction]]                                                                            |
-| 2022-10-25 | [[LA Daily News]] | [[Gabe Vilardi sets the pace as Kings solve Lightning]]                                                                                          |
+| 2022-10-27 | [[Hockey Royalty]] | [[LA Kings vs Winnipeg Jets projected lineups, betting preview]]                                                                                                  |
+| 2022-10-27 | [[The Forum Report]] | [[Loss a microcosm of early season play - former divisional foe understands McLellans push for structure, discipline]]                                                                                                                                            |
+| 2022-10-27 | [[LA Kings Insider]]  | [[FINAL - Kings 4, Jets 6 - Kopitar, McLellan - LA Kings Insider]]                                                       |
+| 2022-10-26 | [[Hockey Royalty]]    | [[LA Kings - Takeaways from the teams 4-2 win against the Lightning]]                                                    |
+| 2022-10-26 | [[Mayors Manor]]      | [[Rapid Review - Highlights from Kings-Lightning, A Calming of the Waters]]                                              |
+| 2022-10-26 | [[The Athletic]]      | [[LA Kings are showing signs of heading back in the right direction]]                                                    |
+| 2022-10-25 | [[LA Daily News]]     | [[Gabe Vilardi sets the pace as Kings solve Lightning]]                                                                  |
 | 2022-10-25 | [[LA Kings Insider]]  | [[FINAL - Kings 4, Lightning 2 - Danault, Vilardi, Clarke, McLellan - LA Kings Insider]]                                 |
 | 2022-10-24 | [[The Forum Report]]  | [[Playmaking Chart - 10-22 at WSH]]                                                                                      |
 | 2022-10-22 | [[The Forum Report]]  | [[Friends sent Clarke gifs after move on Crosby - Lemieuxs effective, simple game - Quick-Kuemper - Edler in]]           |
 | 2022-10-20 | [[Kings at NHL.com]]  | [[LA Kings at Pittsburgh Penguins - How to Watch]]                                                                       |
-| 2022-10-19 | [[LA Daily News]] | [[Kings Todd McLellan touts ‘character with the comeback]]                                                                                            |
+| 2022-10-19 | [[LA Daily News]]     | [[Kings Todd McLellan touts ‘character with the comeback]]                                                               |
 | 2022-10-19 | [[Hockey Royalty]]    | [[LA Kings powerplay breakdown versus Nashville]]                                                                        |
 | 2022-10-19 | [[Hockey Royalty]]    | [[LA Kings 4, Predators 3 SO - Matt Roy, Cal Petersen shine in win]]                                                     |
 | 2022-10-19 | [[Mayors Manor]]      | [[Rapid Review - Vilardi Remains Hot, Helps Kings Secure Shootout Win in Nashville]]                                     |
@@ -47,18 +50,18 @@ NHL.com | Twitter
 | 2022-10-16 | [[The Forum Report]]  | [[Possession Chart - 10-15 at MIN]]                                                                                      |
 | 2022-10-16 | [[The Forum Report]]  | [[Waking up with the Kings - October 16]]                                                                                |
 | 2022-10-14 | [[The Forum Report]]  | [[Waking up with the Kings - October 14]]                                                                                |
-| 2022-10-13 | [[LA Daily News]] | [[Kings lose to Kraken as Brandt Clarke makes his NHL debut]]                                                                                                |
+| 2022-10-13 | [[LA Daily News]]     | [[Kings lose to Kraken as Brandt Clarke makes his NHL debut]]                                                            |
 | 2022-10-13 | [[The Forum Report]]  | [[Blake excited about 3C slot for Byfield as Kopitar and Danault – and Matthews – provide influence]]                    |
 | 2022-10-13 | [[LA Kings Insider]]  | [[10-13 Preview - Clarke Debut Expected + Arvidsson out, 19-55-13 Line, Being First - LA Kings Insider]]                 |
-| 2022-10-12 | [[LA Daily News]] | [[Kings look to settle in vs. Seattle after sloppy opener]]                                                                                             |
-| 2022-10-12 | [[The Athletic]] | [[LA Kings hope to settle in after penalties and mistakes evident vs Vegas]]                                                                               |
+| 2022-10-12 | [[LA Daily News]]     | [[Kings look to settle in vs. Seattle after sloppy opener]]                                                              |
+| 2022-10-12 | [[The Athletic]]      | [[LA Kings hope to settle in after penalties and mistakes evident vs Vegas]]                                             |
 | 2022-10-12 | [[Hockey Royalty]]    | [[LA Kings, Kopitar aim to correct mistakes - Notes on Quick, Vilardi, Fiala]]                                           |
 | 2022-10-12 | [[Hockey Royalty]]    | [[LA Kings - Three takeaways from 4-3 loss against VGK]]                                                                 |
 | 2022-10-12 | [[The Athletic]]      | [[LA Kings hope to ‘settle in’ after penalties and mistakes evident vs Vegas]]                                           |
 | 2022-10-12 | [[The Forum Report]]  | [[Possession Chart - October 11 vs VGK]]                                                                                 |
 | 2022-10-12 | [[The Forum Report]]  | [[Waking up with the Kings - October 12]]                                                                                |
 | 2022-10-12 | [[LA Kings Insider]]  | [[Practice 10-12 - Identity Through 3 Periods + Notes on Vilardis Speed, Fourth Goal, Looking Ahead - LA Kings Insider]] |
-| 2022-10-11 | [[LA Daily News]] | [[Vegas scores late to edge Kings in season opener]]                                                                                           |
+| 2022-10-11 | [[LA Daily News]]     | [[Vegas scores late to edge Kings in season opener]]                                                                     |
 | 2022-10-11 | [[Mayors Manor]]      | [[Rapid Review - Golden Knights def Kings in Game 1]]                                                                    |
 | 2022-10-11 | [[The Forum Report]]  | [[Postgame - Terrible LA game management - Bettman talks RSNs with LA media]]                                            |
 | 2022-10-11 | [[ESPN]]              | [Golden Knights vs Kings - Game Recap - October 11, 2022 - ESPN](https://www.espn.com/nhl/recap/_/gameId/401458592)      |

@@ -21,6 +21,7 @@ NHL.com / Ontario Reign | Twitter
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                    |
 | ---------- | -------------------- | -------------------------------------------------------------------------------------------------------- |
+| 2022-10-27 | [[Hockey Royalty]] | [[LA Kings vs Winnipeg Jets projected lineups, betting preview]]                                                                                                  |
 | 2022-10-26 | [[The Athletic]] | [[LA Kings are showing signs of heading back in the right direction]]                                                                            |
 | 2022-10-25 | [[The Hockey News]] | [[Los Angeles Kings Goaltending Must Tighten Up To Win A Playoff Round]]                                                                                                    |
 | 2022-10-25 | [[Hockey Royalty]] | [[LA Kings vs Tampa Bay Lightning projected lineup, betting preview]]                                                                                                       |
