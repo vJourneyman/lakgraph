@@ -22,6 +22,7 @@ Carl Grundstrom | 91 | RW | L | 6' 0" | 195 | 1997-12-01 | Umea, SWE | 2016 TOR,
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                     |
 | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| 2022-10-26 | [[The Forum Report]] | [[Playmaking Chart - 10-25 vs TBL]]                                                          |
 | 2022-10-25 | [[The Fourth Period]] | [[LAK at 7 - Now for Something Completely Different — The Fourth Period]]                                                 |
 | 2022-10-25 | [[LA Kings Insider]]  | [[10-25 Preview - Potential Alignment + Facing The Bolts, Grundstroms Metrics, Clarke on Firsts - LA Kings Insider]]      |
 | 2022-10-22 | [[LA Kings Insider]]  | [[10-22 Preview - Full Team Skate in Washington + Edler Returns, Preaching Defense, Fourth Line Fury - LA Kings Insider]] |
@@ -33,6 +34,7 @@ Carl Grundstrom | 91 | RW | L | 6' 0" | 195 | 1997-12-01 | Umea, SWE | 2016 TOR,
 | 2022-10-18 | [[The Forum Report]]  | [[Possession Chart - 10-17 at DET]]                                                                                       |
 | 2022-10-17 | [[The Forum Report]]  | [[Quick projected - Roy expecting 150 supporters - Grundstrom in for Kaliyev - Määttä on LA growth]]                      |
 | 2022-10-17 | [[The Forum Report]]  | [[Good morning, Detroit]]                                                                                                 |
+| 2022-10-13 | [[LA Daily News]] | [[Kings lose to Kraken as Brandt Clarke makes his NHL debut]]                                                                                                |
 | 2022-10-13 | [[LA Kings Insider]]  | [[10-13 Preview - Clarke Debut Expected + Arvidsson out, 19-55-13 Line, Being First - LA Kings Insider]]                  |
 | 2022-09-29 | [[LA Kings Insider]]  | [[Blake Lizotte and Brendan Lemieux excited to add Carl Grundstrom to buzzing, physical line]]                            |
 | 2022-09-27 | [[LA Kings Insider]]  | [[Day 6 Notes – Injury Updates + Grundstrom Opportunity, Anderson Debut and Kempe joins ATKM]]                            |

@@ -3,7 +3,6 @@ title: Kim Nousiainen
 date-created: 2022-10-17
 aliases: 
 tags:
- - Status/New
  - Player
 status: needs-draft-content
 ---
@@ -30,6 +29,7 @@ status: needs-draft-content
 ## Minor League Coverage
 | Date | Site | Title |
 | ---- | ---- | ----- |
+| 2022-10-26 | [[Mayors Manor]] | [[Ontario Reign - Projected Lineup at San Jose Barracuda on Wednesday]]                                                                                                   |
 | 2022-10-18 | [[Mayors Manor]] | [[Ontario Reign - Projected Lineup vs Henderson Silver Knights on Tuesday]]                                                                                                       |
 
 

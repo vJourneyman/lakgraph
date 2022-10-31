@@ -3,7 +3,6 @@ title: T.J. Tynan
 date-created: 2022-10-16
 aliases: 
 tags:
- - Status/New
  - Player
 status: stable
 ---

@@ -3,9 +3,8 @@ title: Jared Shafran
 date-created: 2022-10-19
 aliases: 
 tags:
- - Status/New
  - Staff
-status: needs-draft-content
+status: stable
 ---
 
 # Jared Shafran

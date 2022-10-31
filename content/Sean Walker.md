@@ -1,8 +1,9 @@
 ---
-title: "Sean Walker"
+title: Sean Walker
 date-created: 2022-10-11
 aliases: 
-tags: [Status/Stable,Player]
+tags:
+ - Player
 status: stable
 ---
 
@@ -22,6 +23,7 @@ Sean Walker | 26 | RD | R | 5' 11" | 195 | 1994-11-13 | Keswick, ON, CAN
 | ---------- | ----------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | 2022-10-25 | [[Hockey Royalty]]      | [[LA Kings vs Tampa Bay Lightning projected lineup, betting preview]]                                            |
 | 2022-10-22 | [[The Forum Report]]    | [[Friends sent Clarke gifs after move on Crosby - Lemieuxs effective, simple game - Quick-Kuemper - Edler in]]   |
+| 2022-10-21 | [[Montreal Hockey Now]] | [[Montreal Canadiens and LA Kings Could Rekindle Trade Talks]]                                                                                                      |
 | 2022-10-18 | [[Hockey Royalty]]      | [[LA Kings at Nashville Predators Projected Lineups and Betting Preview]]                                        |
 | 2022-10-18 | [[Hockey Royalty]]      | [[LA Kings 5, Red Wings 4 OT - Danault scores twice, bails out Arvidsson]]                                       |
 | 2022-10-18 | [[LA Kings Insider]]    | [[10-18 Preview - Petersen in Net and 2,19 Out + First Back-To-Back, Second Line Stands Out - LA Kings Insider]] |

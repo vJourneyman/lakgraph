@@ -1,8 +1,9 @@
 ---
-title: "Jack Jablonski"
+title: Jack Jablonski
 date-created: 2022-10-11
 aliases: 
-tags: [Status/stable,Staff]
+tags:
+ - Staff
 status: stable
 ---
 

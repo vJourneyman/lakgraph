@@ -4,8 +4,8 @@ date-created: 2022-10-06
 day-of-week-created: Thu
 date-updated: 
 aliases: []
-tags: []
-status: unstarted
+tags: [Event]
+status: unfinished
 ---
 
 # 2022-2023 Season Preview
@@ -13,6 +13,7 @@ status: unstarted
 | Date       | Site                      | Title                                                                                                                      |
 | ---------- | ------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | 2022-09-21 | [[legorock99 on YouTube]] | [[He Is The FUTURE Of The LA Kings Blue Line - Brandt Clarke - Top NHL Prospects News and Rumours Today]]                  |
+| 2022-09-18 | [[The Hockey News]] | [[NHL Burning Questions - Los Angeles Kings]] |
 | 2022-09-17 | [[The Athletic]]          | [[Kings look for Quinton Byfield to ‘play big’ and show leadership among rookies]]                                         |
 | 2022-09-12 | [[legorock99 on YouTube]] | [[LA KINGS PROSPECTS - Alex Turcotte VS Moritz Seider, Trevor Zegras - Detroit Red Wings, Anaheim Ducks]]                  |
 | 2022-09-10 | [[The Hockey Writers]]    | [[Kings Prospect Preview - Samuel Fagemo]]                                                                                 |

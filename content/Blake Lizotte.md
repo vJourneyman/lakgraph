@@ -23,6 +23,9 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                        |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------------------------ |
+| 2022-10-26 | [[Hockey Royalty]] | [[LA Kings - Takeaways from the teams 4-2 win against the Lightning]]                                                                                        |
+| 2022-10-26 | [[The Forum Report]] | [[Playmaking Chart - 10-25 vs TBL]]                                                          |
+| 2022-10-26 | [[The Forum Report]] | [[Waking up with the Kings - October 26]]                                                                |
 | 2022-10-25 | [[The Fourth Period]] | [[LAK at 7 - Now for Something Completely Different — The Fourth Period]]                                                                                          |
 | 2022-10-25 | [[The Forum Report]] | [[“He doesnt hide, he doesnt crumble” and more on Clarke, Lizotte and Anderson-Dolan]]                                                                                                           |
 | 2022-10-25 | [[LA Kings Insider]] | [[10-25 Preview - Potential Alignment + Facing The Bolts, Grundstroms Metrics, Clarke on Firsts - LA Kings Insider]]                                                                                                                               |

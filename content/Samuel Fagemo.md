@@ -1,9 +1,10 @@
 ---
-title: "Samuel Fagemo"
+title: Samuel Fagemo
 date-created: 2022-10-08
 aliases: 
-tags: [Status/Stable,Player]
-status: stable
+tags:
+ - Player
+status: needs-draft-content
 ---
 
 # Samuel Fagemo

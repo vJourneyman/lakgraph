@@ -1,8 +1,9 @@
 ---
-title: "Mikey Anderson"
+title: Mikey Anderson
 date-created: 2022-10-11
 aliases: 
-tags: [Status/New,Player]
+tags:
+ - Player
 status: stable
 ---
 

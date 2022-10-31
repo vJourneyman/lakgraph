@@ -5,7 +5,7 @@ day-of-week-created: Sun
 date-updated: 
 aliases: []
 tags: [NewsPost]
-status: unstarted
+status: stable
 ---
 
 # Kevin Fiala felt right at home in Minnesota return - ‘I feel pretty confident in this arena’
@@ -13,7 +13,7 @@ status: unstarted
 | Date       | Site             | Link                                                                                                                                                                            |
 | ---------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2022-10-16 | [[The Athletic]]                 | [Kevin Fiala felt right at home in Minnesota return - ‘I feel pretty confident in this arena’](https://theathletic.com/3697346/2022/10/16/kevin-fiala-la-kings-minnesota-wild/) |
-| 2022-10-16 | [[The Athletic]] | [[Kevin Fiala felt right at home in Minnesota return - ‘I feel pretty confident in this arena’]]                                                                                |
+| 2022-10-16 | [[The Athletic]] | [[Kevin Fiala felt right at home in Minnesota return - ‘I feel pretty confident in this arena]]                                                                                |
 
 ## Contributors
 - [[Eric Stephens]]
@@ -57,10 +57,12 @@ status: unstarted
 
 > He had a lot of adjustments as a young player coming in, not only to the NHL but obviously to North America. He’s clearly a better player than he was when he first came over.
 
-### Jonny Gaudreau
+### Frederick Gaudreau
 > Most important thing is his passion. He loves the game. I do too. We’ve always had fun playing together.
 
 > I think it’s important for a player like him that he has a free mindset in some ways to express himself offensively because he has some of the best skills in the league. He can really just beat guys in places that normally you don’t see. So, it’s important for him to put that mindset into his game. To beat guys. Be an offensive weapon every single night.
 > 
 > I think on my side, I was trying to allow him to do that in some ways and bring some security to that line. Sometimes maybe backing them up a little bit more and letting these guys express themselves. But it was just fun to play with a guy like that. He’s a fun guy to show up to the rink with every day. Fun game to play on the same line.
+
+.
 

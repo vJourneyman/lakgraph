@@ -13,7 +13,7 @@ status: unstarted
 Date | Site | Link
 ---|---|---
 2022-10-13 | [[The Forum Report]] | [McLellan - “We didn’t want to shoot the puck”- Beniers on ex-USA teammate Kaliyev- Clarkes debut -Jones on returning to LA](https://theforumreport.com/mclellan-we-didnt-want-to-shoot-the-puck-beniers-on-ex-usa-teammate-kaliyev-clarkes-debut-jones-on-returning-to-la/)
-2022-10-13 | [[The Forum Report]] | [[McLellan - “We didn’t want to shoot the puck”- Beniers on ex-USA teammate Kaliyev- Clarkes debut -Jones on returning to LA]]
+2022-10-13 | [[The Forum Report]] | [[McLellan - “We didnt want to shoot the puck”- Beniers on ex-USA teammate Kaliyev- Clarkes debut -Jones on returning to LA]]
 
 
 ## Contributors

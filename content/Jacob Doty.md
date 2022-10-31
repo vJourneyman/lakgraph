@@ -1,9 +1,10 @@
 ---
-title: "Jacob Doty"
+title: Jacob Doty
 date-created: 2022-10-08
 aliases: 
-tags: [Status/New,Player]
-status: stable
+tags:
+ - Player
+status: needs-draft-content
 ---
 
 # Jacob Doty
@@ -25,9 +26,10 @@ Jacob Doty | 37 | RW | R | 6' 3" | 225 | 1993-06-19 | Billings, MT |
 
 
 ## Minor League Coverage
-| Date | Site | Title |
-| ---- | ---- | ----- |
-| 2022-10-22 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 5, Gulls 1 – Sturm, Doty - LA Kings Insider]]                                                                              |
+| Date       | Site                 | Title                                                               |
+| ---------- | -------------------- | ------------------------------------------------------------------- |
+| 2022-10-26 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at San Jose, 10-26 - LA Kings Insider]]   |
+| 2022-10-22 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 5, Gulls 1 – Sturm, Doty - LA Kings Insider]] |
 
 
 

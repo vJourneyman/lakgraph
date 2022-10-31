@@ -1,9 +1,10 @@
 ---
-title: "Arthur Kaliyev"
+title: Arthur Kaliyev
 date-created: 2022-09-25
 aliases: 
-tags: [Player]
-status: stable
+tags:
+ - Player
+status: needs-draft-content
 priority: high
 ---
 
@@ -21,6 +22,9 @@ RW | L | 6'2" | 210 | 21 | 2001-06-26 | Tashkent, UZB | 2019 LAK, 2nd rd, 2nd pk
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                          |     |
 | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------ | --- |
+| 2022-10-26 | [[Hockey Royalty]] | [[LA Kings - Takeaways from the teams 4-2 win against the Lightning]]                                                                                        |
+| 2022-10-26 | [[The Forum Report]] | [[Waking up with the Kings - October 26]]                                                                |
+| 2022-10-25 | [[LA Daily News]] | [[Gabe Vilardi sets the pace as Kings solve Lightning]]                                                                                          |
 | 2022-10-25 | [[The Forum Report]] | [[“Going in the right direction, but inconsistently,” forwards chemistry, identity become key - Quick starts]]                                                                                                                                |
 | 2022-10-21 | [[The Forum Report]] | [[Possession Chart - 10-20 at PIT]]                                                       |
 | 2022-10-20 | [[Hockey Royalty]] | [[LA Kings at Pittsburgh Penguins projected lineups, betting preview]]                                                                                                        |
@@ -29,7 +33,8 @@ RW | L | 6'2" | 210 | 21 | 2001-06-26 | Tashkent, UZB | 2019 LAK, 2nd rd, 2nd pk
 | 2022-10-18 | [[Kings at NHL.com]] | [[10-18 FINAL - Kings 4, Predators 3 (SO)]]                                                                               |
 | 2022-10-17 | [[The Forum Report]] | [[Quick projected - Roy expecting 150 supporters - Grundstrom in for Kaliyev - Määttä on LA growth]]                                                                                                                        |
 | 2022-10-17 | [[The Forum Report]]  | [[Good morning, Detroit]]                                                                                                      |     |
-| 2022-10-13 | [[The Forum Report]]  | [[McLellan - “We didn’t want to shoot the puck”- Beniers on ex-USA teammate Kaliyev- Clarkes debut -Jones on returning to LA]] |     |
+| 2022-10-13 | [[The Forum Report]]  | [[McLellan - “We didnt want to shoot the puck”- Beniers on ex-USA teammate Kaliyev- Clarkes debut -Jones on returning to LA]] |     |
+| 2022-10-12 | [[The Athletic]] | [[LA Kings hope to settle in after penalties and mistakes evident vs Vegas]]                                                                               |
 | 2022-10-12 | [[Hockey Royalty]]    | [[LA Kings - Three takeaways from 4-3 loss against VGK]]                                                                       |     |
 | 2022-10-12 | [[The Athletic]]      | [[LA Kings hope to ‘settle in’ after penalties and mistakes evident vs Vegas]]                                                 |     |
 | 2022-10-11 | [[The Forum Report]]  | [[Postgame - Terrible LA game management - Bettman talks RSNs with LA media]]                                                  |     |

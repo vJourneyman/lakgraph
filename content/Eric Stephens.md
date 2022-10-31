@@ -12,7 +12,7 @@ status: unstarted
 
 | NHL.com | Twitter |
 | ------- | ------- |
-| [Eric Stephens]() | [@twitter_handle](https://twitter.com/)
+| [Eric Stephens]() | [@icemancometh](https://twitter.com/icemancometh)
 
 | Title | Organization |
 | ----- | ------------ |

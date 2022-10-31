@@ -44,6 +44,9 @@ columns:
       - { label: "unstarted", backgroundColor: "hsl(246, 95%, 90%)"}
       - { label: "stable", backgroundColor: "hsl(80, 95%, 90%)"}
       - { label: "needs-draft-content", backgroundColor: "hsl(240, 95%, 90%)"}
+      - { label: "raw-transcript", backgroundColor: "hsl(108, 95%, 90%)"}
+      - { label: "NoNotes", backgroundColor: "hsl(43, 95%, 90%)"}
+      - { label: "NeedsImprovement", backgroundColor: "hsl(246, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -98,6 +101,10 @@ columns:
       - { label: "PodcastEpisode,LiteratureNote", backgroundColor: "hsl(295, 95%, 90%)"}
       - { label: "Status/New", backgroundColor: "hsl(133, 95%, 90%)"}
       - { label: "Staff", backgroundColor: "hsl(274, 95%, 90%)"}
+      - { label: "LiteratureNote", backgroundColor: "hsl(196, 95%, 90%)"}
+      - { label: "Podcast", backgroundColor: "hsl(8, 95%, 90%)"}
+      - { label: "Status/Stable", backgroundColor: "hsl(114, 95%, 90%)"}
+      - { label: "Status/stable", backgroundColor: "hsl(151, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -132,6 +139,6 @@ config:
   date_format: yyyy-MM-dd
   datetime_format: "yyyy-MM-dd HH:mm:ss"
 filters:
-  enabled: true
+  enabled: false
   conditions:
 ```

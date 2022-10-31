@@ -1,9 +1,10 @@
 ---
-title: "Quinton Byfield"
+title: Quinton Byfield
 date-created: 2022-09-25
 aliases: 
-tags: [Player]
-status: stable
+tags:
+ - Player
+status: needs-draft-content
 priority: high
 ---
 
@@ -32,12 +33,15 @@ Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
 | 2022-10-14 | [[The Forum Report]]    | [[Waking up with the Kings - October 14]]                                                                                            |     |
 | 2022-10-13 | [[The Forum Report]]    | [[Blake excited about 3C slot for Byfield as Kopitar and Danault – and Matthews – provide influence]]                                |     |
 | 2022-10-13 | [[LA Kings Insider]]    | [[10-13 Preview - Clarke Debut Expected + Arvidsson out, 19-55-13 Line, Being First - LA Kings Insider]]                             |     |
+| 2022-10-12 | [[The Athletic]] | [[LA Kings hope to settle in after penalties and mistakes evident vs Vegas]]                                                                               |
 | 2022-10-12 | [[The Athletic]]        | [[LA Kings hope to ‘settle in’ after penalties and mistakes evident vs Vegas]]                                                       |     |
 | 2022-10-12 | [[The Forum Report]]    | [[Possession Chart - October 11 vs VGK]]                                                                                             |     |
 | 2022-10-12 | [[The Forum Report]]    | [[Waking up with the Kings - October 12]]                                                                                            |     |
 | 2022-10-12 | [[LA Kings Insider]]    | [[Practice 10-12 - Identity Through 3 Periods + Notes on Vilardis Speed, Fourth Goal, Looking Ahead - LA Kings Insider]]             |     |
+| 2022-10-11 | [[LA Daily News]] | [[GM Rob Blake looking to see Kings reach another level]]                                                                                            |
 | 2022-10-11 | [[The Fourth Period]]   | [[Steaks and Stakes — The Fourth Period]]                                                                                            |     |
 | 2022-10-11 | [[Mayors Manor]]        | [[Kings Of The Podcast - Ep 138 – Season Preview with LA GM Rob Blake]]                                                              |     |
+| 2022-10-10 | [[LA Daily News]] | [[2022-23 Kings hockey - Five burning questions]]                                                                                  |
 | 2022-10-10 | [[LA Kings on YouTube]] | [[Head Coach Todd McLellan speaks to the media after Mondays practice]]                                                              |     |
 | 2022-10-10 | [[LA Kings on YouTube]] | [[GM Rob Blake speaks to the media before the 2022-23 Regular Season]]                                                               |     |
 | 2022-10-10 | [[LA Times]]            | [[Five things to watch for as LA Kings embark on new NHL season - Los Angeles Times]]                                                |     |
@@ -47,7 +51,6 @@ Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
 | 2022-10-03 | [[LA Kings Insider]]    | [[Day 12 Primer – Groupings + McLellan on roster cutdown and waivers]]                                                               |     |
 | 2022-10-01 | [[LA Kings Insider]]    | [[Day 10 Practice Notes – Petersen, Byfield Updates + Durzi talks contract, Walker on the left]]                                     |     |
 | 2022-09-17 | [[The Athletic]]        | [[Kings look for Quinton Byfield to ‘play big’ and show leadership among rookies]]                                                   |     |
-| 2022-08-27 | [[The Hockey Writers]]  | [[Kings Prospect Preview - Quinton Byfield]]                                                                                         |     |
 
 
 ## Minor League Coverage
@@ -58,6 +61,7 @@ Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
 ## Post-Draft Coverage
 | Date       | Site             | Title                                                                                                                                                                                        |
 | ---------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-08-27 | [[The Hockey Writers]]  | [[Kings Prospect Preview - Quinton Byfield]]                                                                                         |     |
 | 2020-10-07 | [[SB Nation]] | [[Quinton Byfield makes history as highest-drafted Black player]]                                                                                                                                                                                                                      |
 | 2020-10-07 | [[Global News]]     | [[Ontarios Quinton Byfield makes history by becoming highest-drafted Black player in NHL Draft]]
 | 2020-10-07 | [[Mayors Manor]]     | [[Anatomy of a Draft Pick – How the Kings Decided on Byfield]]

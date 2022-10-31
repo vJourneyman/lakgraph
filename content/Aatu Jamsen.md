@@ -3,7 +3,6 @@ title: Aatu Jamsen
 date-created: 2022-10-23
 aliases: 
 tags:
- - Status/New
  - Player
 status: needs-draft-content
 ---

@@ -1,9 +1,10 @@
 ---
-title: "Samuel Helenius"
+title: Samuel Helenius
 date-created: 2022-10-08
 aliases: 
-tags: [Status/Stable,Player]
-status: stable
+tags:
+ - Player
+status: needs-draft-content
 ---
 
 # Samuel Helenius

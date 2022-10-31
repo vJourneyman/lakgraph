@@ -1,8 +1,9 @@
 ---
-title: "Zach Dooley"
+title: Zach Dooley
 date-created: 2022-10-11
 aliases: 
-tags: [Status/New,Staff]
+tags:
+ - Staff
 status: stable
 ---
 

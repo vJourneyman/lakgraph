@@ -3,7 +3,6 @@ title: Andre Lee
 date-created: 2022-10-17
 aliases: 
 tags:
- - Status/New
  - Player
 status: needs-draft-content
 ---
@@ -30,6 +29,7 @@ status: needs-draft-content
 ## Minor League Coverage
 | Date | Site | Title |
 | ---- | ---- | ----- |
+| 2022-10-26 | [[Mayors Manor]] | [[Ontario Reign - Projected Lineup at San Jose Barracuda on Wednesday]]                                                                                                   |
 | 2022-10-22 | [[Mayors Manor]] | [[Ontario Reign - Projected Lineup vs San Diego Gulls on Saturday]]                                                                                                 |
 | 2022-10-21 | [[Mayors Manor]] | [[Ontario Reign - Projected Lineup at San Diego on Friday]]                                                                                       |
 

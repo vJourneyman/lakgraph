@@ -13,7 +13,7 @@ status: unstarted
 Date | Site | Link
 ---|---|---
 2022-10-14 | [[The Athletic]] | [Duhatschek - Nazem Kadri Flames observations, the Kraken’s improvements, the Kings struggle](https://theathletic.com/3693892/2022/10/14/nazem-kadri-flames-duhatschek-notebook/#:~:text=Kings%20struggle%20out%20of%20the%20gate)
-2022-10-14 | [[The Athletic]] | [[Duhatschek - Nazem Kadri Flames observations, the Kraken’s improvements, the Kings struggle]]
+2022-10-14 | [[The Athletic]] | [[Duhatschek - Nazem Kadri Flames observations, the Krakens improvements, the Kings struggle]]
 
 ## Contributors
 - [[Eric Duhatschek]]

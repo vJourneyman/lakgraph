@@ -1,9 +1,10 @@
 ---
-title: "Aidan Dudas"
+title: Aidan Dudas
 date-created: 2022-10-08
 aliases: 
-tags: [Player]
-status: stable
+tags:
+ - Player
+status: needs-draft-content
 ---
 
 # Aidan Dudas
@@ -27,6 +28,7 @@ Aidan Dudas | 47 | F | R | 5' 7" | 164 | 2000-06-15 | Parry Sound, ON, CAN | LAK
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                            |
 | ---------- | -------------------- | -------------------------------------------------------------------------------- |
+| 2022-10-26 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at San Jose, 10-26 - LA Kings Insider]]                                                                               |
 | 2022-10-25 | [[Mayors Manor]]     | [[LAK Prospects - Weekly Reign Report – October 24, 2022]]                       |
 | 2022-10-23 | [[Mayors Manor]]     | [[Reign Recap and Highlights - Kupari and Fagemo Keep Train Rolling Over Gulls]] |
 | 2022-10-22 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs San Diego, 10-22 - LA Kings Insider]]               |

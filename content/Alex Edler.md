@@ -26,6 +26,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 | 2022-10-22 | [[Kings at NHL.com]] | [[Capitals score four in third period to get past Kings]]                                                                                      |
 | 2022-10-22 | [[The Forum Report]] | [[Friends sent Clarke gifs after move on Crosby - Lemieuxs effective, simple game - Quick-Kuemper - Edler in]]                                                                                                                                |
 | 2022-10-22 | [[LA Kings Insider]] | [[10-22 Preview - Full Team Skate in Washington + Edler Returns, Preaching Defense, Fourth Line Fury - LA Kings Insider]]                                                                                                                                    |
+| 2022-10-21 | [[Montreal Hockey Now]] | [[Montreal Canadiens and LA Kings Could Rekindle Trade Talks]]                                                                                                      |
 | 2022-10-21 | [[LA Kings Insider]] | [[Kings go off-ice in Washington, McLellan and Doughty detail benefits of a different type of practice - LA Kings Insider]]       |
 | 2022-10-20 | [[Hockey Royalty]]   | [[LA Kings at Pittsburgh Penguins projected lineups, betting preview]]                                                            |
 | 2022-10-20 | [[Mayors Manor]]     | [[Projected Lineup - LA Kings at Pittsburgh Penguins, Game 6]]                                                                    |

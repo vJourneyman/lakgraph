@@ -1,8 +1,9 @@
 ---
-title: "Taylor Ward"
+title: Taylor Ward
 date-created: 2022-10-06
 aliases: 
-tags: [Status/Stable,Player]
+tags:
+ - Player
 status: stable
 ---
 

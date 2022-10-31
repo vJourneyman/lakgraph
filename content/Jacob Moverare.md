@@ -1,8 +1,9 @@
 ---
-title: "Jacob Moverare"
+title: Jacob Moverare
 date-created: 2022-10-07
 aliases: 
-tags: [Status/Stable,Player]
+tags:
+ - Player
 status: stable
 ---
 
@@ -20,6 +21,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------- |
+| 2022-10-24 | [[Hockey Royalty]] | [[LA Kings After 7 Games - Its Something We Know We Need To Fix]]                                                                                                           |
 | 2022-10-23 | [[Pro Hockey Rumors]]   | [[Alex Iafallo Moved To LTIR, Austin Wagner Recalled]]                                              |
 | 2022-10-23 | [[LA Kings Insider]]    | [[Sunday Roster Moves - Iafallo to LTIR + Moverare/Wagner Exchange - LA Kings Insider]]             |
 | 2022-10-22 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings at Washington Capitals, Game 7]]                                      |
@@ -40,6 +42,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## Minor League Coverage
 | Date       | Site                    | Title                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------- |
+| 2022-10-26 | [[Mayors Manor]] | [[Ontario Reign - Projected Lineup at San Jose Barracuda on Wednesday]]                                                                                                   |
 | 2022-10-18 | [[Mayors Manor]] | [[Ontario Reign - Projected Lineup vs Henderson Silver Knights on Tuesday]]                                                                                                       |
 
 

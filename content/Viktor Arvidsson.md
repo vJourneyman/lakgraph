@@ -21,9 +21,16 @@ Viktor Arvidsson | 33 | LW | R | 5' 10" | 185 | 1993-04-08 | Skellefteå, SWE | 
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-10-25 | [[The Forum Report]] | [[“He doesnt hide, he doesnt crumble” and more on Clarke, Lizotte and Anderson-Dolan]]                                                                                                           |
-| 2022-10-25 | [[The Forum Report]] | [[“Going in the right direction, but inconsistently,” forwards chemistry, identity become key - Quick starts]]                                                                                                                                |
-| 2022-10-25 | [[LA Kings Insider]] | [[FINAL - Kings 4, Lightning 2 - Danault, Vilardi, Clarke, McLellan - LA Kings Insider]]                                                                                                 |
+| 2022-10-26 | [[Field Level Media]] | [[Things looking up for Kings ahead of Jets matchup]]                                                                                    |
+| 2022-10-26 | [[Hockey Royalty]] | [[LA Kings - Takeaways from the teams 4-2 win against the Lightning]]                                                                                        |
+| 2022-10-26 | [[The Athletic]] | [[LA Kings are showing signs of heading back in the right direction]]                                                                            |
+| 2022-10-26 | [[LA Kings Insider]] | [[10-26 Practice - Todays Alignment + First Line Makes Progress, The JADebut, Pinellis Hot Start - LA Kings Insider]]                                                                                                                                |
+| 2022-10-25 | [[LA Daily News]]       | [[Gabe Vilardi sets the pace as Kings solve Lightning]]                                                                              |
+| 2022-10-25 | [[The Forum Report]]    | [[“He doesnt hide, he doesnt crumble” and more on Clarke, Lizotte and Anderson-Dolan]]                                               |
+| 2022-10-25 | [[The Forum Report]]    | [[“Going in the right direction, but inconsistently,” forwards chemistry, identity become key - Quick starts]]                       |
+| 2022-10-25 | [[LA Kings Insider]]    | [[FINAL - Kings 4, Lightning 2 - Danault, Vilardi, Clarke, McLellan - LA Kings Insider]]                                             |
+| 2022-10-24 | [[LA Daily News]]       | [[Kings return home to face Tampa Bay]]                                                                                              |
+| 2022-10-24 | [[Hockey Royalty]]      | [[LA Kings After 7 Games - Its Something We Know We Need To Fix]]                                                                    |
 | 2022-10-24 | [[The Athletic]]        | [[Kings observations - Shaky goaltending, defense, power play and more]]                                                             |
 | 2022-10-24 | [[LA Kings Insider]]    | [[10-24 Practice - Kings address areas of focus + McLellan on Lines, Lizotte on Identity, Robitaille Joins ATKM - LA Kings Insider]] |
 | 2022-10-23 | [[The Forum Report]]    | [[Waking up with the Kings - October 23]]                                                                                            |
@@ -40,8 +47,10 @@ Viktor Arvidsson | 33 | LW | R | 5' 10" | 185 | 1993-04-08 | Skellefteå, SWE | 
 | 2022-10-17 | [[The Forum Report]]    | [[No firm Edler, Iafallo updates - “Everybody wanted to win it for Arvy”]]                                                           |
 | 2022-10-15 | [[Hockey Royalty]]      | [[LA Kings at Minnesota Wild projected lineups and betting preview]]                                                                 |
 | 2022-10-15 | [[LA Kings Insider]]    | [[10-15 Preview - Potential Lineup + Fialas Return, Minnesota Natives, Seeking Identity - LA Kings Insider]]                         |
+| 2022-10-14 | [[LA Daily News]]       | [[Kings head to Minnesota for Kevin Fiala homecoming]]                                                                               |
 | 2022-10-14 | [[The Forum Report]]    | [[Arvidsson skates, Clarke savors the moment and more from a travel day in El Segundo]]                                              |
 | 2022-10-14 | [[LA Kings Insider]]    | [[Practice 10-14 - Off To Minny - Getting on the road, todays alignment, Arvidsson skates - LA Kings Insider]]                       |
+| 2022-10-13 | [[LA Daily News]]       | [[Kings lose to Kraken as Brandt Clarke makes his NHL debut]]                                                                        |
 | 2022-10-13 | [[The Forum Report]]    | [[October 13 - McLellan envisions “instinctual” hockey in Clarkes debut - Arvidsson ill - Quick-Jones]]                              |
 | 2022-10-13 | [[LA Kings Insider]]    | [[10-13 Preview - Clarke Debut Expected + Arvidsson out, 19-55-13 Line, Being First - LA Kings Insider]]                             |
 | 2022-10-12 | [[The Athletic]]        | [[LA Kings hope to ‘settle in’ after penalties and mistakes evident vs Vegas]]                                                       |

@@ -3,7 +3,6 @@ title: Pheonix Copley
 date-created: 2022-10-16
 aliases: 
 tags:
- - Status/New
  - Player
 status: stable
 ---
@@ -30,6 +29,8 @@ status: stable
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                   |
 | ---------- | -------------------- | ----------------------------------------------------------------------- |
+| 2022-10-26 | [[Mayors Manor]] | [[Ontario Reign - Projected Lineup at San Jose Barracuda on Wednesday]]                                                                                                   |
+| 2022-10-26 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 2, Barracuda 1 – Sturm - LA Kings Insider]]                                                                             |
 | 2022-10-24 | [[Hockey Royalty]] | [[Ontario Reign - Three stars of the week from 10-17 to 10-23]]                                                                                                |
 | 2022-10-22 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs San Diego, 10-22 - LA Kings Insider]]      |
 | 2022-10-21 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 2-1 win against the Gulls]]      |

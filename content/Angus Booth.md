@@ -3,9 +3,8 @@ title: Angus Booth
 date-created: 2022-10-13
 aliases: 
 tags:
- - Status/New
  - Player
-status: stable
+status: needs-draft-content
 ---
 
 # Angus Booth

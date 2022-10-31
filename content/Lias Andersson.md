@@ -1,9 +1,10 @@
 ---
-title: "Lias Andersson"
+title: Lias Andersson
 date-created: 2022-10-07
 aliases: 
-tags: [Status/Stable,Player]
-status: stable
+tags:
+ - Player
+status: needs-draft-content
 ---
 
 # Lias Andersson

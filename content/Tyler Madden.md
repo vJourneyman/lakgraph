@@ -1,9 +1,10 @@
 ---
-title: "Tyler Madden"
+title: Tyler Madden
 date-created: 2022-10-08
 aliases: 
-tags: [Player]
-status: stable
+tags:
+ - Player
+status: needs-draft-content
 ---
 
 # Tyler Madden
