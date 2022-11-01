@@ -24,9 +24,10 @@ Date | Site |  Title
 
 
 ## Minor League Coverage
-Date | Site |  Title
----|---|---
-2022-10-08 | [[LA Kings Insider]] | [[REIGN PRESEASON FINAL – Reign 2, Gulls 6 – Sturm, Ward]]
+| Date       | Site                 | Title                                                      |
+| ---------- | -------------------- | ---------------------------------------------------------- |
+| 2022-10-29 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs. Bakersfield, 10-29 - LA Kings Insider]]                                                                                  |
+| 2022-10-08 | [[LA Kings Insider]] | [[REIGN PRESEASON FINAL – Reign 2, Gulls 6 – Sturm, Ward]] |
 
 
 

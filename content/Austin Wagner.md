@@ -19,10 +19,11 @@ status: stable
 
 
 ## NHL  Coverage
-| Date | Site | Title |
-| ---- | ---- | ----- |
-| 2022-10-25 | [[Mayors Manor]] | [[Projected Lineup - LA Kings vs Tampa Bay Lightning, Game 8]]                                                                                         |
-| 2022-10-23 | [[Pro Hockey Rumors]] | [[Alex Iafallo Moved To LTIR, Austin Wagner Recalled]]                                                                                               |
+| Date       | Site                  | Title                                                          |
+| ---------- | --------------------- | -------------------------------------------------------------- |
+| 2022-10-29 | [[Pro Hockey Rumors]] | [[Los Angeles Kings Recall Rasmus Kupari]]                     |
+| 2022-10-25 | [[Mayors Manor]]      | [[Projected Lineup - LA Kings vs Tampa Bay Lightning, Game 8]] |
+| 2022-10-23 | [[Pro Hockey Rumors]] | [[Alex Iafallo Moved To LTIR, Austin Wagner Recalled]]         |
 | 2022-10-23 | [[LA Kings Insider]] | [[Sunday Roster Moves - Iafallo to LTIR + Moverare/Wagner Exchange - LA Kings Insider]]                                                   |
 
 

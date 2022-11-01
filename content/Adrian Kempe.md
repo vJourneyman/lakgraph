@@ -13,9 +13,9 @@ NHL.com | Twitter
 -|-
 [Adrian Kempe](https://www.nhl.com/player/adrian-kempe-8477960) | [@adriankempe](https://twitter.com/adriankempe)
 
-Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
--|-|-|-|-|-|-|-
-[[Adrian Kempe]] | 9 | C | L | 6' 2" | 200 | 1996-09-13 | Kramfors, SWE
+| Position         | Shoots | Height | Weight | Age   | Birthday | Birthplace | Draft         |
+| ---------------- | ------ | ------ | ------ | ----- | -------- | ---------- | ------------- |
+| [[Adrian Kempe]] | 9      | C      | L      | 6' 2" | 200      | 1996-09-13 | Kramfors, SWE |
 
 
 
@@ -23,7 +23,11 @@ Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-10-28 | [[Hockey Royalty]] | [[LA Kings - Takeaways from the teams 6-4 loss to Winnipeg]]                                                                                         |
+| 2022-10-29 | [[Field Level Media]]   | [[Kings use big 2nd period to dispatch Maple Leafs]]                                                                                 |
+| 2022-10-29 | [[Last Word On Sports]] | [[NHL Predictions - October 29 Including Toronto Maple Leafs vs Los Angeles Kings]]                                                  |
+| 2022-10-29 | [[Mayors Manor]]        | [[Rapid Review - Highlights from Kings 4-2 Win over Toronto, Plus McLellan Post-game Comments]]                                      |
+| 2022-10-29 | [[LA Kings Insider]]    | [[FINAL - Kings 4, Maple Leafs 2 - Fiala, Kempe, Petersen, McLellan - LA Kings Insider]]                                             |
+| 2022-10-28 | [[Hockey Royalty]]      | [[LA Kings - Takeaways from the teams 6-4 loss to Winnipeg]]                                                                         |
 | 2022-10-28 | [[The Athletic]]        | [[NHL Power Rankings - Bruins climb to the top, Canucks stumble to bottom]]                                                          |
 | 2022-10-28 | [[The Forum Report]]    | [[Playmaking Chart - 10-27 vs WPG]]                                                                                                  |
 | 2022-10-26 | [[The Athletic]]        | [[LA Kings are showing signs of heading back in the right direction]]                                                                |

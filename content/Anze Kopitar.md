@@ -22,9 +22,11 @@ Anze Kopitar | 11 | C | L | 6' 3" | 225 | 1987-08-24 | Jesenice, SVN | 2005 LAK,
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                |
 | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-10-28 | [[Field Level Media]] | [[Kings, Maple Leafs both motivated for bounce-back games]]                                                                                         |
-| 2022-10-28 | [[Hockey Royalty]] | [[LA Kings - Takeaways from the teams 6-4 loss to Winnipeg]]                                                                                         |
-| 2022-10-28 | [[The Forum Report]] | [[Waking up with the Kings - October 28]]                                                                |
+| 2022-10-29 | [[LA Daily News]]      | [[Kevin Fiala leads Kings past Maple Leafs]]                                                                                         |
+| 2022-10-29 | [[The Forum Report]]   | [[Legacy of 2007 class not lost on Simmonds - Clarke sits but has “done a really good job of adapting to the NHL”]]                  |
+| 2022-10-28 | [[Field Level Media]]  | [[Kings, Maple Leafs both motivated for bounce-back games]]                                                                          |
+| 2022-10-28 | [[Hockey Royalty]]     | [[LA Kings - Takeaways from the teams 6-4 loss to Winnipeg]]                                                                         |
+| 2022-10-28 | [[The Forum Report]]   | [[Waking up with the Kings - October 28]]                                                                                            |
 | 2022-10-28 | [[LA Kings Insider]]   | [[The Lines They Are A-Changing......Kings display new look heading into tomorrows game - LA Kings Insider]]                         |
 | 2022-10-27 | [[LA Daily News]]      | [[Kings early lead fades away as Winnipeg hands them 3rd loss in 4 games]]                                                           |
 | 2022-10-27 | [[The Hockey Writers]] | [[Los Angeles Kings Anze Kopitar - Hall of Fame Worthy]]                                                                             |

@@ -22,11 +22,14 @@ Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                |     |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | --- |
-| 2022-10-28 | [[Mayors Manor]] | [[Rapid Review - Highlights from Kings Roller Coster Ride vs. Winnipeg Jets]]                                                                                                        |
-| 2022-10-28 | [[The Forum Report]] | [[Byfield out Saturday - Todd on the Clarke decision - can the LA defense play physically enough]]                                                                                                                       |
-| 2022-10-28 | [[LA Kings Insider]] | [[The Lines They Are A-Changing......Kings display new look heading into tomorrows game - LA Kings Insider]]                                                                                                                        |
-| 2022-10-27 | [[LA Daily News]] | [[Kings early lead fades away as Winnipeg hands them 3rd loss in 4 games]]                                                                                                        |
-| 2022-10-25 | [[The Forum Report]] | [[“Going in the right direction, but inconsistently,” forwards chemistry, identity become key - Quick starts]]                                                                                                                                |
+| 2022-10-29 | [[Hockey Royalty]]      | [[LA Kings vs Toronto Maple Leafs projected lineup, betting preview]]                                                                |     |
+| 2022-10-29 | [[Mayors Manor]]        | [[Projected Lineup, Game 10 - LA Kings vs. Toronto Maple Leafs, Kupari Recalled]]                                                    |     |
+| 2022-10-29 | [[The Forum Report]]    | [[Legacy of 2007 class not lost on Simmonds - Clarke sits but has “done a really good job of adapting to the NHL”]]                  |     |
+| 2022-10-28 | [[Mayors Manor]]        | [[Rapid Review - Highlights from Kings Roller Coster Ride vs. Winnipeg Jets]]                                                        |     |
+| 2022-10-28 | [[The Forum Report]]    | [[Byfield out Saturday - Todd on the Clarke decision - can the LA defense play physically enough]]                                   |     |
+| 2022-10-28 | [[LA Kings Insider]]    | [[The Lines They Are A-Changing......Kings display new look heading into tomorrows game - LA Kings Insider]]                         |     |
+| 2022-10-27 | [[LA Daily News]]       | [[Kings early lead fades away as Winnipeg hands them 3rd loss in 4 games]]                                                           |     |
+| 2022-10-25 | [[The Forum Report]]    | [[“Going in the right direction, but inconsistently,” forwards chemistry, identity become key - Quick starts]]                       |     |
 | 2022-10-24 | [[The Forum Report]]    | [[Playmaking Chart - 10-22 at WSH]]                                                                                                  |     |
 | 2022-10-24 | [[LA Kings Insider]]    | [[10-24 Practice - Kings address areas of focus + McLellan on Lines, Lizotte on Identity, Robitaille Joins ATKM - LA Kings Insider]] |     |
 | 2022-10-20 | [[LA Kings Insider]]    | [[10-20 Preview - Starting How It Ended + Growth and Mentality, Third Line Makeup, Byfield On Trust - LA Kings Insider]]             |     |
@@ -37,15 +40,15 @@ Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
 | 2022-10-14 | [[The Forum Report]]    | [[Waking up with the Kings - October 14]]                                                                                            |     |
 | 2022-10-13 | [[The Forum Report]]    | [[Blake excited about 3C slot for Byfield as Kopitar and Danault – and Matthews – provide influence]]                                |     |
 | 2022-10-13 | [[LA Kings Insider]]    | [[10-13 Preview - Clarke Debut Expected + Arvidsson out, 19-55-13 Line, Being First - LA Kings Insider]]                             |     |
-| 2022-10-12 | [[The Athletic]] | [[LA Kings hope to settle in after penalties and mistakes evident vs Vegas]]                                                                               |
+| 2022-10-12 | [[The Athletic]]        | [[LA Kings hope to settle in after penalties and mistakes evident vs Vegas]]                                                         |     |
 | 2022-10-12 | [[The Athletic]]        | [[LA Kings hope to ‘settle in’ after penalties and mistakes evident vs Vegas]]                                                       |     |
 | 2022-10-12 | [[The Forum Report]]    | [[Possession Chart - October 11 vs VGK]]                                                                                             |     |
 | 2022-10-12 | [[The Forum Report]]    | [[Waking up with the Kings - October 12]]                                                                                            |     |
 | 2022-10-12 | [[LA Kings Insider]]    | [[Practice 10-12 - Identity Through 3 Periods + Notes on Vilardis Speed, Fourth Goal, Looking Ahead - LA Kings Insider]]             |     |
-| 2022-10-11 | [[LA Daily News]] | [[GM Rob Blake looking to see Kings reach another level]]                                                                                            |
+| 2022-10-11 | [[LA Daily News]]       | [[GM Rob Blake looking to see Kings reach another level]]                                                                            |     |
 | 2022-10-11 | [[The Fourth Period]]   | [[Steaks and Stakes — The Fourth Period]]                                                                                            |     |
 | 2022-10-11 | [[Mayors Manor]]        | [[Kings Of The Podcast - Ep 138 – Season Preview with LA GM Rob Blake]]                                                              |     |
-| 2022-10-10 | [[LA Daily News]] | [[2022-23 Kings hockey - Five burning questions]]                                                                                  |
+| 2022-10-10 | [[LA Daily News]]       | [[2022-23 Kings hockey - Five burning questions]]                                                                                    |     |
 | 2022-10-10 | [[LA Kings on YouTube]] | [[Head Coach Todd McLellan speaks to the media after Mondays practice]]                                                              |     |
 | 2022-10-10 | [[LA Kings on YouTube]] | [[GM Rob Blake speaks to the media before the 2022-23 Regular Season]]                                                               |     |
 | 2022-10-10 | [[LA Times]]            | [[Five things to watch for as LA Kings embark on new NHL season - Los Angeles Times]]                                                |     |

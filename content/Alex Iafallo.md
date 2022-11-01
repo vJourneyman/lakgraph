@@ -21,10 +21,12 @@ Alex Iafallo | 19 | LW | L | 6' 0" | 200 | 1993-12-21 | Eden, NY, USA |
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                                |
 | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-10-27 | [[The Forum Report]] | [[Clarity on cap space grows as LTIR-designated Iafallo escapes major injury]]                                                                                                       |
-| 2022-10-26 | [[The Forum Report]] | [[Playmaking Chart - 10-25 vs TBL]]                                                          |
-| 2022-10-25 | [[The Fourth Period]] | [[LAK at 7 - Now for Something Completely Different — The Fourth Period]]                                                                                          |
-| 2022-10-25 | [[The Forum Report]] | [[“Going in the right direction, but inconsistently,” forwards chemistry, identity become key - Quick starts]]                                                                                                                                |
+| 2022-10-29 | [[Pro Hockey Rumors]] | [[Los Angeles Kings Recall Rasmus Kupari]]                                                                                           |
+| 2022-10-29 | [[Mayors Manor]]      | [[Projected Lineup, Game 10 - LA Kings vs. Toronto Maple Leafs, Kupari Recalled]]                                                    |
+| 2022-10-27 | [[The Forum Report]]  | [[Clarity on cap space grows as LTIR-designated Iafallo escapes major injury]]                                                       |
+| 2022-10-26 | [[The Forum Report]]  | [[Playmaking Chart - 10-25 vs TBL]]                                                                                                  |
+| 2022-10-25 | [[The Fourth Period]] | [[LAK at 7 - Now for Something Completely Different — The Fourth Period]]                                                            |
+| 2022-10-25 | [[The Forum Report]]  | [[“Going in the right direction, but inconsistently,” forwards chemistry, identity become key - Quick starts]]                       |
 | 2022-10-24 | [[Kings at NHL.com]]  | [[10-24 - The Week That Was, The Week That Is]]                                                                                      |
 | 2022-10-24 | [[LA Kings Insider]]  | [[10-24 Practice - Kings address areas of focus + McLellan on Lines, Lizotte on Identity, Robitaille Joins ATKM - LA Kings Insider]] |
 | 2022-10-23 | [[Pro Hockey Rumors]] | [[Alex Iafallo Moved To LTIR, Austin Wagner Recalled]]                                                                               |
@@ -34,7 +36,7 @@ Alex Iafallo | 19 | LW | L | 6' 0" | 200 | 1993-12-21 | Eden, NY, USA |
 | 2022-10-20 | [[Hockey Royalty]]    | [[LA Kings at Pittsburgh Penguins projected lineups, betting preview]]                                                               |
 | 2022-10-20 | [[Mayors Manor]]      | [[Projected Lineup - LA Kings at Pittsburgh Penguins, Game 6]]                                                                       |
 | 2022-10-20 | [[LA Kings Insider]]  | [[10-20 Preview - Starting How It Ended + Growth and Mentality, Third Line Makeup, Byfield On Trust - LA Kings Insider]]             |
-| 2022-10-19 | [[LA Daily News]] | [[Kings Todd McLellan touts ‘character with the comeback]]                                                                                            |
+| 2022-10-19 | [[LA Daily News]]     | [[Kings Todd McLellan touts ‘character with the comeback]]                                                                           |
 | 2022-10-18 | [[Pro Hockey Rumors]] | [[Alex Iafallo Placed On Injured Reserve]]                                                                                           |
 | 2022-10-18 | [[Kings at NHL.com]]  | [[Kings Recall Defenseman Jacob Moverare]]                                                                                           |
 | 2022-10-18 | [[Hockey Royalty]]    | [[LA Kings Recall Defenseman Jacob Moverare, Place Alex Iafallo on IR]]                                                              |
@@ -50,7 +52,7 @@ Alex Iafallo | 19 | LW | L | 6' 0" | 200 | 1993-12-21 | Eden, NY, USA |
 | 2022-10-16 | [[The Forum Report]]  | [[Possession Chart - 10-15 at MIN]]                                                                                                  |
 | 2022-10-14 | [[The Forum Report]]  | [[Waking up with the Kings - October 14]]                                                                                            |
 | 2022-10-13 | [[LA Kings Insider]]  | [[10-13 Preview - Clarke Debut Expected + Arvidsson out, 19-55-13 Line, Being First - LA Kings Insider]]                             |
-| 2022-10-12 | [[The Athletic]] | [[LA Kings hope to settle in after penalties and mistakes evident vs Vegas]]                                                                               |
+| 2022-10-12 | [[The Athletic]]      | [[LA Kings hope to settle in after penalties and mistakes evident vs Vegas]]                                                         |
 | 2022-10-12 | [[The Athletic]]      | [[LA Kings hope to ‘settle in’ after penalties and mistakes evident vs Vegas]]                                                       |
 | 2022-10-12 | [[The Forum Report]]  | [[Possession Chart - October 11 vs VGK]]                                                                                             |
 | 2022-10-12 | [[The Forum Report]]  | [[Waking up with the Kings - October 12]]                                                                                            |

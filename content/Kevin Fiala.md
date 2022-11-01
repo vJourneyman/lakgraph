@@ -20,8 +20,12 @@ Kevin Fiala | 22 | LW | L | 5' 10" | 204 | 1996-07-22 | St. Gallen, CHE | 2014 N
 ## NHL  Coverage
 | Date       | Site                            | Title                                                                                                                                |
 | ---------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-10-28 | [[CBS Sports]] | [[CBS Sports - Kings Gabriel Vilardi - Practices on top line]]                                                                                           |
-| 2022-10-28 | [[Hockey Royalty]] | [[LA Kings - Takeaways from the teams 6-4 loss to Winnipeg]]                                                                                         |
+| 2022-10-29 | [[Field Level Media]]           | [[Kings use big 2nd period to dispatch Maple Leafs]]                                                                                 |
+| 2022-10-29 | [[LA Daily News]]               | [[Kevin Fiala leads Kings past Maple Leafs]]                                                                                         |
+| 2022-10-29 | [[Hockey Royalty]]              | [[LA Kings vs Toronto Maple Leafs projected lineup, betting preview]]                                                                |
+| 2022-10-29 | [[LA Kings Insider]]            | [[FINAL - Kings 4, Maple Leafs 2 - Fiala, Kempe, Petersen, McLellan - LA Kings Insider]]                                             |
+| 2022-10-28 | [[CBS Sports]]                  | [[CBS Sports - Kings Gabriel Vilardi - Practices on top line]]                                                                       |
+| 2022-10-28 | [[Hockey Royalty]]              | [[LA Kings - Takeaways from the teams 6-4 loss to Winnipeg]]                                                                         |
 | 2022-10-28 | [[The Athletic]]                | [[NHL Power Rankings - Bruins climb to the top, Canucks stumble to bottom]]                                                          |
 | 2022-10-28 | [[The Forum Report]]            | [[Playmaking Chart - 10-27 vs WPG]]                                                                                                  |
 | 2022-10-28 | [[The Forum Report]]            | [[Waking up with the Kings - October 28]]                                                                                            |

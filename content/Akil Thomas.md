@@ -28,11 +28,13 @@ Date | Site |  Title
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                              |     |
 | ---------- | -------------------- | -------------------------------------------------------------------------------------------------- | --- |
+| 2022-10-29 | [[Mayors Manor]]     | [[Ontario Reign - Projected Lineup vs Bakersfield Condors - Several Changes Included]]             |     |
+| 2022-10-29 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 4, Condors 3 – Hajt, Thomas - LA Kings Insider]]                             |     |
 | 2022-10-28 | [[LA Kings Insider]] | [[Healthy and Comfortable, Akil Thomas Finding Early Season Form With Ontario - LA Kings Insider]] |     |
 | 2022-10-23 | [[Mayors Manor]]     | [[Reign Recap and Highlights - Kupari and Fagemo Keep Train Rolling Over Gulls]]                   |     |
 | 2022-10-19 | [[Mayors Manor]]     | [[LA Kings Weekly Reign Report, October 16, 2022]]                                                 |     |
 | 2022-10-14 | [[Mayors Manor]]     | [[Ontario Reign - Opening Night Lineup vs Abbotsford Canucks]]                                     |     |
-| 2022-10-13 | [[Hockey Royalty]] | [[LA Kings - 2022-23 prospect rankings, 10-6]]                 |
+| 2022-10-13 | [[Hockey Royalty]]   | [[LA Kings - 2022-23 prospect rankings, 10-6]]                                                     |     |
 
 
 

@@ -21,8 +21,9 @@ Viktor Arvidsson | 33 | LW | R | 5' 10" | 185 | 1993-04-08 | Skellefteå, SWE | 
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-10-27 | [[LA Daily News]] | [[Kings early lead fades away as Winnipeg hands them 3rd loss in 4 games]]                                                                                                        |
-| 2022-10-27 | [[Hockey Royalty]] | [[LA Kings vs Winnipeg Jets projected lineups, betting preview]]                                                                                                  |
+| 2022-10-29 | [[Field Level Media]]   | [[Kings use big 2nd period to dispatch Maple Leafs]]                                                                                 |
+| 2022-10-27 | [[LA Daily News]]       | [[Kings early lead fades away as Winnipeg hands them 3rd loss in 4 games]]                                                           |
+| 2022-10-27 | [[Hockey Royalty]]      | [[LA Kings vs Winnipeg Jets projected lineups, betting preview]]                                                                     |
 | 2022-10-27 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings vs. Winnipeg Jets, Game 9]]                                                                            |
 | 2022-10-27 | [[LA Kings Insider]]    | [[10-27 Preview - Arvidsson Ready To Return + Potential Lineup, Durzi On The Left, TM on Jets - LA Kings Insider]]                   |
 | 2022-10-26 | [[Field Level Media]]   | [[Things looking up for Kings ahead of Jets matchup]]                                                                                |

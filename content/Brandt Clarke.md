@@ -21,6 +21,8 @@ Brandt Clarke | 92 | RD | R | 6' 2" | 185 | 2003-02-09 | Nepean, ON, CAN | 2021 
 ## NHL  Coverage
 | Date       | Site                      | Title                                                                                                                         |
 | ---------- | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| 2022-10-29 | [[LA Daily News]]         | [[Kings goalie Cal Petersen starts in victory over Toronto]]                                                                  |
+| 2022-10-29 | [[The Forum Report]]      | [[Legacy of 2007 class not lost on Simmonds - Clarke sits but has “done a really good job of adapting to the NHL”]]           |
 | 2022-10-28 | [[Hockey Royalty]]        | [[LA Kings - 2022-23 prospect rankings, the top five]]                                                                        |
 | 2022-10-28 | [[The Forum Report]]      | [[Playmaking Chart - 10-27 vs WPG]]                                                                                           |
 | 2022-10-28 | [[The Forum Report]]      | [[Byfield out Saturday - Todd on the Clarke decision - can the LA defense play physically enough]]                            |

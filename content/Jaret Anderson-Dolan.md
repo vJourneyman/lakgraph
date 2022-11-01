@@ -20,10 +20,11 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                                 |
 | ---------- | -------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| 2022-10-28 | [[LA Kings Insider]] | [[The Lines They Are A-Changing......Kings display new look heading into tomorrows game - LA Kings Insider]]                                                                                                                        |
-| 2022-10-27 | [[LA Daily News]] | [[Kings early lead fades away as Winnipeg hands them 3rd loss in 4 games]]                                                                                                        |
-| 2022-10-27 | [[Hockey Royalty]] | [[LA Kings vs Winnipeg Jets projected lineups, betting preview]]                                                                                                  |
-| 2022-10-26 | [[The Forum Report]] | [[Playmaking Chart - 10-25 vs TBL]]                                                          |
+| 2022-10-29 | [[Hockey Royalty]]   | [[LA Kings vs Toronto Maple Leafs projected lineup, betting preview]]                                                 |
+| 2022-10-28 | [[LA Kings Insider]] | [[The Lines They Are A-Changing......Kings display new look heading into tomorrows game - LA Kings Insider]]          |
+| 2022-10-27 | [[LA Daily News]]    | [[Kings early lead fades away as Winnipeg hands them 3rd loss in 4 games]]                                            |
+| 2022-10-27 | [[Hockey Royalty]]   | [[LA Kings vs Winnipeg Jets projected lineups, betting preview]]                                                      |
+| 2022-10-26 | [[The Forum Report]] | [[Playmaking Chart - 10-25 vs TBL]]                                                                                   |
 | 2022-10-26 | [[LA Kings Insider]] | [[10-26 Practice - Todays Alignment + First Line Makes Progress, The JADebut, Pinellis Hot Start - LA Kings Insider]] |
 | 2022-10-25 | [[Mayors Manor]]     | [[Projected Lineup - LA Kings vs Tampa Bay Lightning, Game 8]]                                                        |
 | 2022-10-25 | [[The Forum Report]] | [[“He doesnt hide, he doesnt crumble” and more on Clarke, Lizotte and Anderson-Dolan]]                                |
