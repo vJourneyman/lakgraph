@@ -22,6 +22,9 @@ Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                |     |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | --- |
+| 2022-10-28 | [[Mayors Manor]] | [[Rapid Review - Highlights from Kings Roller Coster Ride vs. Winnipeg Jets]]                                                                                                        |
+| 2022-10-28 | [[The Forum Report]] | [[Byfield out Saturday - Todd on the Clarke decision - can the LA defense play physically enough]]                                                                                                                       |
+| 2022-10-28 | [[LA Kings Insider]] | [[The Lines They Are A-Changing......Kings display new look heading into tomorrows game - LA Kings Insider]]                                                                                                                        |
 | 2022-10-27 | [[LA Daily News]] | [[Kings early lead fades away as Winnipeg hands them 3rd loss in 4 games]]                                                                                                        |
 | 2022-10-25 | [[The Forum Report]] | [[“Going in the right direction, but inconsistently,” forwards chemistry, identity become key - Quick starts]]                                                                                                                                |
 | 2022-10-24 | [[The Forum Report]]    | [[Playmaking Chart - 10-22 at WSH]]                                                                                                  |     |

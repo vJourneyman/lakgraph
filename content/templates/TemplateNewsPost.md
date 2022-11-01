@@ -5,7 +5,7 @@ day-of-week-created: {{date:ddd}}
 date-updated: 
 aliases: []
 tags: [NewsPost]
-status: unstarted
+status: stable
 ---
 
 # {{title}}

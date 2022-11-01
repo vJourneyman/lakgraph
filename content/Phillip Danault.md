@@ -22,6 +22,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                 |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------- |
+| 2022-10-28 | [[The Forum Report]] | [[Playmaking Chart - 10-27 vs WPG]]                                                          |
 | 2022-10-26 | [[The Athletic]] | [[LA Kings are showing signs of heading back in the right direction]]                                                                            |
 | 2022-10-25 | [[LA Daily News]] | [[Gabe Vilardi sets the pace as Kings solve Lightning]]                                                                                          |
 | 2022-10-25 | [[The Fourth Period]] | [[LAK at 7 - Now for Something Completely Different — The Fourth Period]]                                                                                          |

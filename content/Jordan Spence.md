@@ -32,6 +32,7 @@ Jordan Spence | 58 | D | R | 5' 10" | 180 | 2001-02-24 | Manly, AUS | -   2019 L
 ## Minor League Coverage
 | Date       | Site                    | Title                                                                         |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------- |
+| 2022-10-28 | [[Hockey Royalty]] | [[LA Kings - 2022-23 prospect rankings, the top five]]                                                                                      |
 | 2022-10-25 | [[Mayors Manor]]        | [[LAK Prospects - Weekly Reign Report – October 24, 2022]]                    |
 | 2022-10-21 | [[Montreal Hockey Now]] | [[Montreal Canadiens and LA Kings Could Rekindle Trade Talks]]                |
 | 2022-10-21 | [[Kings at NHL.com]]    | [[LA Kings Prospect Report, 10-21]]                                           |

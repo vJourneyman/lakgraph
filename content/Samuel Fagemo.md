@@ -31,6 +31,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                               |
 | ---------- | -------------------- | ----------------------------------------------------------------------------------- |
+| 2022-10-28 | [[Hockey Royalty]] | [[LA Kings - 2022-23 prospect rankings, the top five]]                                                                                      |
 | 2022-10-23 | [[Mayors Manor]]     | [[Reign Recap and Highlights - Kupari and Fagemo Keep Train Rolling Over Gulls]]    |
 | 2022-10-21 | [[Kings at NHL.com]] | [[LA Kings Prospect Report, 10-21]]                                                 |
 | 2022-10-19 | [[Mayors Manor]]     | [[LA Kings Weekly Reign Report, October 16, 2022]]                                  |

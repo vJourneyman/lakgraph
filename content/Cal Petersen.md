@@ -19,6 +19,7 @@ NHL.com | Twitter
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                    |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| 2022-10-28 | [[The Athletic]] | [[NHL Power Rankings - Bruins climb to the top, Canucks stumble to bottom]]                                                                                                                  |
 | 2022-10-25 | [[The Hockey News]]     | [[Los Angeles Kings Goaltending Must Tighten Up To Win A Playoff Round]]                                                 |
 | 2022-10-24 | [[Hockey Royalty]] | [[LA Kings After 7 Games - Its Something We Know We Need To Fix]]                                                                                                           |
 | 2022-10-24 | [[The Athletic]]        | [[Kings observations - Shaky goaltending, defense, power play and more]]                                                 |

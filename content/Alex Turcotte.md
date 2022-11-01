@@ -29,10 +29,11 @@ Alex Turcotte | | C | L | 5' 11" | 185 | 2001-02-26 | Elk Grove, IL, USA | 2019 
 
 
 ## Minor League Coverage
-| Date | Site | Title |
-| ---- | ---- | ----- |
-| 2022-10-22 | [[The Hockey News]] | [[Where Are They Now - The Historic 2019 USA NTDP Squad]]                                                                                                                                                               |
-| 2022-10-14 | [[Mayors Manor]] | [[Update and Next Steps with Kings Prospect Alex Turcotte]]
+| Date       | Site                | Title                                                       |
+| ---------- | ------------------- | ----------------------------------------------------------- |
+| 2022-10-28 | [[Hockey Royalty]]  | [[LA Kings - 2022-23 prospect rankings, the top five]]      |
+| 2022-10-22 | [[The Hockey News]] | [[Where Are They Now - The Historic 2019 USA NTDP Squad]]   |
+| 2022-10-14 | [[Mayors Manor]]    | [[Update and Next Steps with Kings Prospect Alex Turcotte]] |
 
 
 ## Post-Draft Coverage

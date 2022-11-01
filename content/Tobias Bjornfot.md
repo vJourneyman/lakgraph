@@ -23,6 +23,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                 | Title                                                             |
 | ---------- | -------------------- | ----------------------------------------------------------------- |
+| 2022-10-28 | [[Hockey Royalty]] | [[LA Kings - Takeaways from the teams 6-4 loss to Winnipeg]]                                                                                         |
 | 2022-10-24 | [[Hockey Royalty]]   | [[LA Kings After 7 Games - Its Something We Know We Need To Fix]] |
 | 2022-10-23 | [[The Forum Report]] | [[Waking up with the Kings - October 23]]                         |
 | 2022-09-28 | [[LA Kings Insider]] |  [[9-28 Preview – Projected Lineup + Reign Returners, Defensive Camp Battle, Bjornfot Quotes]]

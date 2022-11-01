@@ -25,20 +25,21 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 
 
 ## Minor League Coverage
-| Date       | Site                         | Title                                                                   |
-| ---------- | ---------------------------- | ----------------------------------------------------------------------- |
-| 2022-10-26 | [[Mayors Manor]]             | [[Ontario Reign - Projected Lineup at San Jose Barracuda on Wednesday]] |
-| 2022-10-22 | [[Mayors Manor]]             | [[Ontario Reign - Projected Lineup vs San Diego Gulls on Saturday]]     |
-| 2022-10-21 | [[Mayors Manor]]             | [[Ontario Reign - Projected Lineup at San Diego on Friday]]             |
-| 2022-10-16 | [[Mayors Manor]]             | [[Ontario Reign - Projected Lineup vs Bakersfield Condors on Sunday]]   |
-| 2022-10-07 | [[Ontario Reign on Youtube]] | [[Martin Chromiak - Reign Training Camp Day 2]]                         |
+| Date       | Site                         | Title                                                                         |
+| ---------- | ---------------------------- | ----------------------------------------------------------------------------- |
+| 2022-10-28 | [[Hockey Royalty]]           | [[LA Kings - 2022-23 prospect rankings, the top five]]                        |
+| 2022-10-26 | [[Mayors Manor]]             | [[Ontario Reign - Projected Lineup at San Jose Barracuda on Wednesday]]       |
+| 2022-10-22 | [[Mayors Manor]]             | [[Ontario Reign - Projected Lineup vs San Diego Gulls on Saturday]]           |
+| 2022-10-21 | [[Mayors Manor]]             | [[Ontario Reign - Projected Lineup at San Diego on Friday]]                   |
+| 2022-10-16 | [[Mayors Manor]]             | [[Ontario Reign - Projected Lineup vs Bakersfield Condors on Sunday]]         |
+| 2022-10-07 | [[Ontario Reign on Youtube]] | [[Martin Chromiak - Reign Training Camp Day 2]]                               |
 | 2022-10-07 | [[LA Kings Insider]]         | [[Ontario Reign Training Camp Update – Hear from Sturm, Gaunce and Chromiak]] |
 
 
 
 ## Post-Draft Coverage
-Date | Site |  Title
----|---|---
+| Date | Site | Title |
+| ---- | ---- | ----- |
 
 
 

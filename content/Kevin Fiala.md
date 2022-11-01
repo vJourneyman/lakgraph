@@ -20,6 +20,12 @@ Kevin Fiala | 22 | LW | L | 5' 10" | 204 | 1996-07-22 | St. Gallen, CHE | 2014 N
 ## NHL  Coverage
 | Date       | Site                            | Title                                                                                                                                |
 | ---------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-10-28 | [[CBS Sports]] | [[CBS Sports - Kings Gabriel Vilardi - Practices on top line]]                                                                                           |
+| 2022-10-28 | [[Hockey Royalty]] | [[LA Kings - Takeaways from the teams 6-4 loss to Winnipeg]]                                                                                         |
+| 2022-10-28 | [[The Athletic]]                | [[NHL Power Rankings - Bruins climb to the top, Canucks stumble to bottom]]                                                          |
+| 2022-10-28 | [[The Forum Report]]            | [[Playmaking Chart - 10-27 vs WPG]]                                                                                                  |
+| 2022-10-28 | [[The Forum Report]]            | [[Waking up with the Kings - October 28]]                                                                                            |
+| 2022-10-28 | [[LA Kings Insider]]            | [[The Lines They Are A-Changing......Kings display new look heading into tomorrows game - LA Kings Insider]]                         |
 | 2022-10-27 | [[The Forum Report]]            | [[Loss a microcosm of early season play - former divisional foe understands McLellans push for structure, discipline]]               |
 | 2022-10-26 | [[The Athletic]]                | [[LA Kings are showing signs of heading back in the right direction]]                                                                |
 | 2022-10-26 | [[LA Kings Insider]]            | [[10-26 Practice - Todays Alignment + First Line Makes Progress, The JADebut, Pinellis Hot Start - LA Kings Insider]]                |

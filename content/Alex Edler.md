@@ -20,6 +20,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                                             |
 | ---------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-10-28 | [[The Forum Report]] | [[Playmaking Chart - 10-27 vs WPG]]                                                          |
 | 2022-10-25 | [[The Hockey News]] | [[Los Angeles Kings Goaltending Must Tighten Up To Win A Playoff Round]]                                                                                                    |
 | 2022-10-25 | [[Hockey Royalty]] | [[LA Kings vs Tampa Bay Lightning projected lineup, betting preview]]                                                                                                       |
 | 2022-10-25 | [[LA Kings Insider]] | [[10-25 Preview - Potential Alignment + Facing The Bolts, Grundstroms Metrics, Clarke on Firsts - LA Kings Insider]]                                                                                                                               |
