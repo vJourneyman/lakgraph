@@ -20,6 +20,8 @@ Sean Walker | 26 | RD | R | 5' 11" | 195 | 1994-11-13 | Keswick, ON, CAN
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                               |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| 2022-10-30 | [[Hockey Royalty]]      | [[Takeaways - LA Kings 4, Maple Leafs 2 - A Breath of Fresh Air]]                                                   |
+| 2022-10-30 | [[LA Kings Insider]]    | [[Angeles Analysis - Up and Down - LA Kings Insider]]                                                               |
 | 2022-10-29 | [[LA Daily News]]       | [[Kings goalie Cal Petersen starts in victory over Toronto]]                                                        |
 | 2022-10-29 | [[Mayors Manor]]        | [[Projected Lineup, Game 10 - LA Kings vs. Toronto Maple Leafs, Kupari Recalled]]                                   |
 | 2022-10-29 | [[The Forum Report]]    | [[Legacy of 2007 class not lost on Simmonds - Clarke sits but has “done a really good job of adapting to the NHL”]] |

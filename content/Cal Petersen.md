@@ -19,6 +19,9 @@ NHL.com | Twitter
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                    |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| 2022-10-30 | [[Hockey Royalty]]      | [[Takeaways - LA Kings 4, Maple Leafs 2 - A Breath of Fresh Air]]                                                        |
+| 2022-10-30 | [[The Forum Report]]    | [[Waking up with the Kings - October 30]]                                                                                |
+| 2022-10-30 | [[LA Kings Insider]]    | [[Angeles Analysis - Up and Down - LA Kings Insider]]                                                                    |
 | 2022-10-29 | [[Field Level Media]]   | [[Kings use big 2nd period to dispatch Maple Leafs]]                                                                     |
 | 2022-10-29 | [[LA Daily News]]       | [[Kevin Fiala leads Kings past Maple Leafs]]                                                                             |
 | 2022-10-29 | [[LA Daily News]]       | [[Kings goalie Cal Petersen starts in victory over Toronto]]                                                             |

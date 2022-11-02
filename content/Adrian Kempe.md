@@ -23,6 +23,7 @@ NHL.com | Twitter
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-10-30 | [[LA Kings Insider]]    | [[Armed with a wealth of confidence, a look into Gabe Vilardis high-flying start to the season - LA Kings Insider]]                  |
 | 2022-10-29 | [[Field Level Media]]   | [[Kings use big 2nd period to dispatch Maple Leafs]]                                                                                 |
 | 2022-10-29 | [[Last Word On Sports]] | [[NHL Predictions - October 29 Including Toronto Maple Leafs vs Los Angeles Kings]]                                                  |
 | 2022-10-29 | [[Mayors Manor]]        | [[Rapid Review - Highlights from Kings 4-2 Win over Toronto, Plus McLellan Post-game Comments]]                                      |

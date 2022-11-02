@@ -20,6 +20,8 @@ Kevin Fiala | 22 | LW | L | 5' 10" | 204 | 1996-07-22 | St. Gallen, CHE | 2014 N
 ## NHL  Coverage
 | Date       | Site                            | Title                                                                                                                                |
 | ---------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-10-30 | [[Field Level Media]]           | [[Struggling Blues set to face revived Kings]]                                                                                       |
+| 2022-10-30 | [[LA Kings Insider]]            | [[Angeles Analysis - Up and Down - LA Kings Insider]]                                                                                |
 | 2022-10-29 | [[Field Level Media]]           | [[Kings use big 2nd period to dispatch Maple Leafs]]                                                                                 |
 | 2022-10-29 | [[LA Daily News]]               | [[Kevin Fiala leads Kings past Maple Leafs]]                                                                                         |
 | 2022-10-29 | [[Hockey Royalty]]              | [[LA Kings vs Toronto Maple Leafs projected lineup, betting preview]]                                                                |

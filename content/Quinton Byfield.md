@@ -22,6 +22,7 @@ Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                |     |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | --- |
+| 2022-10-30 | [[The Forum Report]]    | [[Byfield (illness) doesnt travel to St. Louis]]                                                                                     |     |
 | 2022-10-29 | [[Hockey Royalty]]      | [[LA Kings vs Toronto Maple Leafs projected lineup, betting preview]]                                                                |     |
 | 2022-10-29 | [[Mayors Manor]]        | [[Projected Lineup, Game 10 - LA Kings vs. Toronto Maple Leafs, Kupari Recalled]]                                                    |     |
 | 2022-10-29 | [[The Forum Report]]    | [[Legacy of 2007 class not lost on Simmonds - Clarke sits but has “done a really good job of adapting to the NHL”]]                  |     |

@@ -20,6 +20,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                                 |
 | ---------- | -------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| 2022-10-30 | [[The Forum Report]] | [[Waking up with the Kings - October 30]]                                                                |
 | 2022-10-29 | [[Hockey Royalty]]   | [[LA Kings vs Toronto Maple Leafs projected lineup, betting preview]]                                                 |
 | 2022-10-28 | [[LA Kings Insider]] | [[The Lines They Are A-Changing......Kings display new look heading into tomorrows game - LA Kings Insider]]          |
 | 2022-10-27 | [[LA Daily News]]    | [[Kings early lead fades away as Winnipeg hands them 3rd loss in 4 games]]                                            |

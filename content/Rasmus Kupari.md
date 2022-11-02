@@ -22,6 +22,9 @@ Rasmus Kupari | |  C | R | 6'2" | 200 |2000-03-15 | Kotka, FIN | 2018 LAK, 1st r
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                               |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| 2022-10-30 | [[Field Level Media]]   | [[Struggling Blues set to face revived Kings]]                                                                      |
+| 2022-10-30 | [[The Forum Report]]    | [[Waking up with the Kings - October 30]]                                                                           |
+| 2022-10-30 | [[LA Kings Insider]]    | [[Angeles Analysis - Up and Down - LA Kings Insider]]                                                               |
 | 2022-10-29 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Recall Rasmus Kupari]]                                                                          |
 | 2022-10-29 | [[LA Daily News]]       | [[Kings goalie Cal Petersen starts in victory over Toronto]]                                                        |
 | 2022-10-29 | [[Kings at NHL.com]]    | [[LA Kings Recall Forward Rasmus Kupari]]                                                                           |

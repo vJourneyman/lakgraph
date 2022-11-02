@@ -28,6 +28,8 @@ Date | Site |  Title
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                              |     |
 | ---------- | -------------------- | -------------------------------------------------------------------------------------------------- | --- |
+| 2022-10-30 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 4-3 win against Bakersfield]]                               |     |
+| 2022-10-30 | [[Mayors Manor]]     | [[Reign Recap - Akil Thomas Fuels Ontario Redemption vs Bakersfield]]                              |     |
 | 2022-10-29 | [[Mayors Manor]]     | [[Ontario Reign - Projected Lineup vs Bakersfield Condors - Several Changes Included]]             |     |
 | 2022-10-29 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 4, Condors 3 – Hajt, Thomas - LA Kings Insider]]                             |     |
 | 2022-10-28 | [[LA Kings Insider]] | [[Healthy and Comfortable, Akil Thomas Finding Early Season Form With Ontario - LA Kings Insider]] |     |

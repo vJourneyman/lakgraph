@@ -22,6 +22,7 @@ NHL.com / Ontario Reign | Twitter
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                                           |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-10-30 | [[Hockey Royalty]]   | [[Takeaways - LA Kings 4, Maple Leafs 2 - A Breath of Fresh Air]]                                                               |
 | 2022-10-24 | [[LA Kings Insider]] | [[Kings seek balance between increased offensive point production from blueline and limiting goals against - LA Kings Insider]] |
 | 2022-10-15 | [[The Forum Report]] | [[Cal starts -building NHL role with Wild, ex-prospect Middleton credits LA -Fialas big return -changes on defense]]            |
 | 2022-10-15 | [[LA Kings Insider]] | [[10-15 Preview - Potential Lineup + Fialas Return, Minnesota Natives, Seeking Identity - LA Kings Insider]]                    |

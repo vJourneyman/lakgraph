@@ -24,6 +24,12 @@ NHL.com | Twitter
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                    |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| 2022-10-30 | [[Field Level Media]]   | [[Struggling Blues set to face revived Kings]]                                                                           |
+| 2022-10-30 | [[Kings at NHL.com]]    | [[Preview - Blues vs. Kings]]                                                                                            |
+| 2022-10-30 | [[LA Daily News]]       | [[Kings hit road in search of special-teams improvement]]                                                                |
+| 2022-10-30 | [[The Forum Report]]    | [[Waking up with the Kings - October 30]]                                                                                |
+| 2022-10-30 | [[LA Kings Insider]]    | [[Armed with a wealth of confidence, a look into Gabe Vilardis high-flying start to the season - LA Kings Insider]]      |
+| 2022-10-30 | [[LA Kings Insider]]    | [[Angeles Analysis - Up and Down - LA Kings Insider]]                                                                    |
 | 2022-10-29 | [[Field Level Media]]   | [[Kings use big 2nd period to dispatch Maple Leafs]]                                                                     |
 | 2022-10-29 | [[Last Word On Sports]] | [[NHL Predictions - October 29 Including Toronto Maple Leafs vs Los Angeles Kings]]                                      |
 | 2022-10-29 | [[LA Daily News]]       | [[Kevin Fiala leads Kings past Maple Leafs]]                                                                             |
