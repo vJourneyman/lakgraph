@@ -32,10 +32,11 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 
 
 ## Minor League Coverage
-| Date | Site | Title |
-| ---- | ---- | ----- |
-| 2022-10-16 | [[LA Kings Insider]]   | [[REIGN PREVIEW – Ontario vs Bakersfield, 10-16 - LA Kings Insider]]           |
-| 2022-10-14 | [[LA Kings Insider]]   | [[REIGN FINAL – Reign 8, Canucks 2 – Sturm, Tynan, Grans - LA Kings Insider]]   |
+| Date       | Site                 | Title                                                                              |
+| ---------- | -------------------- | ---------------------------------------------------------------------------------- |
+| 2022-11-02 | [[LA Kings Insider]] | [[Ontario Reign defense takes center stage in teams 6-1 start - LA Kings Insider]] |
+| 2022-10-16 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Bakersfield, 10-16 - LA Kings Insider]]               |
+| 2022-10-14 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 8, Canucks 2 – Sturm, Tynan, Grans - LA Kings Insider]]      |
 
 
 

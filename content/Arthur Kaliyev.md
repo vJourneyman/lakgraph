@@ -22,6 +22,8 @@ RW | L | 6'2" | 210 | 21 | 2001-06-26 | Tashkent, UZB | 2019 LAK, 2nd rd, 2nd pk
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                         |     |
 | ---------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------- | --- |
+| 2022-11-02 | [[Hockey Royalty]]    | [[Takeaways from the LA Kings 5-2 loss to the Dallas Stars]]                                                                  |     |
+| 2022-11-02 | [[LA Kings Insider]]  | [[By The Numbers - What The Metrics Say Through 12 Games - LA Kings Insider]]                                                 |     |
 | 2022-11-01 | [[Kings at NHL.com]]  | [[Hintz has two goals, assist for Stars in win against Kings]]                                                                |     |
 | 2022-11-01 | [[LA Kings Insider]]  | [[FINAL - Kings 2, Stars 5 - Kopitar, Danault, McLellan - LA Kings Insider]]                                                  |     |
 | 2022-10-31 | [[The Athletic]]      | [[How Kings Gabriel Vilardi finally arrived - ‘I had more to prove this year]]                                                |     |

@@ -24,6 +24,8 @@ NHL.com | Twitter
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                     |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-02 | [[LA Times]]            | [[After years of injury issues, Kings Gabe Vilardi is flourishing - Los Angeles Times]]                                                   |
+| 2022-11-02 | [[Hockey Royalty]]      | [[Takeaways from the LA Kings 5-2 loss to the Dallas Stars]]                                                                              |
 | 2022-11-01 | [[Field Level Media]]   | [[Gabriel Vilardi, Kings bring hot streak to Dallas]]                                                                                     |
 | 2022-11-01 | [[The Forum Report]]    | [[Playmaking Chart - 10-31 vs St Louis]]                                                                                                  |
 | 2022-11-01 | [[The Forum Report]]    | [[Waking up with the Kings - November 1]]                                                                                                 |

@@ -20,6 +20,9 @@ Kevin Fiala | 22 | LW | L | 5' 10" | 204 | 1996-07-22 | St. Gallen, CHE | 2014 N
 ## NHL  Coverage
 | Date       | Site                            | Title                                                                                                                                |
 | ---------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-02 | [[Field Level Media]]           | [[Blackhawks turn to No 3 goalie Arvid Soderblom vs Kings]]                                                                          |
+| 2022-11-02 | [[Hockey Royalty]]              | [[Takeaways from the LA Kings 5-2 loss to the Dallas Stars]]                                                                         |
+| 2022-11-02 | [[The Forum Report]]            | [[Playmaking Chart - 11-1-22 at DAL]]                                                                                                |
 | 2022-11-01 | [[Kings at NHL.com]]            | [[Hintz has two goals, assist for Stars in win against Kings]]                                                                       |
 | 2022-11-01 | [[The Forum Report]]            | [[Playmaking Chart - 10-31 vs St Louis]]                                                                                             |
 | 2022-11-01 | [[The Forum Report]]            | [[Waking up with the Kings - November 1]]                                                                                            |

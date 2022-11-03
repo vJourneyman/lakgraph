@@ -22,7 +22,9 @@ Drew Doughty | 8 | RD | R | 6' 1" | 210 | 1989-12-08 | London, ON, CAN | 2008 LA
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                     |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-01 | [[LA Kings Insider]] | [[11-1 Preview - No Morning Skate in Dallas + McLellan on Fiala, Doughty/Anderson Pairing, The Big 100 - LA Kings Insider]]                                                               |
+| 2022-11-02 | [[The Hockey Writers]]  | [[Kings Strong Play Being Cancelled Out by Lackluster Goaltending]]                                                                       |
+| 2022-11-02 | [[LA Kings Insider]]    | [[By The Numbers - What The Metrics Say Through 12 Games - LA Kings Insider]]                                                             |
+| 2022-11-01 | [[LA Kings Insider]]    | [[11-1 Preview - No Morning Skate in Dallas + McLellan on Fiala, Doughty/Anderson Pairing, The Big 100 - LA Kings Insider]]               |
 | 2022-10-31 | [[The Forum Report]]    | [[Muzzin, Clifford, Kings reconnect - Byfield “a little bit better” but not with team - Kuparis play away from the puck a good baseline]] |
 | 2022-10-26 | [[The Forum Report]]    | [[Playmaking Chart - 10-25 vs TBL]]                                                                                                       |
 | 2022-10-25 | [[The Hockey News]]     | [[Los Angeles Kings Goaltending Must Tighten Up To Win A Playoff Round]]                                                                  |

@@ -21,6 +21,8 @@ NHL.com / Ontario Reign | Twitter
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                     |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-02 | [[The Hockey News]]     | [[NHL Power Rankings - Bruins Claw No 1 Spot]]                                                                                            |
+| 2022-11-02 | [[The Hockey Writers]]  | [[Kings Strong Play Being Cancelled Out by Lackluster Goaltending]]                                                                       |
 | 2022-11-01 | [[Blackout Dallas]]     | [[Dallas Stars Look to Checkmate the Los Angeles Kings on Home Ice]]                                                                      |
 | 2022-10-31 | [[Kings at NHL.com]]    | [[Kings chase Binnington, hand Blues fifth straight loss]]                                                                                |
 | 2022-10-31 | [[Mayors Manor]]        | [[Rapid Review - Highlights from Kings 5-1 Victory in St. Louis to Open Road Trip]]                                                       |

@@ -28,6 +28,7 @@ Date | Site |  Title
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                              |     |
 | ---------- | -------------------- | -------------------------------------------------------------------------------------------------- | --- |
+| 2022-11-02 | [[Hockey Royalty]]   | [[Ontario Reign - Three stars of the week from 10-24 to 10-30]]                                    |     |
 | 2022-10-31 | [[Mayors Manor]]     | [[LAK Prospects - Weekly Reign Report, October 30, 2022]]                                          |     |
 | 2022-10-30 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 4-3 win against Bakersfield]]                               |     |
 | 2022-10-30 | [[Mayors Manor]]     | [[Reign Recap - Akil Thomas Fuels Ontario Redemption vs Bakersfield]]                              |     |
