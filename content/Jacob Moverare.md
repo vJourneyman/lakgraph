@@ -21,6 +21,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------- |
+| 2022-10-31 | [[Mayors Manor]]        | [[LAK Prospects - Weekly Reign Report, October 30, 2022]]                                           |
 | 2022-10-29 | [[Hockey Royalty]]      | [[LA Kings - D-pair changes, playing with structure must happen]]                                   |
 | 2022-10-28 | [[Hockey Royalty]]      | [[LA Kings - Takeaways from the teams 6-4 loss to Winnipeg]]                                        |
 | 2022-10-24 | [[Hockey Royalty]]      | [[LA Kings After 7 Games - Its Something We Know We Need To Fix]]                                   |

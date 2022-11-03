@@ -22,7 +22,8 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                          |
 | ---------- | ----------------------- | -------------------------------------------------------------------------------------------------------------- |
-| 2022-10-30 | [[The Forum Report]] | [[Waking up with the Kings - October 30]]                                                                |
+| 2022-10-31 | [[The Athletic]]        | [[How Kings Gabriel Vilardi finally arrived - ‘I had more to prove this year]]                                 |
+| 2022-10-30 | [[The Forum Report]]    | [[Waking up with the Kings - October 30]]                                                                      |
 | 2022-10-29 | [[Last Word On Sports]] | [[NHL Predictions - October 29 Including Toronto Maple Leafs vs Los Angeles Kings]]                            |
 | 2022-10-28 | [[The Forum Report]]    | [[Playmaking Chart - 10-27 vs WPG]]                                                                            |
 | 2022-10-26 | [[The Athletic]]        | [[LA Kings are showing signs of heading back in the right direction]]                                          |

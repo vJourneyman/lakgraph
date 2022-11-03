@@ -22,6 +22,7 @@ RW | L | 6'2" | 210 | 21 | 2001-06-26 | Tashkent, UZB | 2019 LAK, 2nd rd, 2nd pk
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                         |     |
 | ---------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------- | --- |
+| 2022-10-31 | [[The Athletic]]      | [[How Kings Gabriel Vilardi finally arrived - ‘I had more to prove this year]]                                                |     |
 | 2022-10-30 | [[Hockey Royalty]]    | [[Takeaways - LA Kings 4, Maple Leafs 2 - A Breath of Fresh Air]]                                                             |     |
 | 2022-10-26 | [[Hockey Royalty]]    | [[LA Kings - Takeaways from the teams 4-2 win against the Lightning]]                                                         |     |
 | 2022-10-26 | [[The Forum Report]]  | [[Waking up with the Kings - October 26]]                                                                                     |     |

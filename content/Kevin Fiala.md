@@ -20,6 +20,10 @@ Kevin Fiala | 22 | LW | L | 5' 10" | 204 | 1996-07-22 | St. Gallen, CHE | 2014 N
 ## NHL  Coverage
 | Date       | Site                            | Title                                                                                                                                |
 | ---------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-10-31 | [[Field Level Media]]           | [[Kings cruise as Blues drop fifth consecutive game]]                                                                                |
+| 2022-10-31 | [[Kings at NHL.com]]            | [[Kings chase Binnington, hand Blues fifth straight loss]]                                                                           |
+| 2022-10-31 | [[The Forum Report]]            | [[Quick on successfully defending a 3-on-0 - Grundstrom thriving within team schematics]]                                            |
+| 2022-10-31 | [[LA Kings Insider]]            | [[FINAL - Kings 5, Blues 1 - Grundstrom, McLellan - LA Kings Insider]]                                                               |
 | 2022-10-30 | [[Field Level Media]]           | [[Struggling Blues set to face revived Kings]]                                                                                       |
 | 2022-10-30 | [[LA Kings Insider]]            | [[Angeles Analysis - Up and Down - LA Kings Insider]]                                                                                |
 | 2022-10-29 | [[Field Level Media]]           | [[Kings use big 2nd period to dispatch Maple Leafs]]                                                                                 |

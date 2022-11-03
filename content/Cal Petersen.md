@@ -19,6 +19,7 @@ NHL.com | Twitter
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                    |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| 2022-10-31 | [[Hockey Royalty]]      | [[LA Kings at St. Louis Blues projected lineup, betting preview]]                                                        |
 | 2022-10-30 | [[Hockey Royalty]]      | [[Takeaways - LA Kings 4, Maple Leafs 2 - A Breath of Fresh Air]]                                                        |
 | 2022-10-30 | [[The Forum Report]]    | [[Waking up with the Kings - October 30]]                                                                                |
 | 2022-10-30 | [[LA Kings Insider]]    | [[Angeles Analysis - Up and Down - LA Kings Insider]]                                                                    |

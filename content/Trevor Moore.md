@@ -21,6 +21,7 @@ Trevor Moore | 12 | C | L | 5' 10" | 195 | 1995-03-31 | Thousand Oaks, CA, USA
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                            |
 | ---------- | -------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| 2022-10-31 | [[The Athletic]]     | [[How Kings Gabriel Vilardi finally arrived - ‘I had more to prove this year]]                                   |
 | 2022-10-28 | [[The Forum Report]] | [[Playmaking Chart - 10-27 vs WPG]]                                                                              |
 | 2022-10-25 | [[Mayors Manor]]     | [[Projected Lineup - LA Kings vs Tampa Bay Lightning, Game 8]]                                                   |
 | 2022-10-25 | [[The Forum Report]] | [[“Going in the right direction, but inconsistently,” forwards chemistry, identity become key - Quick starts]]   |

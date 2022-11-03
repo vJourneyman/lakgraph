@@ -22,6 +22,10 @@ Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                |     |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | --- |
+| 2022-10-31 | [[Hockey Royalty]]      | [[LA Kings at St. Louis Blues projected lineup, betting preview]]                                                                    |     |
+| 2022-10-31 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings at St. Louis Blues, Plus Byfield Update]]                                                              |     |
+| 2022-10-31 | [[The Athletic]]        | [[How Kings Gabriel Vilardi finally arrived - ‘I had more to prove this year]]                                                       |     |
+| 2022-10-31 | [[LA Kings Insider]]    | [[10-31 Preview - Quick Expected + Seeking Consistency, Walkers Comfort, Kuparis Focal Points - LA Kings Insider]]                   |     |
 | 2022-10-30 | [[The Forum Report]]    | [[Byfield (illness) doesnt travel to St. Louis]]                                                                                     |     |
 | 2022-10-29 | [[Hockey Royalty]]      | [[LA Kings vs Toronto Maple Leafs projected lineup, betting preview]]                                                                |     |
 | 2022-10-29 | [[Mayors Manor]]        | [[Projected Lineup, Game 10 - LA Kings vs. Toronto Maple Leafs, Kupari Recalled]]                                                    |     |
