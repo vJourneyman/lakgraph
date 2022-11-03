@@ -20,6 +20,12 @@ Kevin Fiala | 22 | LW | L | 5' 10" | 204 | 1996-07-22 | St. Gallen, CHE | 2014 N
 ## NHL  Coverage
 | Date       | Site                            | Title                                                                                                                                |
 | ---------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-01 | [[Kings at NHL.com]]            | [[Hintz has two goals, assist for Stars in win against Kings]]                                                                       |
+| 2022-11-01 | [[The Forum Report]]            | [[Playmaking Chart - 10-31 vs St Louis]]                                                                                             |
+| 2022-11-01 | [[The Forum Report]]            | [[Waking up with the Kings - November 1]]                                                                                            |
+| 2022-11-01 | [[LA Kings Insider]]            | [[FINAL - Kings 2, Stars 5 - Kopitar, Danault, McLellan - LA Kings Insider]]                                                         |
+| 2022-11-01 | [[LA Kings Insider]]            | [[FINAL - Kings 2, Stars 5 - Kopitar, Danault, McLellan - LA Kings Insider]]                                                         |
+| 2022-11-01 | [[LA Kings Insider]]            | [[11-1 Preview - No Morning Skate in Dallas + McLellan on Fiala, Doughty/Anderson Pairing, The Big 100 - LA Kings Insider]]          |
 | 2022-10-31 | [[Field Level Media]]           | [[Kings cruise as Blues drop fifth consecutive game]]                                                                                |
 | 2022-10-31 | [[Kings at NHL.com]]            | [[Kings chase Binnington, hand Blues fifth straight loss]]                                                                           |
 | 2022-10-31 | [[The Forum Report]]            | [[Quick on successfully defending a 3-on-0 - Grundstrom thriving within team schematics]]                                            |

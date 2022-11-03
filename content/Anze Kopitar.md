@@ -22,6 +22,8 @@ Anze Kopitar | 11 | C | L | 6' 3" | 225 | 1987-08-24 | Jesenice, SVN | 2005 LAK,
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                |
 | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-01 | [[The Forum Report]]   | [[Playmaking Chart - 10-31 vs St Louis]]                                                                                             |
+| 2022-11-01 | [[LA Kings Insider]]   | [[FINAL - Kings 2, Stars 5 - Kopitar, Danault, McLellan - LA Kings Insider]]                                                         |
 | 2022-10-31 | [[The Athletic]]       | [[How Kings Gabriel Vilardi finally arrived - ‘I had more to prove this year]]                                                       |
 | 2022-10-30 | [[Field Level Media]]  | [[Struggling Blues set to face revived Kings]]                                                                                       |
 | 2022-10-30 | [[LA Kings Insider]]   | [[Armed with a wealth of confidence, a look into Gabe Vilardis high-flying start to the season - LA Kings Insider]]                  |

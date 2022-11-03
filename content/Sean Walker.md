@@ -20,6 +20,7 @@ Sean Walker | 26 | RD | R | 5' 11" | 195 | 1994-11-13 | Keswick, ON, CAN
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                     |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-01 | [[Mayors Manor]] | [[Projected Lineup - LA Kings at Dallas Stars on Tuesday]]                                                                                      |
 | 2022-10-31 | [[The Forum Report]]    | [[Muzzin, Clifford, Kings reconnect - Byfield “a little bit better” but not with team - Kuparis play away from the puck a good baseline]] |
 | 2022-10-31 | [[LA Kings Insider]]    | [[10-31 Preview - Quick Expected + Seeking Consistency, Walkers Comfort, Kuparis Focal Points - LA Kings Insider]]                        |
 | 2022-10-30 | [[Hockey Royalty]]      | [[Takeaways - LA Kings 4, Maple Leafs 2 - A Breath of Fresh Air]]                                                                         |

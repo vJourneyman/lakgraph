@@ -21,6 +21,10 @@ Brandt Clarke | 92 | RD | R | 6' 2" | 185 | 2003-02-09 | Nepean, ON, CAN | 2021 
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                         |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-01 | [[Defending Big D]] | [[Questions Face Stars Leading into Matchup with Kings]]                                                                                                                                            |
+| 2022-11-01 | [[Hockey Royalty]]      | [[LA Kings at Dallas Stars projected lineup, betting preview]]                                                                |
+| 2022-11-01 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings at Dallas Stars on Tuesday]]                                                                    |
+| 2022-11-01 | [[LA Kings Insider]]    | [[11-1 Preview - No Morning Skate in Dallas + McLellan on Fiala, Doughty/Anderson Pairing, The Big 100 - LA Kings Insider]]   |
 | 2022-10-31 | [[Hockey Royalty]]      | [[LA Kings at St. Louis Blues projected lineup, betting preview]]                                                             |
 | 2022-10-31 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings at St. Louis Blues, Plus Byfield Update]]                                                       |
 | 2022-10-29 | [[LA Daily News]]       | [[Kings goalie Cal Petersen starts in victory over Toronto]]                                                                  |

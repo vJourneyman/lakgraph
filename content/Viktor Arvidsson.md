@@ -21,6 +21,8 @@ Viktor Arvidsson | 33 | LW | R | 5' 10" | 185 | 1993-04-08 | Skellefteå, SWE | 
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-01 | [[The Forum Report]] | [[Playmaking Chart - 10-31 vs St Louis]]                                                               |
+| 2022-11-01 | [[LA Kings Insider]]    | [[FINAL - Kings 2, Stars 5 - Kopitar, Danault, McLellan - LA Kings Insider]]                                                         |
 | 2022-10-31 | [[The Athletic]]        | [[How Kings Gabriel Vilardi finally arrived - ‘I had more to prove this year]]                                                       |
 | 2022-10-31 | [[The Forum Report]]    | [[Quick on successfully defending a 3-on-0 - Grundstrom thriving within team schematics]]                                            |
 | 2022-10-29 | [[Field Level Media]]   | [[Kings use big 2nd period to dispatch Maple Leafs]]                                                                                 |

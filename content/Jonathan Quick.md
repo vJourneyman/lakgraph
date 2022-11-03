@@ -21,6 +21,7 @@ NHL.com / Ontario Reign | Twitter
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                     |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-01 | [[Blackout Dallas]]     | [[Dallas Stars Look to Checkmate the Los Angeles Kings on Home Ice]]                                                                      |
 | 2022-10-31 | [[Kings at NHL.com]]    | [[Kings chase Binnington, hand Blues fifth straight loss]]                                                                                |
 | 2022-10-31 | [[Mayors Manor]]        | [[Rapid Review - Highlights from Kings 5-1 Victory in St. Louis to Open Road Trip]]                                                       |
 | 2022-10-31 | [[The Forum Report]]    | [[Quick on successfully defending a 3-on-0 - Grundstrom thriving within team schematics]]                                                 |
