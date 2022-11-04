@@ -21,6 +21,11 @@ Brandt Clarke | 92 | RD | R | 6' 2" | 185 | 2003-02-09 | Nepean, ON, CAN | 2021 
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-03 | [[Hockey Royalty]]      | [[LA Kings at Chicago Blackhawks projected lineup, betting preview]]                                                                                |
+| 2022-11-03 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings at Chicago Blackhawks on Thursday]]                                                                                   |
+| 2022-11-03 | [[The Forum Report]]    | [[Clarke sits, remains at threshold - Fiala, teams cohesion taking “a step forward every game”]]                                                    |
+| 2022-11-03 | [[The Forum Report]]    | [[No hands tipped on Clarkes status - as competition rises, so do Vilardi and his new linemates numbers]]                                           |
+| 2022-11-03 | [[LA Kings Insider]]    | [[11-3 Preview - Morning Skate Notes + Fialas Streak, PP Unit Balance, Kaliyev ready to score - LA Kings Insider]]                                  |
 | 2022-11-02 | [[LA Daily News]]       | [[Kings seek better discipline in road-trip finale in Chicago]]                                                                                     |
 | 2022-11-02 | [[The Forum Report]]    | [[Playmaking Chart - 11-1-22 at DAL]]                                                                                                               |
 | 2022-11-02 | [[The Forum Report]]    | [[Reaction in Dallas - Todd on 11-7 - Colin Miller on Calder Cup teammate Adrian Kempe - “You could tell early on that he was going to be a stud”]] |

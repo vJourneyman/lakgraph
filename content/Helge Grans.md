@@ -29,6 +29,7 @@ status: needs-draft-content
 ## Minor League Coverage
 | Date       | Site                    | Title                                                                               |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------- |
+| 2022-11-03 | [[Mayors Manor]]        | [[Ontario Reign - Projected Lineup vs Colorado Eagles - Fagemo Out]]                |
 | 2022-10-21 | [[Montreal Hockey Now]] | [[Montreal Canadiens and LA Kings Could Rekindle Trade Talks]]                      |
 | 2022-10-19 | [[Mayors Manor]]        | [[LA Kings Weekly Reign Report, October 16, 2022]]                                  |
 | 2022-10-16 | [[Mayors Manor]]        | [[Reign Recap and Highlights - Bakersfield Hands Ontario First Loss of the Season]] |

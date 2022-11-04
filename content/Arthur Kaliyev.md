@@ -22,6 +22,7 @@ RW | L | 6'2" | 210 | 21 | 2001-06-26 | Tashkent, UZB | 2019 LAK, 2nd rd, 2nd pk
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                         |     |
 | ---------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------- | --- |
+| 2022-11-03 | [[LA Kings Insider]]  | [[11-3 Preview - Morning Skate Notes + Fialas Streak, PP Unit Balance, Kaliyev ready to score - LA Kings Insider]]            |     |
 | 2022-11-02 | [[Hockey Royalty]]    | [[Takeaways from the LA Kings 5-2 loss to the Dallas Stars]]                                                                  |     |
 | 2022-11-02 | [[LA Kings Insider]]  | [[By The Numbers - What The Metrics Say Through 12 Games - LA Kings Insider]]                                                 |     |
 | 2022-11-01 | [[Kings at NHL.com]]  | [[Hintz has two goals, assist for Stars in win against Kings]]                                                                |     |

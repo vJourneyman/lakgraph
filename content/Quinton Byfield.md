@@ -22,6 +22,8 @@ Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                |     |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | --- |
+| 2022-11-03 | [[Hockey Royalty]]      | [[LA Kings at Chicago Blackhawks projected lineup, betting preview]]                                                                 |     |
+| 2022-11-03 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings at Chicago Blackhawks on Thursday]]                                                                    |     |
 | 2022-11-02 | [[LA Daily News]]       | [[Kings seek better discipline in road-trip finale in Chicago]]                                                                      |     |
 | 2022-11-01 | [[Defending Big D]]     | [[Questions Face Stars Leading into Matchup with Kings]]                                                                             |     |
 | 2022-11-01 | [[Hockey Royalty]]      | [[LA Kings at Dallas Stars projected lineup, betting preview]]                                                                       |     |

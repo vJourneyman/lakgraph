@@ -19,6 +19,7 @@ NHL.com | Twitter
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-03 | [[Hockey Royalty]]      | [[LA Kings at Chicago Blackhawks projected lineup, betting preview]]                                                                                |
 | 2022-11-02 | [[The Hockey News]]     | [[NHL Power Rankings - Bruins Claw No 1 Spot]]                                                                                                      |
 | 2022-11-02 | [[The Hockey Writers]]  | [[Kings Strong Play Being Cancelled Out by Lackluster Goaltending]]                                                                                 |
 | 2022-11-02 | [[The Forum Report]]    | [[Playmaking Chart - 11-1-22 at DAL]]                                                                                                               |

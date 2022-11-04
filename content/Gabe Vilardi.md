@@ -24,6 +24,7 @@ NHL.com | Twitter
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                     |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-03 | [[The Forum Report]]    | [[No hands tipped on Clarkes status - as competition rises, so do Vilardi and his new linemates numbers]]                                 |
 | 2022-11-02 | [[LA Times]]            | [[After years of injury issues, Kings Gabe Vilardi is flourishing - Los Angeles Times]]                                                   |
 | 2022-11-02 | [[Hockey Royalty]]      | [[Takeaways from the LA Kings 5-2 loss to the Dallas Stars]]                                                                              |
 | 2022-11-01 | [[Field Level Media]]   | [[Gabriel Vilardi, Kings bring hot streak to Dallas]]                                                                                     |
@@ -125,16 +126,18 @@ Date | Site |  Title
 
 
 ## Post-Draft Coverage
-| Date | Site | Title |
-| ---- | ---- | ----- |
-| 2018-09-14 | [[theathletic.com]] | [[The Gifted: Kings prospect Gabe Vilardi and the art of being effective without getting noticed]](https://theathletic.com/520693/2018/09/14/the-gifted-kings-prospect-gabe-vilardi-and-the-art-of-being-effective-without-getting-noticed/) |
-| 2018-02-20 | [[www.sportsnet.ca]] | [[CHL Notebook: Vilardi feeling right at home with the Frontenacs - Sportsnet.ca]](https://www.sportsnet.ca/hockey/juniors/chl-notebook-vilardi-feeling-right-home-frontenacs/) |
+| Date       | Site             | Title                                                                                               |
+| ---------- | ---------------- | --------------------------------------------------------------------------------------------------- |
+| 2018-09-14 | [[The Athletic]] | [[The Gifted - Kings prospect Gabe Vilardi and the art of being effective without getting noticed]] |
+| 2018-07-27 | [[The Athletic]] | [[Wheeler - The Top 50 drafted NHL prospects ranking, 2018 edition]]                                | 
+| 2018-02-20 | [[SportsNet]]    | [[CHL Notebook - Vilardi feeling right at home with the Frontenacs - Sportsnet.ca]]                 |
 
 
 
 ## Pre-Draft Coverage
-Date | Site |  Title
----|---|---
+| Date | Site | Title |
+| ---- | ---- | ----- |
+| 2017-03-31 | [[Last Word On Sports]] | [[Gabriel Vilardi Scouting Report - 2017 NHL Draft No 3]] |
 
 ## Unprocessed Coverage
 | Date | Site | Title |
