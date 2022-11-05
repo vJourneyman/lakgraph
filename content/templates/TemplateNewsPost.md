@@ -12,7 +12,7 @@ status: stable
 
 | Date     | Site | Link                                   |
 | -------- | ---- | -------------------------------------- |
-| {{date}} |      | [{{title}}]()<% tp.file.cursor(1) %> |
+| {{date}} |      | [**{{title}}**]()<% tp.file.cursor(1) %> |
 
 ## Contributors
 - 

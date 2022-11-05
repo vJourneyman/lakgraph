@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site                  | Link                                                                                                                                          |
 | ---------- | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-04 | [[Field Level Media]] | [Top line clicking as Panthers road trip stops in LA](https://fieldlevelmedia.com/news/top-line-clicking-as-panthers-road-trip-stops-in-l-a/) |
+| 2022-11-04 | [[Field Level Media]] | [**Top line clicking as Panthers road trip stops in LA**](https://fieldlevelmedia.com/news/top-line-clicking-as-panthers-road-trip-stops-in-l-a/) |
 | 2022-11-04 | [[Field Level Media]] | [[Top line clicking as Panthers road trip stops in LA]]                                                                                       |
 
 ## Contributors
