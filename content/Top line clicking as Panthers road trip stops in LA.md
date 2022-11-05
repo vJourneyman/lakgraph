@@ -10,10 +10,9 @@ status: stable
 
 # Top line clicking as Panthers road trip stops in LA
 
-| Date       | Site                  | Link                                                                                                                                          |
-| ---------- | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Date       | Site                  | Link                                                                                                                                            |
+| ---------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2022-11-04 | [[Field Level Media]] | [*Top line clicking as Panthers road trip stops in LA*](https://fieldlevelmedia.com/news/top-line-clicking-as-panthers-road-trip-stops-in-l-a/) |
-| 2022-11-04 | [[Field Level Media]] | [[Top line clicking as Panthers road trip stops in LA]]                                                                                       |
 
 ## Contributors
 - 
@@ -21,6 +20,10 @@ status: stable
 ## Summary
 > The Florida Panthers have lost three straight games against the Los Angeles Kings, including two last season.
 > On Saturday night in Los Angeles, the Panthers will try again.
+
+| Date | Site | Title / Internal Link | 
+| ---- | ---- | --------------------- |
+| 2022-11-04 | [[Field Level Media]] | [[Top line clicking as Panthers road trip stops in LA]]                                                                                         |
 
 ## Players
 - Matthew Tkachuk

@@ -12,14 +12,17 @@ status: stable
 
 | Date       | Site               | Link                                                                                                                                                            |
 | ---------- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-04 | [[Hockey Royalty]] | [Ontario Reign - Three takeaways from 2-0 win against Colorado](https://hockeyroyalty.com/2022/11/04/ontario-reign-three-takeaways-from-2-0-win-over-colorado/) |
-| 2022-11-04 | [[Hockey Royalty]] | [[Ontario Reign - Three takeaways from 2-0 win against Colorado]]                                                                                               |
+| 2022-11-04 | [[Hockey Royalty]] | [*Ontario Reign - Three takeaways from 2-0 win against Colorado*](https://hockeyroyalty.com/2022/11/04/ontario-reign-three-takeaways-from-2-0-win-over-colorado/) |
 
 ## Contributors
 - [[Kyle Garcia]]
 
 ## Summary
 > The Ontario Reign recorded their sixth straight win behind Lias Andersson’s two goals and Matthew Villalta’s 31-save shutout performance.
+
+| Date | Site | Title / Internal Link | 
+| ---- | ---- | --------------------- |
+| 2022-11-04 | [[Hockey Royalty]] | [[Ontario Reign - Three takeaways from 2-0 win against Colorado]]                                                                                               |
 
 ## Players
 - [[Lias Andersson]]

@@ -12,8 +12,7 @@ status: stable
 
 | Date       | Site                 | Link                                                                                                                                                                                                                   |
 | ---------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-04 | [[LA Kings Insider]] | [Jordan Spence continuing to develop as a top prospect with the Ontario Reign - LA Kings Insider](https://lakingsinsider.com/2022/11/04/jordan-spence-continuing-to-develop-as-a-top-prospect-with-the-ontario-reign/) |
-| 2022-11-04 | [[LA Kings Insider]] | [[Jordan Spence continuing to develop as a top prospect with the Ontario Reign - LA Kings Insider]]                                                                                                                    |
+| 2022-11-04 | [[LA Kings Insider]] | [*Jordan Spence continuing to develop as a top prospect with the Ontario Reign - LA Kings Insider*](https://lakingsinsider.com/2022/11/04/jordan-spence-continuing-to-develop-as-a-top-prospect-with-the-ontario-reign/) |
 
 ## Contributors
 - [[Jared Shafran]]
@@ -22,6 +21,9 @@ status: stable
 ## Summary
 > Leading the way on the blue line for Ontario has been Jordan Spence, who has taken on an even bigger role for the club than he had in his rookie campaign last season.
 
+| Date       | Site                 | Title / Internal Link                                                                               |
+| ---------- | -------------------- | --------------------------------------------------------------------------------------------------- |
+| 2022-11-04 | [[LA Kings Insider]] | [[Jordan Spence continuing to develop as a top prospect with the Ontario Reign - LA Kings Insider]] |
 
 ## Players
 - [[Jordan Spence]]

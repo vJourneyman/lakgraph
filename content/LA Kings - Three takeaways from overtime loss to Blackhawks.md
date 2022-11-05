@@ -12,14 +12,17 @@ status: stable
 
 | Date       | Site               | Link                                                                                                                                                           |
 | ---------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-04 | [[Hockey Royalty]] | [LA Kings - Three takeaways from overtime loss to Blackhawks](https://hockeyroyalty.com/2022/11/04/takeaways-la-kings-blackhawks-questionable-decision-in-ot/) |
-| 2022-11-04 | [[Hockey Royalty]] | [[LA Kings - Three takeaways from overtime loss to Blackhawks]]                                                                                                |
+| 2022-11-04 | [[Hockey Royalty]] | [*LA Kings - Three takeaways from overtime loss to Blackhawks*](https://hockeyroyalty.com/2022/11/04/takeaways-la-kings-blackhawks-questionable-decision-in-ot/) |
 
 ## Contributors
 - [[Ryan Sikes]]
 
 ## Summary
 > Despite outplaying and outshooting the Blackhawks, the LA Kings dropped a frustrating 2-1 game in overtime on Thursday night.
+
+| Date       | Site               | Title / Internal Link                                           |
+| ---------- | ------------------ | --------------------------------------------------------------- |
+| 2022-11-04 | [[Hockey Royalty]] | [[LA Kings - Three takeaways from overtime loss to Blackhawks]] |
 
 ## Players
 - [[Blake Lizotte]]

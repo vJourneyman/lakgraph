@@ -13,7 +13,7 @@ status: in-progress
  
 | Date       | Site                    | Title                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-04 | [[Field Level Media]]   | [[Top line clicking as Panthers road trip stops in LA]]     |
+| 2022-11-04 | [[Field Level Media]]   | [[Top line clicking as Panthers road trip stops in LA]]                                                                                             |
 | 2022-11-04 | [[The Hockey Writers]]  | [[Kings Dustin Brown Retired a Team Legend]]                                                                                                        |
 | 2022-11-04 | [[Pro Hockey Rumors]]   | [[Rasmus Kupari Loaned To AHL]]                                                                                                                     |
 | 2022-11-04 | [[ESPN]]                | [[NHL Power Rankings - 1-32 poll, players who must improve]]                                                                                        |

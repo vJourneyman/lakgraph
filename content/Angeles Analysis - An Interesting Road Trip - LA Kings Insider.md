@@ -12,8 +12,7 @@ status: stable
 
 | Date       | Site                 | Link                                                                                                                                               |
 | ---------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-04 | [[LA Kings Insider]] | [Angeles Analysis - An Interesting Road Trip - LA Kings Insider](https://lakingsinsider.com/2022/11/04/angeles-analysis-an-interesting-road-trip/) |
-| 2022-11-04 | [[LA Kings Insider]] | [[Angeles Analysis - An Interesting Road Trip - LA Kings Insider]]                                                                                 |
+| 2022-11-04 | [[LA Kings Insider]] | [*Angeles Analysis - An Interesting Road Trip - LA Kings Insider*](https://lakingsinsider.com/2022/11/04/angeles-analysis-an-interesting-road-trip/) |
 
 ## Contributors
 - [[Zach Dooley]]
@@ -22,6 +21,9 @@ status: stable
 ## Summary
 > For a team in search of better defensive play, last night has to be considered a step forward pertaining to that side of the puck.
 
+| Date       | Site                 | Title / Internal Link                                              |
+| ---------- | -------------------- | ------------------------------------------------------------------ |
+| 2022-11-04 | [[LA Kings Insider]] | [[Angeles Analysis - An Interesting Road Trip - LA Kings Insider]] |
 
 ## Players
 - [[Blake Lizotte]]

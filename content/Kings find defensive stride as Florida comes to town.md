@@ -10,10 +10,9 @@ status: stable
 
 # Kings find defensive stride as Florida comes to town
 
-| Date       | Site              | Link                                                                                                                                               |
-| ---------- | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-04 | [[LA Daily News]] | [**Kings find defensive stride as Florida comes to town**](https://www.dailynews.com/2022/11/04/kings-find-defensive-stride-as-florida-comes-to-town/) |
-| 2022-11-04 | [[LA Daily News]] | [[Kings find defensive stride as Florida comes to town]]                                                                                           |
+| Date       | Site              | Link                                                                                                                                                   |
+| ---------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-04 | [[LA Daily News]] | [*Kings find defensive stride as Florida comes to town*](https://www.dailynews.com/2022/11/04/kings-find-defensive-stride-as-florida-comes-to-town/) |
 
 ## Contributors
 - [[Andrew Knoll]]
@@ -21,6 +20,9 @@ status: stable
 ## Summary
 > Kings are encouraged by yielding just two goals in an OT loss in Chicago, a hopeful sign moving forward
 
+| Date | Site | Title / Internal Link |
+| ---- | ---- | ----- |
+| 2022-11-04 | [[LA Daily News]] | [[Kings find defensive stride as Florida comes to town]]                                                                                               |
 
 ## Players
 - [[Trevor Moore]]

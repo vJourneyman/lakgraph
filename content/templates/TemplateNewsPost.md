@@ -12,13 +12,16 @@ status: stable
 
 | Date     | Site | Link                                   |
 | -------- | ---- | -------------------------------------- |
-| {{date}} |      | [**{{title}}**]()<% tp.file.cursor(1) %> |
+| {{date}} |      | [*{{title}}*]()<% tp.file.cursor(1) %> |
 
 ## Contributors
 - 
 
 ## Summary
 > 
+
+| Date | Site | Title / Internal Link | 
+| ---- | ---- | --------------------- |
 
 ## Players
 - 
