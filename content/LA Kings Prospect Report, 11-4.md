@@ -10,9 +10,10 @@ status: stable
 
 # LA Kings Prospect Report, 11-4
 
-| Date     | Site | Link                                   |
-| -------- | ---- | -------------------------------------- |
-| 2022-11-05 |      | [LA Kings Prospect Report, 11-4](https://www.nhl.com/kings/news/la-kings-prospect-report-114/c-337188610) |
+| Date       | Site                 | Link                                                                                                      |
+| ---------- | -------------------- | --------------------------------------------------------------------------------------------------------- |
+| 2022-11-04 | [[Kings at NHL.com]] | [**LA Kings Prospect Report, 11-4**](https://www.nhl.com/kings/news/la-kings-prospect-report-114/c-337188610) |
+| 2022-11-04 | [[Kings at NHL.com]] | [[LA Kings Prospect Report, 11-4]]                                                                        | 
 
 ## Contributors
 - [[Jack Jablonski]]

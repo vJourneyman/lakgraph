@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site              | Link                                                                                                                                               |
 | ---------- | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-04 | [[LA Daily News]] | [Kings find defensive stride as Florida comes to town](https://www.dailynews.com/2022/11/04/kings-find-defensive-stride-as-florida-comes-to-town/) |
+| 2022-11-04 | [[LA Daily News]] | [**Kings find defensive stride as Florida comes to town**](https://www.dailynews.com/2022/11/04/kings-find-defensive-stride-as-florida-comes-to-town/) |
 | 2022-11-04 | [[LA Daily News]] | [[Kings find defensive stride as Florida comes to town]]                                                                                           |
 
 ## Contributors
