@@ -22,6 +22,8 @@ Carl Grundstrom | 91 | RW | L | 6' 0" | 195 | 1997-12-01 | Umea, SWE | 2016 TOR,
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                       |
 | ---------- | --------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-04 | [[The Forum Report]]  | [[Playmaking Chart - 11-3-22 at CHI]]                                                                                       |
+| 2022-11-04 | [[The Forum Report]]  | [[Waking Up with the Kings - November 4]]                                                                                   |
 | 2022-11-01 | [[LA Kings Insider]]  | [[FINAL - Kings 2, Stars 5 - Kopitar, Danault, McLellan - LA Kings Insider]]                                                |
 | 2022-11-01 | [[LA Kings Insider]]  | [[11-1 Preview - No Morning Skate in Dallas + McLellan on Fiala, Doughty/Anderson Pairing, The Big 100 - LA Kings Insider]] |
 | 2022-10-31 | [[Field Level Media]] | [[Kings cruise as Blues drop fifth consecutive game]]                                                                       |
@@ -44,7 +46,7 @@ Carl Grundstrom | 91 | RW | L | 6' 0" | 195 | 1997-12-01 | Umea, SWE | 2016 TOR,
 | 2022-10-13 | [[LA Kings Insider]]  | [[10-13 Preview - Clarke Debut Expected + Arvidsson out, 19-55-13 Line, Being First - LA Kings Insider]]                    |
 | 2022-09-29 | [[LA Kings Insider]]  | [[Blake Lizotte and Brendan Lemieux excited to add Carl Grundstrom to buzzing, physical line]]                              |
 | 2022-09-27 | [[LA Kings Insider]]  | [[Day 6 Notes – Injury Updates + Grundstrom Opportunity, Anderson Debut and Kempe joins ATKM]]                              |
-| 2022-09-25 | [[LA Kings Insider]]  | [[PRESEASON FINAL – Kings 2, Sharks 3 OT – McLellan takeaways + Clarke preseason debut and notes]]                        |
+| 2022-09-25 | [[LA Kings Insider]]  | [[PRESEASON FINAL – Kings 2, Sharks 3 OT – McLellan takeaways + Clarke preseason debut and notes]]                          |
 
 
 ## Minor League Coverage

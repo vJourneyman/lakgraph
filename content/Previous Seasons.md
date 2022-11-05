@@ -5,7 +5,7 @@ day-of-week-created: Wed
 date-updated: 
 aliases: []
 tags: [Event,Status/New]
-status: unstarted
+status: New
 ---
 
 # Previous Seasons
@@ -18,6 +18,7 @@ status: unstarted
 ## Unprocessed Coverage
 | Date | Site | Title |
 | ---- | ---- | ----- |
+| 2022-04-27 | [[thehockeywriters.com]] | [[Kings Prospects Thriving With the Ontario Reign]](https://thehockeywriters.com/kings-prospects-thriving-with-ontario-reign/) |
 | 2021-12-26 | [[www.startribune.com]] | [[10 years after a paralyzing hockey injury, Jack Jablonski is calling own shots in California]](https://www.startribune.com/jack-jablonski-paralyzing-hockey-injury-minnesota-los-angeles-kings-10-years-ago/600130293/) |
 | 2021-06-27 | [[www.latimes.com]] | [[Column: To Luc Robitaille, Canadiens in Stanley Cup Final feels right - Los Angeles Times]](https://www.latimes.com/sports/hockey/story/2021-06-27/stanley-cup-canadiens-elliott) |
 | 2020-01-03 | [[www.latimes.com]] | [[Fatherhood has helped Todd McLellan connect with Kings players - Los Angeles Times]](https://www.latimes.com/sports/hockey/story/2020-01-03/fatherhood-todd-mclellan-sons-kings-fatherhood-connect-players-nhl) |

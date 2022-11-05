@@ -21,6 +21,8 @@ NHL.com / Ontario Reign | Twitter
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                     |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-04 | [[Field Level Media]]   | [[Top line clicking as Panthers road trip stops in LA]]                                                                                   |
+| 2022-11-04 | [[ESPN]]                | [[NHL Power Rankings - 1-32 poll, players who must improve]]                                                                              |
 | 2022-11-03 | [[The Forum Report]]    | [[No hands tipped on Clarkes status - as competition rises, so do Vilardi and his new linemates numbers]]                                 |
 | 2022-11-03 | [[LA Kings Insider]]    | [[11-3 Preview - Morning Skate Notes + Fialas Streak, PP Unit Balance, Kaliyev ready to score - LA Kings Insider]]                        |
 | 2022-11-02 | [[The Hockey News]]     | [[NHL Power Rankings - Bruins Claw No 1 Spot]]                                                                                            |

@@ -13,7 +13,22 @@ status: in-progress
  
 | Date       | Site                    | Title                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-03 | [[Kings at NHL.com]]    | [[Toews, Soderblom help Blackhawks defeat Kings in OT]]       |
+| 2022-11-04 | [[Field Level Media]]   | [[Top line clicking as Panthers road trip stops in LA]]     |
+| 2022-11-04 | [[The Hockey Writers]]  | [[Kings Dustin Brown Retired a Team Legend]]                                                                                                        |
+| 2022-11-04 | [[Pro Hockey Rumors]]   | [[Rasmus Kupari Loaned To AHL]]                                                                                                                     |
+| 2022-11-04 | [[ESPN]]                | [[NHL Power Rankings - 1-32 poll, players who must improve]]                                                                                        |
+| 2022-11-04 | [[LA Daily News]]       | [[Kings find defensive stride as Florida comes to town]]                                                                                            |
+| 2022-11-04 | [[Kings at NHL.com]]    | [[LA Kings Loan Forward Rasmus Kupari to Ontario]]                                                                                                  |
+| 2022-11-04 | [[Kings at NHL.com]]    | [[LA Kings Prospect Report, 11-4]]                                                                                                                  |
+| 2022-11-04 | [[Hockey Royalty]]      | [[Ontario Reign - Three takeaways from 2-0 win against Colorado]]                                                                                   |
+| 2022-11-04 | [[Hockey Royalty]]      | [[LA Kings - Three takeaways from overtime loss to Blackhawks]]                                                                                     |
+| 2022-11-04 | [[Mayors Manor]]        | [[Reign Recap - Villalta Stands Tall in Colorado, Earns 2-0 Shutout]]                                                                               |
+| 2022-11-04 | [[Mayors Manor]]        | [[Rapid Review - Highlights from Kings OT Loss to Blackhawks]]                                                                                      |
+| 2022-11-04 | [[The Forum Report]]    | [[Playmaking Chart - 11-3-22 at CHI]]                                                                                                               |
+| 2022-11-04 | [[The Forum Report]]    | [[Waking Up with the Kings - November 4]]                                                                                                           |
+| 2022-11-04 | [[LA Kings Insider]]    | [[Jordan Spence continuing to develop as a top prospect with the Ontario Reign - LA Kings Insider]]                                                 |
+| 2022-11-04 | [[LA Kings Insider]]    | [[Angeles Analysis - An Interesting Road Trip - LA Kings Insider]]                                                                                  |
+| 2022-11-03 | [[Kings at NHL.com]]    | [[Toews, Soderblom help Blackhawks defeat Kings in OT]]                                                                                             |
 | 2022-11-03 | [[Hockey Royalty]]      | [[LA Kings at Chicago Blackhawks projected lineup, betting preview]]                                                                                |
 | 2022-11-03 | [[Mayors Manor]]        | [[Ontario Reign - Projected Lineup vs Colorado Eagles - Fagemo Out]]                                                                                |
 | 2022-11-03 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings at Chicago Blackhawks on Thursday]]                                                                                   |
@@ -53,23 +68,23 @@ status: in-progress
 | 2022-10-31 | [[Hockey Royalty]]      | [[Week 4 Pacific Division Power Rankings]]                                                                                                          |
 | 2022-10-31 | [[Hockey Royalty]]      | [[LA Kings at St Louis Blues projected lineup, betting preview]]                                                                                    |
 | 2022-10-31 | [[Hockey Royalty]]      | [[LA Kings - Gabriel Vilardi is the NHLs best early season story]]                                                                                  |
-| 2022-10-31 | [[Mayors Manor]]        | [[Rapid Review - Highlights from Kings 5-1 Victory in St. Louis to Open Road Trip]]                                                                 |
+| 2022-10-31 | [[Mayors Manor]]        | [[Rapid Review - Highlights from Kings 5-1 Victory in St Louis to Open Road Trip]]                                                                  |
 | 2022-10-31 | [[Mayors Manor]]        | [[LAK Prospects - Weekly Reign Report, October 30, 2022]]                                                                                           |
-| 2022-10-31 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings at St. Louis Blues, Plus Byfield Update]]                                                                             |
+| 2022-10-31 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings at St Louis Blues, Plus Byfield Update]]                                                                              |
 | 2022-10-31 | [[The Athletic]]        | [[How Kings Gabriel Vilardi finally arrived - ‘I had more to prove this year]]                                                                      |
 | 2022-10-31 | [[The Forum Report]]    | [[Quick on successfully defending a 3-on-0 - Grundstrom thriving within team schematics]]                                                           |
 | 2022-10-31 | [[The Forum Report]]    | [[Muzzin, Clifford, Kings reconnect - Byfield “a little bit better” but not with team - Kuparis play away from the puck a good baseline]]           |
-| 2022-10-31 | [[The Forum Report]]    | [[Good morning, St. Louis]]                                                                                                                         |
+| 2022-10-31 | [[The Forum Report]]    | [[Good morning, St Louis]]                                                                                                                          |
 | 2022-10-31 | [[LA Kings Insider]]    | [[FINAL - Kings 5, Blues 1 - Grundstrom, McLellan - LA Kings Insider]]                                                                              |
 | 2022-10-31 | [[LA Kings Insider]]    | [[10-31 Preview - Quick Expected + Seeking Consistency, Walkers Comfort, Kuparis Focal Points - LA Kings Insider]]                                  |
 | 2022-10-30 | [[Field Level Media]]   | [[Struggling Blues set to face revived Kings]]                                                                                                      |
 | 2022-10-30 | [[The Hockey News]]     | [[What Should Los Angeles Do With the Logjam of Talent in the AHL]]                                                                                 |
-| 2022-10-30 | [[Kings at NHL.com]]    | [[Preview - Blues vs. Kings]]                                                                                                                       |
+| 2022-10-30 | [[Kings at NHL.com]]    | [[Preview - Blues vs Kings]]                                                                                                                        |
 | 2022-10-30 | [[LA Daily News]]       | [[Kings hit road in search of special-teams improvement]]                                                                                           |
 | 2022-10-30 | [[Hockey Royalty]]      | [[Takeaways - LA Kings 4, Maple Leafs 2 - A Breath of Fresh Air]]                                                                                   |
 | 2022-10-30 | [[Hockey Royalty]]      | [[Ontario Reign - Three takeaways from 4-3 win against Bakersfield]]                                                                                |
 | 2022-10-30 | [[Mayors Manor]]        | [[Reign Recap - Akil Thomas Fuels Ontario Redemption vs Bakersfield]]                                                                               |
-| 2022-10-30 | [[The Forum Report]]    | [[Byfield (illness) doesnt travel to St. Louis]]                                                                                                    |
+| 2022-10-30 | [[The Forum Report]]    | [[Byfield (illness) doesnt travel to St Louis]]                                                                                                     |
 | 2022-10-30 | [[The Forum Report]]    | [[Waking up with the Kings - October 30]]                                                                                                           |
 | 2022-10-30 | [[LA Kings Insider]]    | [[Armed with a wealth of confidence, a look into Gabe Vilardis high-flying start to the season - LA Kings Insider]]                                 |
 | 2022-10-30 | [[LA Kings Insider]]    | [[Angeles Analysis - Up and Down - LA Kings Insider]]                                                                                               |
@@ -83,33 +98,33 @@ status: in-progress
 | 2022-10-29 | [[Hockey Royalty]]      | [[LA Kings - D-pair changes, playing with structure must happen]]                                                                                   |
 | 2022-10-29 | [[Mayors Manor]]        | [[Rapid Review - Highlights from Kings 4-2 Win over Toronto, Plus McLellan Post-game Comments]]                                                     |
 | 2022-10-29 | [[Mayors Manor]]        | [[Ontario Reign - Projected Lineup vs Bakersfield Condors - Several Changes Included]]                                                              |
-| 2022-10-29 | [[Mayors Manor]]        | [[Projected Lineup, Game 10 - LA Kings vs. Toronto Maple Leafs, Kupari Recalled]]                                                                   |
+| 2022-10-29 | [[Mayors Manor]]        | [[Projected Lineup, Game 10 - LA Kings vs Toronto Maple Leafs, Kupari Recalled]]                                                                    |
 | 2022-10-29 | [[The Athletic]]        | [[NHLs biggest surprises early in 2022-23 - Emerging stars, disappointing starts, and what else didnt we see coming]]                               |
 | 2022-10-29 | [[The Forum Report]]    | [[Legacy of 2007 class not lost on Simmonds - Clarke sits but has “done a really good job of adapting to the NHL”]]                                 |
 | 2022-10-29 | [[LA Kings Insider]]    | [[REIGN FINAL – Reign 4, Condors 3 – Hajt, Thomas - LA Kings Insider]]                                                                              |
 | 2022-10-29 | [[LA Kings Insider]]    | [[FINAL - Kings 4, Maple Leafs 2 - Fiala, Kempe, Petersen, McLellan - LA Kings Insider]]                                                            |
 | 2022-10-29 | [[LA Kings Insider]]    | [[10-29 Preview - Lineup Changes Expected + Kupari Recalled, Gabes Growth, Hockey 101 - LA Kings Insider]]                                          |
-| 2022-10-29 | [[LA Kings Insider]]    | [[REIGN PREVIEW – Ontario vs. Bakersfield, 10-29 - LA Kings Insider]]                                                                               |
+| 2022-10-29 | [[LA Kings Insider]]    | [[REIGN PREVIEW – Ontario vs Bakersfield, 10-29 - LA Kings Insider]]                                                                                |
 | 2022-10-28 | [[CBS Sports]]          | [[CBS Sports - Kings Gabriel Vilardi - Practices on top line]]                                                                                      |
 | 2022-10-28 | [[Field Level Media]]   | [[Kings, Maple Leafs both motivated for bounce-back games]]                                                                                         |
 | 2022-10-28 | [[ESPN]]                | [[NHL Power Rankings - 1-32 poll, each teams biggest surprise]]                                                                                     |
 | 2022-10-28 | [[LA Daily News]]       | [[Kings offensive firepower is leading to defensive duds]]                                                                                          |
 | 2022-10-28 | [[Hockey Royalty]]      | [[LA Kings - 2022-23 prospect rankings, the top five]]                                                                                              |
 | 2022-10-28 | [[Hockey Royalty]]      | [[LA Kings - Takeaways from the teams 6-4 loss to Winnipeg]]                                                                                        |
-| 2022-10-28 | [[Mayors Manor]]        | [[Rapid Review - Highlights from Kings Roller Coster Ride vs. Winnipeg Jets]]                                                                       |
+| 2022-10-28 | [[Mayors Manor]]        | [[Rapid Review - Highlights from Kings Roller Coster Ride vs Winnipeg Jets]]                                                                        |
 | 2022-10-28 | [[The Athletic]]        | [[NHL Power Rankings - Bruins climb to the top, Canucks stumble to bottom]]                                                                         |
 | 2022-10-28 | [[The Forum Report]]    | [[Playmaking Chart - 10-27 vs WPG]]                                                                                                                 |
 | 2022-10-28 | [[The Forum Report]]    | [[Byfield out Saturday - Todd on the Clarke decision - can the LA defense play physically enough]]                                                  |
 | 2022-10-28 | [[The Forum Report]]    | [[Waking up with the Kings - October 28]]                                                                                                           |
 | 2022-10-28 | [[LA Kings Insider]]    | [[The Lines They Are A-Changing......Kings display new look heading into tomorrows game - LA Kings Insider]]                                        |
 | 2022-10-28 | [[LA Kings Insider]]    | [[Healthy and Comfortable, Akil Thomas Finding Early Season Form With Ontario - LA Kings Insider]]                                                  |
-| 2022-10-27 | [[Action Network]]      | [[NHL Odds, Preview, Prediction - Jets vs. Kings (October 27)]]                                                                                     |
+| 2022-10-27 | [[Action Network]]      | [[NHL Odds, Preview, Prediction - Jets vs Kings (October 27)]]                                                                                      |
 | 2022-10-27 | [[LA Daily News]]       | [[Kings early lead fades away as Winnipeg hands them 3rd loss in 4 games]]                                                                          |
 | 2022-10-27 | [[The Hockey Writers]]  | [[Los Angeles Kings Anze Kopitar - Hall of Fame Worthy]]                                                                                            |
 | 2022-10-27 | [[Kings at NHL.com]]    | [[Hellebuyck makes 40 saves, Jets rally past Kings]]                                                                                                |
 | 2022-10-27 | [[Hockey Royalty]]      | [[LA Kings vs Winnipeg Jets projected lineups, betting preview]]                                                                                    |
 | 2022-10-27 | [[Hockey Royalty]]      | [[Ontario Reign - Three takeaways from 2-1 win against San Jose]]                                                                                   |
-| 2022-10-27 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings vs. Winnipeg Jets, Game 9]]                                                                                           |
+| 2022-10-27 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings vs Winnipeg Jets, Game 9]]                                                                                            |
 | 2022-10-27 | [[Mayors Manor]]        | [[Reign Recap - Ontario Surge in Standings with Win Over San Jose]]                                                                                 |
 | 2022-10-27 | [[The Forum Report]]    | [[Loss a microcosm of early season play - former divisional foe understands McLellans push for structure, discipline]]                              |
 | 2022-10-27 | [[The Forum Report]]    | [[Clarity on cap space grows as LTIR-designated Iafallo escapes major injury]]                                                                      |
@@ -158,7 +173,7 @@ status: in-progress
 | 2022-10-23 | [[The Forum Report]]    | [[Waking up with the Kings - October 23]]                                                                                                           |
 | 2022-10-23 | [[LA Kings Insider]]    | [[Angeles Analysis - The First Trip - LA Kings Insider]]                                                                                            |
 | 2022-10-23 | [[LA Kings Insider]]    | [[Sunday Roster Moves - Iafallo to LTIR + Moverare/Wagner Exchange - LA Kings Insider]]                                                             |
-| 2022-10-22 | [[Action Network]]      | [[NHL Betting Odds, Preview, Prediction - Los Angeles Kings vs. Washington Capitals (October 22)]]                                                  |
+| 2022-10-22 | [[Action Network]]      | [[NHL Betting Odds, Preview, Prediction - Los Angeles Kings vs Washington Capitals (October 22)]]                                                   |
 | 2022-10-22 | [[Kings at NHL.com]]    | [[Capitals score four in third period to get past Kings]]                                                                                           |
 | 2022-10-22 | [[Hockey Royalty]]      | [[Ontario Reign - Three takeaways from 2-1 win against the Gulls]]                                                                                  |
 | 2022-10-22 | [[Mayors Manor]]        | [[Rapid Review - Highlights from Kings-Caps, Where History Repeats Itself]]                                                                         |
@@ -296,7 +311,7 @@ status: in-progress
 | 2022-10-13 | [[LA Kings Insider]]    | [[FINAL - Kings 1, Kraken 4 - Clarke, Danault, McLellan - LA Kings Insider]]                                                                        |
 | 2022-10-13 | [[LA Kings Insider]]    | [[Kings announce hockey operations staffing update + Blake confirms extension - LA Kings Insider]]                                                  |
 | 2022-10-13 | [[LA Kings Insider]]    | [[10-13 Preview - Clarke Debut Expected + Arvidsson out, 19-55-13 Line, Being First - LA Kings Insider]]                                            |
-| 2022-10-12 | [[LA Daily News]]       | [[Kings look to settle in vs. Seattle after sloppy opener]]                                                                                         |
+| 2022-10-12 | [[LA Daily News]]       | [[Kings look to settle in vs Seattle after sloppy opener]]                                                                                          |
 | 2022-10-12 | [[Hockey Royalty]]      | [[LA Kings, Kopitar aim to correct mistakes - Notes on Quick, Vilardi, Fiala]]                                                                      |
 | 2022-10-12 | [[Hockey Royalty]]      | [[LA Kings - Three takeaways from 4-3 loss against VGK]]                                                                                            |
 | 2022-10-12 | [[Mayors Manor]]        | [[Rob Blake on the Plan for Kings Rookie Brandt Clarke]]                                                                                            |

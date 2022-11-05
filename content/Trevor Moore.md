@@ -21,7 +21,9 @@ Trevor Moore | 12 | C | L | 5' 10" | 195 | 1995-03-31 | Thousand Oaks, CA, USA
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                            |
 | ---------- | -------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| 2022-11-03 | [[LA Kings Insider]] | [[FINAL - Kings 1, Blackhawks 2 (OT) - Moore, Lizotte, McLellan - LA Kings Insider]]                                                                                            |
+| 2022-11-04 | [[LA Daily News]]    | [[Kings find defensive stride as Florida comes to town]]                                                         |
+| 2022-11-04 | [[LA Kings Insider]] | [[Angeles Analysis - An Interesting Road Trip - LA Kings Insider]]                                               |
+| 2022-11-03 | [[LA Kings Insider]] | [[FINAL - Kings 1, Blackhawks 2 (OT) - Moore, Lizotte, McLellan - LA Kings Insider]]                             |
 | 2022-11-02 | [[LA Kings Insider]] | [[By The Numbers - What The Metrics Say Through 12 Games - LA Kings Insider]]                                    |
 | 2022-10-31 | [[The Athletic]]     | [[How Kings Gabriel Vilardi finally arrived - ‘I had more to prove this year]]                                   |
 | 2022-10-28 | [[The Forum Report]] | [[Playmaking Chart - 10-27 vs WPG]]                                                                              |

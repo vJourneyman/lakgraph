@@ -22,7 +22,13 @@ Rasmus Kupari | |  C | R | 6'2" | 200 |2000-03-15 | Kotka, FIN | 2018 LAK, 1st r
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                     |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-01 | [[The Forum Report]] | [[Playmaking Chart - 10-31 vs St Louis]]                                                               |
+| 2022-11-04 | [[Pro Hockey Rumors]]   | [[Rasmus Kupari Loaned To AHL]]                                                                                                           |
+| 2022-11-04 | [[LA Daily News]]       | [[Kings find defensive stride as Florida comes to town]]                                                                                  |
+| 2022-11-04 | [[Kings at NHL.com]]    | [[LA Kings Loan Forward Rasmus Kupari to Ontario]]                                                                                        |
+| 2022-11-04 | [[The Forum Report]]    | [[Playmaking Chart - 11-3-22 at CHI]]                                                                                                     |
+| 2022-11-04 | [[The Forum Report]]    | [[Waking Up with the Kings - November 4]]                                                                                                 |
+| 2022-11-04 | [[LA Kings Insider]]    | [[Angeles Analysis - An Interesting Road Trip - LA Kings Insider]]                                                                        |
+| 2022-11-01 | [[The Forum Report]]    | [[Playmaking Chart - 10-31 vs St Louis]]                                                                                                  |
 | 2022-11-01 | [[The Forum Report]]    | [[Waking up with the Kings - November 1]]                                                                                                 |
 | 2022-11-01 | [[LA Kings Insider]]    | [[11-1 Preview - No Morning Skate in Dallas + McLellan on Fiala, Doughty/Anderson Pairing, The Big 100 - LA Kings Insider]]               |
 | 2022-10-31 | [[Hockey Royalty]]      | [[LA Kings at St. Louis Blues projected lineup, betting preview]]                                                                         |

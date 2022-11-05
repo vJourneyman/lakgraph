@@ -22,6 +22,7 @@ Anze Kopitar | 11 | C | L | 6' 3" | 225 | 1987-08-24 | Jesenice, SVN | 2005 LAK,
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                               |
 | ---------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-04 | [[Field Level Media]]  | [[Top line clicking as Panthers road trip stops in LA]]                                                                                             |
 | 2022-11-02 | [[Field Level Media]]  | [[Blackhawks turn to No 3 goalie Arvid Soderblom vs Kings]]                                                                                         |
 | 2022-11-02 | [[LA Times]]           | [[After years of injury issues, Kings Gabe Vilardi is flourishing - Los Angeles Times]]                                                             |
 | 2022-11-02 | [[The Forum Report]]   | [[Reaction in Dallas - Todd on 11-7 - Colin Miller on Calder Cup teammate Adrian Kempe - “You could tell early on that he was going to be a stud”]] |
@@ -71,7 +72,7 @@ Anze Kopitar | 11 | C | L | 6' 3" | 225 | 1987-08-24 | Jesenice, SVN | 2005 LAK,
 | 2022-10-11 | [[LA Kings Insider]]   | [[10-11 Preview - Projected Lineup + Opening Night Jitters, First Line Coming Together, Blake on Final Moves - LA Kings Insider]]                   |
 | 2022-10-10 | [[LA Daily News]]      | [[2022-23 Kings hockey - Five burning questions]]                                                                                                   |
 | 2022-10-10 | [[LA Kings Insider]]   | [[On the eve of the 2022-23 season, Kings leadership expecting progress from increased expectations - LA Kings Insider]]                            |
-| 2022-10-03 | [[LA Times]]           | [[Younger Kings players must beat Anze Kopitar for scoring title - Los Angeles Times]]                                               |
+| 2022-10-03 | [[LA Times]]           | [[Younger Kings players must beat Anze Kopitar for scoring title - Los Angeles Times]]                                                              |
 
 
 

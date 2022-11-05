@@ -23,6 +23,8 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                                |
 | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-04 | [[Hockey Royalty]]    | [[LA Kings - Three takeaways from overtime loss to Blackhawks]]                                                                      |
+| 2022-11-04 | [[LA Kings Insider]]  | [[Angeles Analysis - An Interesting Road Trip - LA Kings Insider]]                                                                   |
 | 2022-11-03 | [[Kings at NHL.com]]  | [[Toews, Soderblom help Blackhawks defeat Kings in OT]]                                                                              |
 | 2022-11-03 | [[LA Kings Insider]]  | [[FINAL - Kings 1, Blackhawks 2 (OT) - Moore, Lizotte, McLellan - LA Kings Insider]]                                                 |
 | 2022-10-30 | [[Hockey Royalty]]    | [[Takeaways - LA Kings 4, Maple Leafs 2 - A Breath of Fresh Air]]                                                                    |

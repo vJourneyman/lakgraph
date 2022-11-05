@@ -17,18 +17,14 @@ status: stable
 ## Contributors
 - 
 
-
 ## Summary
 > 
-
 
 ## Players
 - 
 
-
 ## Staff
 - 
-
 
 ## Notes and Quotes
 > 

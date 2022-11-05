@@ -22,7 +22,8 @@ Drew Doughty | 8 | RD | R | 6' 1" | 210 | 1989-12-08 | London, ON, CAN | 2008 LA
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                     |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-03 | [[The Forum Report]] | [[No hands tipped on Clarkes status - as competition rises, so do Vilardi and his new linemates numbers]]                                                                                                                               |
+| 2022-11-04 | [[Field Level Media]]   | [[Top line clicking as Panthers road trip stops in LA]]                                                                                   |
+| 2022-11-03 | [[The Forum Report]]    | [[No hands tipped on Clarkes status - as competition rises, so do Vilardi and his new linemates numbers]]                                 |
 | 2022-11-02 | [[The Hockey Writers]]  | [[Kings Strong Play Being Cancelled Out by Lackluster Goaltending]]                                                                       |
 | 2022-11-02 | [[LA Kings Insider]]    | [[By The Numbers - What The Metrics Say Through 12 Games - LA Kings Insider]]                                                             |
 | 2022-11-01 | [[LA Kings Insider]]    | [[11-1 Preview - No Morning Skate in Dallas + McLellan on Fiala, Doughty/Anderson Pairing, The Big 100 - LA Kings Insider]]               |

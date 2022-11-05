@@ -1,17 +1,16 @@
 ---
-title: Kenny Connors
-date-created: 2022-10-24
+title: "Dustin Brown"
+date-created: 2022-11-05
 aliases: 
-tags:
- - Player
+tags: [RetiredPlayer]
 status: stable
 ---
 
-# Kenny Connors
+# Dustin Brown
 
 | NHL.com / Ontario Reign | Twitter                                 |
 | ----------------------- | --------------------------------------- |
-| [Kenny Connors]()           | [@twitter_handle](https://twitter.com/) | 
+| [Dustin Brown]()           | [@twitter_handle](https://twitter.com/) | 
 
 | Player | \#  | Position | Shoots | Height | Weight | Born | Birthplace | Draft |
 | ------ | --- | -------- | ------ | ------ | ------ | ---- | ---------- | ----- |
@@ -22,6 +21,7 @@ status: stable
 ## NHL  Coverage
 | Date | Site | Title |
 | ---- | ---- | ----- |
+| 2022-11-04 | [[The Hockey Writers]] | [[Kings Dustin Brown Retired a Team Legend]]                                                                  |
 
 
 
@@ -32,10 +32,8 @@ status: stable
 
 
 ## Post-Draft Coverage
-| Date       | Site                 | Title                                                   |
-| ---------- | -------------------- | ------------------------------------------------------- |
-| 2022-11-04 | [[Kings at NHL.com]] | [[LA Kings Prospect Report, 11-4]]                      |
-| 2022-10-22 | [[Mayors Manor]]     | [[And So It Begins – Kings On Kings Crime On TV Today]] |
+| Date | Site | Title |
+| ---- | ---- | ----- |
 
 
 

@@ -27,6 +27,8 @@ status: stable
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                               |
 | ---------- | -------------------- | ----------------------------------------------------------------------------------- |
+| 2022-11-04 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 2-0 win against Colorado]]                   |
+| 2022-11-04 | [[Mayors Manor]]     | [[Reign Recap - Villalta Stands Tall in Colorado, Earns 2-0 Shutout]]               |
 | 2022-11-03 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 2, Eagles 0 – Sturm, Villalta, Andersson - LA Kings Insider]] |
 | 2022-10-25 | [[Mayors Manor]]     | [[LAK Prospects - Weekly Reign Report – October 24, 2022]]                          |
 | 2022-10-24 | [[Hockey Royalty]]   | [[Ontario Reign - Three stars of the week from 10-17 to 10-23]]                     |

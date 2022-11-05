@@ -20,6 +20,10 @@ Kevin Fiala | 22 | LW | L | 5' 10" | 204 | 1996-07-22 | St. Gallen, CHE | 2014 N
 ## NHL  Coverage
 | Date       | Site                            | Title                                                                                                                                |
 | ---------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-04 | [[Field Level Media]]           | [[Top line clicking as Panthers road trip stops in LA]]                                                                              |
+| 2022-11-04 | [[LA Daily News]]               | [[Kings find defensive stride as Florida comes to town]]                                                                             |
+| 2022-11-04 | [[The Forum Report]]            | [[Playmaking Chart - 11-3-22 at CHI]]                                                                                                |
+| 2022-11-04 | [[The Forum Report]]            | [[Waking Up with the Kings - November 4]]                                                                                            |
 | 2022-11-03 | [[Kings at NHL.com]]            | [[Toews, Soderblom help Blackhawks defeat Kings in OT]]                                                                              |
 | 2022-11-03 | [[The Forum Report]]            | [[Clarke sits, remains at threshold - Fiala, teams cohesion taking “a step forward every game”]]                                     |
 | 2022-11-03 | [[LA Kings Insider]]            | [[FINAL - Kings 1, Blackhawks 2 (OT) - Moore, Lizotte, McLellan - LA Kings Insider]]                                                 |

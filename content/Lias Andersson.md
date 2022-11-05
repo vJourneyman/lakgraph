@@ -29,12 +29,15 @@ Date | Site |  Title
 
 
 ## Minor League Coverage
-| Date       | Site                 | Title                                                                               |
-| ---------- | -------------------- | ----------------------------------------------------------------------------------- |
-| 2022-11-03 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 2, Eagles 0 – Sturm, Villalta, Andersson - LA Kings Insider]] |
-| 2022-10-19 | [[Mayors Manor]]     | [[LA Kings Weekly Reign Report, October 16, 2022]]                                  |
-| 2022-10-19 | [[LA Kings Insider]] | [[High scoring forwards have Ontario Reign off to hot start - LA Kings Insider]]    |
-| 2022-10-16 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Bakersfield, 10-16 - LA Kings Insider]]                |
+| Date       | Site                 | Title                                                                                               |
+| ---------- | -------------------- | --------------------------------------------------------------------------------------------------- |
+| 2022-11-04 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 2-0 win against Colorado]]                                   |
+| 2022-11-04 | [[Mayors Manor]]     | [[Reign Recap - Villalta Stands Tall in Colorado, Earns 2-0 Shutout]]                               |
+| 2022-11-04 | [[LA Kings Insider]] | [[Jordan Spence continuing to develop as a top prospect with the Ontario Reign - LA Kings Insider]] |
+| 2022-11-03 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 2, Eagles 0 – Sturm, Villalta, Andersson - LA Kings Insider]]                 |
+| 2022-10-19 | [[Mayors Manor]]     | [[LA Kings Weekly Reign Report, October 16, 2022]]                                                  |
+| 2022-10-19 | [[LA Kings Insider]] | [[High scoring forwards have Ontario Reign off to hot start - LA Kings Insider]]                    |
+| 2022-10-16 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Bakersfield, 10-16 - LA Kings Insider]]                                |
 | 2022-10-14 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 8, Canucks 2 – Sturm, Tynan, Grans - LA Kings Insider]]       |
 
 

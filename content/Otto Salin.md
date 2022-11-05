@@ -34,9 +34,9 @@ status: needs-draft-content
 
 
 ## Post-Draft Coverage
-| Date | Site | Title |
-| ---- | ---- | ----- |
-|      |      |       |
+| Date       | Site                 | Title                              |
+| ---------- | -------------------- | ---------------------------------- |
+| 2022-11-04 | [[Kings at NHL.com]] | [[LA Kings Prospect Report, 11-4]] |
 
 
 
