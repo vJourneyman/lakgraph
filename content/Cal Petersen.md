@@ -19,6 +19,7 @@ NHL.com | Twitter
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-05 | [[The Athletic]]        | [[Each NHL teams biggest concern a month into the 2022-23 season, from ‘everything to ‘too good to tank]]                    |
 | 2022-11-04 | [[ESPN]]                | [[NHL Power Rankings - 1-32 poll, players who must improve]]                                                                                        |
 | 2022-11-03 | [[Hockey Royalty]]      | [[LA Kings at Chicago Blackhawks projected lineup, betting preview]]                                                                                |
 | 2022-11-02 | [[The Hockey News]]     | [[NHL Power Rankings - Bruins Claw No 1 Spot]]                                                                                                      |

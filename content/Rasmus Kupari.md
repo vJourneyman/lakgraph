@@ -22,6 +22,8 @@ Rasmus Kupari | |  C | R | 6'2" | 200 |2000-03-15 | Kotka, FIN | 2018 LAK, 1st r
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                     |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-05 | [[LA Daily News]]       | [[Gabe Vilardis goal lifts Kings past Panthers]]                                                                  |
+| 2022-11-05 | [[LA Kings Insider]]    | [[FINAL - Kings 5, Panthers 4 - Moore, Vilardi, McLellan - LA Kings Insider]]                                                             |
 | 2022-11-05 | [[Kings at NHL.com]]    | [[LA Kings Recall Forward Rasmus Kupari From Ontario]]                                                                                    |
 | 2022-11-05 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings vs Florida Panthers on Saturday]]                                                                           |
 | 2022-11-05 | [[LA Kings Insider]]    | [[11-5 Preview - Full Team Skate + Striving For Consistency, Ras-matazz- LA Kings Insider]]                                               |

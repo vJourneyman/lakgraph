@@ -20,6 +20,7 @@ Kevin Fiala | 22 | LW | L | 5' 10" | 204 | 1996-07-22 | St. Gallen, CHE | 2014 N
 ## NHL  Coverage
 | Date       | Site                            | Title                                                                                                                                |
 | ---------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-05 | [[LA Kings Insider]]            | [[FINAL - Kings 5, Panthers 4 - Moore, Vilardi, McLellan - LA Kings Insider]]                                                        |
 | 2022-11-04 | [[Field Level Media]]           | [[Top line clicking as Panthers road trip stops in LA]]                                                                              |
 | 2022-11-04 | [[LA Daily News]]               | [[Kings find defensive stride as Florida comes to town]]                                                                             |
 | 2022-11-04 | [[The Forum Report]]            | [[Playmaking Chart - 11-3-22 at CHI]]                                                                                                |

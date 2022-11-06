@@ -24,6 +24,8 @@ NHL.com | Twitter
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                     |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-05 | [[LA Daily News]]       | [[Gabe Vilardis goal lifts Kings past Panthers]]                                                                  |
+| 2022-11-05 | [[LA Kings Insider]]    | [[FINAL - Kings 5, Panthers 4 - Moore, Vilardi, McLellan - LA Kings Insider]]                                                             |
 | 2022-11-03 | [[The Forum Report]]    | [[No hands tipped on Clarkes status - as competition rises, so do Vilardi and his new linemates numbers]]                                 |
 | 2022-11-02 | [[LA Times]]            | [[After years of injury issues, Kings Gabe Vilardi is flourishing - Los Angeles Times]]                                                   |
 | 2022-11-02 | [[Hockey Royalty]]      | [[Takeaways from the LA Kings 5-2 loss to the Dallas Stars]]                                                                              |
