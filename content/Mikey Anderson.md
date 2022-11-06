@@ -22,6 +22,7 @@ NHL.com / Ontario Reign | Twitter
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                                           |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-05 | [[LA Kings Insider]]    | [[11-5 Preview - Full Team Skate + Striving For Consistency, Ras-matazz- LA Kings Insider]] |
 | 2022-11-02 | [[LA Kings Insider]] | [[By The Numbers - What The Metrics Say Through 12 Games - LA Kings Insider]]                                                                                            |
 | 2022-11-01 | [[The Forum Report]] | [[Playmaking Chart - 10-31 vs St Louis]]                                                               |
 | 2022-11-01 | [[LA Kings Insider]] | [[11-1 Preview - No Morning Skate in Dallas + McLellan on Fiala, Doughty/Anderson Pairing, The Big 100 - LA Kings Insider]]                                                               |

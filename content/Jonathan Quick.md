@@ -21,6 +21,8 @@ NHL.com / Ontario Reign | Twitter
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                     |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-05 | [[The Forum Report]]    | [[When Gudas put ink to paper with the Kings - Byfield skates but wont play]]                |
+| 2022-11-05 | [[LA Kings Insider]]    | [[11-5 Preview - Full Team Skate + Striving For Consistency, Ras-matazz- LA Kings Insider]] |
 | 2022-11-04 | [[Field Level Media]]   | [[Top line clicking as Panthers road trip stops in LA]]                                                                                   |
 | 2022-11-04 | [[ESPN]]                | [[NHL Power Rankings - 1-32 poll, players who must improve]]                                                                              |
 | 2022-11-03 | [[The Forum Report]]    | [[No hands tipped on Clarkes status - as competition rises, so do Vilardi and his new linemates numbers]]                                 |

@@ -22,6 +22,7 @@ Anze Kopitar | 11 | C | L | 6' 3" | 225 | 1987-08-24 | Jesenice, SVN | 2005 LAK,
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                               |
 | ---------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-05 | [[Kings at NHL.com]]   | [[LA Kings vs Florida Panthers - How to Watch]]                                                                                                     |
 | 2022-11-04 | [[Field Level Media]]  | [[Top line clicking as Panthers road trip stops in LA]]                                                                                             |
 | 2022-11-02 | [[Field Level Media]]  | [[Blackhawks turn to No 3 goalie Arvid Soderblom vs Kings]]                                                                                         |
 | 2022-11-02 | [[LA Times]]           | [[After years of injury issues, Kings Gabe Vilardi is flourishing - Los Angeles Times]]                                                             |

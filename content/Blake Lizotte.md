@@ -23,6 +23,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                                |
 | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-05 | [[Kings at NHL.com]]  | [[LA Kings vs Florida Panthers - How to Watch]]                                                                                      |
 | 2022-11-04 | [[Hockey Royalty]]    | [[LA Kings - Three takeaways from overtime loss to Blackhawks]]                                                                      |
 | 2022-11-04 | [[LA Kings Insider]]  | [[Angeles Analysis - An Interesting Road Trip - LA Kings Insider]]                                                                   |
 | 2022-11-03 | [[Kings at NHL.com]]  | [[Toews, Soderblom help Blackhawks defeat Kings in OT]]                                                                              |

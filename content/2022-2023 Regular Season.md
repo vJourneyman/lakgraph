@@ -13,6 +13,15 @@ status: in-progress
  
 | Date       | Site                    | Title                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-05 | [[Puck Prose]]          | [[Sean Durzi is an Underrated Asset for The Los Angeles Kings]]                                                                                     |
+| 2022-11-05 | [[Kings at NHL.com]]    | [[LA Kings vs Florida Panthers - How to Watch]]                                                                                                     |
+| 2022-11-05 | [[Kings at NHL.com]]    | [[LA Kings Recall Forward Rasmus Kupari From Ontario]]                                                                                              |
+| 2022-11-05 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings vs Florida Panthers on Saturday]]                                                                                     |
+| 2022-11-05 | [[Mayors Manor]]        | [[Ontario Reign - Projected Lineup for Rematch in Colorado - Plus Bjornfot Update]]                                                                 |
+| 2022-11-05 | [[Mayors Manor]]        | [[NEWS - Updated Information on Status of Byfield and Turcotte]]                                                                                    |
+| 2022-11-05 | [[The Forum Report]]    | [[When Gudas put ink to paper with the Kings - Byfield skates but wont play]]                                                                       |
+| 2022-11-05 | [[LA Kings Insider]]    | [[11-5 Preview - Full Team Skate + Striving For Consistency, Ras-matazz- LA Kings Insider]]                                                         |
+| 2022-11-05 | [[LA Kings Insider]]    | [[REIGN PREVIEW – Ontario at Colorado, 11-5 - LA Kings Insider]]                                                                                    |
 | 2022-11-04 | [[Field Level Media]]   | [[Top line clicking as Panthers road trip stops in LA]]                                                                                             |
 | 2022-11-04 | [[The Hockey Writers]]  | [[Kings Dustin Brown Retired a Team Legend]]                                                                                                        |
 | 2022-11-04 | [[Pro Hockey Rumors]]   | [[Rasmus Kupari Loaned To AHL]]                                                                                                                     |

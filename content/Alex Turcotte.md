@@ -31,6 +31,8 @@ Alex Turcotte | | C | L | 5' 11" | 185 | 2001-02-26 | Elk Grove, IL, USA | 2019 
 ## Minor League Coverage
 | Date       | Site                | Title                                                                                  |
 | ---------- | ------------------- | -------------------------------------------------------------------------------------- |
+| 2022-11-05 | [[Mayors Manor]]    | [[Ontario Reign - Projected Lineup for Rematch in Colorado - Plus Bjornfot Update]]    |
+| 2022-11-05 | [[Mayors Manor]]    | [[NEWS - Updated Information on Status of Byfield and Turcotte]]                       |
 | 2022-10-29 | [[Mayors Manor]]    | [[Ontario Reign - Projected Lineup vs Bakersfield Condors - Several Changes Included]] |
 | 2022-10-28 | [[Hockey Royalty]]  | [[LA Kings - 2022-23 prospect rankings, the top five]]                                 |
 | 2022-10-22 | [[The Hockey News]] | [[Where Are They Now - The Historic 2019 USA NTDP Squad]]                              |

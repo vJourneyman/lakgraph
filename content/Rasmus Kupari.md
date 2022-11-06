@@ -22,6 +22,9 @@ Rasmus Kupari | |  C | R | 6'2" | 200 |2000-03-15 | Kotka, FIN | 2018 LAK, 1st r
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                     |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-05 | [[Kings at NHL.com]]    | [[LA Kings Recall Forward Rasmus Kupari From Ontario]]                                                                                    |
+| 2022-11-05 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings vs Florida Panthers on Saturday]]                                                                           |
+| 2022-11-05 | [[LA Kings Insider]]    | [[11-5 Preview - Full Team Skate + Striving For Consistency, Ras-matazz- LA Kings Insider]]                                               |
 | 2022-11-04 | [[Pro Hockey Rumors]]   | [[Rasmus Kupari Loaned To AHL]]                                                                                                           |
 | 2022-11-04 | [[LA Daily News]]       | [[Kings find defensive stride as Florida comes to town]]                                                                                  |
 | 2022-11-04 | [[Kings at NHL.com]]    | [[LA Kings Loan Forward Rasmus Kupari to Ontario]]                                                                                        |
@@ -49,7 +52,7 @@ Rasmus Kupari | |  C | R | 6'2" | 200 |2000-03-15 | Kotka, FIN | 2018 LAK, 1st r
 | 2022-10-10 | [[LA Kings Insider]]    | [[Kings Announce Opening-Night Roster and Roster Moves - LA Kings Insider]]                                                               |
 | 2022-10-02 | [[Mayors Manor]]        | [[Kings and Reign Rosters Almost Finished - Answering The Final Six Questions]]                                                           |
 | 2022-09-27 | [[LA Kings Insider]]    | [[Day 6 Primer + The Differences Between Playing Center and Playing Winger]]                                                              |
-| 2022-08-31 | [[The Hockey Writers]]  | [[Kings Prospect Preview - Rasmus Kupari]]                                                                          |
+| 2022-08-31 | [[The Hockey Writers]]  | [[Kings Prospect Preview - Rasmus Kupari]]                                                                                                |
 
 
 ## Minor League Coverage

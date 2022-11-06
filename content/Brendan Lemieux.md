@@ -22,6 +22,7 @@ Brendan Lemieux | 48 | LW | L | 6' 1" | 215 | 1996-03-15 | Denver, CO, USA | 201
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                     |
 | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-05 | [[LA Kings Insider]]    | [[11-5 Preview - Full Team Skate + Striving For Consistency, Ras-matazz- LA Kings Insider]] |
 | 2022-10-30 | [[Hockey Royalty]]    | [[Takeaways - LA Kings 4, Maple Leafs 2 - A Breath of Fresh Air]]                                                         |
 | 2022-10-26 | [[The Forum Report]]  | [[Playmaking Chart - 10-25 vs TBL]]                                                                                       |
 | 2022-10-25 | [[The Fourth Period]] | [[LAK at 7 - Now for Something Completely Different — The Fourth Period]]                                                 |

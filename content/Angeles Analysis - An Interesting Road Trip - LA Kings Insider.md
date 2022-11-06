@@ -10,8 +10,8 @@ status: stable
 
 # Angeles Analysis - An Interesting Road Trip - LA Kings Insider
 
-| Date       | Site                 | Link                                                                                                                                               |
-| ---------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Date       | Site                 | External Link                                                                                                                                                 |
+| ---------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2022-11-04 | [[LA Kings Insider]] | [*Angeles Analysis - An Interesting Road Trip - LA Kings Insider*](https://lakingsinsider.com/2022/11/04/angeles-analysis-an-interesting-road-trip/) |
 
 ## Contributors

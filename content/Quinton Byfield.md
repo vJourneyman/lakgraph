@@ -22,6 +22,10 @@ Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                |     |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | --- |
+| 2022-11-05 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings vs Florida Panthers on Saturday]]                                                                                       | 
+| 2022-11-05 | [[Mayors Manor]]        | [[NEWS - Updated Information on Status of Byfield and Turcotte]]                                                                     |     |
+| 2022-11-05 | [[The Forum Report]]    | [[When Gudas put ink to paper with the Kings - Byfield skates but wont play]]                                                        |     |
+| 2022-11-05 | [[LA Kings Insider]]    | [[11-5 Preview - Full Team Skate + Striving For Consistency, Ras-matazz- LA Kings Insider]]                                          |     |
 | 2022-11-03 | [[Hockey Royalty]]      | [[LA Kings at Chicago Blackhawks projected lineup, betting preview]]                                                                 |     |
 | 2022-11-03 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings at Chicago Blackhawks on Thursday]]                                                                    |     |
 | 2022-11-02 | [[LA Daily News]]       | [[Kings seek better discipline in road-trip finale in Chicago]]                                                                      |     |

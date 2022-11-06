@@ -28,6 +28,7 @@ Date | Site |  Title
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                               |
 | ---------- | -------------------- | ----------------------------------------------------------------------------------- |
+| 2022-11-05 | [[LA Kings Insider]]    | [[REIGN PREVIEW – Ontario at Colorado, 11-5 - LA Kings Insider]]                                                                      |
 | 2022-10-22 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs San Diego, 10-22 - LA Kings Insider]]                                                                                |
 | 2022-10-21 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at San Diego, 10-21 - LA Kings Insider]]                                                                                |
 | 2022-10-19 | [[LA Kings Insider]] | [[High scoring forwards have Ontario Reign off to hot start - LA Kings Insider]]                                                                                                 |

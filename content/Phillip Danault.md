@@ -22,6 +22,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                              |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-05 | [[Kings at NHL.com]]    | [[LA Kings vs Florida Panthers - How to Watch]]                                                                    |
 | 2022-11-03 | [[LA Kings Insider]]    | [[11-3 Preview - Morning Skate Notes + Fialas Streak, PP Unit Balance, Kaliyev ready to score - LA Kings Insider]] |
 | 2022-11-02 | [[LA Daily News]]       | [[Kings seek better discipline in road-trip finale in Chicago]]                                                    |
 | 2022-11-02 | [[LA Kings Insider]]    | [[By The Numbers - What The Metrics Say Through 12 Games - LA Kings Insider]]                                      |

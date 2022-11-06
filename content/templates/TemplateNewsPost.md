@@ -10,7 +10,7 @@ status: stable
 
 # {{title}}
 
-| Date     | Site | Link                                   |
+| Date     | Site | External Link                          | 
 | -------- | ---- | -------------------------------------- |
 | {{date}} |      | [*{{title}}*]()<% tp.file.cursor(1) %> |
 
