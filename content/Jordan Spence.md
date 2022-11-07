@@ -30,18 +30,19 @@ Jordan Spence | 58 | D | R | 5' 10" | 180 | 2001-02-24 | Manly, AUS | -   2019 L
 
 
 ## Minor League Coverage
-| Date       | Site                    | Title                                                                |
-| ---------- | ----------------------- | -------------------------------------------------------------------- |
-| 2022-11-04 | [[LA Kings Insider]] | [[Jordan Spence continuing to develop as a top prospect with the Ontario Reign - LA Kings Insider]]                                                                                                                    |
-| 2022-11-02 | [[LA Kings Insider]] | [[Ontario Reign defense takes center stage in teams 6-1 start - LA Kings Insider]]                                                                                                   |
-| 2022-10-30 | [[The Hockey News]]     | [[What Should Los Angeles Do With the Logjam of Talent in the AHL]]  |
-| 2022-10-28 | [[Hockey Royalty]]      | [[LA Kings - 2022-23 prospect rankings, the top five]]               |
-| 2022-10-25 | [[Mayors Manor]]        | [[LAK Prospects - Weekly Reign Report – October 24, 2022]]           |
-| 2022-10-21 | [[Montreal Hockey Now]] | [[Montreal Canadiens and LA Kings Could Rekindle Trade Talks]]       |
-| 2022-10-21 | [[Kings at NHL.com]]    | [[LA Kings Prospect Report, 10-21]]                                  |
-| 2022-10-19 | [[Mayors Manor]]        | [[LA Kings Weekly Reign Report, October 16, 2022]]                   |
-| 2022-10-18 | [[LA Kings Insider]]    | [[REIGN PREVIEW – Ontario vs Henderson, 10-18 - LA Kings Insider]]   |
-| 2022-10-16 | [[LA Kings Insider]]    | [[REIGN PREVIEW – Ontario vs Bakersfield, 10-16 - LA Kings Insider]] |
+| Date       | Site                    | Title                                                                                               |
+| ---------- | ----------------------- | --------------------------------------------------------------------------------------------------- |
+| 2022-11-07 | [[Hockey Royalty]]      | [[Ontario Reign - Three stars of the week from 10-31 to 11-6]]                                      |
+| 2022-11-04 | [[LA Kings Insider]]    | [[Jordan Spence continuing to develop as a top prospect with the Ontario Reign - LA Kings Insider]] |
+| 2022-11-02 | [[LA Kings Insider]]    | [[Ontario Reign defense takes center stage in teams 6-1 start - LA Kings Insider]]                  |
+| 2022-10-30 | [[The Hockey News]]     | [[What Should Los Angeles Do With the Logjam of Talent in the AHL]]                                 |
+| 2022-10-28 | [[Hockey Royalty]]      | [[LA Kings - 2022-23 prospect rankings, the top five]]                                              |
+| 2022-10-25 | [[Mayors Manor]]        | [[LAK Prospects - Weekly Reign Report – October 24, 2022]]                                          |
+| 2022-10-21 | [[Montreal Hockey Now]] | [[Montreal Canadiens and LA Kings Could Rekindle Trade Talks]]                                      |
+| 2022-10-21 | [[Kings at NHL.com]]    | [[LA Kings Prospect Report, 10-21]]                                                                 |
+| 2022-10-19 | [[Mayors Manor]]        | [[LA Kings Weekly Reign Report, October 16, 2022]]                                                  |
+| 2022-10-18 | [[LA Kings Insider]]    | [[REIGN PREVIEW – Ontario vs Henderson, 10-18 - LA Kings Insider]]                                  |
+| 2022-10-16 | [[LA Kings Insider]]    | [[REIGN PREVIEW – Ontario vs Bakersfield, 10-16 - LA Kings Insider]]                                |
 | 2022-10-14 | [[LA Kings Insider]]    | [[REIGN FINAL – Reign 8, Canucks 2 – Sturm, Tynan, Grans - LA Kings Insider]] |
 
 

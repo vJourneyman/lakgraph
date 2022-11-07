@@ -12,8 +12,14 @@ status: in-progress
 # 2022-2023 Regular Season
 
 
+
 | Date       | Site                    | Title                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-07 | [[Hockey Royalty]]      | [[Week 5 Pacific Division Power Rankings]]                                                                                                          |
+| 2022-11-07 | [[Hockey Royalty]]      | [[Ontario Reign - Three stars of the week from 10-31 to 11-6]]                                                                                      |
+| 2022-11-07 | [[Hockey Royalty]]      | [[Byfield loaned to Ontario for conditioning stint]]                                                                                                |
+| 2022-11-07 | [[Kings at NHL.com]]    | [[11-7 - The Week That Was, The Week That Is]]                                                                                                      |
+| 2022-11-07 | [[LA Daily News]]       | [[High scoring Kings prepare to face the Wild]]                                                                                                     |
 | 2022-11-06 | [[Scouting the Refs]]   | [[Panthers Tkachuk Suspended for High-Sticking Kings Quick]]                                                                                        |
 | 2022-11-06 | [[Field Level Media]]   | [[Panthers F Matthew Tkachuk suspended two games]]                                                                                                  |
 | 2022-11-06 | [[Field Level Media]]   | [[Kings outlast Panthers, win on Gabriel Vilardis goal]]                                                                                            |

@@ -22,6 +22,9 @@ Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-07 | [[Hockey Royalty]]      | [[Byfield loaned to Ontario for conditioning stint]]                                                                                 |
+| 2022-11-07 | [[Kings at NHL.com]]    | [[11-7 - The Week That Was, The Week That Is]]                                                                                       |
+| 2022-11-07 | [[LA Daily News]]       | [[High scoring Kings prepare to face the Wild]]                                                                                      |
 | 2022-11-06 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Loan Quinton Byfield To AHL]]                                                                                    |
 | 2022-11-06 | [[The Athletic]]        | [[LA Kings Rasmus Kupari stepping up in Quinton Byfields absence]]                                                                   |
 | 2022-11-06 | [[LA Kings Insider]]    | [[Kings loan forward Quinton Byfield to AHL-Ontario - LA Kings Insider]]                                                             |
@@ -35,13 +38,13 @@ Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
 | 2022-11-01 | [[Defending Big D]]     | [[Questions Face Stars Leading into Matchup with Kings]]                                                                             |
 | 2022-11-01 | [[Hockey Royalty]]      | [[LA Kings at Dallas Stars projected lineup, betting preview]]                                                                       |
 | 2022-11-01 | [[LA Kings Insider]]    | [[11-1 Preview - No Morning Skate in Dallas + McLellan on Fiala, Doughty/Anderson Pairing, The Big 100 - LA Kings Insider]]          |
-| 2022-10-31 | [[Hockey Royalty]]      | [[LA Kings at St Louis Blues projected lineup, betting preview]]                                                                    |
-| 2022-10-31 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings at St Louis Blues, Plus Byfield Update]]                                                              |
+| 2022-10-31 | [[Hockey Royalty]]      | [[LA Kings at St Louis Blues projected lineup, betting preview]]                                                                     |
+| 2022-10-31 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings at St Louis Blues, Plus Byfield Update]]                                                               |
 | 2022-10-31 | [[The Athletic]]        | [[How Kings Gabriel Vilardi finally arrived - ‘I had more to prove this year]]                                                       |
 | 2022-10-31 | [[LA Kings Insider]]    | [[10-31 Preview - Quick Expected + Seeking Consistency, Walkers Comfort, Kuparis Focal Points - LA Kings Insider]]                   |
 | 2022-10-30 | [[The Forum Report]]    | [[Byfield (illness) doesnt travel to St. Louis]]                                                                                     |
 | 2022-10-29 | [[Hockey Royalty]]      | [[LA Kings vs Toronto Maple Leafs projected lineup, betting preview]]                                                                |
-| 2022-10-29 | [[Mayors Manor]]        | [[Projected Lineup, Game 10 - LA Kings vs Toronto Maple Leafs, Kupari Recalled]]                                                    |
+| 2022-10-29 | [[Mayors Manor]]        | [[Projected Lineup, Game 10 - LA Kings vs Toronto Maple Leafs, Kupari Recalled]]                                                     |
 | 2022-10-29 | [[The Forum Report]]    | [[Legacy of 2007 class not lost on Simmonds - Clarke sits but has “done a really good job of adapting to the NHL”]]                  |
 | 2022-10-28 | [[Mayors Manor]]        | [[Rapid Review - Highlights from Kings Roller Coster Ride vs. Winnipeg Jets]]                                                        |
 | 2022-10-28 | [[The Forum Report]]    | [[Byfield out Saturday - Todd on the Clarke decision - can the LA defense play physically enough]]                                   |

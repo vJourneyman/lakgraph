@@ -22,6 +22,8 @@ Carl Grundstrom | 91 | RW | L | 6' 0" | 195 | 1997-12-01 | Umea, SWE | 2016 TOR,
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                       |
 | ---------- | --------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-07 | [[Hockey Royalty]]    | [[Byfield loaned to Ontario for conditioning stint]]                                                                        |
+| 2022-11-07 | [[Kings at NHL.com]]  | [[11-7 - The Week That Was, The Week That Is]]                                                                              |
 | 2022-11-04 | [[The Forum Report]]  | [[Playmaking Chart - 11-3-22 at CHI]]                                                                                       |
 | 2022-11-04 | [[The Forum Report]]  | [[Waking Up with the Kings - November 4]]                                                                                   |
 | 2022-11-01 | [[LA Kings Insider]]  | [[FINAL - Kings 2, Stars 5 - Kopitar, Danault, McLellan - LA Kings Insider]]                                                |

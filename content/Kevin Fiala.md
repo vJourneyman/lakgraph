@@ -20,6 +20,9 @@ Kevin Fiala | 22 | LW | L | 5' 10" | 204 | 1996-07-22 | St. Gallen, CHE | 2014 N
 ## NHL  Coverage
 | Date       | Site                            | Title                                                                                                                                |
 | ---------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-07 | [[Hockey Royalty]]              | [[Week 5 Pacific Division Power Rankings]]                                                                                           |
+| 2022-11-07 | [[Hockey Royalty]]              | [[Byfield loaned to Ontario for conditioning stint]]                                                                                 |
+| 2022-11-07 | [[Kings at NHL.com]]            | [[11-7 - The Week That Was, The Week That Is]]                                                                                       |
 | 2022-11-06 | [[Hockey Royalty]]              | [[Takeaways - LA Kings 5, Panthers 4 – Kings get last laugh]]                                                                        |
 | 2022-11-06 | [[The Athletic]]                | [[LA Kings Rasmus Kupari stepping up in Quinton Byfields absence]]                                                                   |
 | 2022-11-05 | [[LA Kings Insider]]            | [[FINAL - Kings 5, Panthers 4 - Moore, Vilardi, McLellan - LA Kings Insider]]                                                        |

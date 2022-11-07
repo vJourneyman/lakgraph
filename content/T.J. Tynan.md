@@ -28,13 +28,14 @@ Date | Site |  Title
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                               |
 | ---------- | -------------------- | ----------------------------------------------------------------------------------- |
-| 2022-11-05 | [[LA Kings Insider]]    | [[REIGN PREVIEW – Ontario at Colorado, 11-5 - LA Kings Insider]]                                                                      |
-| 2022-10-22 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs San Diego, 10-22 - LA Kings Insider]]                                                                                |
-| 2022-10-21 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at San Diego, 10-21 - LA Kings Insider]]                                                                                |
-| 2022-10-19 | [[LA Kings Insider]] | [[High scoring forwards have Ontario Reign off to hot start - LA Kings Insider]]                                                                                                 |
-| 2022-10-18 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Henderson, 10-18 - LA Kings Insider]]                                                                                |
+| 2022-11-07 | [[Hockey Royalty]]   | [[Ontario Reign - Three stars of the week from 10-31 to 11-6]]                      |
+| 2022-11-05 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at Colorado, 11-5 - LA Kings Insider]]                    |
+| 2022-10-22 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs San Diego, 10-22 - LA Kings Insider]]                  |
+| 2022-10-21 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at San Diego, 10-21 - LA Kings Insider]]                  |
+| 2022-10-19 | [[LA Kings Insider]] | [[High scoring forwards have Ontario Reign off to hot start - LA Kings Insider]]    |
+| 2022-10-18 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Henderson, 10-18 - LA Kings Insider]]                  |
 | 2022-10-16 | [[Mayors Manor]]     | [[Reign Recap and Highlights - Bakersfield Hands Ontario First Loss of the Season]] |
-| 2022-10-16 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Bakersfield, 10-16 - LA Kings Insider]]               |
+| 2022-10-16 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Bakersfield, 10-16 - LA Kings Insider]]                |
 | 2022-10-14 | [[Mayors Manor]]     | [[Ontario Reign - Opening Night Lineup vs Abbotsford Canucks]]                      |
 
 
