@@ -20,62 +20,62 @@ Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
 
 
 ## NHL  Coverage
-| Date       | Site                    | Title                                                                                                                                |     |
-| ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | --- |
-| 2022-11-06 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Loan Quinton Byfield To AHL]]       |
-| 2022-11-06 | [[The Athletic]]        | [[LA Kings Rasmus Kupari stepping up in Quinton Byfields absence]]                                                                   |     |
-| 2022-11-06 | [[LA Kings Insider]]    | [[Kings loan forward Quinton Byfield to AHL-Ontario - LA Kings Insider]]                                                             |     |
-| 2022-11-05 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings vs Florida Panthers on Saturday]]                                                                      |     |
-| 2022-11-05 | [[Mayors Manor]]        | [[NEWS - Updated Information on Status of Byfield and Turcotte]]                                                                     |     |
-| 2022-11-05 | [[The Forum Report]]    | [[When Gudas put ink to paper with the Kings - Byfield skates but wont play]]                                                        |     |
-| 2022-11-05 | [[LA Kings Insider]]    | [[11-5 Preview - Full Team Skate + Striving For Consistency, Ras-matazz- LA Kings Insider]]                                          |     |
-| 2022-11-03 | [[Hockey Royalty]]      | [[LA Kings at Chicago Blackhawks projected lineup, betting preview]]                                                                 |     |
-| 2022-11-03 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings at Chicago Blackhawks on Thursday]]                                                                    |     |
-| 2022-11-02 | [[LA Daily News]]       | [[Kings seek better discipline in road-trip finale in Chicago]]                                                                      |     |
-| 2022-11-01 | [[Defending Big D]]     | [[Questions Face Stars Leading into Matchup with Kings]]                                                                             |     |
-| 2022-11-01 | [[Hockey Royalty]]      | [[LA Kings at Dallas Stars projected lineup, betting preview]]                                                                       |     |
-| 2022-11-01 | [[LA Kings Insider]]    | [[11-1 Preview - No Morning Skate in Dallas + McLellan on Fiala, Doughty/Anderson Pairing, The Big 100 - LA Kings Insider]]          |     |
-| 2022-10-31 | [[Hockey Royalty]]      | [[LA Kings at St. Louis Blues projected lineup, betting preview]]                                                                    |     |
-| 2022-10-31 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings at St. Louis Blues, Plus Byfield Update]]                                                              |     |
-| 2022-10-31 | [[The Athletic]]        | [[How Kings Gabriel Vilardi finally arrived - ‘I had more to prove this year]]                                                       |     |
-| 2022-10-31 | [[LA Kings Insider]]    | [[10-31 Preview - Quick Expected + Seeking Consistency, Walkers Comfort, Kuparis Focal Points - LA Kings Insider]]                   |     |
-| 2022-10-30 | [[The Forum Report]]    | [[Byfield (illness) doesnt travel to St. Louis]]                                                                                     |     |
-| 2022-10-29 | [[Hockey Royalty]]      | [[LA Kings vs Toronto Maple Leafs projected lineup, betting preview]]                                                                |     |
-| 2022-10-29 | [[Mayors Manor]]        | [[Projected Lineup, Game 10 - LA Kings vs. Toronto Maple Leafs, Kupari Recalled]]                                                    |     |
-| 2022-10-29 | [[The Forum Report]]    | [[Legacy of 2007 class not lost on Simmonds - Clarke sits but has “done a really good job of adapting to the NHL”]]                  |     |
-| 2022-10-28 | [[Mayors Manor]]        | [[Rapid Review - Highlights from Kings Roller Coster Ride vs. Winnipeg Jets]]                                                        |     |
-| 2022-10-28 | [[The Forum Report]]    | [[Byfield out Saturday - Todd on the Clarke decision - can the LA defense play physically enough]]                                   |     |
-| 2022-10-28 | [[LA Kings Insider]]    | [[The Lines They Are A-Changing......Kings display new look heading into tomorrows game - LA Kings Insider]]                         |     |
-| 2022-10-27 | [[LA Daily News]]       | [[Kings early lead fades away as Winnipeg hands them 3rd loss in 4 games]]                                                           |     |
-| 2022-10-25 | [[The Forum Report]]    | [[“Going in the right direction, but inconsistently,” forwards chemistry, identity become key - Quick starts]]                       |     |
-| 2022-10-24 | [[The Forum Report]]    | [[Playmaking Chart - 10-22 at WSH]]                                                                                                  |     |
-| 2022-10-24 | [[LA Kings Insider]]    | [[10-24 Practice - Kings address areas of focus + McLellan on Lines, Lizotte on Identity, Robitaille Joins ATKM - LA Kings Insider]] |     |
-| 2022-10-20 | [[LA Kings Insider]]    | [[10-20 Preview - Starting How It Ended + Growth and Mentality, Third Line Makeup, Byfield On Trust - LA Kings Insider]]             |     |
-| 2022-10-19 | [[LA Kings Insider]]    | [[A Few More Narratives - Young Guys With Old Plays, Penalty Kill Prowess, Shootout Selection - LA Kings Insider]]                   |     |
-| 2022-10-17 | [[The Forum Report]]    | [[Quick projected - Roy expecting 150 supporters - Grundstrom in for Kaliyev - Määttä on LA growth]]                                 |     |
-| 2022-10-16 | [[The Forum Report]]    | [[Possession Chart - 10-15 at MIN]]                                                                                                  |     |
-| 2022-10-14 | [[The Forum Report]]    | [[Possession Chart - 10-13 vs SEA]]                                                                                                  |     |
-| 2022-10-14 | [[The Forum Report]]    | [[Waking up with the Kings - October 14]]                                                                                            |     |
-| 2022-10-13 | [[The Forum Report]]    | [[Blake excited about 3C slot for Byfield as Kopitar and Danault – and Matthews – provide influence]]                                |     |
-| 2022-10-13 | [[LA Kings Insider]]    | [[10-13 Preview - Clarke Debut Expected + Arvidsson out, 19-55-13 Line, Being First - LA Kings Insider]]                             |     |
-| 2022-10-12 | [[The Athletic]]        | [[LA Kings hope to settle in after penalties and mistakes evident vs Vegas]]                                                         |     |
-| 2022-10-12 | [[The Athletic]]        | [[LA Kings hope to ‘settle in’ after penalties and mistakes evident vs Vegas]]                                                       |     |
-| 2022-10-12 | [[The Forum Report]]    | [[Possession Chart - October 11 vs VGK]]                                                                                             |     |
-| 2022-10-12 | [[The Forum Report]]    | [[Waking up with the Kings - October 12]]                                                                                            |     |
-| 2022-10-12 | [[LA Kings Insider]]    | [[Practice 10-12 - Identity Through 3 Periods + Notes on Vilardis Speed, Fourth Goal, Looking Ahead - LA Kings Insider]]             |     |
-| 2022-10-11 | [[LA Daily News]]       | [[GM Rob Blake looking to see Kings reach another level]]                                                                            |     |
-| 2022-10-11 | [[The Fourth Period]]   | [[Steaks and Stakes — The Fourth Period]]                                                                                            |     |
-| 2022-10-11 | [[Mayors Manor]]        | [[Kings Of The Podcast - Ep 138 – Season Preview with LA GM Rob Blake]]                                                              |     |
-| 2022-10-10 | [[LA Daily News]]       | [[2022-23 Kings hockey - Five burning questions]]                                                                                    |     |
-| 2022-10-10 | [[LA Kings on YouTube]] | [[Head Coach Todd McLellan speaks to the media after Mondays practice]]                                                              |     |
-| 2022-10-10 | [[LA Kings on YouTube]] | [[GM Rob Blake speaks to the media before the 2022-23 Regular Season]]                                                               |     |
-| 2022-10-10 | [[LA Times]]            | [[Five things to watch for as LA Kings embark on new NHL season - Los Angeles Times]]                                                |     |
-| 2022-10-08 | [[Mayors Manor]]        | [[Kings Opening Night Final Roster Decisions Set – And, There Are Some Swerves]]                                                     |     |
-| 2022-10-08 | [[LA Kings Insider]]    | [[10-8 Preview – Gameday Thoughts + Byfield Update, Net Play, Versatility At The Bottom]]                                            |     |
-| 2022-10-06 | [[The Hockey News]]     | [[Breakout Candidates in the Pacific Division]]                                                                                      |     |
-| 2022-10-03 | [[LA Kings Insider]]    | [[Day 12 Primer – Groupings + McLellan on roster cutdown and waivers]]                                                               |     |
-| 2022-10-01 | [[LA Kings Insider]]    | [[Day 10 Practice Notes – Petersen, Byfield Updates + Durzi talks contract, Walker on the left]]                                     |     |
-| 2022-09-17 | [[The Athletic]]        | [[Kings look for Quinton Byfield to ‘play big’ and show leadership among rookies]]                                                   |     |
+| Date       | Site                    | Title                                                                                                                                |
+| ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-06 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Loan Quinton Byfield To AHL]]                                                                                    |
+| 2022-11-06 | [[The Athletic]]        | [[LA Kings Rasmus Kupari stepping up in Quinton Byfields absence]]                                                                   |
+| 2022-11-06 | [[LA Kings Insider]]    | [[Kings loan forward Quinton Byfield to AHL-Ontario - LA Kings Insider]]                                                             |
+| 2022-11-05 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings vs Florida Panthers on Saturday]]                                                                      |
+| 2022-11-05 | [[Mayors Manor]]        | [[NEWS - Updated Information on Status of Byfield and Turcotte]]                                                                     |
+| 2022-11-05 | [[The Forum Report]]    | [[When Gudas put ink to paper with the Kings - Byfield skates but wont play]]                                                        |
+| 2022-11-05 | [[LA Kings Insider]]    | [[11-5 Preview - Full Team Skate + Striving For Consistency, Ras-matazz- LA Kings Insider]]                                          |
+| 2022-11-03 | [[Hockey Royalty]]      | [[LA Kings at Chicago Blackhawks projected lineup, betting preview]]                                                                 |
+| 2022-11-03 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings at Chicago Blackhawks on Thursday]]                                                                    |
+| 2022-11-02 | [[LA Daily News]]       | [[Kings seek better discipline in road-trip finale in Chicago]]                                                                      |
+| 2022-11-01 | [[Defending Big D]]     | [[Questions Face Stars Leading into Matchup with Kings]]                                                                             |
+| 2022-11-01 | [[Hockey Royalty]]      | [[LA Kings at Dallas Stars projected lineup, betting preview]]                                                                       |
+| 2022-11-01 | [[LA Kings Insider]]    | [[11-1 Preview - No Morning Skate in Dallas + McLellan on Fiala, Doughty/Anderson Pairing, The Big 100 - LA Kings Insider]]          |
+| 2022-10-31 | [[Hockey Royalty]]      | [[LA Kings at St. Louis Blues projected lineup, betting preview]]                                                                    |
+| 2022-10-31 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings at St. Louis Blues, Plus Byfield Update]]                                                              |
+| 2022-10-31 | [[The Athletic]]        | [[How Kings Gabriel Vilardi finally arrived - ‘I had more to prove this year]]                                                       |
+| 2022-10-31 | [[LA Kings Insider]]    | [[10-31 Preview - Quick Expected + Seeking Consistency, Walkers Comfort, Kuparis Focal Points - LA Kings Insider]]                   |
+| 2022-10-30 | [[The Forum Report]]    | [[Byfield (illness) doesnt travel to St. Louis]]                                                                                     |
+| 2022-10-29 | [[Hockey Royalty]]      | [[LA Kings vs Toronto Maple Leafs projected lineup, betting preview]]                                                                |
+| 2022-10-29 | [[Mayors Manor]]        | [[Projected Lineup, Game 10 - LA Kings vs. Toronto Maple Leafs, Kupari Recalled]]                                                    |
+| 2022-10-29 | [[The Forum Report]]    | [[Legacy of 2007 class not lost on Simmonds - Clarke sits but has “done a really good job of adapting to the NHL”]]                  |
+| 2022-10-28 | [[Mayors Manor]]        | [[Rapid Review - Highlights from Kings Roller Coster Ride vs. Winnipeg Jets]]                                                        |
+| 2022-10-28 | [[The Forum Report]]    | [[Byfield out Saturday - Todd on the Clarke decision - can the LA defense play physically enough]]                                   |
+| 2022-10-28 | [[LA Kings Insider]]    | [[The Lines They Are A-Changing......Kings display new look heading into tomorrows game - LA Kings Insider]]                         |
+| 2022-10-27 | [[LA Daily News]]       | [[Kings early lead fades away as Winnipeg hands them 3rd loss in 4 games]]                                                           |
+| 2022-10-25 | [[The Forum Report]]    | [[“Going in the right direction, but inconsistently,” forwards chemistry, identity become key - Quick starts]]                       |
+| 2022-10-24 | [[The Forum Report]]    | [[Playmaking Chart - 10-22 at WSH]]                                                                                                  |
+| 2022-10-24 | [[LA Kings Insider]]    | [[10-24 Practice - Kings address areas of focus + McLellan on Lines, Lizotte on Identity, Robitaille Joins ATKM - LA Kings Insider]] |
+| 2022-10-20 | [[LA Kings Insider]]    | [[10-20 Preview - Starting How It Ended + Growth and Mentality, Third Line Makeup, Byfield On Trust - LA Kings Insider]]             |
+| 2022-10-19 | [[LA Kings Insider]]    | [[A Few More Narratives - Young Guys With Old Plays, Penalty Kill Prowess, Shootout Selection - LA Kings Insider]]                   |
+| 2022-10-17 | [[The Forum Report]]    | [[Quick projected - Roy expecting 150 supporters - Grundstrom in for Kaliyev - Määttä on LA growth]]                                 |
+| 2022-10-16 | [[The Forum Report]]    | [[Possession Chart - 10-15 at MIN]]                                                                                                  |
+| 2022-10-14 | [[The Forum Report]]    | [[Possession Chart - 10-13 vs SEA]]                                                                                                  |
+| 2022-10-14 | [[The Forum Report]]    | [[Waking up with the Kings - October 14]]                                                                                            |
+| 2022-10-13 | [[The Forum Report]]    | [[Blake excited about 3C slot for Byfield as Kopitar and Danault – and Matthews – provide influence]]                                |
+| 2022-10-13 | [[LA Kings Insider]]    | [[10-13 Preview - Clarke Debut Expected + Arvidsson out, 19-55-13 Line, Being First - LA Kings Insider]]                             |
+| 2022-10-12 | [[The Athletic]]        | [[LA Kings hope to settle in after penalties and mistakes evident vs Vegas]]                                                         |
+| 2022-10-12 | [[The Athletic]]        | [[LA Kings hope to ‘settle in’ after penalties and mistakes evident vs Vegas]]                                                       |
+| 2022-10-12 | [[The Forum Report]]    | [[Possession Chart - October 11 vs VGK]]                                                                                             |
+| 2022-10-12 | [[The Forum Report]]    | [[Waking up with the Kings - October 12]]                                                                                            |
+| 2022-10-12 | [[LA Kings Insider]]    | [[Practice 10-12 - Identity Through 3 Periods + Notes on Vilardis Speed, Fourth Goal, Looking Ahead - LA Kings Insider]]             |
+| 2022-10-11 | [[LA Daily News]]       | [[GM Rob Blake looking to see Kings reach another level]]                                                                            |
+| 2022-10-11 | [[The Fourth Period]]   | [[Steaks and Stakes — The Fourth Period]]                                                                                            |
+| 2022-10-11 | [[Mayors Manor]]        | [[Kings Of The Podcast - Ep 138 – Season Preview with LA GM Rob Blake]]                                                              |
+| 2022-10-10 | [[LA Daily News]]       | [[2022-23 Kings hockey - Five burning questions]]                                                                                    |
+| 2022-10-10 | [[LA Kings on YouTube]] | [[Head Coach Todd McLellan speaks to the media after Mondays practice]]                                                              |
+| 2022-10-10 | [[LA Kings on YouTube]] | [[GM Rob Blake speaks to the media before the 2022-23 Regular Season]]                                                               |
+| 2022-10-10 | [[LA Times]]            | [[Five things to watch for as LA Kings embark on new NHL season - Los Angeles Times]]                                                |
+| 2022-10-08 | [[Mayors Manor]]        | [[Kings Opening Night Final Roster Decisions Set – And, There Are Some Swerves]]                                                     |
+| 2022-10-08 | [[LA Kings Insider]]    | [[10-8 Preview – Gameday Thoughts + Byfield Update, Net Play, Versatility At The Bottom]]                                            |
+| 2022-10-06 | [[The Hockey News]]     | [[Breakout Candidates in the Pacific Division]]                                                                                      |
+| 2022-10-03 | [[LA Kings Insider]]    | [[Day 12 Primer – Groupings + McLellan on roster cutdown and waivers]]                                                               |
+| 2022-10-01 | [[LA Kings Insider]]    | [[Day 10 Practice Notes – Petersen, Byfield Updates + Durzi talks contract, Walker on the left]]                                     |
+| 2022-09-17 | [[The Athletic]]        | [[Kings look for Quinton Byfield to ‘play big’ and show leadership among rookies]]                                                   |
 
 
 ## Minor League Coverage

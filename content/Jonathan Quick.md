@@ -21,6 +21,7 @@ NHL.com / Ontario Reign | Twitter
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                     |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-06 | [[Scouting the Refs]]   | [[Panthers Tkachuk Suspended for High-Sticking Kings Quick]]                                                                              |
 | 2022-11-06 | [[Field Level Media]]   | [[Panthers F Matthew Tkachuk suspended two games]]                                                                                        |
 | 2022-11-06 | [[Hockey Royalty]]      | [[LA Kings - Tkachuk to have hearing after incident with Quick]]                                                                          |
 | 2022-11-06 | [[Mayors Manor]]        | [[Rapid Review - Highlights from Kings Home Win Over Panthers - plus Tkachuk Update]]                                                     |
