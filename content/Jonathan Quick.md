@@ -21,7 +21,12 @@ NHL.com / Ontario Reign | Twitter
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                     |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-05 | [[LA Daily News]]       | [[Gabe Vilardis goal lifts Kings past Panthers]]                                                                  |
+| 2022-11-06 | [[Field Level Media]]   | [[Panthers F Matthew Tkachuk suspended two games]]                                                                                        |
+| 2022-11-06 | [[Hockey Royalty]]      | [[LA Kings - Tkachuk to have hearing after incident with Quick]]                                                                          |
+| 2022-11-06 | [[Mayors Manor]]        | [[Rapid Review - Highlights from Kings Home Win Over Panthers - plus Tkachuk Update]]                                                     |
+| 2022-11-06 | [[The Athletic]]        | [[Panthers Matthew Tkachuk suspended 2 games for high-sticking Kings Jonathan Quick]]                                                     |
+| 2022-11-06 | [[LA Kings Insider]]    | [[Angeles Analysis - Lions and Panthers and McFlurrys, Oh My! - LA Kings Insider]]                                                        |
+| 2022-11-05 | [[LA Daily News]]       | [[Gabe Vilardis goal lifts Kings past Panthers]]                                                                                          |
 | 2022-11-05 | [[LA Kings Insider]]    | [[FINAL - Kings 5, Panthers 4 - Moore, Vilardi, McLellan - LA Kings Insider]]                                                             |
 | 2022-11-05 | [[The Athletic]]        | [[Each NHL teams biggest concern a month into the 2022-23 season, from ‘everything to ‘too good to tank]]                                 |
 | 2022-11-05 | [[The Forum Report]]    | [[When Gudas put ink to paper with the Kings - Byfield skates but wont play]]                                                             |

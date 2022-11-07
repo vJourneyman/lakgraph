@@ -31,6 +31,7 @@ Date | Site |  Title
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                               |
 | ---------- | -------------------- | --------------------------------------------------------------------------------------------------- |
+| 2022-11-06 | [[Mayors Manor]]        | [[Reign Recap - Ontario Drops Game 2, Settle for a Split in Colorado]]                              |
 | 2022-11-05 | [[LA Kings Insider]]    | [[REIGN PREVIEW – Ontario at Colorado, 11-5 - LA Kings Insider]]                                                                      |
 | 2022-11-04 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 2-0 win against Colorado]]                                   |
 | 2022-11-04 | [[Mayors Manor]]     | [[Reign Recap - Villalta Stands Tall in Colorado, Earns 2-0 Shutout]]                               |

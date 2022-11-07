@@ -31,6 +31,7 @@ status: stable
 ## Minor League Coverage
 | Date | Site | Title |
 | ---- | ---- | ----- |
+| 2022-11-06 | [[Mayors Manor]]        | [[Reign Recap - Ontario Drops Game 2, Settle for a Split in Colorado]]                              |
 
 
 
