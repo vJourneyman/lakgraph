@@ -8,12 +8,12 @@ tags: [NewsPost]
 status: stable
 ---
 
-# LA Kings at St. Louis Blues projected lineup, betting preview
+# LA Kings at St Louis Blues projected lineup, betting preview
 
 | Date       | Site               | Link                                                                                                                                                               |
 | ---------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 2022-10-31 | [[Hockey Royalty]] | [LA Kings at St. Louis Blues projected lineup, betting preview](https://hockeyroyalty.com/2022/10/31/la-kings-at-st-louis-blues-projected-lineup-betting-preview/) |
-| 2022-10-31 | [[Hockey Royalty]] | [[LA Kings at St. Louis Blues projected lineup, betting preview]]                                                                                                  |
+| 2022-10-31 | [[Hockey Royalty]] | [[LA Kings at St Louis Blues projected lineup, betting preview]]                                                                                                  |
 
 ## Contributors
 - [[Joe Patarino]]

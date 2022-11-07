@@ -22,7 +22,7 @@ Alex Iafallo | 19 | LW | L | 6' 0" | 200 | 1993-12-21 | Eden, NY, USA |
 | Date       | Site                  | Title                                                                                                                                |
 | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | 2022-10-29 | [[Pro Hockey Rumors]] | [[Los Angeles Kings Recall Rasmus Kupari]]                                                                                           |
-| 2022-10-29 | [[Mayors Manor]]      | [[Projected Lineup, Game 10 - LA Kings vs. Toronto Maple Leafs, Kupari Recalled]]                                                    |
+| 2022-10-29 | [[Mayors Manor]]      | [[Projected Lineup, Game 10 - LA Kings vs Toronto Maple Leafs, Kupari Recalled]]                                                    |
 | 2022-10-27 | [[The Forum Report]]  | [[Clarity on cap space grows as LTIR-designated Iafallo escapes major injury]]                                                       |
 | 2022-10-26 | [[The Forum Report]]  | [[Playmaking Chart - 10-25 vs TBL]]                                                                                                  |
 | 2022-10-25 | [[The Fourth Period]] | [[LAK at 7 - Now for Something Completely Different — The Fourth Period]]                                                            |

@@ -29,7 +29,7 @@ NHL.com | Twitter
 | 2022-11-01 | [[Kings at NHL.com]]    | [[Hintz has two goals, assist for Stars in win against Kings]]                                                                                      |
 | 2022-11-01 | [[Hockey Royalty]]      | [[LA Kings at Dallas Stars projected lineup, betting preview]]                                                                                      |
 | 2022-11-01 | [[LA Kings Insider]]    | [[11-1 Preview - No Morning Skate in Dallas + McLellan on Fiala, Doughty/Anderson Pairing, The Big 100 - LA Kings Insider]]                         |
-| 2022-10-31 | [[Hockey Royalty]]      | [[LA Kings at St. Louis Blues projected lineup, betting preview]]                                                                                   |
+| 2022-10-31 | [[Hockey Royalty]]      | [[LA Kings at St Louis Blues projected lineup, betting preview]]                                                                                   |
 | 2022-10-30 | [[Hockey Royalty]]      | [[Takeaways - LA Kings 4, Maple Leafs 2 - A Breath of Fresh Air]]                                                                                   |
 | 2022-10-30 | [[The Forum Report]]    | [[Waking up with the Kings - October 30]]                                                                                                           |
 | 2022-10-30 | [[LA Kings Insider]]    | [[Angeles Analysis - Up and Down - LA Kings Insider]]                                                                                               |

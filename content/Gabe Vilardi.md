@@ -52,7 +52,7 @@ NHL.com | Twitter
 | 2022-10-29 | [[LA Daily News]]       | [[Kevin Fiala leads Kings past Maple Leafs]]                                                                                              |
 | 2022-10-29 | [[LA Daily News]]       | [[Kings goalie Cal Petersen starts in victory over Toronto]]                                                                              |
 | 2022-10-29 | [[Mayors Manor]]        | [[Rapid Review - Highlights from Kings 4-2 Win over Toronto, Plus McLellan Post-game Comments]]                                           |
-| 2022-10-29 | [[Mayors Manor]]        | [[Projected Lineup, Game 10 - LA Kings vs. Toronto Maple Leafs, Kupari Recalled]]                                                         |
+| 2022-10-29 | [[Mayors Manor]]        | [[Projected Lineup, Game 10 - LA Kings vs Toronto Maple Leafs, Kupari Recalled]]                                                         |
 | 2022-10-30 | [[The Athletic]]        | [[NHLs biggest surprises early in 2022-23 - Emerging stars, disappointing starts, and what else didnt we see coming]]                     |
 | 2022-10-28 | [[CBS Sports]]          | [[CBS Sports - Kings Gabriel Vilardi - Practices on top line]]                                                                            |
 | 2022-10-28 | [[Field Level Media]]   | [[Kings, Maple Leafs both motivated for bounce-back games]]                                                                               |

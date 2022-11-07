@@ -8,12 +8,12 @@ tags: [NewsPost]
 status: stable
 ---
 
-# Projected Lineup - LA Kings at St. Louis Blues, Plus Byfield Update
+# Projected Lineup - LA Kings at St Louis Blues, Plus Byfield Update
 
 | Date       | Site             | Link                                                                                                                                                                    |
 | ---------- | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2022-10-31 | [[Mayors Manor]] | [Projected Lineup - LA Kings at St. Louis Blues, Plus Byfield Update](https://mayorsmanor.com/2022/10/projected-lineup-la-kings-at-st-louis-blues-plus-byfield-update/) |
-| 2022-10-31 | [[Mayors Manor]] | [[Projected Lineup - LA Kings at St. Louis Blues, Plus Byfield Update]]                                                                                                 |
+| 2022-10-31 | [[Mayors Manor]] | [[Projected Lineup - LA Kings at St Louis Blues, Plus Byfield Update]]                                                                                                 |
 
 ## Contributors
 - [[Scott Coffman]]

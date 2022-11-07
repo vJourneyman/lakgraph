@@ -39,8 +39,8 @@ Rasmus Kupari | |  C | R | 6'2" | 200 |2000-03-15 | Kotka, FIN | 2018 LAK, 1st r
 | 2022-11-01 | [[The Forum Report]]    | [[Playmaking Chart - 10-31 vs St Louis]]                                                                                                  |
 | 2022-11-01 | [[The Forum Report]]    | [[Waking up with the Kings - November 1]]                                                                                                 |
 | 2022-11-01 | [[LA Kings Insider]]    | [[11-1 Preview - No Morning Skate in Dallas + McLellan on Fiala, Doughty/Anderson Pairing, The Big 100 - LA Kings Insider]]               |
-| 2022-10-31 | [[Hockey Royalty]]      | [[LA Kings at St. Louis Blues projected lineup, betting preview]]                                                                         |
-| 2022-10-31 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings at St. Louis Blues, Plus Byfield Update]]                                                                   |
+| 2022-10-31 | [[Hockey Royalty]]      | [[LA Kings at St Louis Blues projected lineup, betting preview]]                                                                         |
+| 2022-10-31 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings at St Louis Blues, Plus Byfield Update]]                                                                   |
 | 2022-10-31 | [[The Athletic]]        | [[How Kings Gabriel Vilardi finally arrived - ‘I had more to prove this year]]                                                            |
 | 2022-10-31 | [[The Forum Report]]    | [[Muzzin, Clifford, Kings reconnect - Byfield “a little bit better” but not with team - Kuparis play away from the puck a good baseline]] |
 | 2022-10-31 | [[LA Kings Insider]]    | [[FINAL - Kings 5, Blues 1 - Grundstrom, McLellan - LA Kings Insider]]                                                                    |
@@ -51,7 +51,7 @@ Rasmus Kupari | |  C | R | 6'2" | 200 |2000-03-15 | Kotka, FIN | 2018 LAK, 1st r
 | 2022-10-29 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Recall Rasmus Kupari]]                                                                                                |
 | 2022-10-29 | [[LA Daily News]]       | [[Kings goalie Cal Petersen starts in victory over Toronto]]                                                                              |
 | 2022-10-29 | [[Kings at NHL.com]]    | [[LA Kings Recall Forward Rasmus Kupari]]                                                                                                 |
-| 2022-10-29 | [[Mayors Manor]]        | [[Projected Lineup, Game 10 - LA Kings vs. Toronto Maple Leafs, Kupari Recalled]]                                                         |
+| 2022-10-29 | [[Mayors Manor]]        | [[Projected Lineup, Game 10 - LA Kings vs Toronto Maple Leafs, Kupari Recalled]]                                                         |
 | 2022-10-29 | [[The Forum Report]]    | [[Legacy of 2007 class not lost on Simmonds - Clarke sits but has “done a really good job of adapting to the NHL”]]                       |
 | 2022-10-10 | [[LA Kings on YouTube]] | [[GM Rob Blake speaks to the media before the 2022-23 Regular Season]]                                                                    |
 | 2022-10-10 | [[LA Kings Insider]]    | [[Kings Announce Opening-Night Roster and Roster Moves - LA Kings Insider]]                                                               |
