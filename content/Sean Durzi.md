@@ -22,6 +22,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-06 | [[The Forum Report]]    | [[Playmaking Chart - 11-5-22 vs FLA]]                                                                                                |
 | 2022-11-05 | [[Puck Prose]]          | [[Sean Durzi is an Underrated Asset for The Los Angeles Kings]]                                                                      |
 | 2022-11-03 | [[LA Kings Insider]]    | [[11-3 Preview - Morning Skate Notes + Fialas Streak, PP Unit Balance, Kaliyev ready to score - LA Kings Insider]]                   |
 | 2022-10-29 | [[Hockey Royalty]]      | [[LA Kings - D-pair changes, playing with structure must happen]]                                                                    |

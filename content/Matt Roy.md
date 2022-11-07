@@ -22,6 +22,7 @@ Matt Roy | 3 | RD | R | 6' 1" | 205 | 1995-03-01 | Detroit, MI, USA | 2015 LAK, 
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                           |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-06 | [[The Forum Report]]    | [[Playmaking Chart - 11-5-22 vs FLA]]                                                                                           |
 | 2022-11-06 | [[The Athletic]]        | [[LA Kings Rasmus Kupari stepping up in Quinton Byfields absence]]                                                              |
 | 2022-11-06 | [[The Athletic]]        | [[Panthers Matthew Tkachuk suspended 2 games for high-sticking Kings Jonathan Quick]]                                           |
 | 2022-10-25 | [[The Fourth Period]]   | [[LAK at 7 - Now for Something Completely Different — The Fourth Period]]                                                       |

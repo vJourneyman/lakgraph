@@ -22,6 +22,7 @@ Anze Kopitar | 11 | C | L | 6' 3" | 225 | 1987-08-24 | Jesenice, SVN | 2005 LAK,
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                               |
 | ---------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-06 | [[The Forum Report]]   | [[Playmaking Chart - 11-5-22 vs FLA]]                                                                                                               |
 | 2022-11-05 | [[LA Kings Insider]]   | [[FINAL - Kings 5, Panthers 4 - Moore, Vilardi, McLellan - LA Kings Insider]]                                                                       |
 | 2022-11-05 | [[Kings at NHL.com]]   | [[LA Kings vs Florida Panthers - How to Watch]]                                                                                                     |
 | 2022-11-04 | [[Field Level Media]]  | [[Top line clicking as Panthers road trip stops in LA]]                                                                                             |

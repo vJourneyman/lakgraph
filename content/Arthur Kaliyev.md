@@ -22,6 +22,7 @@ RW | L | 6'2" | 210 | 21 | 2001-06-26 | Tashkent, UZB | 2019 LAK, 2nd rd, 2nd pk
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                         |     |
 | ---------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------- | --- |
+| 2022-11-06 | [[The Forum Report]]  | [[Playmaking Chart - 11-5-22 vs FLA]]                                                                                         |     |
 | 2022-11-05 | [[Kings at NHL.com]]  | [[LA Kings vs Florida Panthers - How to Watch]]                                                                               |     |
 | 2022-11-04 | [[Field Level Media]] | [[Top line clicking as Panthers road trip stops in LA]]                                                                       |     |
 | 2022-11-03 | [[LA Kings Insider]]  | [[11-3 Preview - Morning Skate Notes + Fialas Streak, PP Unit Balance, Kaliyev ready to score - LA Kings Insider]]            |     |

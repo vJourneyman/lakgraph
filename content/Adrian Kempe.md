@@ -23,6 +23,8 @@ NHL.com | Twitter
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-06 | [[The Forum Report]]    | [[Playmaking Chart - 11-5-22 vs FLA]]                                                                                                               |
+| 2022-11-06 | [[LA Kings Insider]]    | [[Goals On Goals – Where The Kings Stand On A Higher Scoring Start]]                                                                                |
 | 2022-11-02 | [[The Forum Report]]    | [[Reaction in Dallas - Todd on 11-7 - Colin Miller on Calder Cup teammate Adrian Kempe - “You could tell early on that he was going to be a stud”]] |
 | 2022-11-01 | [[LA Kings Insider]]    | [[11-1 Preview - No Morning Skate in Dallas + McLellan on Fiala, Doughty/Anderson Pairing, The Big 100 - LA Kings Insider]]                         |
 | 2022-10-31 | [[Hockey Royalty]]      | [[Week 4 Pacific Division Power Rankings]]                                                                                                          |
