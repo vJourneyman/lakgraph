@@ -20,10 +20,17 @@ Kevin Fiala | 22 | LW | L | 5' 10" | 204 | 1996-07-22 | St. Gallen, CHE | 2014 N
 ## NHL  Coverage
 | Date       | Site                            | Title                                                                                                                                |
 | ---------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-08 | [[The Fourth Period]]           | [[LAK AT 14 - ARE YOU NOT ENTERTAINED]]                                                                                              |
+| 2022-11-08 | [[LA Hockey Now]]               | [[Kings Vs Wild, Game No 15, lines, Notes, and How to Watch]]                                                                        |
+| 2022-11-08 | [[Mayors Manor]]                | [[Projected Lineup - LA Kings vs Minnesota Wild on Tuesday]]                                                                         |
+| 2022-11-08 | [[The Forum Report]]            | [[Moving the needle “immensely,” Walker keeps grasp on lineup spot - faith in lineup balance despite top lines inconsistencies]]     |
+| 2022-11-08 | [[The Forum Report]]            | [[Lineup notes - depth skill sustaining leagues offensive surge - Fiala has a”a good feeling” about tonight]]                        |
+| 2022-11-08 | [[LA Kings Insider]]            | [[11-8 Preview – Optional Skate Today + Line Changes After 5, Kaliyevs Progression, ESPN(2)]]                                        |
 | 2022-11-07 | [[Hockey Royalty]]              | [[Week 5 Pacific Division Power Rankings]]                                                                                           |
 | 2022-11-07 | [[Hockey Royalty]]              | [[Byfield loaned to Ontario for conditioning stint]]                                                                                 |
 | 2022-11-07 | [[Kings at NHL.com]]            | [[11-7 - The Week That Was, The Week That Is]]                                                                                       |
 | 2022-11-06 | [[Hockey Royalty]]              | [[Takeaways - LA Kings 5, Panthers 4 – Kings get last laugh]]                                                                        |
+| 2022-11-06 | [[LA Hockey Now]]               | [[Kings Offense Re-Ignites in 5-4 Victory Over Panthers]]                                                                            |
 | 2022-11-06 | [[The Athletic]]                | [[LA Kings Rasmus Kupari stepping up in Quinton Byfields absence]]                                                                   |
 | 2022-11-05 | [[LA Kings Insider]]            | [[FINAL - Kings 5, Panthers 4 - Moore, Vilardi, McLellan - LA Kings Insider]]                                                        |
 | 2022-11-04 | [[Field Level Media]]           | [[Top line clicking as Panthers road trip stops in LA]]                                                                              |
@@ -36,6 +43,7 @@ Kevin Fiala | 22 | LW | L | 5' 10" | 204 | 1996-07-22 | St. Gallen, CHE | 2014 N
 | 2022-11-03 | [[LA Kings Insider]]            | [[11-3 Preview - Morning Skate Notes + Fialas Streak, PP Unit Balance, Kaliyev ready to score - LA Kings Insider]]                   |
 | 2022-11-02 | [[Field Level Media]]           | [[Blackhawks turn to No 3 goalie Arvid Soderblom vs Kings]]                                                                          |
 | 2022-11-02 | [[Hockey Royalty]]              | [[Takeaways from the LA Kings 5-2 loss to the Dallas Stars]]                                                                         |
+| 2022-11-02 | [[LA Hockey Now]]               | [[Kings Undone by Stars Explosive Power Play in 5-2 Loss]]                                                                           |
 | 2022-11-02 | [[The Forum Report]]            | [[Playmaking Chart - 11-1-22 at DAL]]                                                                                                |
 | 2022-11-01 | [[Kings at NHL.com]]            | [[Hintz has two goals, assist for Stars in win against Kings]]                                                                       |
 | 2022-11-01 | [[The Forum Report]]            | [[Playmaking Chart - 10-31 vs St Louis]]                                                                                             |

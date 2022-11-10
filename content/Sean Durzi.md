@@ -22,6 +22,8 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-08 | [[The Fourth Period]]   | [[LAK AT 14 - ARE YOU NOT ENTERTAINED]]                                                                                              |
+| 2022-11-07 | [[LA Kings Insider]]    | [[Practice Practice! The Kings hit the ice in El Segundo with a return to routine the center focus]]                                 |
 | 2022-11-06 | [[The Forum Report]]    | [[Playmaking Chart - 11-5-22 vs FLA]]                                                                                                |
 | 2022-11-05 | [[Puck Prose]]          | [[Sean Durzi is an Underrated Asset for The Los Angeles Kings]]                                                                      |
 | 2022-11-03 | [[LA Kings Insider]]    | [[11-3 Preview - Morning Skate Notes + Fialas Streak, PP Unit Balance, Kaliyev ready to score - LA Kings Insider]]                   |

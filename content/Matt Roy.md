@@ -22,6 +22,11 @@ Matt Roy | 3 | RD | R | 6' 1" | 205 | 1995-03-01 | Detroit, MI, USA | 2015 LAK, 
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                           |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-08 | [[The Fourth Period]]   | [[LAK AT 14 - ARE YOU NOT ENTERTAINED]]                                                                                         |
+| 2022-11-08 | [[Kings at NHL.com]]    | [[Quick makes 21 saves, Kings shut out Wild]]                                                                                   |
+| 2022-11-08 | [[LA Kings Insider]]    | [[FINAL – Kings 1, Wild 0 – Quick, Roy, McLellan]]                                                                              |
+| 2022-11-07 | [[LA Kings Insider]]    | [[Practice Practice! The Kings hit the ice in El Segundo with a return to routine the center focus]]                            |
+| 2022-11-06 | [[LA Hockey Now]]       | [[Kings Offense Re-Ignites in 5-4 Victory Over Panthers]]                                                                       |
 | 2022-11-06 | [[The Forum Report]]    | [[Playmaking Chart - 11-5-22 vs FLA]]                                                                                           |
 | 2022-11-06 | [[The Athletic]]        | [[LA Kings Rasmus Kupari stepping up in Quinton Byfields absence]]                                                              |
 | 2022-11-06 | [[The Athletic]]        | [[Panthers Matthew Tkachuk suspended 2 games for high-sticking Kings Jonathan Quick]]                                           |

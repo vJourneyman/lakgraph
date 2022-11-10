@@ -23,6 +23,7 @@ NHL.com | Twitter
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-08 | [[LA Kings Insider]]    | [[11-8 Preview – Optional Skate Today + Line Changes After 5, Kaliyevs Progression, ESPN(2)]]                                                                                                       |
 | 2022-11-06 | [[The Forum Report]]    | [[Playmaking Chart - 11-5-22 vs FLA]]                                                                                                               |
 | 2022-11-06 | [[LA Kings Insider]]    | [[Goals On Goals – Where The Kings Stand On A Higher Scoring Start]]                                                                                |
 | 2022-11-02 | [[The Forum Report]]    | [[Reaction in Dallas - Todd on 11-7 - Colin Miller on Calder Cup teammate Adrian Kempe - “You could tell early on that he was going to be a stud”]] |

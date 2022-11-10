@@ -22,9 +22,13 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                              |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-08 | [[LA Hockey Now]]       | [[Kings Vs Wild, Game No 15, lines, Notes, and How to Watch]]                                                      |
+| 2022-11-08 | [[LA Daily News]]       | [[Kings edge Wild as Jonathan Quick outduels Marc-Andre Fleury]]                                                   |
+| 2022-11-07 | [[LA Kings Insider]]    | [[Practice Practice! The Kings hit the ice in El Segundo with a return to routine the center focus]]               |
 | 2022-11-06 | [[The Forum Report]]    | [[Playmaking Chart - 11-5-22 vs FLA]]                                                                              |
 | 2022-11-05 | [[Kings at NHL.com]]    | [[LA Kings vs Florida Panthers - How to Watch]]                                                                    |
 | 2022-11-03 | [[LA Kings Insider]]    | [[11-3 Preview - Morning Skate Notes + Fialas Streak, PP Unit Balance, Kaliyev ready to score - LA Kings Insider]] |
+| 2022-11-02 | [[LA Hockey Now]]       | [[Kings Undone by Stars Explosive Power Play in 5-2 Loss]]                                                         |
 | 2022-11-02 | [[LA Daily News]]       | [[Kings seek better discipline in road-trip finale in Chicago]]                                                    |
 | 2022-11-02 | [[LA Kings Insider]]    | [[By The Numbers - What The Metrics Say Through 12 Games - LA Kings Insider]]                                      |
 | 2022-11-01 | [[Kings at NHL.com]]    | [[Hintz has two goals, assist for Stars in win against Kings]]                                                     |

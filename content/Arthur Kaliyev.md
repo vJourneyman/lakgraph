@@ -22,12 +22,16 @@ RW | L | 6'2" | 210 | 21 | 2001-06-26 | Tashkent, UZB | 2019 LAK, 2nd rd, 2nd pk
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                         |     |
 | ---------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------- | --- |
+| 2022-11-08 | [[LA Daily News]]     | [[Kings edge Wild as Jonathan Quick outduels Marc-Andre Fleury]]                                                              |     |
+| 2022-11-08 | [[Kings at NHL.com]]  | [[LA Kings vs Minnesota Wild - How to Watch]]                                                                                 |     |
+| 2022-11-08 | [[LA Kings Insider]]  | [[11-8 Preview – Optional Skate Today + Line Changes After 5, Kaliyevs Progression, ESPN(2)]]                                 |     |
 | 2022-11-07 | [[Kings at NHL.com]]  | [[11-7 - The Week That Was, The Week That Is]]                                                                                |     |
 | 2022-11-06 | [[The Forum Report]]  | [[Playmaking Chart - 11-5-22 vs FLA]]                                                                                         |     |
 | 2022-11-05 | [[Kings at NHL.com]]  | [[LA Kings vs Florida Panthers - How to Watch]]                                                                               |     |
 | 2022-11-04 | [[Field Level Media]] | [[Top line clicking as Panthers road trip stops in LA]]                                                                       |     |
 | 2022-11-03 | [[LA Kings Insider]]  | [[11-3 Preview - Morning Skate Notes + Fialas Streak, PP Unit Balance, Kaliyev ready to score - LA Kings Insider]]            |     |
 | 2022-11-02 | [[Hockey Royalty]]    | [[Takeaways from the LA Kings 5-2 loss to the Dallas Stars]]                                                                  |     |
+| 2022-11-02 | [[LA Hockey Now]]     | [[Kings Undone by Stars Explosive Power Play in 5-2 Loss]]                                                                    |     |
 | 2022-11-02 | [[LA Kings Insider]]  | [[By The Numbers - What The Metrics Say Through 12 Games - LA Kings Insider]]                                                 |     |
 | 2022-11-01 | [[Kings at NHL.com]]  | [[Hintz has two goals, assist for Stars in win against Kings]]                                                                |     |
 | 2022-11-01 | [[LA Kings Insider]]  | [[FINAL - Kings 2, Stars 5 - Kopitar, Danault, McLellan - LA Kings Insider]]                                                  |     |

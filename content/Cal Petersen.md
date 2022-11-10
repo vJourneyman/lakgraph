@@ -19,17 +19,20 @@ NHL.com | Twitter
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-05 | [[The Athletic]]        | [[Each NHL teams biggest concern a month into the 2022-23 season, from ‘everything to ‘too good to tank]]                    |
+| 2022-11-08 | [[The Fourth Period]]   | [[LAK AT 14 - ARE YOU NOT ENTERTAINED]]                                                                                                             |
+| 2022-11-08 | [[LA Hockey Now]]       | [[Kings Vs Wild, Game No 15, lines, Notes, and How to Watch]]                                                                                       |
+| 2022-11-05 | [[The Athletic]]        | [[Each NHL teams biggest concern a month into the 2022-23 season, from ‘everything to ‘too good to tank]]                                           |
 | 2022-11-04 | [[ESPN]]                | [[NHL Power Rankings - 1-32 poll, players who must improve]]                                                                                        |
 | 2022-11-03 | [[Hockey Royalty]]      | [[LA Kings at Chicago Blackhawks projected lineup, betting preview]]                                                                                |
 | 2022-11-02 | [[The Hockey News]]     | [[NHL Power Rankings - Bruins Claw No 1 Spot]]                                                                                                      |
 | 2022-11-02 | [[The Hockey Writers]]  | [[Kings Strong Play Being Cancelled Out by Lackluster Goaltending]]                                                                                 |
+| 2022-11-02 | [[LA Hockey Now]]       | [[Kings Undone by Stars Explosive Power Play in 5-2 Loss]]                                                                                          |
 | 2022-11-02 | [[The Forum Report]]    | [[Playmaking Chart - 11-1-22 at DAL]]                                                                                                               |
 | 2022-11-02 | [[The Forum Report]]    | [[Reaction in Dallas - Todd on 11-7 - Colin Miller on Calder Cup teammate Adrian Kempe - “You could tell early on that he was going to be a stud”]] |
 | 2022-11-01 | [[Kings at NHL.com]]    | [[Hintz has two goals, assist for Stars in win against Kings]]                                                                                      |
 | 2022-11-01 | [[Hockey Royalty]]      | [[LA Kings at Dallas Stars projected lineup, betting preview]]                                                                                      |
 | 2022-11-01 | [[LA Kings Insider]]    | [[11-1 Preview - No Morning Skate in Dallas + McLellan on Fiala, Doughty/Anderson Pairing, The Big 100 - LA Kings Insider]]                         |
-| 2022-10-31 | [[Hockey Royalty]]      | [[LA Kings at St Louis Blues projected lineup, betting preview]]                                                                                   |
+| 2022-10-31 | [[Hockey Royalty]]      | [[LA Kings at St Louis Blues projected lineup, betting preview]]                                                                                    |
 | 2022-10-30 | [[Hockey Royalty]]      | [[Takeaways - LA Kings 4, Maple Leafs 2 - A Breath of Fresh Air]]                                                                                   |
 | 2022-10-30 | [[The Forum Report]]    | [[Waking up with the Kings - October 30]]                                                                                                           |
 | 2022-10-30 | [[LA Kings Insider]]    | [[Angeles Analysis - Up and Down - LA Kings Insider]]                                                                                               |

@@ -31,7 +31,7 @@ status: unstarted
 | ---------- | -------------------- | --------------------------------------------------------------------- |
 | 2022-11-07 | [[Hockey Royalty]]   | [[Ontario Reign - Three stars of the week from 10-31 to 11-6]]        |
 | 2022-11-05 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 3, Eagles 7 – Sturm, Quine - LA Kings Insider]] |
-| 2022-10-29 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs. Bakersfield, 10-29 - LA Kings Insider]] |
+| 2022-10-29 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Bakersfield, 10-29 - LA Kings Insider]] |
 | 2022-10-26 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 2, Barracuda 1 – Sturm - LA Kings Insider]]     |
 | 2022-10-26 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at San Jose, 10-26 - LA Kings Insider]]     |
 | 2022-10-24 | [[Hockey Royalty]]   | [[Ontario Reign - Three stars of the week from 10-17 to 10-23]]       |

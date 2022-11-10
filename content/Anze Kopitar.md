@@ -22,12 +22,18 @@ Anze Kopitar | 11 | C | L | 6' 3" | 225 | 1987-08-24 | Jesenice, SVN | 2005 LAK,
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                               |
 | ---------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-08 | [[Kings at NHL.com]]   | [[LA Kings vs Minnesota Wild - How to Watch]]                                                                                                       |
+| 2022-11-08 | [[The Forum Report]]   | [[Moving the needle “immensely,” Walker keeps grasp on lineup spot - faith in lineup balance despite top lines inconsistencies]]                    |
+| 2022-11-08 | [[LA Kings Insider]]   | [[FINAL – Kings 1, Wild 0 – Quick, Roy, McLellan]]                                                                                                  |
+| 2022-11-08 | [[LA Kings Insider]]   | [[11-8 Preview – Optional Skate Today + Line Changes After 5, Kaliyevs Progression, ESPN(2)]]                                                       |
+| 2022-11-07 | [[LA Kings Insider]]   | [[Practice Practice! The Kings hit the ice in El Segundo with a return to routine the center focus]]                                                |
 | 2022-11-06 | [[The Forum Report]]   | [[Playmaking Chart - 11-5-22 vs FLA]]                                                                                                               |
 | 2022-11-05 | [[LA Kings Insider]]   | [[FINAL - Kings 5, Panthers 4 - Moore, Vilardi, McLellan - LA Kings Insider]]                                                                       |
 | 2022-11-05 | [[Kings at NHL.com]]   | [[LA Kings vs Florida Panthers - How to Watch]]                                                                                                     |
 | 2022-11-04 | [[Field Level Media]]  | [[Top line clicking as Panthers road trip stops in LA]]                                                                                             |
 | 2022-11-02 | [[Field Level Media]]  | [[Blackhawks turn to No 3 goalie Arvid Soderblom vs Kings]]                                                                                         |
 | 2022-11-02 | [[LA Times]]           | [[After years of injury issues, Kings Gabe Vilardi is flourishing - Los Angeles Times]]                                                             |
+| 2022-11-02 | [[LA Hockey Now]]      | [[Kings Undone by Stars Explosive Power Play in 5-2 Loss]]                                                                                          |
 | 2022-11-02 | [[The Forum Report]]   | [[Reaction in Dallas - Todd on 11-7 - Colin Miller on Calder Cup teammate Adrian Kempe - “You could tell early on that he was going to be a stud”]] |
 | 2022-11-01 | [[The Forum Report]]   | [[Playmaking Chart - 10-31 vs St Louis]]                                                                                                            |
 | 2022-11-01 | [[LA Kings Insider]]   | [[FINAL - Kings 2, Stars 5 - Kopitar, Danault, McLellan - LA Kings Insider]]                                                                        |

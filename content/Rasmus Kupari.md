@@ -22,17 +22,21 @@ Rasmus Kupari | |  C | R | 6'2" | 200 |2000-03-15 | Kotka, FIN | 2018 LAK, 1st r
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                     |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-08 | [[LA Kings Insider]]    | [[11-8 Preview – Optional Skate Today + Line Changes After 5, Kaliyevs Progression, ESPN(2)]]                                             |
 | 2022-11-07 | [[Hockey Royalty]]      | [[Byfield loaned to Ontario for conditioning stint]]                                                                                      |
+| 2022-11-06 | [[LA Hockey Now]]       | [[Kings Offense Re-Ignites in 5-4 Victory Over Panthers]]                                                                                 |
 | 2022-11-06 | [[The Forum Report]]    | [[Playmaking Chart - 11-5-22 vs FLA]]                                                                                                     |
 | 2022-11-06 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Loan Quinton Byfield To AHL]]                                                                                         |
 | 2022-11-06 | [[Hockey Royalty]]      | [[Takeaways - LA Kings 5, Panthers 4 – Kings get last laugh]]                                                                             |
 | 2022-11-06 | [[The Athletic]]        | [[LA Kings Rasmus Kupari stepping up in Quinton Byfields absence]]                                                                        |
+| 2022-11-05 | [[LA Hockey Now]]       | [[Kings Vs Panthers, Game No 14, Lines, Notes, and How to Watch]]                                                                         |
 | 2022-11-05 | [[LA Daily News]]       | [[Gabe Vilardis goal lifts Kings past Panthers]]                                                                                          |
-| 2022-11-05 | [[LA Kings Insider]]    | [[FINAL - Kings 5, Panthers 4 - Moore, Vilardi, McLellan - LA Kings Insider]]                                                             |
 | 2022-11-05 | [[Kings at NHL.com]]    | [[LA Kings Recall Forward Rasmus Kupari From Ontario]]                                                                                    |
 | 2022-11-05 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings vs Florida Panthers on Saturday]]                                                                           |
+| 2022-11-05 | [[LA Kings Insider]]    | [[FINAL - Kings 5, Panthers 4 - Moore, Vilardi, McLellan - LA Kings Insider]]                                                             |
 | 2022-11-05 | [[LA Kings Insider]]    | [[11-5 Preview - Full Team Skate + Striving For Consistency, Ras-matazz- LA Kings Insider]]                                               |
 | 2022-11-04 | [[Pro Hockey Rumors]]   | [[Rasmus Kupari Loaned To AHL]]                                                                                                           |
+| 2022-11-04 | [[LA Hockey Now]]       | [[Kings Daily - Disappointing Loss in Chicago and Ovechkin Makes History]]                                                                |
 | 2022-11-04 | [[LA Daily News]]       | [[Kings find defensive stride as Florida comes to town]]                                                                                  |
 | 2022-11-04 | [[Kings at NHL.com]]    | [[LA Kings Loan Forward Rasmus Kupari to Ontario]]                                                                                        |
 | 2022-11-04 | [[The Forum Report]]    | [[Playmaking Chart - 11-3-22 at CHI]]                                                                                                     |
@@ -65,7 +69,7 @@ Rasmus Kupari | |  C | R | 6'2" | 200 |2000-03-15 | Kotka, FIN | 2018 LAK, 1st r
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                            |
 | ---------- | -------------------- | -------------------------------------------------------------------------------- |
-| 2022-10-29 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs. Bakersfield, 10-29 - LA Kings Insider]]            |
+| 2022-10-29 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Bakersfield, 10-29 - LA Kings Insider]]            |
 | 2022-10-27 | [[Mayors Manor]]     | [[Reign Recap - Ontario Surge in Standings with Win Over San Jose]]              |
 | 2022-10-26 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at San Jose, 10-26 - LA Kings Insider]]                |
 | 2022-10-25 | [[Mayors Manor]]     | [[LAK Prospects - Weekly Reign Report – October 24, 2022]]                       |

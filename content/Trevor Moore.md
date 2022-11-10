@@ -22,6 +22,7 @@ Trevor Moore | 12 | C | L | 5' 10" | 195 | 1995-03-31 | Thousand Oaks, CA, USA
 | Date       | Site                 | Title                                                                                                            |
 | ---------- | -------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | 2022-11-07 | [[LA Daily News]]    | [[High scoring Kings prepare to face the Wild]]                                                                  |
+| 2022-11-06 | [[LA Hockey Now]]    | [[Kings Offense Re-Ignites in 5-4 Victory Over Panthers]]                                                        |
 | 2022-11-06 | [[LA Kings Insider]] | [[Goals On Goals – Where The Kings Stand On A Higher Scoring Start]]                                             |
 | 2022-11-05 | [[LA Kings Insider]] | [[FINAL - Kings 5, Panthers 4 - Moore, Vilardi, McLellan - LA Kings Insider]]                                    |
 | 2022-11-04 | [[LA Daily News]]    | [[Kings find defensive stride as Florida comes to town]]                                                         |

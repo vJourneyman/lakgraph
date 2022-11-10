@@ -35,9 +35,10 @@ status: needs-draft-content
 
 
 ## Post-Draft Coverage
-| Date       | Site                 | Title                                          |
-| ---------- | -------------------- | ---------------------------------------------- |
-| 2022-11-04 | [[Kings at NHL.com]] | [[LA Kings Prospect Report, 11-4]]             |
+| Date       | Site                 | Title                                                                    |
+| ---------- | -------------------- | ------------------------------------------------------------------------ |
+| 2022-11-07 | [[Hockey Royalty]]   | [[Alex Laferriere Highlights LA Kings Prospects Update – Week of 10-31]] |
+| 2022-11-04 | [[Kings at NHL.com]] | [[LA Kings Prospect Report, 11-4]]                                       |
 | 2022-10-13 | [[Hockey Royalty]]   | [[LA Kings - 2022-23 prospect rankings, 10-6]] |
 
 

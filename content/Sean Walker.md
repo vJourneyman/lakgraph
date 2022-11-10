@@ -20,6 +20,7 @@ Sean Walker | 26 | RD | R | 5' 11" | 195 | 1994-11-13 | Keswick, ON, CAN
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                     |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-08 | [[The Forum Report]]    | [[Moving the needle “immensely,” Walker keeps grasp on lineup spot - faith in lineup balance despite top lines inconsistencies]]          |
 | 2022-11-04 | [[The Forum Report]]    | [[Playmaking Chart - 11-3-22 at CHI]]                                                                                                     |
 | 2022-11-01 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings at Dallas Stars on Tuesday]]                                                                                |
 | 2022-10-31 | [[The Forum Report]]    | [[Muzzin, Clifford, Kings reconnect - Byfield “a little bit better” but not with team - Kuparis play away from the puck a good baseline]] |
@@ -27,7 +28,7 @@ Sean Walker | 26 | RD | R | 5' 11" | 195 | 1994-11-13 | Keswick, ON, CAN
 | 2022-10-30 | [[Hockey Royalty]]      | [[Takeaways - LA Kings 4, Maple Leafs 2 - A Breath of Fresh Air]]                                                                         |
 | 2022-10-30 | [[LA Kings Insider]]    | [[Angeles Analysis - Up and Down - LA Kings Insider]]                                                                                     |
 | 2022-10-29 | [[LA Daily News]]       | [[Kings goalie Cal Petersen starts in victory over Toronto]]                                                                              |
-| 2022-10-29 | [[Mayors Manor]]        | [[Projected Lineup, Game 10 - LA Kings vs Toronto Maple Leafs, Kupari Recalled]]                                                         |
+| 2022-10-29 | [[Mayors Manor]]        | [[Projected Lineup, Game 10 - LA Kings vs Toronto Maple Leafs, Kupari Recalled]]                                                          |
 | 2022-10-29 | [[The Forum Report]]    | [[Legacy of 2007 class not lost on Simmonds - Clarke sits but has “done a really good job of adapting to the NHL”]]                       |
 | 2022-10-29 | [[LA Kings Insider]]    | [[FINAL - Kings 4, Maple Leafs 2 - Fiala, Kempe, Petersen, McLellan - LA Kings Insider]]                                                  |
 | 2022-10-25 | [[Hockey Royalty]]      | [[LA Kings vs Tampa Bay Lightning projected lineup, betting preview]]                                                                     |
