@@ -22,6 +22,7 @@ RW | L | 6'2" | 210 | 21 | 2001-06-26 | Tashkent, UZB | 2019 LAK, 2nd rd, 2nd pk
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                         |     |
 | ---------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------- | --- |
+| 2022-11-09 | [[The Athletic]]      | [[LA Kings are scoring more goals — heres why, and is there a cost involved]]                                                 |     |
 | 2022-11-08 | [[LA Daily News]]     | [[Kings edge Wild as Jonathan Quick outduels Marc-Andre Fleury]]                                                              |     |
 | 2022-11-08 | [[Kings at NHL.com]]  | [[LA Kings vs Minnesota Wild - How to Watch]]                                                                                 |     |
 | 2022-11-08 | [[LA Kings Insider]]  | [[11-8 Preview – Optional Skate Today + Line Changes After 5, Kaliyevs Progression, ESPN(2)]]                                 |     |

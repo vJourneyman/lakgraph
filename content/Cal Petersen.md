@@ -19,6 +19,7 @@ NHL.com | Twitter
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-09 | [[The Athletic]]        | [[LA Kings are scoring more goals — heres why, and is there a cost involved]]                               |
 | 2022-11-08 | [[The Fourth Period]]   | [[LAK AT 14 - ARE YOU NOT ENTERTAINED]]                                                                                                             |
 | 2022-11-08 | [[LA Hockey Now]]       | [[Kings Vs Wild, Game No 15, lines, Notes, and How to Watch]]                                                                                       |
 | 2022-11-05 | [[The Athletic]]        | [[Each NHL teams biggest concern a month into the 2022-23 season, from ‘everything to ‘too good to tank]]                                           |

@@ -22,6 +22,9 @@ Drew Doughty | 8 | RD | R | 6' 1" | 210 | 1989-12-08 | London, ON, CAN | 2008 LA
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                 |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-09 | [[Kings at NHL.com]]    | [[11-8 FINAL - Kings 1, Wild 0]]                                                                         |
+| 2022-11-09 | [[The Athletic]]        | [[Kirill Kaprizov gets match penalty as Wild offense sputters in loss to Kings - ‘Its a joke]]                                                        |
+| 2022-11-09 | [[The Forum Report]]    | [[Waking up with the Kings - November 9]]                                                                                                             |
 | 2022-11-08 | [[Kings at NHL.com]]    | [[LA Kings vs Minnesota Wild - How to Watch]]                                                                                                         |
 | 2022-11-08 | [[The Forum Report]]    | [[Frustrated by penalty imbalance, Evason alleges Kaprizov hit Doughty with glove, not stick - Doughty didnt see replay, “but it felt like a stick”]] |
 | 2022-11-08 | [[The Forum Report]]    | [[Lineup notes - depth skill sustaining leagues offensive surge - Fiala has a”a good feeling” about tonight]]                                         |

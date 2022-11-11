@@ -22,6 +22,7 @@ Rasmus Kupari | |  C | R | 6'2" | 200 |2000-03-15 | Kotka, FIN | 2018 LAK, 1st r
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                     |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-09 | [[Mayors Manor]]        | [[Quinton Byfield – Where do the Kings Go From Here]]                                         |
 | 2022-11-08 | [[LA Kings Insider]]    | [[11-8 Preview – Optional Skate Today + Line Changes After 5, Kaliyevs Progression, ESPN(2)]]                                             |
 | 2022-11-07 | [[Hockey Royalty]]      | [[Byfield loaned to Ontario for conditioning stint]]                                                                                      |
 | 2022-11-06 | [[LA Hockey Now]]       | [[Kings Offense Re-Ignites in 5-4 Victory Over Panthers]]                                                                                 |

@@ -21,6 +21,8 @@ Viktor Arvidsson | 33 | LW | R | 5' 10" | 185 | 1993-04-08 | Skellefteå, SWE | 
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-09 | [[The Athletic]]        | [[LA Kings are scoring more goals — heres why, and is there a cost involved]]                                                        |
+| 2022-11-09 | [[LA Kings Insider]]    | [[11-9 Practice – Winning 1-0, McLellan on Quick and Power Play, Roys Growth and Consistency]]                                       |
 | 2022-11-05 | [[LA Kings Insider]]    | [[FINAL - Kings 5, Panthers 4 - Moore, Vilardi, McLellan - LA Kings Insider]]                                                        |
 | 2022-11-02 | [[LA Kings Insider]]    | [[By The Numbers - What The Metrics Say Through 12 Games - LA Kings Insider]]                                                        |
 | 2022-11-01 | [[The Forum Report]]    | [[Playmaking Chart - 10-31 vs St Louis]]                                                                                             |
@@ -30,7 +32,7 @@ Viktor Arvidsson | 33 | LW | R | 5' 10" | 185 | 1993-04-08 | Skellefteå, SWE | 
 | 2022-10-29 | [[Field Level Media]]   | [[Kings use big 2nd period to dispatch Maple Leafs]]                                                                                 |
 | 2022-10-27 | [[LA Daily News]]       | [[Kings early lead fades away as Winnipeg hands them 3rd loss in 4 games]]                                                           |
 | 2022-10-27 | [[Hockey Royalty]]      | [[LA Kings vs Winnipeg Jets projected lineups, betting preview]]                                                                     |
-| 2022-10-27 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings vs Winnipeg Jets, Game 9]]                                                                            |
+| 2022-10-27 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings vs Winnipeg Jets, Game 9]]                                                                             |
 | 2022-10-27 | [[LA Kings Insider]]    | [[10-27 Preview - Arvidsson Ready To Return + Potential Lineup, Durzi On The Left, TM on Jets - LA Kings Insider]]                   |
 | 2022-10-26 | [[Field Level Media]]   | [[Things looking up for Kings ahead of Jets matchup]]                                                                                |
 | 2022-10-26 | [[Hockey Royalty]]      | [[LA Kings - Takeaways from the teams 4-2 win against the Lightning]]                                                                |

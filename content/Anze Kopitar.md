@@ -22,6 +22,8 @@ Anze Kopitar | 11 | C | L | 6' 3" | 225 | 1987-08-24 | Jesenice, SVN | 2005 LAK,
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                               |
 | ---------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-09 | [[The Forum Report]]   | [[Waking up with the Kings - November 9]]                                                                                                           |
+| 2022-11-09 | [[LA Kings Insider]]   | [[Hot out of the gates, Kings prospect Francesco Pinelli building momentum with OHL-Kitchener]]                                                     |
 | 2022-11-08 | [[Kings at NHL.com]]   | [[LA Kings vs Minnesota Wild - How to Watch]]                                                                                                       |
 | 2022-11-08 | [[The Forum Report]]   | [[Moving the needle “immensely,” Walker keeps grasp on lineup spot - faith in lineup balance despite top lines inconsistencies]]                    |
 | 2022-11-08 | [[LA Kings Insider]]   | [[FINAL – Kings 1, Wild 0 – Quick, Roy, McLellan]]                                                                                                  |

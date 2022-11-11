@@ -20,6 +20,7 @@ Kevin Fiala | 22 | LW | L | 5' 10" | 204 | 1996-07-22 | St. Gallen, CHE | 2014 N
 ## NHL  Coverage
 | Date       | Site                            | Title                                                                                                                                |
 | ---------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-09 | [[The Athletic]]                | [[LA Kings are scoring more goals — heres why, and is there a cost involved]]                                                        |
 | 2022-11-08 | [[The Fourth Period]]           | [[LAK AT 14 - ARE YOU NOT ENTERTAINED]]                                                                                              |
 | 2022-11-08 | [[LA Hockey Now]]               | [[Kings Vs Wild, Game No 15, lines, Notes, and How to Watch]]                                                                        |
 | 2022-11-08 | [[Mayors Manor]]                | [[Projected Lineup - LA Kings vs Minnesota Wild on Tuesday]]                                                                         |

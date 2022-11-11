@@ -22,6 +22,8 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-09 | [[The Athletic]]        | [[LA Kings are scoring more goals — heres why, and is there a cost involved]]                               |
+| 2022-11-09 | [[LA Kings Insider]]    | [[11-9 Practice – Winning 1-0, McLellan on Quick and Power Play, Roys Growth and Consistency]]                                       |
 | 2022-11-08 | [[The Fourth Period]]   | [[LAK AT 14 - ARE YOU NOT ENTERTAINED]]                                                                                              |
 | 2022-11-07 | [[LA Kings Insider]]    | [[Practice Practice! The Kings hit the ice in El Segundo with a return to routine the center focus]]                                 |
 | 2022-11-06 | [[The Forum Report]]    | [[Playmaking Chart - 11-5-22 vs FLA]]                                                                                                |
