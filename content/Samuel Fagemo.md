@@ -20,17 +20,18 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 
 
 ## NHL  Coverage
-| Date       | Site                   | Title                                                                           |
-| ---------- | ---------------------- | ------------------------------------------------------------------------------- |
-| 2022-10-07 | [[LA Kings Insider]]   | [[Day 15 Primer – The Finale + Roster Moves]]                                   |
-| 2022-10-02 | [[Mayors Manor]]       | [[Kings and Reign Rosters Almost Finished - Answering The Final Six Questions]] |
-| 2022-09-29 | [[LA Kings Insider]]   | [[Angeles Analysis – Thoughts From The First Week Of Training Camp]]            |
+| Date       | Site                 | Title                                                                                         |
+| ---------- | -------------------- | --------------------------------------------------------------------------------------------- |
+| 2022-10-07 | [[LA Kings Insider]] | [[Day 15 Primer – The Finale + Roster Moves]]                                                 |
+| 2022-10-02 | [[Mayors Manor]]     | [[Kings and Reign Rosters Almost Finished - Answering The Final Six Questions]]               |
+| 2022-09-29 | [[LA Kings Insider]] | [[Angeles Analysis – Thoughts From The First Week Of Training Camp]]                          |
 | 2022-09-10 | [[The Hockey Writers]] | [[Kings Prospect Preview - Samuel Fagemo]]                                     |
 
 
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                               |
 | ---------- | -------------------- | ----------------------------------------------------------------------------------- |
+| 2022-11-10 | [[Mayors Manor]]     | [[Ontario Reign - Projected Lineup at San Jose - With Trio of Top Kings Prospects Returning]] |
 | 2022-11-03 | [[Mayors Manor]]     | [[Ontario Reign - Projected Lineup vs Colorado Eagles - Fagemo Out]]                |
 | 2022-10-30 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 4-3 win against Bakersfield]]                |
 | 2022-10-28 | [[Hockey Royalty]]   | [[LA Kings - 2022-23 prospect rankings, the top five]]                              |

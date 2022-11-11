@@ -24,6 +24,8 @@ NHL.com | Twitter
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                     |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-10 | [[Kings at NHL.com]]    | [[Tradin Jabs with ESPNs Ray Ferraro]]                                                                                                    |
+| 2022-11-10 | [[The Athletic]]        | [[Blackhawks vs Kings conjures fuzzy memories and warns of fuzzier futures]]                                                              |
 | 2022-11-09 | [[ESPN]]                | [[NHL small-sample superstars - Predictions on who keeps it up]]                                                                          |
 | 2022-11-09 | [[LA Daily News]]       | [[Gabe Vilardi is finding his game with Kings]]                                                                                           |
 | 2022-11-09 | [[Kings at NHL.com]]    | [[11-8 FINAL - Kings 1, Wild 0]]                                                                                                          |

@@ -21,9 +21,11 @@ NHL.com / Ontario Reign | Twitter
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                 |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-09 | [[LA Daily News]]       | [[Gabe Vilardi is finding his game with Kings]]                                              |
-| 2022-11-09 | [[Kings at NHL.com]]    | [[11-8 FINAL - Kings 1, Wild 0]]                                                                         |
-| 2022-11-09 | [[The Athletic]]        | [[LA Kings are scoring more goals — heres why, and is there a cost involved]]                               |
+| 2022-11-10 | [[LA Daily News]]       | [[Kings score late, beat Blackhawks in overtime]]                                                                                 |
+| 2022-11-10 | [[LA Kings Insider]]    | [[11-10 Preview – Projected Lineup + Chicago Rematch, Importance Of Faceoffs, Turcotte to ONT]]                                                       |
+| 2022-11-09 | [[LA Daily News]]       | [[Gabe Vilardi is finding his game with Kings]]                                                                                                       |
+| 2022-11-09 | [[Kings at NHL.com]]    | [[11-8 FINAL - Kings 1, Wild 0]]                                                                                                                      |
+| 2022-11-09 | [[The Athletic]]        | [[LA Kings are scoring more goals — heres why, and is there a cost involved]]                                                                         |
 | 2022-11-09 | [[LA Kings Insider]]    | [[11-9 Practice – Winning 1-0, McLellan on Quick and Power Play, Roys Growth and Consistency]]                                                        |
 | 2022-11-08 | [[The Fourth Period]]   | [[LAK AT 14 - ARE YOU NOT ENTERTAINED]]                                                                                                               |
 | 2022-11-08 | [[LA Hockey Now]]       | [[Kings Vs Wild, Game No 15, lines, Notes, and How to Watch]]                                                                                         |

@@ -22,6 +22,8 @@ Anze Kopitar | 11 | C | L | 6' 3" | 225 | 1987-08-24 | Jesenice, SVN | 2005 LAK,
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                               |
 | ---------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-10 | [[LA Daily News]]       | [[Kings score late, beat Blackhawks in overtime]]                                                                                 |
+| 2022-11-10 | [[LA Kings Insider]]   | [[11-10 Preview – Projected Lineup + Chicago Rematch, Importance Of Faceoffs, Turcotte to ONT]]                                                     |
 | 2022-11-09 | [[The Forum Report]]   | [[Waking up with the Kings - November 9]]                                                                                                           |
 | 2022-11-09 | [[LA Kings Insider]]   | [[Hot out of the gates, Kings prospect Francesco Pinelli building momentum with OHL-Kitchener]]                                                     |
 | 2022-11-08 | [[Kings at NHL.com]]   | [[LA Kings vs Minnesota Wild - How to Watch]]                                                                                                       |

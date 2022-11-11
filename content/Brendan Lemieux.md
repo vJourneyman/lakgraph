@@ -22,6 +22,7 @@ Brendan Lemieux | 48 | LW | L | 6' 1" | 215 | 1996-03-15 | Denver, CO, USA | 201
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                     |
 | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-10 | [[Hockey Royalty]]     | [[LA Kings vs Chicago Blackhawks projected lineup, betting preview]]                                                      |
 | 2022-11-09 | [[The Hockey Writers]] | [[Kings Lemieux Playing Well Despite Penalty Problems]]                                                                   |
 | 2022-11-09 | [[The Forum Report]]   | [[Waking up with the Kings - November 9]]                                                                                 |
 | 2022-11-05 | [[LA Kings Insider]]   | [[11-5 Preview - Full Team Skate + Striving For Consistency, Ras-matazz- LA Kings Insider]]                               |

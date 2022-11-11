@@ -21,6 +21,8 @@ Brandt Clarke | 92 | RD | R | 6' 2" | 185 | 2003-02-09 | Nepean, ON, CAN | 2021 
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-10 | [[Kings at NHL.com]]    | [[Tradin Jabs with ESPNs Ray Ferraro]]                                                                                                              |
+| 2022-11-10 | [[Hockey Royalty]]      | [[LA Kings vs Chicago Blackhawks projected lineup, betting preview]]                                                                                |
 | 2022-11-08 | [[The Fourth Period]]   | [[LAK AT 14 - ARE YOU NOT ENTERTAINED]]                                                                                                             |
 | 2022-11-08 | [[Hockey Royalty]]      | [[LA Kings vs Minnesota Wild projected lineup, betting preview]]                                                                                    |
 | 2022-11-05 | [[The Forum Report]]    | [[When Gudas put ink to paper with the Kings - Byfield skates but wont play]]                                                                       |

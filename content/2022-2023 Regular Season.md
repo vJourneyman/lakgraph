@@ -15,7 +15,19 @@ status: in-progress
 
 | Date       | Site                    | Title                                                                                                                                                 |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-09 | [[Field Level Media]]   | [[Blackhawks meet Kings in search of another jumpstart]]      |
+| 2022-11-11 | [[Field Level Media]]   | [[Kevin Fiala beats OT horn as Kings beat Blackhawks]]                                                                                                |
+| 2022-11-10 | [[Last Word On Sports]] | [[NHL Predictions - November 10th Including Chicago Blackhawks vs Los Angeles Kings]]                                                                 |
+| 2022-11-10 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Activate Alex Turcotte - Assign To AHL]]                                                                                          |
+| 2022-11-10 | [[LA Daily News]]       | [[Kings prospect Alex Turcotte activated from injured non-roster list]]                                                                               |
+| 2022-11-10 | [[LA Daily News]]       | [[Kings score late, beat Blackhawks in overtime]]                                                                                                     |
+| 2022-11-10 | [[Kings at NHL.com]]    | [[Tradin Jabs with ESPNs Ray Ferraro]]                                                                                                                |
+| 2022-11-10 | [[Kings at NHL.com]]    | [[LA Kings Activate Forward Alex Turcotte for Loan to Ontario Reign]]                                                                                 |
+| 2022-11-10 | [[Hockey Royalty]]      | [[LA Kings vs Chicago Blackhawks projected lineup, betting preview]]                                                                                  |
+| 2022-11-10 | [[Mayors Manor]]        | [[Ontario Reign - Projected Lineup at San Jose - With Trio of Top Kings Prospects Returning]]                                                         |
+| 2022-11-10 | [[The Athletic]]        | [[Blackhawks vs Kings conjures fuzzy memories and warns of fuzzier futures]]                                                                          |
+| 2022-11-10 | [[LA Kings Insider]]    | [[11-10 Preview – Projected Lineup + Chicago Rematch, Importance Of Faceoffs, Turcotte to ONT]]                                                       |
+| 2022-11-10 | [[LA Kings Insider]]    | [[REIGN PREVIEW – Ontario at San Jose, 11-10]]                                                                                                        |
+| 2022-11-09 | [[Field Level Media]]   | [[Blackhawks meet Kings in search of another jumpstart]]                                                                                              |
 | 2022-11-09 | [[Field Level Media]]   | [[Gabriel Vilardi scores lone goal as Kings blank Wild]]                                                                                              |
 | 2022-11-09 | [[The Hockey Writers]]  | [[Kings Lemieux Playing Well Despite Penalty Problems]]                                                                                               |
 | 2022-11-09 | [[ESPN]]                | [[NHL small-sample superstars - Predictions on who keeps it up]]                                                                                      |
@@ -25,7 +37,7 @@ status: in-progress
 | 2022-11-09 | [[The Athletic]]        | [[LA Kings are scoring more goals — heres why, and is there a cost involved]]                                                                         |
 | 2022-11-09 | [[The Athletic]]        | [[Kirill Kaprizov gets match penalty as Wild offense sputters in loss to Kings - ‘Its a joke]]                                                        |
 | 2022-11-09 | [[The Forum Report]]    | [[Waking up with the Kings - November 9]]                                                                                                             |
-| 2022-11-09 | [[LA Kings Insider]]    | [[11-9 Practice – Winning 1-0, McLellan on Quick and Power Play, Roys Growth and Consistency]]                                                        |
+| 2022-11-09 | [[LA Kings Insider]]    | [[11-9 Practice – Winning 1-0, McLellan on Quick and Power Play, Roys Growth and Consistency]]                                                        | 
 | 2022-11-09 | [[LA Kings Insider]]    | [[Hot out of the gates, Kings prospect Francesco Pinelli building momentum with OHL-Kitchener]]                                                       |
 | 2022-11-08 | [[The Fourth Period]]   | [[LAK AT 14 - ARE YOU NOT ENTERTAINED]]                                                                                                               |
 | 2022-11-08 | [[The Hockey News]]     | [[FIVE AHL PLAYERS WHO DESERVE AN EXTENDED NHL AUDITION]]                                                                                             |

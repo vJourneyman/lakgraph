@@ -22,7 +22,10 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                              |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| 2022-11-09 | [[LA Daily News]]       | [[Gabe Vilardi is finding his game with Kings]]                                              |
+| 2022-11-10 | [[LA Daily News]]       | [[Kings score late, beat Blackhawks in overtime]]                                                                                 |
+| 2022-11-10 | [[The Athletic]]        | [[Blackhawks vs Kings conjures fuzzy memories and warns of fuzzier futures]]                                       |
+| 2022-11-10 | [[LA Kings Insider]]    | [[11-10 Preview – Projected Lineup + Chicago Rematch, Importance Of Faceoffs, Turcotte to ONT]]                    |
+| 2022-11-09 | [[LA Daily News]]       | [[Gabe Vilardi is finding his game with Kings]]                                                                    |
 | 2022-11-08 | [[LA Hockey Now]]       | [[Kings Vs Wild, Game No 15, lines, Notes, and How to Watch]]                                                      |
 | 2022-11-08 | [[LA Daily News]]       | [[Kings edge Wild as Jonathan Quick outduels Marc-Andre Fleury]]                                                   |
 | 2022-11-07 | [[LA Kings Insider]]    | [[Practice Practice! The Kings hit the ice in El Segundo with a return to routine the center focus]]               |

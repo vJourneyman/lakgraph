@@ -28,6 +28,7 @@ Date | Site |  Title
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                               |
 | ---------- | -------------------- | ----------------------------------------------------------------------------------- |
+| 2022-11-10 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at San Jose, 11-10]]                                      |
 | 2022-11-07 | [[Hockey Royalty]]   | [[Ontario Reign - Three stars of the week from 10-31 to 11-6]]                      |
 | 2022-11-05 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at Colorado, 11-5 - LA Kings Insider]]                    |
 | 2022-10-22 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs San Diego, 10-22 - LA Kings Insider]]                  |
