@@ -22,7 +22,9 @@ Anze Kopitar | 11 | C | L | 6' 3" | 225 | 1987-08-24 | Jesenice, SVN | 2005 LAK,
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                               |
 | ---------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-10 | [[LA Daily News]]       | [[Kings score late, beat Blackhawks in overtime]]                                                                                 |
+| 2022-11-10 | [[ESPN]]               | [[They make you feel like you belong - How Drew Doughty and Anze Kopitar have shaped the Kings]]                                                    |
+| 2022-11-10 | [[LA Daily News]]      | [[Kings score late, beat Blackhawks in overtime]]                                                                                                   |
+| 2022-11-10 | [[Kings at NHL.com]]   | [[Fialas goal with 1 point 4 seconds left gives Kings OT win against Blackhawks]]                                                                   |
 | 2022-11-10 | [[LA Kings Insider]]   | [[11-10 Preview – Projected Lineup + Chicago Rematch, Importance Of Faceoffs, Turcotte to ONT]]                                                     |
 | 2022-11-09 | [[The Forum Report]]   | [[Waking up with the Kings - November 9]]                                                                                                           |
 | 2022-11-09 | [[LA Kings Insider]]   | [[Hot out of the gates, Kings prospect Francesco Pinelli building momentum with OHL-Kitchener]]                                                     |
@@ -73,7 +75,7 @@ Anze Kopitar | 11 | C | L | 6' 3" | 225 | 1987-08-24 | Jesenice, SVN | 2005 LAK,
 | 2022-10-16 | [[The Forum Report]]   | [[Possession Chart - 10-15 at MIN]]                                                                                                                 |
 | 2022-10-14 | [[The Forum Report]]   | [[Possession Chart - 10-13 vs SEA]]                                                                                                                 |
 | 2022-10-13 | [[The Forum Report]]   | [[Blake excited about 3C slot for Byfield as Kopitar and Danault – and Matthews – provide influence]]                                               |
-| 2022-10-12 | [[LA Daily News]]      | [[Kings look to settle in vs. Seattle after sloppy opener]]                                                                                         |
+| 2022-10-12 | [[LA Daily News]]      | [[Kings look to settle in vs Seattle after sloppy opener]]                                                                                          |
 | 2022-10-12 | [[The Athletic]]       | [[LA Kings hope to settle in after penalties and mistakes evident vs Vegas]]                                                                        |
 | 2022-10-12 | [[Hockey Royalty]]     | [[LA Kings, Kopitar aim to correct mistakes - Notes on Quick, Vilardi, Fiala]]                                                                      |
 | 2022-10-12 | [[The Athletic]]       | [[LA Kings hope to ‘settle in’ after penalties and mistakes evident vs Vegas]]                                                                      |
@@ -86,6 +88,7 @@ Anze Kopitar | 11 | C | L | 6' 3" | 225 | 1987-08-24 | Jesenice, SVN | 2005 LAK,
 | 2022-10-10 | [[LA Daily News]]      | [[2022-23 Kings hockey - Five burning questions]]                                                                                                   |
 | 2022-10-10 | [[LA Kings Insider]]   | [[On the eve of the 2022-23 season, Kings leadership expecting progress from increased expectations - LA Kings Insider]]                            |
 | 2022-10-03 | [[LA Times]]           | [[Younger Kings players must beat Anze Kopitar for scoring title - Los Angeles Times]]                                                              |
+| 2022-07-05 | [[LA Kings Insider]] | [[First Reactions from dynamic Kevin Fiala and Rob Blake after blockbuster trade + Other Takeaways - LA Kings Insider]] |
 
 
 

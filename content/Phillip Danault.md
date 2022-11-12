@@ -22,8 +22,12 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                              |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| 2022-11-10 | [[LA Daily News]]       | [[Kings score late, beat Blackhawks in overtime]]                                                                                 |
+| 2022-11-10 | [[LA Hockey Now]]       | [[Danault and Quick Lead Kings Past Blackhawks 2-1]]                                                               |
+| 2022-11-10 | [[The Forum Report]]    | [[Todd senses “a little frustration” in Kempe, scoreless in five straight as percentages regress]]                 |
+| 2022-11-10 | [[LA Daily News]]       | [[Kings score late, beat Blackhawks in overtime]]                                                                  |
 | 2022-11-10 | [[The Athletic]]        | [[Blackhawks vs Kings conjures fuzzy memories and warns of fuzzier futures]]                                       |
+| 2022-11-10 | [[Kings at NHL.com]]    | [[Fialas goal with 1 point 4 seconds left gives Kings OT win against Blackhawks]]                                  |
+| 2022-11-10 | [[LA Kings Insider]]    | [[FINAL – Kings 2, Blackhawks 1 (OT) – Fiala, Danault, McLellan]]                                                  |
 | 2022-11-10 | [[LA Kings Insider]]    | [[11-10 Preview – Projected Lineup + Chicago Rematch, Importance Of Faceoffs, Turcotte to ONT]]                    |
 | 2022-11-09 | [[LA Daily News]]       | [[Gabe Vilardi is finding his game with Kings]]                                                                    |
 | 2022-11-08 | [[LA Hockey Now]]       | [[Kings Vs Wild, Game No 15, lines, Notes, and How to Watch]]                                                      |

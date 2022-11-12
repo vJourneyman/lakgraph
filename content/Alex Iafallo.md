@@ -61,6 +61,7 @@ Alex Iafallo | 19 | LW | L | 6' 0" | 200 | 1993-12-21 | Eden, NY, USA |
 | 2022-10-12 | [[LA Kings Insider]]  | [[Practice 10-12 - Identity Through 3 Periods + Notes on Vilardis Speed, Fourth Goal, Looking Ahead - LA Kings Insider]]             |
 | 2022-10-11 | [[LA Kings Insider]]  | [[10-11 Preview - Projected Lineup + Opening Night Jitters, First Line Coming Together, Blake on Final Moves - LA Kings Insider]]    |
 | 2022-10-10 | [[LA Kings Insider]]  | [[Kings Announce Opening-Night Roster and Roster Moves - LA Kings Insider]]                                                       |
+| 2022-07-11 | [[LA Daily News]] | [[NHL free agency - Kings look to polish their improved roster]] |
 
 ## Minor League Coverage
 Date | Site |  Title

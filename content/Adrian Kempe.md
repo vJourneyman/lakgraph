@@ -23,7 +23,9 @@ NHL.com | Twitter
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-08 | [[LA Kings Insider]]    | [[11-8 Preview – Optional Skate Today + Line Changes After 5, Kaliyevs Progression, ESPN(2)]]                                                                                                       |
+| 2022-11-10 | [[The Forum Report]]    | [[Todd senses “a little frustration” in Kempe, scoreless in five straight as percentages regress]]                                                  |
+| 2022-11-10 | [[LA Kings Insider]]    | [[FINAL – Kings 2, Blackhawks 1 (OT) – Fiala, Danault, McLellan]]                                                                                   |
+| 2022-11-08 | [[LA Kings Insider]]    | [[11-8 Preview – Optional Skate Today + Line Changes After 5, Kaliyevs Progression, ESPN(2)]]                                                       |
 | 2022-11-06 | [[The Forum Report]]    | [[Playmaking Chart - 11-5-22 vs FLA]]                                                                                                               |
 | 2022-11-06 | [[LA Kings Insider]]    | [[Goals On Goals – Where The Kings Stand On A Higher Scoring Start]]                                                                                |
 | 2022-11-02 | [[The Forum Report]]    | [[Reaction in Dallas - Todd on 11-7 - Colin Miller on Calder Cup teammate Adrian Kempe - “You could tell early on that he was going to be a stud”]] |
@@ -62,7 +64,10 @@ NHL.com | Twitter
 | 2022-10-10 | [[LA Kings on YouTube]] | [[Head Coach Todd McLellan speaks to the media after Mondays practice]]                                                                             |
 | 2022-10-09 | [[LA Daily News]]       | [[Kings need faster start to meet higher expectations]]                                                                                             |
 | 2022-10-06 | [[LA Kings Insider]]    | [[PRESEASON FINAL – Kings 4, Golden Knights 6 – Kempe, Durzi, McLellan]]                                                                            |
-| 2022-10-03 | [[LA Kings Insider]]    | [[With a fresh slate, the work is well underway when it comes to the LA Kings power play]]                                           |
+| 2022-10-03 | [[LA Kings Insider]]    | [[With a fresh slate, the work is well underway when it comes to the LA Kings power play]]                                                          |
+| 2022-09-28 | [[The Athletic]]        | [[Kings Kevin Fiala on meshing with Kopitar and playing on a ‘dangerous line]]                                                                      |
+| 2022-07-11 | [[LA Daily News]]       | [[NHL free agency - Kings look to polish their improved roster]]                                                                                    |
+| 2022-07-05 | [[LA Kings Insider]] | [[First Reactions from dynamic Kevin Fiala and Rob Blake after blockbuster trade + Other Takeaways - LA Kings Insider]] |
 
 
 ## Minor League Coverage

@@ -1,5 +1,5 @@
 ---
-title: "Kings look to settle in vs. Seattle after sloppy opener"
+title: "Kings look to settle in vs Seattle after sloppy opener"
 date-created: 2022-10-31
 day-of-week-created: Mon
 date-updated: 
@@ -8,12 +8,12 @@ tags: [NewsPost]
 status: unstarted
 ---
 
-# Kings look to settle in vs. Seattle after sloppy opener
+# Kings look to settle in vs Seattle after sloppy opener
 
 | Date       | Site              | Link                                                                                                                                                    |
 | ---------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2022-10-12 | [[LA Daily News]] | [Kings look to settle in vs. Seattle after sloppy opener](https://www.dailynews.com/2022/10/12/kings-look-to-settle-in-vs-seattle-after-sloppy-opener/) |
-| 2022-10-12 | [[LA Daily News]] | [[Kings look to settle in vs. Seattle after sloppy opener]]                                                                                             |
+| 2022-10-12 | [[LA Daily News]] | [[Kings look to settle in vs Seattle after sloppy opener]]                                                                                             |
 
 ## Contributors
 - [[Andrew Knoll]]

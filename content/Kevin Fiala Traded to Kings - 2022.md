@@ -9,26 +9,25 @@ status: unstarted
 ---
 
 # Kevin Fiala Traded to Kings - 2022
-| Date | Site | Title |
-| ---- | ---- | ----- |
-|      |      |       |
+| Date       | Site                  | Title                                                                                                                                                                                        |
+| ---------- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-09-05 | [[Kings at NHL.com]]  | [[Fiala talks starting over with Kings in Q&A with NHL.com]]                                                                                                                                 |
+| 2022-08-21 | [[Zone Coverage]]     | [[Well Find Out Who Fueled the Fiala-Boldy Duos Success Soon - Zone Coverage]]                                                                                                               |
+| 2022-08-11 | [[LA Kings Insider]]  | [[Fi-all In - Fiala talks committing to Kings, second-half success, power-play ambitions and more - LA Kings Insider]]                                                                       |
+| 2022-08-06 | [[HockeyBuzz]]        | [[HockeyBuzz - Ben Shelley - How will Kevin Fialas seven-year contract work out for the Kings]]                                                                                              |
+| 2022-08-05 | [[Zone Coverage]]     | [[Good Contracts Stopped Wild From Getting A Deal On Fiala - Zone Coverage]]                                                                                                                 |
+| 2022-07-27 | [[Kings at NHL.com]]  | [[Kings add Fiala to boost experienced core, spark power play]]                                                                                                                              |
+| 2022-07-11 | [[LA Daily News]]     | [[NHL free agency - Kings look to polish their improved roster]]                                                                                                                             |
+| 2022-07-07 | [[Hockey Wilderness]] | [[Roundtable - Thoughts about the Fiala trade]]                                                                                                                                              |
+| 2022-07-06 | [[StarTribune]]       | [[Kevin Fiala really excited to start next step in NHL career with Los Angeles Kings]]                                                                                                       |
+| 2022-07-05 | [[LA Kings Insider]]  | [[First Reactions from dynamic Kevin Fiala and Rob Blake after blockbuster trade + Other Takeaways - LA Kings Insider]]                                                                      |
+| 2022-07-04 | [[Hockey Royalty]]    | [[Kevin Fiala - a full scale breakdown on the newest member of the LA Kings]] |
 
 
 
 ## Unprocessed Coverage
 | Date | Site | Title |
 | ---- | ---- | ----- |
-| 2022-09-05 | [[Kings at NHL.com]] | [[Fiala talks starting over with Kings in Q&A with NHL.com]]
-| 2022-08-21 | [[zonecoverage.com]] | [[Well Find Out Who Fueled the Fiala-Boldy Duos Success Soon - Zone Coverage]](https://zonecoverage.com/2022/wild/well-find-out-who-fueled-the-fiala-boldy-duos-success-soon/)
-| 2022-08-11 | [[LA Kings Insider]] | [[Fi-all In - Fiala talks committing to Kings, second-half success, power-play ambitions and more - LA Kings Insider]](https://lakingsinsider.com/2022/08/11/fi-all-in-fiala-talks-committing-to-kings-second-half-success-power-play-ambitions-more/)
-| 2022-08-06 | [[www.hockeybuzz.com]] | [[HockeyBuzz.com - Ben Shelley - How will Kevin Fialas seven-year contract work out for the Kings]](https://www.hockeybuzz.com/blog/Ben-Shelley/How-will-Kevin-Fialas-seven-year-contract-work-out-for-the-Kings/281/118367)
-| 2022-08-05 | [[zonecoverage.com]] | [["Good" Contracts Stopped Wild From Getting A Deal On Fiala - Zone Coverage]](https://zonecoverage.com/2022/wild/good-contracts-stopped-wild-from-getting-a-deal-on-fiala/)
-| 2022-07-27 | [[Kings at NHL.com]] | [[Kings add Fiala to boost experienced core, spark power play]](https://www.nhl.com/news/los-angeles-kings-roster-changes-
-| 2022-07-11 | [[LA Daily News]] | [[NHL free agency - Kings look to polish their improved roster]](https://www.dailynews.com/2022/07/11/nhl-free-agency-kings-look-to-polish-their-improved-roster/)
-| 2022-07-07 | [[www.hockeywilderness.com]] | [[Roundtable - Thoughts about the Fiala trade]](https://www.hockeywilderness.com/2022/7/7/23188770/nhl-trade-rumors-draft-kevin-fiala-minnesota-wild-los-angeles-kings)
-| 2022-07-06 | [[www.startribune.com]] | [[Kevin Fiala really excited to start next step in NHL career with Los Angeles Kings]](https://www.startribune.com/kevin-fiala-los-angeles-kings-minnesota-wild-trade-seven-year-contract/600187891/)
-| 2022-07-05 | [[LA Kings Insider]] | [[First Reactions from "dynamic" Kevin Fiala and Rob Blake after blockbuster trade + Other Takeaways - LA Kings Insider]](https://lakingsinsider.com/2022/07/05/first-reactions-from-dynamic-kevin-fiala-and-rob-blake-after-blockbuster-trade-other-takeaways/)
-| 2022-07-04 | [[Hockey Royalty]] | [[Kevin Fiala - a full scale breakdown on the newest member of the LA Kings]](https://hockeyroyalty.com/2022/07/04/kevin-fiala-a-full-scale-breakdown-on-the-newest-member-of-the-la-kings/)
 | 2022-06-29 | [[ESPN]] | [[Minnesota Wild create salary-cap space, send RFA forward Kevin Fiala, 25, to Los Angeles Kings]](https://www.espn.com/nhl/story/_/id/34169124/minnesota-wild-create-salary-cap-space-send-rfa-forward-kevin-fiala-25-los-angeles-kings)
 | 2022-06-29 | [[Sports Illustrated]] | [[Report - Minnesota Wild trade Kevin Fiala to Los Angeles Kings]](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/fannation/bringmethesports/)
 | 2022-06-20 | [[nhl.nbcsports.com]] | [[NHL Power Rankings - Offseason trade candidates]](https://nhl.nbcsports.com/2022/06/20/nhl-power-rankings-offseason-trade-candidates/)

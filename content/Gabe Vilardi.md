@@ -111,7 +111,7 @@ NHL.com | Twitter
 | 2022-10-13 | [[LA Daily News]]       | [[Kings lose to Kraken as Brandt Clarke makes his NHL debut]]                                                                             |
 | 2022-10-13 | [[The Forum Report]]    | [[Blake excited about 3C slot for Byfield as Kopitar and Danault – and Matthews – provide influence]]                                     |
 | 2022-10-13 | [[LA Kings Insider]]    | [[10-13 Preview - Clarke Debut Expected + Arvidsson out, 19-55-13 Line, Being First - LA Kings Insider]]                                  |
-| 2022-10-12 | [[LA Daily News]]       | [[Kings look to settle in vs. Seattle after sloppy opener]]                                                                               |
+| 2022-10-12 | [[LA Daily News]]       | [[Kings look to settle in vs Seattle after sloppy opener]]                                                                               |
 | 2022-10-12 | [[The Athletic]]        | [[LA Kings hope to settle in after penalties and mistakes evident vs Vegas]]                                                              |
 | 2022-10-12 | [[Hockey Royalty]]      | [[LA Kings, Kopitar aim to correct mistakes - Notes on Quick, Vilardi, Fiala]]                                                            |
 | 2022-10-12 | [[Hockey Royalty]]      | [[LA Kings - Three takeaways from 4-3 loss against VGK]]                                                                                  |

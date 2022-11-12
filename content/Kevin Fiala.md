@@ -20,8 +20,11 @@ Kevin Fiala | 22 | LW | L | 5' 10" | 204 | 1996-07-22 | St. Gallen, CHE | 2014 N
 ## NHL  Coverage
 | Date       | Site                            | Title                                                                                                                                |
 | ---------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-10 | [[LA Hockey Now]]               | [[Danault and Quick Lead Kings Past Blackhawks 2-1]]                                                                                 |
 | 2022-11-10 | [[LA Daily News]]               | [[Kings score late, beat Blackhawks in overtime]]                                                                                    |
+| 2022-11-10 | [[Kings at NHL.com]]            | [[Fialas goal with 1 point 4 seconds left gives Kings OT win against Blackhawks]]                                                    |
 | 2022-11-10 | [[Kings at NHL.com]]            | [[Tradin Jabs with ESPNs Ray Ferraro]]                                                                                               |
+| 2022-11-10 | [[LA Kings Insider]]            | [[FINAL – Kings 2, Blackhawks 1 (OT) – Fiala, Danault, McLellan]]                                                                    |
 | 2022-11-09 | [[The Athletic]]                | [[LA Kings are scoring more goals — heres why, and is there a cost involved]]                                                        |
 | 2022-11-08 | [[The Fourth Period]]           | [[LAK AT 14 - ARE YOU NOT ENTERTAINED]]                                                                                              |
 | 2022-11-08 | [[LA Hockey Now]]               | [[Kings Vs Wild, Game No 15, lines, Notes, and How to Watch]]                                                                        |
@@ -110,10 +113,24 @@ Kevin Fiala | 22 | LW | L | 5' 10" | 204 | 1996-07-22 | St. Gallen, CHE | 2014 N
 | 2022-10-10 | [[LA Daily News]]               | [[2022-23 Kings hockey - Five burning questions]]                                                                                    |
 | 2022-10-10 | [[LA Kings on YouTube]]         | [[Head Coach Todd McLellan speaks to the media after Mondays practice]]                                                              |
 | 2022-10-10 | [[LA Times]]                    | [[Five things to watch for as LA Kings embark on new NHL season - Los Angeles Times]]                                                |
+| 2022-10-09 | [[Bleacher Report]]             | [[8 Overhyped Players at the Start of the 2022-23 NHL Season]]                                                                       |
 | 2022-10-09 | [[LA Daily News]]               | [[Kings need faster start to meet higher expectations]]                                                                              |
 | 2022-10-03 | [[LA Kings Insider]]            | [[With a fresh slate, the work is well underway when it comes to the LA Kings power play]]                                           |
+| 2022-09-28 | [[The Athletic]]                | [[Kings Kevin Fiala on meshing with Kopitar and playing on a ‘dangerous line]]                                                       |
+| 2022-09-27 | [[NHLPA]]                       | [[KEVIN FIALA REUNITES WITH FORMER TEAMMATES, AIMS FOR STANDOUT SEASON IN LA]]                                                       |
 | 2022-09-26 | [[LA Kings Insider on YouTube]] | [[Kevin Fiala - 9.26]]                                                                                                               |
 | 2022-09-26 | [[LA Kings Insider]]            | [[PRESEASON FINAL – Kings 2, Golden Knights 1 OT – Fiala, Copley, McLellan]]                                                         |
+| 2022-09-05 | [[Kings at NHL.com]]            | [[Fiala talks starting over with Kings in Q&A with NHL.com]]                                                                         |
+| 2022-08-21 | [[Zone Coverage]]               | [[Well Find Out Who Fueled the Fiala-Boldy Duos Success Soon - Zone Coverage]]                                                       |
+| 2022-08-11 | [[LA Kings Insider]]            | [[Fi-all In - Fiala talks committing to Kings, second-half success, power-play ambitions and more - LA Kings Insider]]               |
+| 2022-08-06 | [[HockeyBuzz]]                  | [[HockeyBuzz - Ben Shelley - How will Kevin Fialas seven-year contract work out for the Kings]]                                      |
+| 2022-08-05 | [[Zone Coverage]]               | [[Good Contracts Stopped Wild From Getting A Deal On Fiala - Zone Coverage]]                                                         |
+| 2022-07-27 | [[Kings at NHL.com]]            | [[Kings add Fiala to boost experienced core, spark power play]]                                                                      |
+| 2022-07-11 | [[LA Daily News]]               | [[NHL free agency - Kings look to polish their improved roster]]                                                                     |
+| 2022-07-07 | [[Hockey Wilderness]]           | [[Roundtable - Thoughts about the Fiala trade]]                                                                                      |
+| 2022-07-06 | [[StarTribune]]                 | [[Kevin Fiala really excited to start next step in NHL career with Los Angeles Kings]]                                               |
+| 2022-07-05 | [[LA Kings Insider]]            | [[First Reactions from dynamic Kevin Fiala and Rob Blake after blockbuster trade + Other Takeaways - LA Kings Insider]]              |
+| 2022-07-04 | [[Hockey Royalty]]    | [[Kevin Fiala - a full scale breakdown on the newest member of the LA Kings]] |
 
 
 
@@ -138,8 +155,5 @@ Kevin Fiala | 22 | LW | L | 5' 10" | 204 | 1996-07-22 | St. Gallen, CHE | 2014 N
  
 | Date       | Site                   | Title                                                                                                                                                                   |
 | ---------- | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-10-09 | [[bleacherreport.com]] | [[8 Overhyped Players at the Start of the 2022-23 NHL Season]](https://bleacherreport.com/articles/10051673-8-overhyped-players-at-the-start-of-the-2022-23-nhl-season) |
-| 2022-09-28 | [[The Athletic]] | [[Kings Kevin Fiala on meshing with Kopitar and playing on a ‘dangerous line]](https://theathletic.com/3638517/2022/09/28/kevin-fiala-kings-wild-kopitar/)
-| 2022-09-27 | [[NHLPA]] | [[KEVIN FIALA REUNITES WITH FORMER TEAMMATES, AIMS FOR STANDOUT SEASON IN LA]](https://www.nhlpa.com/news/1-22375/kevin-fiala-reunites-with-former-teammates-aims-for-standout-season-in-la)
 
 

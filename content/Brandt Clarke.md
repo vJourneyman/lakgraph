@@ -21,6 +21,7 @@ Brandt Clarke | 92 | RD | R | 6' 2" | 185 | 2003-02-09 | Nepean, ON, CAN | 2021 
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-10 | [[ESPN]]                | [[They make you feel like you belong - How Drew Doughty and Anze Kopitar have shaped the Kings]]                                                    |
 | 2022-11-10 | [[Kings at NHL.com]]    | [[Tradin Jabs with ESPNs Ray Ferraro]]                                                                                                              |
 | 2022-11-10 | [[Hockey Royalty]]      | [[LA Kings vs Chicago Blackhawks projected lineup, betting preview]]                                                                                |
 | 2022-11-08 | [[The Fourth Period]]   | [[LAK AT 14 - ARE YOU NOT ENTERTAINED]]                                                                                                             |
@@ -95,7 +96,7 @@ Brandt Clarke | 92 | RD | R | 6' 2" | 185 | 2003-02-09 | Nepean, ON, CAN | 2021 
 | 2022-10-13 | [[The Forum Report]]    | [[October 13 - McLellan envisions “instinctual” hockey in Clarkes debut - Arvidsson ill - Quick-Jones]]                                             |
 | 2022-10-13 | [[LA Kings Insider]]    | [[FINAL - Kings 1, Kraken 4 - Clarke, Danault, McLellan - LA Kings Insider]]                                                                        |
 | 2022-10-13 | [[LA Kings Insider]]    | [[10-13 Preview - Clarke Debut Expected + Arvidsson out, 19-55-13 Line, Being First - LA Kings Insider]]                                            |
-| 2022-10-12 | [[LA Daily News]]       | [[Kings look to settle in vs. Seattle after sloppy opener]]                                                                                         |
+| 2022-10-12 | [[LA Daily News]]       | [[Kings look to settle in vs Seattle after sloppy opener]]                                                                                          |
 | 2022-10-11 | [[LA Daily News]]       | [[GM Rob Blake looking to see Kings reach another level]]                                                                                           |
 | 2022-10-11 | [[The Forum Report]]    | [[October 11 - Lineup notes - Fiala, Kopitar, Kempe buddies - Clarke debut to wait]]                                                                |
 | 2022-10-11 | [[Mayors Manor]]        | [[Kings Of The Podcast - Ep 138 – Season Preview with LA GM Rob Blake]]                                                                             |

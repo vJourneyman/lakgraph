@@ -24,11 +24,12 @@ Date | Site |  Title
 
 
 ## Minor League Coverage
-| Date       | Site                 | Title                                                                 |
-| ---------- | -------------------- | --------------------------------------------------------------------- |
-| 2022-10-31 | [[Mayors Manor]]     | [[LAK Prospects - Weekly Reign Report, October 30, 2022]]             |
+| Date       | Site                 | Title                                                                |
+| ---------- | -------------------- | -------------------------------------------------------------------- |
+| 2022-11-10 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 3, Barracuda 4 (SO) – Sturm, Ward]]            |
+| 2022-10-31 | [[Mayors Manor]]     | [[LAK Prospects - Weekly Reign Report, October 30, 2022]]            |
 | 2022-10-29 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Bakersfield, 10-29 - LA Kings Insider]] |
-| 2022-10-08 | [[LA Kings Insider]] | [[REIGN PRESEASON FINAL – Reign 2, Gulls 6 – Sturm, Ward]] |
+| 2022-10-08 | [[LA Kings Insider]] | [[REIGN PRESEASON FINAL – Reign 2, Gulls 6 – Sturm, Ward]]           |
 
 
 

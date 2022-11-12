@@ -18,13 +18,19 @@ status: in-progress
 | 2022-11-11 | [[Field Level Media]]   | [[Kevin Fiala beats OT horn as Kings beat Blackhawks]]                                                                                                |
 | 2022-11-10 | [[Last Word On Sports]] | [[NHL Predictions - November 10th Including Chicago Blackhawks vs Los Angeles Kings]]                                                                 |
 | 2022-11-10 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Activate Alex Turcotte - Assign To AHL]]                                                                                          |
+| 2022-11-10 | [[ESPN]]                | [[They make you feel like you belong - How Drew Doughty and Anze Kopitar have shaped the Kings]]                                                      |
+| 2022-11-10 | [[LA Hockey Now]]       | [[Danault and Quick Lead Kings Past Blackhawks 2-1]]                                                                                                  |
 | 2022-11-10 | [[LA Daily News]]       | [[Kings prospect Alex Turcotte activated from injured non-roster list]]                                                                               |
 | 2022-11-10 | [[LA Daily News]]       | [[Kings score late, beat Blackhawks in overtime]]                                                                                                     |
+| 2022-11-10 | [[Kings at NHL.com]]    | [[Fialas goal with 1 point 4 seconds left gives Kings OT win against Blackhawks]]                                                                     |
 | 2022-11-10 | [[Kings at NHL.com]]    | [[Tradin Jabs with ESPNs Ray Ferraro]]                                                                                                                |
 | 2022-11-10 | [[Kings at NHL.com]]    | [[LA Kings Activate Forward Alex Turcotte for Loan to Ontario Reign]]                                                                                 |
 | 2022-11-10 | [[Hockey Royalty]]      | [[LA Kings vs Chicago Blackhawks projected lineup, betting preview]]                                                                                  |
 | 2022-11-10 | [[Mayors Manor]]        | [[Ontario Reign - Projected Lineup at San Jose - With Trio of Top Kings Prospects Returning]]                                                         |
 | 2022-11-10 | [[The Athletic]]        | [[Blackhawks vs Kings conjures fuzzy memories and warns of fuzzier futures]]                                                                          |
+| 2022-11-10 | [[The Forum Report]]    | [[Todd senses “a little frustration” in Kempe, scoreless in five straight as percentages regress]]                                                    |
+| 2022-11-10 | [[LA Kings Insider]]    | [[FINAL – Kings 2, Blackhawks 1 (OT) – Fiala, Danault, McLellan]]                                                                                     |
+| 2022-11-10 | [[LA Kings Insider]]    | [[REIGN FINAL – Reign 3, Barracuda 4 (SO) – Sturm, Ward]]                                                                                             |
 | 2022-11-10 | [[LA Kings Insider]]    | [[11-10 Preview – Projected Lineup + Chicago Rematch, Importance Of Faceoffs, Turcotte to ONT]]                                                       |
 | 2022-11-10 | [[LA Kings Insider]]    | [[REIGN PREVIEW – Ontario at San Jose, 11-10]]                                                                                                        |
 | 2022-11-09 | [[Field Level Media]]   | [[Blackhawks meet Kings in search of another jumpstart]]                                                                                              |
@@ -37,7 +43,7 @@ status: in-progress
 | 2022-11-09 | [[The Athletic]]        | [[LA Kings are scoring more goals — heres why, and is there a cost involved]]                                                                         |
 | 2022-11-09 | [[The Athletic]]        | [[Kirill Kaprizov gets match penalty as Wild offense sputters in loss to Kings - ‘Its a joke]]                                                        |
 | 2022-11-09 | [[The Forum Report]]    | [[Waking up with the Kings - November 9]]                                                                                                             |
-| 2022-11-09 | [[LA Kings Insider]]    | [[11-9 Practice – Winning 1-0, McLellan on Quick and Power Play, Roys Growth and Consistency]]                                                        | 
+| 2022-11-09 | [[LA Kings Insider]]    | [[11-9 Practice – Winning 1-0, McLellan on Quick and Power Play, Roys Growth and Consistency]]                                                        |
 | 2022-11-09 | [[LA Kings Insider]]    | [[Hot out of the gates, Kings prospect Francesco Pinelli building momentum with OHL-Kitchener]]                                                       |
 | 2022-11-08 | [[The Fourth Period]]   | [[LAK AT 14 - ARE YOU NOT ENTERTAINED]]                                                                                                               |
 | 2022-11-08 | [[The Hockey News]]     | [[FIVE AHL PLAYERS WHO DESERVE AN EXTENDED NHL AUDITION]]                                                                                             |
@@ -425,6 +431,7 @@ status: in-progress
 | 2022-10-11 | [[ESPN]]                | [[What to watch in Rangers-Lightning, Kings-Knights on ESPN]]                                                                                         |
 | 2022-10-10 | [[LA Times]]            | [[Five things to watch for as LA Kings embark on new NHL season - Los Angeles Times]]                                                                 |
 | 2022-10-10 | [[LA Daily News]]       | [[2022-23 Kings hockey - Five burning questions]]                                                                                                     |
+| 2022-10-09 | [[Bleacher Report]]     | [[8 Overhyped Players at the Start of the 2022-23 NHL Season]]                                                                                        |
 | 2022-10-09 | [[LA Daily News]]       | [[Kings need faster start to meet higher expectations]]                                                                                               |
 | 2022-10-03 | [[LA Times]]            | [[Younger Kings players must beat Anze Kopitar for scoring title - Los Angeles Times]]                                                                |
 

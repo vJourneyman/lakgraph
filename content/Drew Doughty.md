@@ -22,6 +22,7 @@ Drew Doughty | 8 | RD | R | 6' 1" | 210 | 1989-12-08 | London, ON, CAN | 2008 LA
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                 |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-10 | [[ESPN]]                | [[They make you feel like you belong - How Drew Doughty and Anze Kopitar have shaped the Kings]]                                                      |
 | 2022-11-10 | [[The Athletic]]        | [[Blackhawks vs Kings conjures fuzzy memories and warns of fuzzier futures]]                                                                          |
 | 2022-11-09 | [[Kings at NHL.com]]    | [[11-8 FINAL - Kings 1, Wild 0]]                                                                                                                      |
 | 2022-11-09 | [[The Athletic]]        | [[Kirill Kaprizov gets match penalty as Wild offense sputters in loss to Kings - ‘Its a joke]]                                                        |
