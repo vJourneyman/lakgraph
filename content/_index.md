@@ -22,7 +22,7 @@ Here's some places you might want to start:
 [[2022-2023 Season Preview]]
 
 [[2022 Off-Season]]
-- Kevin Fiala Trade (tbd)
+- [[Kevin Fiala Traded to Kings - 2022]]
 - 2022 Entry Draft (tbd)
 
 [[LA Kings Roster]]
