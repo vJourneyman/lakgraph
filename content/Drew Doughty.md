@@ -22,6 +22,8 @@ Drew Doughty | 8 | RD | R | 6' 1" | 210 | 1989-12-08 | London, ON, CAN | 2008 LA
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                 |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-11 | [[Mayors Manor]]        | [[Rapid Review - Highlights and Notes from Kings OT Victory Over Chicago]]                                                                            |
+| 2022-11-11 | [[The Athletic]]        | [[NHL99 - Drew Doughtys fearless, tireless, fiery style created a legacy in LA]]                                                                      |
 | 2022-11-10 | [[ESPN]]                | [[They make you feel like you belong - How Drew Doughty and Anze Kopitar have shaped the Kings]]                                                      |
 | 2022-11-10 | [[The Athletic]]        | [[Blackhawks vs Kings conjures fuzzy memories and warns of fuzzier futures]]                                                                          |
 | 2022-11-09 | [[Kings at NHL.com]]    | [[11-8 FINAL - Kings 1, Wild 0]]                                                                                                                      |
@@ -59,7 +61,7 @@ Drew Doughty | 8 | RD | R | 6' 1" | 210 | 1989-12-08 | London, ON, CAN | 2008 LA
 | 2022-10-09 | [[LA Daily News]]       | [[Kings need faster start to meet higher expectations]]                                                                                               |
 | 2022-10-08 | [[LA Kings Insider]]    | [[10-8 Preview – Gameday Thoughts + Byfield Update, Net Play, Versatility At The Bottom]]                                                             |
 | 2022-10-03 | [[LA Times]]            | [[Younger Kings players must beat Anze Kopitar for scoring title - Los Angeles Times]]                                                                |
-| 2022-09-28 | [[LA Kings Insider]] | [[PRESEASON FINAL – Kings 1, Sharks 3 – Doughty, Villalta, McLellan]]                                                       |
+| 2022-09-28 | [[LA Kings Insider]]    | [[PRESEASON FINAL – Kings 1, Sharks 3 – Doughty, Villalta, McLellan]]                                                                                 |
 
 
 ## Minor League Coverage

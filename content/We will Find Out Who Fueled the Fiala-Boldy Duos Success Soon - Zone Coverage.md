@@ -1,5 +1,5 @@
 ---
-title: "Well Find Out Who Fueled the Fiala-Boldy Duos Success Soon - Zone Coverage"
+title: "We will Find Out Who Fueled the Fiala-Boldy Duos Success Soon - Zone Coverage"
 date-created: 2022-11-11
 day-of-week-created: Fri
 date-updated: 
@@ -8,11 +8,11 @@ tags: [NewsPost]
 status: stable
 ---
 
-# Well Find Out Who Fueled the Fiala-Boldy Duos Success Soon - Zone Coverage
+# We will Find Out Who Fueled the Fiala-Boldy Duos Success Soon - Zone Coverage
 
 | Date       | Site              | External Link                                                                                                                                                                  |
 | ---------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-08-21 | [[Zone Coverage]] | [*Well Find Out Who Fueled the Fiala-Boldy Duos Success Soon - Zone Coverage*](https://zonecoverage.com/2022/wild/well-find-out-who-fueled-the-fiala-boldy-duos-success-soon/) |
+| 2022-08-21 | [[Zone Coverage]] | [*We'll Find Out Who Fueled the Fiala-Boldy Duos Success Soon - Zone Coverage*](https://zonecoverage.com/2022/wild/well-find-out-who-fueled-the-fiala-boldy-duos-success-soon/) |
 
 ## Contributors
 - [[Tony Abbott]]
@@ -22,7 +22,7 @@ status: stable
 
 | Date       | Site              | Title / Internal Link                                                          |
 | ---------- | ----------------- | ------------------------------------------------------------------------------ |
-| 2022-08-21 | [[Zone Coverage]] | [[Well Find Out Who Fueled the Fiala-Boldy Duos Success Soon - Zone Coverage]] |
+| 2022-08-21 | [[Zone Coverage]] | [[We will Find Out Who Fueled the Fiala-Boldy Duos Success Soon - Zone Coverage]] |
 
 ## Players
 - [[Kevin Fiala]]

@@ -22,6 +22,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                              |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-11 | [[Hockey Royalty]]      | [[Takeaways - LA Kings 2, Blackhawks 1 – With One Second Left]]                                                    |
 | 2022-11-10 | [[LA Hockey Now]]       | [[Danault and Quick Lead Kings Past Blackhawks 2-1]]                                                               |
 | 2022-11-10 | [[The Forum Report]]    | [[Todd senses “a little frustration” in Kempe, scoreless in five straight as percentages regress]]                 |
 | 2022-11-10 | [[LA Daily News]]       | [[Kings score late, beat Blackhawks in overtime]]                                                                  |

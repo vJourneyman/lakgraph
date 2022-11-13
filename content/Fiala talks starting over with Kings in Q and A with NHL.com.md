@@ -22,7 +22,7 @@ status: stable
 
 | Date       | Site                 | Title / Internal Link                                        |
 | ---------- | -------------------- | ------------------------------------------------------------ |
-| 2022-09-05 | [[Kings at NHL.com]] | [[Fiala talks starting over with Kings in Q&A with NHL.com]] |
+| 2022-09-05 | [[Kings at NHL.com]] | [[Fiala talks starting over with Kings in Q and A with NHL.com]] |
 
 ## Players
 - [[Kevin Fiala]]

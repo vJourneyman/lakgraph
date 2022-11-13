@@ -9,8 +9,9 @@ status: unstarted
 ---
 
 # 2022 Entry Draft
-Date | Site | Title
----|---|---
+| Date       | Site             | Title                                                       |
+| ---------- | ---------------- | ----------------------------------------------------------- |
+| 2021-07-23 | [[Mayors Manor]] | [[LA Kings Predictions for 2021 NHL Entry Draft - Round 1]] |
 
 
 ## Unprocessed Coverage

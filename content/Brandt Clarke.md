@@ -21,6 +21,7 @@ Brandt Clarke | 92 | RD | R | 6' 2" | 185 | 2003-02-09 | Nepean, ON, CAN | 2021 
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-11 | [[LA Kings Insider]]    | [[11-11 Practice – Diving into lineup changes and the state of the power play with Todd McLellan]]                                                  |
 | 2022-11-10 | [[ESPN]]                | [[They make you feel like you belong - How Drew Doughty and Anze Kopitar have shaped the Kings]]                                                    |
 | 2022-11-10 | [[Kings at NHL.com]]    | [[Tradin Jabs with ESPNs Ray Ferraro]]                                                                                                              |
 | 2022-11-10 | [[Hockey Royalty]]      | [[LA Kings vs Chicago Blackhawks projected lineup, betting preview]]                                                                                |
@@ -133,7 +134,7 @@ Brandt Clarke | 92 | RD | R | 6' 2" | 185 | 2003-02-09 | Nepean, ON, CAN | 2021 
 ## Pre-Draft Coverage
 | Date | Site | Title |
 | ---- | ---- | ----- |
+| 2021-07-23 | [[Mayors Manor]] | [[LA Kings Predictions for 2021 NHL Entry Draft - Round 1]] |
 
 
 ## Unprocessed Coverage
-| 2021-07-23 | [[mayorsmanor.com]] | [[LA Kings Predictions for 2021 NHL Entry Draft: Round 1]](https://mayorsmanor.com/2021/07/la-kings-predictions-for-the-2021-nhl-entry-draft-round-1/) |

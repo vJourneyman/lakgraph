@@ -31,6 +31,8 @@ Date | Site |  Title
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                               |
 | ---------- | -------------------- | --------------------------------------------------------------------------------------------------- |
+| 2022-11-11 | [[The AHL]]          | [[Weekend notebook - Reign loaded again with young stars]]                                          |
+| 2022-11-11 | [[Mayors Manor]]     | [[Reign Recap - Revamped Lineup Comes Up Short in Shootout Loss at San Jose]]                       |
 | 2022-11-10 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at San Jose, 11-10]]                                                      |
 | 2022-11-07 | [[Hockey Royalty]]   | [[Ontario Reign - Three stars of the week from 10-31 to 11-6]]                                      |
 | 2022-11-06 | [[Mayors Manor]]     | [[Reign Recap - Ontario Drops Game 2, Settle for a Split in Colorado]]                              |

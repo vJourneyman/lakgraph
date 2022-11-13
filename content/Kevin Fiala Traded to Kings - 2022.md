@@ -9,18 +9,19 @@ status: unstarted
 ---
 
 # Kevin Fiala Traded to Kings - 2022
-| Date       | Site                  | Title                                                                                                                                                                                        |
-| ---------- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-09-05 | [[Kings at NHL.com]]  | [[Fiala talks starting over with Kings in Q&A with NHL.com]]                                                                                                                                 |
-| 2022-08-21 | [[Zone Coverage]]     | [[Well Find Out Who Fueled the Fiala-Boldy Duos Success Soon - Zone Coverage]]                                                                                                               |
-| 2022-08-11 | [[LA Kings Insider]]  | [[Fi-all In - Fiala talks committing to Kings, second-half success, power-play ambitions and more - LA Kings Insider]]                                                                       |
-| 2022-08-06 | [[HockeyBuzz]]        | [[HockeyBuzz - Ben Shelley - How will Kevin Fialas seven-year contract work out for the Kings]]                                                                                              |
-| 2022-08-05 | [[Zone Coverage]]     | [[Good Contracts Stopped Wild From Getting A Deal On Fiala - Zone Coverage]]                                                                                                                 |
-| 2022-07-27 | [[Kings at NHL.com]]  | [[Kings add Fiala to boost experienced core, spark power play]]                                                                                                                              |
-| 2022-07-11 | [[LA Daily News]]     | [[NHL free agency - Kings look to polish their improved roster]]                                                                                                                             |
-| 2022-07-07 | [[Hockey Wilderness]] | [[Roundtable - Thoughts about the Fiala trade]]                                                                                                                                              |
-| 2022-07-06 | [[StarTribune]]       | [[Kevin Fiala really excited to start next step in NHL career with Los Angeles Kings]]                                                                                                       |
-| 2022-07-05 | [[LA Kings Insider]]  | [[First Reactions from dynamic Kevin Fiala and Rob Blake after blockbuster trade + Other Takeaways - LA Kings Insider]]                                                                      |
+| Date       | Site                  | Title                                                                                                                   |
+| ---------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| 2022-09-27 | [[NHLPA]]             | [[KEVIN FIALA REUNITES WITH FORMER TEAMMATES, AIMS FOR STANDOUT SEASON IN LA]]                                          |
+| 2022-09-05 | [[Kings at NHL.com]]  | [[Fiala talks starting over with Kings in Q and A with NHL.com]]                                                        |
+| 2022-08-21 | [[Zone Coverage]]     | [[We will Find Out Who Fueled the Fiala-Boldy Duos Success Soon - Zone Coverage]]                                       |
+| 2022-08-11 | [[LA Kings Insider]]  | [[Fi-all In - Fiala talks committing to Kings, second-half success, power-play ambitions and more - LA Kings Insider]]  |
+| 2022-08-06 | [[HockeyBuzz]]        | [[HockeyBuzz - Ben Shelley - How will Kevin Fialas seven-year contract work out for the Kings]]                         |
+| 2022-08-05 | [[Zone Coverage]]     | [[Good Contracts Stopped Wild From Getting A Deal On Fiala - Zone Coverage]]                                            |
+| 2022-07-27 | [[Kings at NHL.com]]  | [[Kings add Fiala to boost experienced core, spark power play]]                                                         |
+| 2022-07-11 | [[LA Daily News]]     | [[NHL free agency - Kings look to polish their improved roster]]                                                        |
+| 2022-07-07 | [[Hockey Wilderness]] | [[Roundtable - Thoughts about the Fiala trade]]                                                                         |
+| 2022-07-06 | [[StarTribune]]       | [[Kevin Fiala really excited to start next step in NHL career with Los Angeles Kings]]                                  |
+| 2022-07-05 | [[LA Kings Insider]]  | [[First Reactions from dynamic Kevin Fiala and Rob Blake after blockbuster trade + Other Takeaways - LA Kings Insider]] |
 | 2022-07-04 | [[Hockey Royalty]]    | [[Kevin Fiala - a full scale breakdown on the newest member of the LA Kings]] |
 
 

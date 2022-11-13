@@ -27,6 +27,8 @@ status: stable
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                               |
 | ---------- | -------------------- | ----------------------------------------------------------------------------------- |
+| 2022-11-11 | [[The AHL]]          | [[Weekend notebook - Reign loaded again with young stars]]                          |
+| 2022-11-11 | [[Hockey Royalty]]   | [[Takeaways - Ontario Reign 3, San Jose Barracuda 4]]                               |
 | 2022-11-10 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at San Jose, 11-10]]                                      |
 | 2022-11-07 | [[Hockey Royalty]]   | [[Ontario Reign - Three stars of the week from 10-31 to 11-6]]                      |
 | 2022-11-05 | [[Mayors Manor]]     | [[Ontario Reign - Projected Lineup for Rematch in Colorado - Plus Bjornfot Update]] |

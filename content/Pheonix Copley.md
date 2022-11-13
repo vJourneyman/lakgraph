@@ -28,12 +28,13 @@ status: stable
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                              |
 | ---------- | -------------------- | ---------------------------------------------------------------------------------- |
+| 2022-11-11 | [[Hockey Royalty]]   | [[Takeaways - Ontario Reign 3, San Jose Barracuda 4]]                              |
 | 2022-11-06 | [[Mayors Manor]]     | [[Reign Recap - Ontario Drops Game 2, Settle for a Split in Colorado]]             |
 | 2022-11-03 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at Colorado, 11-3 - LA Kings Insider]]                   |
 | 2022-11-02 | [[Hockey Royalty]]   | [[Ontario Reign - Three stars of the week from 10-24 to 10-30]]                    |
 | 2022-11-02 | [[LA Kings Insider]] | [[Ontario Reign defense takes center stage in teams 6-1 start - LA Kings Insider]] |
 | 2022-10-29 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 4, Condors 3 – Hajt, Thomas - LA Kings Insider]]             |
-| 2022-10-29 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Bakersfield, 10-29 - LA Kings Insider]]              |
+| 2022-10-29 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Bakersfield, 10-29 - LA Kings Insider]]               |
 | 2022-10-27 | [[Mayors Manor]]     | [[Reign Recap - Ontario Surge in Standings with Win Over San Jose]]                |
 | 2022-10-26 | [[Mayors Manor]]     | [[Ontario Reign - Projected Lineup at San Jose Barracuda on Wednesday]]            |
 | 2022-10-26 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 2, Barracuda 1 – Sturm - LA Kings Insider]]                  |

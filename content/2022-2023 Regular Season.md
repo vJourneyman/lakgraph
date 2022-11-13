@@ -15,10 +15,28 @@ status: in-progress
 
 | Date       | Site                    | Title                                                                                                                                                 |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-11 | [[The AHL]]             | [[Weekend notebook - Reign loaded again with young stars]]                                                                                            |
+| 2022-11-11 | [[Daily Herald]]        | [[Quick, who shares cool bond with Blackhawks, outduels Mrázek in Kings OT win]]                                                                      |
+| 2022-11-11 | [[Action Network]]      | [[NHL Odds, Preview, Prediction - Red Wings vs Kings (November 12)]]                                                                                  |
+| 2022-11-11 | [[ESPN]]                | [[NHL Power Rankings - 1-32 poll, points pace vs expectation]]                                                                                        |
+| 2022-11-11 | [[LA Daily News]]       | [[Kings look to finish perfect homestand against Detroit]]                                                                                            |
+| 2022-11-11 | [[Hockey Royalty]]      | [[Takeaways - Ontario Reign 3, San Jose Barracuda 4]]                                                                                                 |
+| 2022-11-11 | [[Hockey Royalty]]      | [[Takeaways - LA Kings 2, Blackhawks 1 – With One Second Left]]                                                                                       |
+| 2022-11-11 | [[Hockey Royalty]]      | [[A bigger, stronger Alex Laferriere off to fast start in second year with Harvard]]                                                                  |
+| 2022-11-11 | [[Mayors Manor]]        | [[Rapid Review - Highlights and Notes from Kings OT Victory Over Chicago]]                                                                            |
+| 2022-11-11 | [[Mayors Manor]]        | [[Reign Recap - Revamped Lineup Comes Up Short in Shootout Loss at San Jose]]                                                                         |
+| 2022-11-11 | [[The Athletic]]        | [[NHL Power Rankings - Devils surge into the top five, Blue Jackets plummet to dead last]]                                                            |
+| 2022-11-11 | [[The Athletic]]        | [[Are Paul Henderson, Mike Vernon and Anze Kopitar Hall of Famers Debating each case]]                                                                |
+| 2022-11-11 | [[The Athletic]]        | [[NHL99 - Drew Doughtys fearless, tireless, fiery style created a legacy in LA]]                                                                      |
+| 2022-11-11 | [[The Forum Report]]    | [[Playmaking Chart - 11-10 vs CHI]]                                                                                                                   |
+| 2022-11-11 | [[The Forum Report]]    | [[Waking Up with the Kings - November 11]]                                                                                                            |
+| 2022-11-11 | [[LA Kings Insider]]    | [[11-11 Practice – Diving into lineup changes and the state of the power play with Todd McLellan]]                                                    |
+| 2022-11-11 | [[LA Kings Insider]]    | [[After a trying road back, Alex Turcotte is feeling good after a long-awaited return to Ontario Reign lineup]]                                       |
 | 2022-11-11 | [[Field Level Media]]   | [[Kevin Fiala beats OT horn as Kings beat Blackhawks]]                                                                                                |
 | 2022-11-10 | [[Last Word On Sports]] | [[NHL Predictions - November 10th Including Chicago Blackhawks vs Los Angeles Kings]]                                                                 |
 | 2022-11-10 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Activate Alex Turcotte - Assign To AHL]]                                                                                          |
 | 2022-11-10 | [[ESPN]]                | [[They make you feel like you belong - How Drew Doughty and Anze Kopitar have shaped the Kings]]                                                      |
+| 2022-11-10 | [[Natural Stattrick]]   | [[Chicago Blackhawks at Los Angeles Kings - Natural Statrick]]                                                                                        |
 | 2022-11-10 | [[LA Hockey Now]]       | [[Danault and Quick Lead Kings Past Blackhawks 2-1]]                                                                                                  |
 | 2022-11-10 | [[LA Daily News]]       | [[Kings prospect Alex Turcotte activated from injured non-roster list]]                                                                               |
 | 2022-11-10 | [[LA Daily News]]       | [[Kings score late, beat Blackhawks in overtime]]                                                                                                     |

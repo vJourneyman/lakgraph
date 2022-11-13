@@ -21,7 +21,8 @@ Trevor Moore | 12 | C | L | 5' 10" | 195 | 1995-03-31 | Thousand Oaks, CA, USA
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                            |
 | ---------- | -------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| 2022-11-10 | [[Kings at NHL.com]] | [[Fialas goal with 1 point 4 seconds left gives Kings OT win against Blackhawks]] |
+| 2022-11-11 | [[Hockey Royalty]]   | [[Takeaways - LA Kings 2, Blackhawks 1 – With One Second Left]]                                                  |
+| 2022-11-10 | [[Kings at NHL.com]] | [[Fialas goal with 1 point 4 seconds left gives Kings OT win against Blackhawks]]                                |
 | 2022-11-10 | [[The Forum Report]] | [[Todd senses “a little frustration” in Kempe, scoreless in five straight as percentages regress]]               |
 | 2022-11-10 | [[LA Kings Insider]] | [[FINAL – Kings 2, Blackhawks 1 (OT) – Fiala, Danault, McLellan]]                                                |
 | 2022-11-09 | [[The Athletic]]     | [[LA Kings are scoring more goals — heres why, and is there a cost involved]]                                    |

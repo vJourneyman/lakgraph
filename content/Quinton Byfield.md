@@ -91,9 +91,12 @@ Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
 
 
 ## Minor League Coverage
-| Date       | Site                 | Title                               |     | 
-| ---------- | -------------------- | ----------------------------------- | --- |
-| 2022-11-10 | [[Mayors Manor]]        | [[Ontario Reign - Projected Lineup at San Jose - With Trio of Top Kings Prospects Returning]]                                        |
+| Date       | Site               | Title                                                                                         |     |
+| ---------- | ------------------ | --------------------------------------------------------------------------------------------- | --- |
+| 2022-11-11 | [[The AHL]]        | [[Weekend notebook - Reign loaded again with young stars]]                                    |     |
+| 2022-11-11 | [[Hockey Royalty]] | [[Takeaways - Ontario Reign 3, San Jose Barracuda 4]]                                         |     |
+| 2022-11-11 | [[Mayors Manor]]   | [[Reign Recap - Revamped Lineup Comes Up Short in Shootout Loss at San Jose]]                 |     |
+| 2022-11-10 | [[Mayors Manor]]   | [[Ontario Reign - Projected Lineup at San Jose - With Trio of Top Kings Prospects Returning]] |     |
 
 
 ## Post-Draft Coverage

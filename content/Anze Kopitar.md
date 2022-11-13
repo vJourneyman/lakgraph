@@ -22,6 +22,10 @@ Anze Kopitar | 11 | C | L | 6' 3" | 225 | 1987-08-24 | Jesenice, SVN | 2005 LAK,
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                               |
 | ---------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-11 | [[The Athletic]]       | [[Are Paul Henderson, Mike Vernon and Anze Kopitar Hall of Famers Debating each case]]                                                              |
+| 2022-11-11 | [[The Athletic]]       | [[NHL99 - Drew Doughtys fearless, tireless, fiery style created a legacy in LA]]                                                                    |
+| 2022-11-11 | [[The Forum Report]]   | [[Playmaking Chart - 11-10 vs CHI]]                                                                                                                 |
+| 2022-11-11 | [[LA Kings Insider]]   | [[11-11 Practice – Diving into lineup changes and the state of the power play with Todd McLellan]]                                                  |
 | 2022-11-10 | [[ESPN]]               | [[They make you feel like you belong - How Drew Doughty and Anze Kopitar have shaped the Kings]]                                                    |
 | 2022-11-10 | [[LA Daily News]]      | [[Kings score late, beat Blackhawks in overtime]]                                                                                                   |
 | 2022-11-10 | [[Kings at NHL.com]]   | [[Fialas goal with 1 point 4 seconds left gives Kings OT win against Blackhawks]]                                                                   |

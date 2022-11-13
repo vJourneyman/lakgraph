@@ -20,6 +20,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-11 | [[The Forum Report]]    | [[Playmaking Chart - 11-10 vs CHI]]                                                                                                                 |
 | 2022-11-06 | [[The Forum Report]]    | [[Playmaking Chart - 11-5-22 vs FLA]]                                                                                                               |
 | 2022-11-02 | [[The Forum Report]]    | [[Reaction in Dallas - Todd on 11-7 - Colin Miller on Calder Cup teammate Adrian Kempe - “You could tell early on that he was going to be a stud”]] |
 | 2022-10-30 | [[Hockey Royalty]]      | [[Takeaways - LA Kings 4, Maple Leafs 2 - A Breath of Fresh Air]]                                                                                   |

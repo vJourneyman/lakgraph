@@ -20,6 +20,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                                       |
 | ---------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-11 | [[LA Kings Insider]] | [[11-11 Practice – Diving into lineup changes and the state of the power play with Todd McLellan]]                          |
 | 2022-11-01 | [[LA Kings Insider]] | [[11-1 Preview - No Morning Skate in Dallas + McLellan on Fiala, Doughty/Anderson Pairing, The Big 100 - LA Kings Insider]] |
 | 2022-10-30 | [[The Forum Report]] | [[Waking up with the Kings - October 30]]                                                                                   |
 | 2022-10-29 | [[Hockey Royalty]]   | [[LA Kings vs Toronto Maple Leafs projected lineup, betting preview]]                                                       |

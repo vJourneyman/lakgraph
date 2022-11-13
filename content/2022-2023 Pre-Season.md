@@ -71,7 +71,7 @@ status: in-progress
 | 2022-09-26 | [[LA Kings Insider]]            | [[9-26 Preview – Projected Lineup + Back-To-Back Thoughts, JADs Focus, Spence, Moverare debuts]]                         |
 | 2022-09-25 | [[LA Kings Insider]]            | [[PRESEASON FINAL – Kings 2, Sharks 3 OT – McLellan takeaways + Clarke preseason debut and notes]]                       |
 | 2022-09-25 | [[LA Kings Insider]]            | [[9-25 Preview – Projected Game Group + early camp notes on Roy, Clarke and Thomas]]                                     |
-| 2022-08-21 | [[Zone Coverage]]               | [[Well Find Out Who Fueled the Fiala-Boldy Duos Success Soon - Zone Coverage]]                                           |
+| 2022-08-21 | [[Zone Coverage]]               | [[We will Find Out Who Fueled the Fiala-Boldy Duos Success Soon - Zone Coverage]]                                           |
 | 2022-08-11 | [[LA Kings Insider]]            | [[Fi-all In - Fiala talks committing to Kings, second-half success, power-play ambitions and more - LA Kings Insider]]   |
 | 2022-08-06 | [[HockeyBuzz]]                  | [[HockeyBuzz - Ben Shelley - How will Kevin Fialas seven-year contract work out for the Kings]]                          |
 | 2022-08-05 | [[Zone Coverage]]               | [[Good Contracts Stopped Wild From Getting A Deal On Fiala - Zone Coverage]]                                             |

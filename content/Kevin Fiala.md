@@ -20,6 +20,12 @@ Kevin Fiala | 22 | LW | L | 5' 10" | 204 | 1996-07-22 | St. Gallen, CHE | 2014 N
 ## NHL  Coverage
 | Date       | Site                            | Title                                                                                                                                |
 | ---------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-11 | [[Action Network]]              | [[NHL Odds, Preview, Prediction - Red Wings vs Kings (November 12)]]                                                                 |
+| 2022-11-11 | [[LA Daily News]]               | [[Kings look to finish perfect homestand against Detroit]]                                                                           |
+| 2022-11-11 | [[Hockey Royalty]]              | [[Takeaways - LA Kings 2, Blackhawks 1 – With One Second Left]]                                                                      |
+| 2022-11-11 | [[Mayors Manor]]                | [[Rapid Review - Highlights and Notes from Kings OT Victory Over Chicago]]                                                           |
+| 2022-11-11 | [[The Forum Report]]            | [[Playmaking Chart - 11-10 vs CHI]]                                                                                                  |
+| 2022-11-11 | [[The Forum Report]]            | [[Waking Up with the Kings - November 11]]                                                                                           |
 | 2022-11-10 | [[LA Hockey Now]]               | [[Danault and Quick Lead Kings Past Blackhawks 2-1]]                                                                                 |
 | 2022-11-10 | [[LA Daily News]]               | [[Kings score late, beat Blackhawks in overtime]]                                                                                    |
 | 2022-11-10 | [[Kings at NHL.com]]            | [[Fialas goal with 1 point 4 seconds left gives Kings OT win against Blackhawks]]                                                    |
@@ -120,8 +126,8 @@ Kevin Fiala | 22 | LW | L | 5' 10" | 204 | 1996-07-22 | St. Gallen, CHE | 2014 N
 | 2022-09-27 | [[NHLPA]]                       | [[KEVIN FIALA REUNITES WITH FORMER TEAMMATES, AIMS FOR STANDOUT SEASON IN LA]]                                                       |
 | 2022-09-26 | [[LA Kings Insider on YouTube]] | [[Kevin Fiala - 9.26]]                                                                                                               |
 | 2022-09-26 | [[LA Kings Insider]]            | [[PRESEASON FINAL – Kings 2, Golden Knights 1 OT – Fiala, Copley, McLellan]]                                                         |
-| 2022-09-05 | [[Kings at NHL.com]]            | [[Fiala talks starting over with Kings in Q&A with NHL.com]]                                                                         |
-| 2022-08-21 | [[Zone Coverage]]               | [[Well Find Out Who Fueled the Fiala-Boldy Duos Success Soon - Zone Coverage]]                                                       |
+| 2022-09-05 | [[Kings at NHL.com]]            | [[Fiala talks starting over with Kings in Q and A with NHL.com]]                                                                     |
+| 2022-08-21 | [[Zone Coverage]]               | [[We will Find Out Who Fueled the Fiala-Boldy Duos Success Soon - Zone Coverage]]                                                    |
 | 2022-08-11 | [[LA Kings Insider]]            | [[Fi-all In - Fiala talks committing to Kings, second-half success, power-play ambitions and more - LA Kings Insider]]               |
 | 2022-08-06 | [[HockeyBuzz]]                  | [[HockeyBuzz - Ben Shelley - How will Kevin Fialas seven-year contract work out for the Kings]]                                      |
 | 2022-08-05 | [[Zone Coverage]]               | [[Good Contracts Stopped Wild From Getting A Deal On Fiala - Zone Coverage]]                                                         |

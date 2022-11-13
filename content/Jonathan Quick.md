@@ -21,6 +21,10 @@ NHL.com / Ontario Reign | Twitter
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                 |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-11 | [[Daily Herald]]        | [[Quick, who shares cool bond with Blackhawks, outduels Mrázek in Kings OT win]]                                                                      |
+| 2022-11-11 | [[Action Network]]      | [[NHL Odds, Preview, Prediction - Red Wings vs Kings (November 12)]]                                                                                  |
+| 2022-11-11 | [[Hockey Royalty]]      | [[Takeaways - LA Kings 2, Blackhawks 1 – With One Second Left]]                                                                                       |
+| 2022-11-11 | [[The Athletic]]        | [[NHL Power Rankings - Devils surge into the top five, Blue Jackets plummet to dead last]]                                                            |
 | 2022-11-10 | [[LA Hockey Now]]       | [[Danault and Quick Lead Kings Past Blackhawks 2-1]]                                                                                                  |
 | 2022-11-10 | [[LA Daily News]]       | [[Kings score late, beat Blackhawks in overtime]]                                                                                                     |
 | 2022-11-10 | [[Kings at NHL.com]]    | [[Fialas goal with 1 point 4 seconds left gives Kings OT win against Blackhawks]]                                                                     |

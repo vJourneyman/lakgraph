@@ -23,6 +23,7 @@ NHL.com | Twitter
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-11 | [[LA Daily News]]       | [[Kings look to finish perfect homestand against Detroit]]                                                                                          |
 | 2022-11-10 | [[The Forum Report]]    | [[Todd senses “a little frustration” in Kempe, scoreless in five straight as percentages regress]]                                                  |
 | 2022-11-10 | [[LA Kings Insider]]    | [[FINAL – Kings 2, Blackhawks 1 (OT) – Fiala, Danault, McLellan]]                                                                                   |
 | 2022-11-08 | [[LA Kings Insider]]    | [[11-8 Preview – Optional Skate Today + Line Changes After 5, Kaliyevs Progression, ESPN(2)]]                                                       |
