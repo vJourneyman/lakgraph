@@ -23,6 +23,8 @@ NHL.com | Twitter
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-12 | [[Hockey Royalty]] | [[Three ways the LA Kings can improve the powerplay]] |
+| 2022-11-12 | [[The Forum Report]]    | [[Effective in a role not easily replicated, Lemieux “probably going to be out for a little while”]]                                                |
 | 2022-11-11 | [[LA Daily News]]       | [[Kings look to finish perfect homestand against Detroit]]                                                                                          |
 | 2022-11-10 | [[The Forum Report]]    | [[Todd senses “a little frustration” in Kempe, scoreless in five straight as percentages regress]]                                                  |
 | 2022-11-10 | [[LA Kings Insider]]    | [[FINAL – Kings 2, Blackhawks 1 (OT) – Fiala, Danault, McLellan]]                                                                                   |

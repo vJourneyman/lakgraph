@@ -22,6 +22,7 @@ Matt Roy | 3 | RD | R | 6' 1" | 205 | 1995-03-01 | Detroit, MI, USA | 2015 LAK, 
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                           |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-12 | [[LA Kings Insider]] | [[11-12 Preview – Petersen in Net + Finding Consistency, PP Zone Entries, Pushing Purple]] |
 | 2022-11-09 | [[The Athletic]]        | [[LA Kings are scoring more goals — heres why, and is there a cost involved]]                                                   |
 | 2022-11-09 | [[LA Kings Insider]]    | [[11-9 Practice – Winning 1-0, McLellan on Quick and Power Play, Roys Growth and Consistency]]                                  |
 | 2022-11-08 | [[The Fourth Period]]   | [[LAK AT 14 - ARE YOU NOT ENTERTAINED]]                                                                                         |

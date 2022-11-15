@@ -21,6 +21,7 @@ Viktor Arvidsson | 33 | LW | R | 5' 10" | 185 | 1993-04-08 | Skellefteå, SWE | 
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-12 | [[Hockey Royalty]] | [[Three ways the LA Kings can improve the powerplay]] |
 | 2022-11-10 | [[The Athletic]]        | [[Blackhawks vs Kings conjures fuzzy memories and warns of fuzzier futures]]                                                         |
 | 2022-11-10 | [[LA Kings Insider]]    | [[FINAL – Kings 2, Blackhawks 1 (OT) – Fiala, Danault, McLellan]]                                                                    |
 | 2022-11-09 | [[The Athletic]]        | [[LA Kings are scoring more goals — heres why, and is there a cost involved]]                                                        |

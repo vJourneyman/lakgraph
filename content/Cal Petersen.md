@@ -19,6 +19,11 @@ NHL.com | Twitter
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-12 | [[LA Hockey Now]]       | [[Kings Stay Hot With 4-3 Victory Over Red Wings]]                                                                                                  |
+| 2022-11-12 | [[LA Hockey Now]]       | [[Kings Vs Red Wings Game No 17 - Lines, Notes, and How to Watch]]                                                                                  |
+| 2022-11-12 | [[Hockey Royalty]]      | [[LA Kings vs Detroit Red Wings projected lineup, betting preview]]                                                                                 |
+| 2022-11-12 | [[The Forum Report]]    | [[Inside Kupari, Fiala and Grundstroms chemistry - remembering the 2001 Detroit-LA playoff back-to-back]]                                           |
+| 2022-11-12 | [[LA Kings Insider]]    | [[11-12 Preview – Petersen in Net + Finding Consistency, PP Zone Entries, Pushing Purple]]                                                          |
 | 2022-11-11 | [[The Athletic]]        | [[NHL Power Rankings - Devils surge into the top five, Blue Jackets plummet to dead last]]                                                          |
 | 2022-11-11 | [[LA Kings Insider]]    | [[11-11 Practice – Diving into lineup changes and the state of the power play with Todd McLellan]]                                                  |
 | 2022-11-09 | [[The Athletic]]        | [[LA Kings are scoring more goals — heres why, and is there a cost involved]]                                                                       |

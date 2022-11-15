@@ -22,7 +22,11 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-11-09 | [[The Athletic]]        | [[LA Kings are scoring more goals — heres why, and is there a cost involved]]                               |
+| 2022-11-12 | [[LA Hockey Now]]       | [[Kings Stay Hot With 4-3 Victory Over Red Wings]]                                                                                   |
+| 2022-11-12 | [[LA Daily News]]       | [[Kings extend win streak with victory over Red Wings]]                                                                              |
+| 2022-11-12 | [[Kings at NHL.com]]    | [[Durzi has two goals, Kings hold off Red Wings]]                                                                                    |
+| 2022-11-12 | [[LA Kings Insider]]    | [[FINAL – Kings 4, Red Wings 3 – Durzi, Grundstrom, McLellan]]                                                                       |
+| 2022-11-09 | [[The Athletic]]        | [[LA Kings are scoring more goals — heres why, and is there a cost involved]]                                                        |
 | 2022-11-09 | [[LA Kings Insider]]    | [[11-9 Practice – Winning 1-0, McLellan on Quick and Power Play, Roys Growth and Consistency]]                                       |
 | 2022-11-08 | [[The Fourth Period]]   | [[LAK AT 14 - ARE YOU NOT ENTERTAINED]]                                                                                              |
 | 2022-11-07 | [[LA Kings Insider]]    | [[Practice Practice! The Kings hit the ice in El Segundo with a return to routine the center focus]]                                 |
@@ -65,7 +69,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 | 2022-09-30 | [[LA Kings Insider]]    | [[Day 9 Primer – Today’s Groups + Arvidsson and Durzi with main group, Wagner clears waivers]]                                       |
 | 2022-09-29 | [[LA Kings Insider]]    | [[Angeles Analysis – Thoughts From The First Week Of Training Camp]]                                                                 |
 | 2022-09-28 | [[LA Kings Insider]]    | [[9-28 Preview – Projected Lineup + Reign Returners, Defensive Camp Battle, Bjornfot Quotes]]                                        |
-| 2022-09-27 | [[LA Kings Insider]] | [[Day 6 Notes – Injury Updates + Grundstrom Opportunity, Anderson Debut and Kempe joins ATKM]]                       |
+| 2022-09-27 | [[LA Kings Insider]]    | [[Day 6 Notes – Injury Updates + Grundstrom Opportunity, Anderson Debut and Kempe joins ATKM]]                                       |
 
 
 

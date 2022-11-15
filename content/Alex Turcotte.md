@@ -31,6 +31,8 @@ Alex Turcotte | | C | L | 5' 11" | 185 | 2001-02-26 | Elk Grove, IL, USA | 2019 
 ## Minor League Coverage
 | Date       | Site                  | Title                                                                                                           |
 | ---------- | --------------------- | --------------------------------------------------------------------------------------------------------------- |
+| 2022-11-12 | [[Mayors Manor]]      | [[Ontario Reign - Projected Lineup at Bakersfield - Plus Notes on Spence, Turcotte, and Byfield]]               |
+| 2022-11-12 | [[LA Kings Insider]]  | [[REIGN FINAL – Reign 1, Condors 3 – Marco Sturm]]                                                              |
 | 2022-11-11 | [[The AHL]]           | [[Weekend notebook - Reign loaded again with young stars]]                                                      |
 | 2022-11-11 | [[Mayors Manor]]      | [[Reign Recap - Revamped Lineup Comes Up Short in Shootout Loss at San Jose]]                                   |
 | 2022-11-11 | [[LA Kings Insider]]  | [[11-11 Practice – Diving into lineup changes and the state of the power play with Todd McLellan]]              |

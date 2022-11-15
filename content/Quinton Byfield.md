@@ -22,6 +22,7 @@ Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-12 | [[The Forum Report]] | [[Effective in a role not easily replicated, Lemieux “probably going to be out for a little while”]] |
 | 2022-11-10 | [[ESPN]]                | [[They make you feel like you belong - How Drew Doughty and Anze Kopitar have shaped the Kings]]                                     |
 | 2022-11-10 | [[The Athletic]]        | [[Blackhawks vs Kings conjures fuzzy memories and warns of fuzzier futures]]                                                         |
 | 2022-11-09 | [[Mayors Manor]]        | [[Quinton Byfield – Where do the Kings Go From Here]]                                                                                |
@@ -91,11 +92,13 @@ Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
 
 
 ## Minor League Coverage
-| Date       | Site               | Title                                                                                         |     |
-| ---------- | ------------------ | --------------------------------------------------------------------------------------------- | --- |
-| 2022-11-11 | [[The AHL]]        | [[Weekend notebook - Reign loaded again with young stars]]                                    |     |
-| 2022-11-11 | [[Hockey Royalty]] | [[Takeaways - Ontario Reign 3, San Jose Barracuda 4]]                                         |     |
-| 2022-11-11 | [[Mayors Manor]]   | [[Reign Recap - Revamped Lineup Comes Up Short in Shootout Loss at San Jose]]                 |     |
+| Date       | Site                 | Title                                                                                             |     |
+| ---------- | -------------------- | ------------------------------------------------------------------------------------------------- | --- |
+| 2022-11-12 | [[Mayors Manor]]     | [[Ontario Reign - Projected Lineup at Bakersfield - Plus Notes on Spence, Turcotte, and Byfield]] |     |
+| 2022-11-12 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 1, Condors 3 – Marco Sturm]]                                                |     |
+| 2022-11-11 | [[The AHL]]          | [[Weekend notebook - Reign loaded again with young stars]]                                        |     |
+| 2022-11-11 | [[Hockey Royalty]]   | [[Takeaways - Ontario Reign 3, San Jose Barracuda 4]]                                             |     |
+| 2022-11-11 | [[Mayors Manor]]     | [[Reign Recap - Revamped Lineup Comes Up Short in Shootout Loss at San Jose]]                     |     |
 | 2022-11-10 | [[Mayors Manor]]   | [[Ontario Reign - Projected Lineup at San Jose - With Trio of Top Kings Prospects Returning]] |     |
 
 

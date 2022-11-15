@@ -22,6 +22,9 @@ Brendan Lemieux | 48 | LW | L | 6' 1" | 215 | 1996-03-15 | Denver, CO, USA | 201
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                     |
 | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-12 | [[LA Daily News]]      | [[Kings extend win streak with victory over Red Wings]]                                                                   |
+| 2022-11-12 | [[Kings at NHL.com]]   | [[Durzi has two goals, Kings hold off Red Wings]]                                                                         |
+| 2022-11-12 | [[The Forum Report]]   | [[Effective in a role not easily replicated, Lemieux “probably going to be out for a little while”]]                      |
 | 2022-11-10 | [[Hockey Royalty]]     | [[LA Kings vs Chicago Blackhawks projected lineup, betting preview]]                                                      |
 | 2022-11-09 | [[The Hockey Writers]] | [[Kings Lemieux Playing Well Despite Penalty Problems]]                                                                   |
 | 2022-11-09 | [[The Forum Report]]   | [[Waking up with the Kings - November 9]]                                                                                 |

@@ -21,6 +21,8 @@ Brandt Clarke | 92 | RD | R | 6' 2" | 185 | 2003-02-09 | Nepean, ON, CAN | 2021 
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-12 | [[Hockey Royalty]] | [[Three ways the LA Kings can improve the powerplay]] |
+| 2022-11-12 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings vs Detroit Red Wings - Plus Important Note on Clarke]]                                                                |
 | 2022-11-11 | [[LA Kings Insider]]    | [[11-11 Practice – Diving into lineup changes and the state of the power play with Todd McLellan]]                                                  |
 | 2022-11-10 | [[ESPN]]                | [[They make you feel like you belong - How Drew Doughty and Anze Kopitar have shaped the Kings]]                                                    |
 | 2022-11-10 | [[Kings at NHL.com]]    | [[Tradin Jabs with ESPNs Ray Ferraro]]                                                                                                              |

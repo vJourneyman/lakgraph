@@ -23,7 +23,11 @@ Here's some places you might want to start:
 
 [[2022 Off-Season]]
 - [[Kevin Fiala Traded to Kings - 2022]]
-- 2022 Entry Draft (tbd)
+- [[2022 Entry Draft]]
+
+Past Entry Drafts
+- [[2021 Entry Draft]]
+- [[2020 Entry Draft]]
 
 [[LA Kings Roster]]
 

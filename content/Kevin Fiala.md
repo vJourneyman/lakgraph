@@ -20,6 +20,9 @@ Kevin Fiala | 22 | LW | L | 5' 10" | 204 | 1996-07-22 | St. Gallen, CHE | 2014 N
 ## NHL  Coverage
 | Date       | Site                            | Title                                                                                                                                |
 | ---------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-12 | [[LA Daily News]] | [[Kings extend win streak with victory over Red Wings]] |
+| 2022-11-12 | [[Hockey Royalty]] | [[Three ways the LA Kings can improve the powerplay]] |
+| 2022-11-12 | [[The Forum Report]] | [[Inside Kupari, Fiala and Grundstroms chemistry - remembering the 2001 Detroit-LA playoff back-to-back]] |
 | 2022-11-11 | [[Action Network]]              | [[NHL Odds, Preview, Prediction - Red Wings vs Kings (November 12)]]                                                                 |
 | 2022-11-11 | [[LA Daily News]]               | [[Kings look to finish perfect homestand against Detroit]]                                                                           |
 | 2022-11-11 | [[Hockey Royalty]]              | [[Takeaways - LA Kings 2, Blackhawks 1 – With One Second Left]]                                                                      |
