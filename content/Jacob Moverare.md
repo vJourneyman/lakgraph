@@ -19,25 +19,31 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 
 
 ## NHL  Coverage
-| Date       | Site                    | Title                                                                                               |
-| ---------- | ----------------------- | --------------------------------------------------------------------------------------------------- |
-| 2022-10-31 | [[Mayors Manor]]        | [[LAK Prospects - Weekly Reign Report, October 30, 2022]]                                           |
-| 2022-10-29 | [[Hockey Royalty]]      | [[LA Kings - D-pair changes, playing with structure must happen]]                                   |
-| 2022-10-28 | [[Hockey Royalty]]      | [[LA Kings - Takeaways from the teams 6-4 loss to Winnipeg]]                                        |
-| 2022-10-24 | [[Hockey Royalty]]      | [[LA Kings After 7 Games - Its Something We Know We Need To Fix]]                                   |
-| 2022-10-23 | [[Pro Hockey Rumors]]   | [[Alex Iafallo Moved To LTIR, Austin Wagner Recalled]]                                              |
-| 2022-10-23 | [[LA Kings Insider]]    | [[Sunday Roster Moves - Iafallo to LTIR + Moverare/Wagner Exchange - LA Kings Insider]]             |
-| 2022-10-22 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings at Washington Capitals, Game 7]]                                      |
-| 2022-10-21 | [[Hockey Royalty]]      | [[LA Kings at Washington Capitals projected lineups, betting preview]]                              |
-| 2022-10-20 | [[Hockey Royalty]]      | [[LA Kings at Pittsburgh Penguins projected lineups, betting preview]]                              |
-| 2022-10-18 | [[Pro Hockey Rumors]]   | [[Alex Iafallo Placed On Injured Reserve]]                                                          |
-| 2022-10-18 | [[Kings at NHL.com]]    | [[Kings Recall Defenseman Jacob Moverare]]                                                          |
-| 2022-10-18 | [[Hockey Royalty]]      | [[LA Kings Recall Defenseman Jacob Moverare, Place Alex Iafallo on IR]]                             |
-| 2022-10-18 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings at Nashville Predators, Game 5]]                                      |
-| 2022-10-18 | [[LA Kings Insider]]    | [[Kings recall Jacob Moverare from Ontario + Alexes out tonight, Iafallo to IR - LA Kings Insider]] |
-| 2022-10-10 | [[LA Kings on YouTube]] | [[GM Rob Blake speaks to the media before the 2022-23 Regular Season]]                              |
-| 2022-10-08 | [[Mayors Manor]]        | [[Kings Opening Night Final Roster Decisions Set – And, There Are Some Swerves]]                    |
-| 2022-10-06 | [[LA Kings Insider]]    | [[10-6 Preview – Projected Game Group + Durzi On Return, Moverare on Opportunity, Utes]]            |
+| Date       | Site                    | Title                                                                                                |
+| ---------- | ----------------------- | ---------------------------------------------------------------------------------------------------- |
+| 2022-11-14 | [[Kings at NHL.com]]    | [[The Week That Was, The Week That Is - 11-14]]                                                      |
+| 2022-11-14 | [[Hockey Royalty]]      | [[LA Kings at Calgary Flames projected lineup, betting preview]]                                     |
+| 2022-11-14 | [[LA Kings Insider]]    | [[11-14 Preview – JAD Confirmed To Play, His Focus Tonight + Vitals, Improvements, Photos]]          |
+| 2022-11-13 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Place Brendan Lemieux On IR - Recall Jacob Moverare, Lias Andersson]]            |
+| 2022-11-13 | [[Mayors Manor]]        | [[Kings Roster Moves - Clarke to AHL, Lemieux to IR, Pair of Prospects Recalled]]                    |
+| 2022-11-13 | [[LA Kings Insider]]    | [[Roster Moves – Andersson and Moverare recalled, Lemieux to IR Clarke to ONT on conditioning loan]] |
+| 2022-10-31 | [[Mayors Manor]]        | [[LAK Prospects - Weekly Reign Report, October 30, 2022]]                                            |
+| 2022-10-29 | [[Hockey Royalty]]      | [[LA Kings - D-pair changes, playing with structure must happen]]                                    |
+| 2022-10-28 | [[Hockey Royalty]]      | [[LA Kings - Takeaways from the teams 6-4 loss to Winnipeg]]                                         |
+| 2022-10-24 | [[Hockey Royalty]]      | [[LA Kings After 7 Games - Its Something We Know We Need To Fix]]                                    |
+| 2022-10-23 | [[Pro Hockey Rumors]]   | [[Alex Iafallo Moved To LTIR, Austin Wagner Recalled]]                                               |
+| 2022-10-23 | [[LA Kings Insider]]    | [[Sunday Roster Moves - Iafallo to LTIR + Moverare/Wagner Exchange - LA Kings Insider]]              |
+| 2022-10-22 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings at Washington Capitals, Game 7]]                                       |
+| 2022-10-21 | [[Hockey Royalty]]      | [[LA Kings at Washington Capitals projected lineups, betting preview]]                               |
+| 2022-10-20 | [[Hockey Royalty]]      | [[LA Kings at Pittsburgh Penguins projected lineups, betting preview]]                               |
+| 2022-10-18 | [[Pro Hockey Rumors]]   | [[Alex Iafallo Placed On Injured Reserve]]                                                           |
+| 2022-10-18 | [[Kings at NHL.com]]    | [[Kings Recall Defenseman Jacob Moverare]]                                                           |
+| 2022-10-18 | [[Hockey Royalty]]      | [[LA Kings Recall Defenseman Jacob Moverare, Place Alex Iafallo on IR]]                              |
+| 2022-10-18 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings at Nashville Predators, Game 5]]                                       |
+| 2022-10-18 | [[LA Kings Insider]]    | [[Kings recall Jacob Moverare from Ontario + Alexes out tonight, Iafallo to IR - LA Kings Insider]]  |
+| 2022-10-10 | [[LA Kings on YouTube]] | [[GM Rob Blake speaks to the media before the 2022-23 Regular Season]]                               |
+| 2022-10-08 | [[Mayors Manor]]        | [[Kings Opening Night Final Roster Decisions Set – And, There Are Some Swerves]]                     |
+| 2022-10-06 | [[LA Kings Insider]]    | [[10-6 Preview – Projected Game Group + Durzi On Return, Moverare on Opportunity, Utes]]             |
 | 2022-09-26 | [[LA Kings Insider]]    | [[9-26 Preview – Projected Lineup + Back-To-Back Thoughts, JADs Focus, Spence, Moverare debuts]]    |
 
 

@@ -22,7 +22,12 @@ Drew Doughty | 8 | RD | R | 6' 1" | 210 | 1989-12-08 | London, ON, CAN | 2008 LA
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                 |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-12 | [[LA Daily News]] | [[Kings extend win streak with victory over Red Wings]] |
+| 2022-11-14 | [[Hockey Royalty]]      | [[A new look at the new look LA Kings power play]]                                                                                                                                                                               |
+| 2022-11-14 | [[Mayors Manor]] | [[Projected Lineup - LA Kings at Calgary Flames, Welcome to the Sutter Show]] |
+| 2022-11-14 | [[LA Kings Insider]] | [[11-14 Preview – JAD Confirmed To Play, His Focus Tonight + Vitals, Improvements, Photos]] |
+| 2022-11-13 | [[LA Hockey Now]] | [[Kings Experimenting With New Look Power Play]] |
+| 2022-11-13 | [[LA Daily News]]       | [[Kings prepare to start of road trip in Calgary]]                                                                                                    |
+| 2022-11-12 | [[LA Daily News]]       | [[Kings extend win streak with victory over Red Wings]]                                                                                               |
 | 2022-11-11 | [[Mayors Manor]]        | [[Rapid Review - Highlights and Notes from Kings OT Victory Over Chicago]]                                                                            |
 | 2022-11-11 | [[The Athletic]]        | [[NHL99 - Drew Doughtys fearless, tireless, fiery style created a legacy in LA]]                                                                      |
 | 2022-11-10 | [[ESPN]]                | [[They make you feel like you belong - How Drew Doughty and Anze Kopitar have shaped the Kings]]                                                      |

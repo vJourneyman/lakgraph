@@ -24,6 +24,10 @@ NHL.com | Twitter
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                     |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-14 | [[LA Hockey Now]]       | [[Kings vs Flames Game No 18 - Lines, Notes, and How to Watch]]                                                                           |
+| 2022-11-14 | [[Kings at NHL.com]]    | [[The Week That Was, The Week That Is - 11-14]]                                                                                           |
+| 2022-11-14 | [[Hockey Royalty]]      | [[A new look at the new look LA Kings power play]]                                                                                        |
+| 2022-11-13 | [[Action Network]]      | [[NHL Odds, Preview, Prediction - Kings vs Flames (November 14)]]                                                                         |
 | 2022-11-11 | [[Action Network]]      | [[NHL Odds, Preview, Prediction - Red Wings vs Kings (November 12)]]                                                                      |
 | 2022-11-10 | [[Kings at NHL.com]]    | [[Tradin Jabs with ESPNs Ray Ferraro]]                                                                                                    |
 | 2022-11-10 | [[The Athletic]]        | [[Blackhawks vs Kings conjures fuzzy memories and warns of fuzzier futures]]                                                              |
@@ -138,7 +142,7 @@ NHL.com | Twitter
 | 2022-10-04 | [[LA Kings Insider]]    | [[PRESEASON FINAL – Kings 4, Ducks 5 – Vilardi, Edler, McLellan]]                                                                         |
 | 2022-10-02 | [[LA Kings Insider]]    | [[PRESEASON FINAL – Kings 2, Ducks 1 – Walker, Vilardi, McLellan]]                                                                        |
 | 2022-09-29 | [[LA Kings Insider]]    | [[Angeles Analysis – Thoughts From The First Week Of Training Camp]]                                                                      |
-| 2022-09-27 | [[LA Kings Insider]] |  [[Day 6 Primer + The Differences Between Playing Center and Playing Winger]]
+| 2022-09-27 | [[LA Kings Insider]]    | [[Day 6 Primer + The Differences Between Playing Center and Playing Winger]]                                                              |
 
 
 

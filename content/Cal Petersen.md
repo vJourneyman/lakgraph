@@ -19,6 +19,10 @@ NHL.com | Twitter
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-14 | [[Kings at NHL.com]] | [[The Week That Was, The Week That Is - 11-14]] |
+| 2022-11-13 | [[Action Network]]      | [[NHL Odds, Preview, Prediction - Kings vs Flames (November 14)]]                                                                                   |
+| 2022-11-13 | [[Hockey Royalty]]      | [[Takeaways - LA Kings 4, Red Wings 3 – A Perfect Homestand]]                                                                                       |
+| 2022-11-13 | [[Mayors Manor]]        | [[Rapid Review - Highlights and Notes from Kings Fourth Straight Win, Perfect Homestand]]                                                           |
 | 2022-11-12 | [[LA Hockey Now]]       | [[Kings Stay Hot With 4-3 Victory Over Red Wings]]                                                                                                  |
 | 2022-11-12 | [[LA Hockey Now]]       | [[Kings Vs Red Wings Game No 17 - Lines, Notes, and How to Watch]]                                                                                  |
 | 2022-11-12 | [[Hockey Royalty]]      | [[LA Kings vs Detroit Red Wings projected lineup, betting preview]]                                                                                 |

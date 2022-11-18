@@ -21,7 +21,12 @@ Brandt Clarke | 92 | RD | R | 6' 2" | 185 | 2003-02-09 | Nepean, ON, CAN | 2021 
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-12 | [[Hockey Royalty]] | [[Three ways the LA Kings can improve the powerplay]] |
+| 2022-11-14 | [[Hockey Royalty]] | [[Ontario Reign - Three stars of the week 11-7 to 11-13]] |
+| 2022-11-13 | [[Field Level Media]]   | [[Kings place F Brendan Lemieux (lower body) on IR]]                                                                                                |
+| 2022-11-13 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Place Brendan Lemieux On IR - Recall Jacob Moverare, Lias Andersson]]                                                           |
+| 2022-11-13 | [[Hockey Royalty]]      | [[LA Kings make several roster transactions Sunday]]                                                                                                |
+| 2022-11-13 | [[Mayors Manor]]        | [[Kings Roster Moves - Clarke to AHL, Lemieux to IR, Pair of Prospects Recalled]]                                                                   |
+| 2022-11-12 | [[Hockey Royalty]]      | [[Three ways the LA Kings can improve the powerplay]]                                                                                               |
 | 2022-11-12 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings vs Detroit Red Wings - Plus Important Note on Clarke]]                                                                |
 | 2022-11-11 | [[LA Kings Insider]]    | [[11-11 Practice – Diving into lineup changes and the state of the power play with Todd McLellan]]                                                  |
 | 2022-11-10 | [[ESPN]]                | [[They make you feel like you belong - How Drew Doughty and Anze Kopitar have shaped the Kings]]                                                    |
@@ -122,8 +127,14 @@ Brandt Clarke | 92 | RD | R | 6' 2" | 185 | 2003-02-09 | Nepean, ON, CAN | 2021 
 
 
 ## Minor League Coverage
-| Date | Site | Title |
-| ---- | ---- | ----- |
+| Date       | Site                 | Title                                                                                         |
+| ---------- | -------------------- | --------------------------------------------------------------------------------------------- |
+| 2022-11-14 | [[Kings at NHL.com]] | [[The Week That Was, The Week That Is - 11-14]] |
+| 2022-11-14 | [[Hockey Royalty]] | [[LA Kings at Calgary Flames projected lineup, betting preview]] |
+| 2022-11-13 | [[Mayors Manor]]     | [[Reign Recap - Concerns Mounting as Ontario Drops Fourth Straight]]                          |
+| 2022-11-13 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup vs San Diego - Brandt Clarke Debut Among Myriad of Changes]] |
+| 2022-11-13 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 1, Gulls 4 – Sturm, Turcotte, Clarke]]                                  |
+| 2022-11-13 | [[LA Kings Insider]] | [[Roster Moves – Andersson and Moverare recalled, Lemieux to IR Clarke to ONT on conditioning loan]] |
 
 
 

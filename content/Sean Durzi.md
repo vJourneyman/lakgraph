@@ -22,6 +22,13 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-14 | [[Kings at NHL.com]] | [[The Week That Was, The Week That Is - 11-14]] |
+| 2022-11-14 | [[Hockey Royalty]] | [[Week 6 Pacific Division Power Rankings]] |
+| 2022-11-13 | [[Field Level Media]]   | [[Streaking Kings hit road to test rekindled Flames]]                                                                                |
+| 2022-11-13 | [[LA Daily News]]       | [[Kings prepare to start of road trip in Calgary]]                                                                                   |
+| 2022-11-13 | [[Hockey Royalty]]      | [[Takeaways - LA Kings 4, Red Wings 3 – A Perfect Homestand]]                                                                        |
+| 2022-11-13 | [[Mayors Manor]]        | [[Rapid Review - Highlights and Notes from Kings Fourth Straight Win, Perfect Homestand]]                                            |
+| 2022-11-13 | [[The Forum Report]]    | [[Playmaking Chart - 11-12 vs Detroit]]                                                                                              |
 | 2022-11-12 | [[LA Hockey Now]]       | [[Kings Stay Hot With 4-3 Victory Over Red Wings]]                                                                                   |
 | 2022-11-12 | [[LA Daily News]]       | [[Kings extend win streak with victory over Red Wings]]                                                                              |
 | 2022-11-12 | [[Kings at NHL.com]]    | [[Durzi has two goals, Kings hold off Red Wings]]                                                                                    |

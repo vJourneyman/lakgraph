@@ -22,6 +22,17 @@ Brendan Lemieux | 48 | LW | L | 6' 1" | 215 | 1996-03-15 | Denver, CO, USA | 201
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                     |
 | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-14 | [[LA Hockey Now]]      | [[Kings vs Flames Game No 18 - Lines, Notes, and How to Watch]]                                                           |
+| 2022-11-14 | [[Kings at NHL.com]]   | [[The Week That Was, The Week That Is - 11-14]]                                                                           |
+| 2022-11-14 | [[Hockey Royalty]]     | [[LA Kings at Calgary Flames projected lineup, betting preview]]                                                          |
+| 2022-11-14 | [[Mayors Manor]]       | [[Projected Lineup - LA Kings at Calgary Flames, Welcome to the Sutter Show]]                                             |
+| 2022-11-14 | [[LA Kings Insider]]   | [[11-14 Preview – JAD Confirmed To Play, His Focus Tonight + Vitals, Improvements, Photos]]                               |
+| 2022-11-13 | [[Field Level Media]]  | [[Kings place F Brendan Lemieux (lower body) on IR]]                                                                      |
+| 2022-11-13 | [[Pro Hockey Rumors]]  | [[Los Angeles Kings Place Brendan Lemieux On IR - Recall Jacob Moverare, Lias Andersson]]                                 |
+| 2022-11-13 | [[Hockey Royalty]]     | [[LA Kings make several roster transactions Sunday]]                                                                      |
+| 2022-11-13 | [[Hockey Royalty]]     | [[Takeaways - LA Kings 4, Red Wings 3 – A Perfect Homestand]]                                                             |
+| 2022-11-13 | [[Mayors Manor]]       | [[Kings Roster Moves - Clarke to AHL, Lemieux to IR, Pair of Prospects Recalled]]                                         |
+| 2022-11-13 | [[Mayors Manor]]       | [[Rapid Review - Highlights and Notes from Kings Fourth Straight Win, Perfect Homestand]]                                 |
 | 2022-11-12 | [[LA Daily News]]      | [[Kings extend win streak with victory over Red Wings]]                                                                   |
 | 2022-11-12 | [[Kings at NHL.com]]   | [[Durzi has two goals, Kings hold off Red Wings]]                                                                         |
 | 2022-11-12 | [[The Forum Report]]   | [[Effective in a role not easily replicated, Lemieux “probably going to be out for a little while”]]                      |

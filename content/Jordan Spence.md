@@ -32,6 +32,7 @@ Jordan Spence | 58 | D | R | 5' 10" | 180 | 2001-02-24 | Manly, AUS | -   2019 L
 ## Minor League Coverage
 | Date       | Site                    | Title                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------- |
+| 2022-11-14 | [[Hockey Royalty]] | [[Ontario Reign - Three stars of the week 11-7 to 11-13]] |
 | 2022-11-12 | [[Mayors Manor]]        | [[Ontario Reign - Projected Lineup at Bakersfield - Plus Notes on Spence, Turcotte, and Byfield]]   |
 | 2022-11-11 | [[Hockey Royalty]]      | [[Takeaways - Ontario Reign 3, San Jose Barracuda 4]]                                               |
 | 2022-11-08 | [[The Hockey News]]     | [[FIVE AHL PLAYERS WHO DESERVE AN EXTENDED NHL AUDITION]]                                           |

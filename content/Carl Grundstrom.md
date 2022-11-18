@@ -22,6 +22,8 @@ Carl Grundstrom | 91 | RW | L | 6' 0" | 195 | 1997-12-01 | Umea, SWE | 2016 TOR,
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                       |
 | ---------- | --------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-13 | [[The Forum Report]] | [[Playmaking Chart - 11-12 vs Detroit]] |
+| 2022-11-13 | [[The Forum Report]] | [[Waking up with the Kings - November 13]] |
 | 2022-11-12 | [[Kings at NHL.com]]  | [[Durzi has two goals, Kings hold off Red Wings]]                                                                           |
 | 2022-11-12 | [[The Forum Report]]  | [[Effective in a role not easily replicated, Lemieux “probably going to be out for a little while”]]                        |
 | 2022-11-12 | [[The Forum Report]]  | [[Inside Kupari, Fiala and Grundstroms chemistry - remembering the 2001 Detroit-LA playoff back-to-back]]                   |

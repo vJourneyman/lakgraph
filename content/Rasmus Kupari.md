@@ -22,6 +22,8 @@ Rasmus Kupari | |  C | R | 6'2" | 200 |2000-03-15 | Kotka, FIN | 2018 LAK, 1st r
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                     |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-13 | [[The Forum Report]] | [[Playmaking Chart - 11-12 vs Detroit]] |
+| 2022-11-13 | [[The Forum Report]] | [[Waking up with the Kings - November 13]] |
 | 2022-11-12 | [[LA Daily News]]       | [[Kings extend win streak with victory over Red Wings]]                                                                                   |
 | 2022-11-12 | [[The Forum Report]]    | [[Inside Kupari, Fiala and Grundstroms chemistry - remembering the 2001 Detroit-LA playoff back-to-back]]                                 |
 | 2022-11-11 | [[The Forum Report]]    | [[Waking Up with the Kings - November 11]]                                                                                                |

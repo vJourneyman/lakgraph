@@ -94,6 +94,12 @@ Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                             |     |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------------- | --- |
+| 2022-11-14 | [[Hockey Royalty]] | [[Ontario Reign - Three stars of the week 11-7 to 11-13]] |
+| 2022-11-13 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 3-1 loss to Bakersfield]]                                  |     |
+| 2022-11-13 | [[Mayors Manor]]     | [[Reign Recap - Concerns Mounting as Ontario Drops Fourth Straight]]                              |     |
+| 2022-11-13 | [[Mayors Manor]]     | [[Reign Recap - Byfield Scores, Ontario Comes Up Short in Bakersfield]]                           |     |
+| 2022-11-13 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 1, Gulls 4 – Sturm, Turcotte, Clarke]]                                      |     |
+| 2022-11-13 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs San Diego, 11-13]]                                                   |     |
 | 2022-11-12 | [[Mayors Manor]]     | [[Ontario Reign - Projected Lineup at Bakersfield - Plus Notes on Spence, Turcotte, and Byfield]] |     |
 | 2022-11-12 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 1, Condors 3 – Marco Sturm]]                                                |     |
 | 2022-11-11 | [[The AHL]]          | [[Weekend notebook - Reign loaded again with young stars]]                                        |     |

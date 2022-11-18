@@ -26,6 +26,7 @@ Date | Site |  Title
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                         |
 | ---------- | -------------------- | ----------------------------------------------------------------------------- |
+| 2022-11-14 | [[Hockey Royalty]] | [[Ontario Reign - Three stars of the week 11-7 to 11-13]] |
 | 2022-11-11 | [[Mayors Manor]]     | [[Reign Recap - Revamped Lineup Comes Up Short in Shootout Loss at San Jose]] |
 | 2022-11-10 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 3, Barracuda 4 (SO) – Sturm, Ward]]                     |
 | 2022-10-31 | [[Mayors Manor]]     | [[LAK Prospects - Weekly Reign Report, October 30, 2022]]                     |

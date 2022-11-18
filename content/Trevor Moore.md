@@ -21,6 +21,7 @@ Trevor Moore | 12 | C | L | 5' 10" | 195 | 1995-03-31 | Thousand Oaks, CA, USA
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                            |
 | ---------- | -------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| 2022-11-13 | [[Action Network]] | [[NHL Odds, Preview, Prediction - Kings vs Flames (November 14)]] |
 | 2022-11-12 | [[Hockey Royalty]]   | [[Three ways the LA Kings can improve the powerplay]]                                                            |
 | 2022-11-12 | [[LA Kings Insider]] | [[11-12 Preview – Petersen in Net + Finding Consistency, PP Zone Entries, Pushing Purple]]                       |
 | 2022-11-11 | [[Hockey Royalty]]   | [[Takeaways - LA Kings 2, Blackhawks 1 – With One Second Left]]                                                  |

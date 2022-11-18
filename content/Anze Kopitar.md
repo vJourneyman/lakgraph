@@ -22,8 +22,13 @@ Anze Kopitar | 11 | C | L | 6' 3" | 225 | 1987-08-24 | Jesenice, SVN | 2005 LAK,
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                               |
 | ---------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-12 | [[The Forum Report]] | [[Effective in a role not easily replicated, Lemieux “probably going to be out for a little while”]] |
-| 2022-11-12 | [[LA Kings Insider]] | [[FINAL – Kings 4, Red Wings 3 – Durzi, Grundstrom, McLellan]] |
+| 2022-11-14 | [[Kings at NHL.com]] | [[The Week That Was, The Week That Is - 11-14]] |
+| 2022-11-13 | [[Action Network]] | [[NHL Odds, Preview, Prediction - Kings vs Flames (November 14)]] |
+| 2022-11-13 | [[LA Hockey Now]]      | [[Kings Experimenting With New Look Power Play]]                                                                                                    |
+| 2022-11-13 | [[LA Daily News]]      | [[Kings prepare to start of road trip in Calgary]]                                                                                                  |
+| 2022-11-13 | [[The Forum Report]]   | [[Waking up with the Kings - November 13]]                                                                                                          |
+| 2022-11-12 | [[The Forum Report]]   | [[Effective in a role not easily replicated, Lemieux “probably going to be out for a little while”]]                                                |
+| 2022-11-12 | [[LA Kings Insider]]   | [[FINAL – Kings 4, Red Wings 3 – Durzi, Grundstrom, McLellan]]                                                                                      |
 | 2022-11-11 | [[The Athletic]]       | [[Are Paul Henderson, Mike Vernon and Anze Kopitar Hall of Famers Debating each case]]                                                              |
 | 2022-11-11 | [[The Athletic]]       | [[NHL99 - Drew Doughtys fearless, tireless, fiery style created a legacy in LA]]                                                                    |
 | 2022-11-11 | [[The Forum Report]]   | [[Playmaking Chart - 11-10 vs CHI]]                                                                                                                 |

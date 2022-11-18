@@ -23,7 +23,12 @@ NHL.com | Twitter
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-12 | [[Hockey Royalty]] | [[Three ways the LA Kings can improve the powerplay]] |
+| 2022-11-14 | [[LA Hockey Now]]       | [[Kings vs Flames Game No 18 - Lines, Notes, and How to Watch]]                                                                                     |
+| 2022-11-14 | [[Kings at NHL.com]]    | [[The Week That Was, The Week That Is - 11-14]]                                                                                                     |
+| 2022-11-14 | [[The Forum Report]]    | [[Darryl Sutter has always known about Adrian Kempes “mature game”]]                                                                                |
+| 2022-11-14 | [[The Forum Report]]    | [[November 14 morning skate quotes - Darryl Sutter]]                                                                                                |
+| 2022-11-13 | [[LA Hockey Now]]       | [[Kings Experimenting With New Look Power Play]]                                                                                                    |
+| 2022-11-12 | [[Hockey Royalty]]      | [[Three ways the LA Kings can improve the powerplay]]                                                                                               |
 | 2022-11-12 | [[The Forum Report]]    | [[Effective in a role not easily replicated, Lemieux “probably going to be out for a little while”]]                                                |
 | 2022-11-11 | [[LA Daily News]]       | [[Kings look to finish perfect homestand against Detroit]]                                                                                          |
 | 2022-11-10 | [[The Forum Report]]    | [[Todd senses “a little frustration” in Kempe, scoreless in five straight as percentages regress]]                                                  |

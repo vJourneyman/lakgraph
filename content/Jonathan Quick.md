@@ -21,6 +21,11 @@ NHL.com / Ontario Reign | Twitter
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                 |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-14 | [[LA Hockey Now]]       | [[Kings Win Streak Ends at Four After 6-5 Loss to Flames]]                                                                                            |
+| 2022-11-14 | [[LA Hockey Now]]       | [[Kings vs Flames Game No 18 - Lines, Notes, and How to Watch]]                                                                                       |
+| 2022-11-14 | [[Kings at NHL.com]]    | [[The Week That Was, The Week That Is - 11-14]]                                                                                                       |
+| 2022-11-13 | [[Action Network]]      | [[NHL Odds, Preview, Prediction - Kings vs Flames (November 14)]]                                                                                     |
+| 2022-11-13 | [[LA Daily News]]       | [[Kings prepare to start of road trip in Calgary]]                                                                                                    |
 | 2022-11-11 | [[Daily Herald]]        | [[Quick, who shares cool bond with Blackhawks, outduels Mrázek in Kings OT win]]                                                                      |
 | 2022-11-11 | [[Action Network]]      | [[NHL Odds, Preview, Prediction - Red Wings vs Kings (November 12)]]                                                                                  |
 | 2022-11-11 | [[Hockey Royalty]]      | [[Takeaways - LA Kings 2, Blackhawks 1 – With One Second Left]]                                                                                       |

@@ -19,18 +19,23 @@ Alex Turcotte | | C | L | 5' 11" | 185 | 2001-02-26 | Elk Grove, IL, USA | 2019 
  
 
 ## NHL  Coverage
-| Date       | Site                    | Title                                                                                         |
-| ---------- | ----------------------- | --------------------------------------------------------------------------------------------- |
-| 2022-10-11 | [[LA Daily News]]       | [[GM Rob Blake looking to see Kings reach another level]]                                     |
-| 2022-10-10 | [[LA Daily News]]       | [[2022-23 Kings hockey - Five burning questions]]                                             |
-| 2022-10-10 | [[LA Kings on YouTube]] | [[GM Rob Blake speaks to the media before the 2022-23 Regular Season]]                        |
-| 2022-10-04 | [[LA Kings Insider]]    | [[LA Kings announce roster moves, trim training camp roster to 34 players]]                   |
+| Date       | Site                      | Title                                                                                                     |
+| ---------- | ------------------------- | --------------------------------------------------------------------------------------------------------- |
+| 2022-11-13 | [[LA Kings Insider]]      | [[REIGN FINAL – Reign 1, Gulls 4 – Sturm, Turcotte, Clarke]]                                              |
+| 2022-10-11 | [[LA Daily News]]         | [[GM Rob Blake looking to see Kings reach another level]]                                                 |
+| 2022-10-10 | [[LA Daily News]]         | [[2022-23 Kings hockey - Five burning questions]]                                                         |
+| 2022-10-10 | [[LA Kings on YouTube]]   | [[GM Rob Blake speaks to the media before the 2022-23 Regular Season]]                                    |
+| 2022-10-04 | [[LA Kings Insider]]      | [[LA Kings announce roster moves, trim training camp roster to 34 players]]                               |
 | 2022-09-12 | [[legorock99 on YouTube]] | [[LA KINGS PROSPECTS - Alex Turcotte VS Moritz Seider, Trevor Zegras - Detroit Red Wings, Anaheim Ducks]] |
 
 
 ## Minor League Coverage
 | Date       | Site                  | Title                                                                                                           |
 | ---------- | --------------------- | --------------------------------------------------------------------------------------------------------------- |
+| 2022-11-14 | [[Hockey Royalty]] | [[Ontario Reign - Three stars of the week 11-7 to 11-13]] |
+| 2022-11-13 | [[Mayors Manor]]      | [[Reign Recap - Concerns Mounting as Ontario Drops Fourth Straight]]                                            |
+| 2022-11-13 | [[Mayors Manor]]      | [[Reign Recap - Byfield Scores, Ontario Comes Up Short in Bakersfield]]                                         |
+| 2022-11-13 | [[LA Kings Insider]]  | [[REIGN PREVIEW – Ontario vs San Diego, 11-13]]                                                                 |
 | 2022-11-12 | [[Mayors Manor]]      | [[Ontario Reign - Projected Lineup at Bakersfield - Plus Notes on Spence, Turcotte, and Byfield]]               |
 | 2022-11-12 | [[LA Kings Insider]]  | [[REIGN FINAL – Reign 1, Condors 3 – Marco Sturm]]                                                              |
 | 2022-11-11 | [[The AHL]]           | [[Weekend notebook - Reign loaded again with young stars]]                                                      |
@@ -48,7 +53,7 @@ Alex Turcotte | | C | L | 5' 11" | 185 | 2001-02-26 | Elk Grove, IL, USA | 2019 
 | 2022-10-29 | [[Mayors Manor]]      | [[Ontario Reign - Projected Lineup vs Bakersfield Condors - Several Changes Included]]                          |
 | 2022-10-28 | [[Hockey Royalty]]    | [[LA Kings - 2022-23 prospect rankings, the top five]]                                                          |
 | 2022-10-22 | [[The Hockey News]]   | [[Where Are They Now - The Historic 2019 USA NTDP Squad]]                                                       |
-| 2022-10-14 | [[Mayors Manor]]    | [[Update and Next Steps with Kings Prospect Alex Turcotte]]                            |
+| 2022-10-14 | [[Mayors Manor]]      | [[Update and Next Steps with Kings Prospect Alex Turcotte]]                                                     |
 
 
 ## Post-Draft Coverage

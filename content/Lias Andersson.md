@@ -20,11 +20,18 @@ Lias Andersson | 17 | C | L | 6' 1" | 183 | 1998-10-13 | Smogen, SWE | 2017 NYR,
 
 
 ## NHL  Coverage
-Date | Site |  Title
----|---|---
-2022-10-06 | [[Mayors Manor]] | [[Projected Lineup - Kings vs Golden Knights at Frozen Fury, aka Preseason Game 6]]
-2022-09-27 | [[LA Kings Insider]] |  [[Day 6 Primer + The Differences Between Playing Center and Playing Winger]]
-2022-09-26 | [[LA Kings Insider]] | [[9-26 Preview – Projected Lineup + Back-To-Back Thoughts, JADs Focus, Spence, Moverare debuts]]
+| Date       | Site                  | Title                                                                                                |
+| ---------- | --------------------- | ---------------------------------------------------------------------------------------------------- |
+| 2022-11-14 | [[Kings at NHL.com]] | [[The Week That Was, The Week That Is - 11-14]] |
+| 2022-11-14 | [[Hockey Royalty]]    | [[LA Kings at Calgary Flames projected lineup, betting preview]]                                     |
+| 2022-11-14 | [[LA Kings Insider]]  | [[11-14 Preview – JAD Confirmed To Play, His Focus Tonight + Vitals, Improvements, Photos]]          |
+| 2022-11-13 | [[Pro Hockey Rumors]] | [[Los Angeles Kings Place Brendan Lemieux On IR - Recall Jacob Moverare, Lias Andersson]]            |
+| 2022-11-13 | [[Mayors Manor]]      | [[Ontario Reign Projected Lineup vs San Diego - Brandt Clarke Debut Among Myriad of Changes]]        |
+| 2022-11-13 | [[Mayors Manor]]      | [[Kings Roster Moves - Clarke to AHL, Lemieux to IR, Pair of Prospects Recalled]]                    |
+| 2022-11-13 | [[LA Kings Insider]]  | [[Roster Moves – Andersson and Moverare recalled, Lemieux to IR Clarke to ONT on conditioning loan]] |
+| 2022-10-06 | [[Mayors Manor]]      | [[Projected Lineup - Kings vs Golden Knights at Frozen Fury, aka Preseason Game 6]]                  |
+| 2022-09-27 | [[LA Kings Insider]]  | [[Day 6 Primer + The Differences Between Playing Center and Playing Winger]]                         |
+| 2022-09-26 | [[LA Kings Insider]] | [[9-26 Preview – Projected Lineup + Back-To-Back Thoughts, JADs Focus, Spence, Moverare debuts]]
 
 
 
