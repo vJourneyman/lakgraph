@@ -22,8 +22,10 @@ Anze Kopitar | 11 | C | L | 6' 3" | 225 | 1987-08-24 | Jesenice, SVN | 2005 LAK,
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                               |
 | ---------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-14 | [[Kings at NHL.com]] | [[The Week That Was, The Week That Is - 11-14]] |
-| 2022-11-13 | [[Action Network]] | [[NHL Odds, Preview, Prediction - Kings vs Flames (November 14)]] |
+| 2022-11-15 | [[Field Level Media]] | [[Kings aim to tighten up defense before facing Oilers]] |
+| 2022-11-15 | [[LA Kings Insider]]   | [[11-15 Practice – Kings Review CGY Pitfalls + Kaliyev talks goals, Doughty on World Cup, Kopitar Players Tribune]]                                 |
+| 2022-11-14 | [[Kings at NHL.com]]   | [[The Week That Was, The Week That Is - 11-14]]                                                                                                     |
+| 2022-11-13 | [[Action Network]]     | [[NHL Odds, Preview, Prediction - Kings vs Flames (November 14)]]                                                                                   |
 | 2022-11-13 | [[LA Hockey Now]]      | [[Kings Experimenting With New Look Power Play]]                                                                                                    |
 | 2022-11-13 | [[LA Daily News]]      | [[Kings prepare to start of road trip in Calgary]]                                                                                                  |
 | 2022-11-13 | [[The Forum Report]]   | [[Waking up with the Kings - November 13]]                                                                                                          |
@@ -99,7 +101,7 @@ Anze Kopitar | 11 | C | L | 6' 3" | 225 | 1987-08-24 | Jesenice, SVN | 2005 LAK,
 | 2022-10-10 | [[LA Daily News]]      | [[2022-23 Kings hockey - Five burning questions]]                                                                                                   |
 | 2022-10-10 | [[LA Kings Insider]]   | [[On the eve of the 2022-23 season, Kings leadership expecting progress from increased expectations - LA Kings Insider]]                            |
 | 2022-10-03 | [[LA Times]]           | [[Younger Kings players must beat Anze Kopitar for scoring title - Los Angeles Times]]                                                              |
-| 2022-07-05 | [[LA Kings Insider]] | [[First Reactions from dynamic Kevin Fiala and Rob Blake after blockbuster trade + Other Takeaways - LA Kings Insider]] |
+| 2022-07-05 | [[LA Kings Insider]]   | [[First Reactions from dynamic Kevin Fiala and Rob Blake after blockbuster trade + Other Takeaways - LA Kings Insider]]                             |
 
 
 

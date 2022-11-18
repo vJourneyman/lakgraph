@@ -1,7 +1,7 @@
 ---
 title: "Phillip Danault"
 date-created: 2022-10-06
-aliases: 
+aliases: [Phil Danault]
 tags: [Player]
 status: stable
 priority: high
@@ -22,6 +22,10 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                 |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-15 | [[Field Level Media]] | [[Kings aim to tighten up defense before facing Oilers]] |
+| 2022-11-15 | [[LA Daily News]]       | [[Kings need ‘all-around improvement going into Edmonton]]                                                                            |
+| 2022-11-15 | [[Hockey Royalty]]      | [[Takeaways - LA Kings 5, Calgary 6 – Down In Flames]]                                                                                |
+| 2022-11-15 | [[LA Kings Insider]]    | [[Off-Ice Roundup as Kings practice in Edmonton]]                                                                                     |
 | 2022-11-14 | [[NHL]]                 | [[5 THINGS - FLAMES VS KINGS]]                                                                                                        |
 | 2022-11-14 | [[Kings at NHL.com]]    | [[The Week That Was, The Week That Is - 11-14]]                                                                                       |
 | 2022-11-14 | [[The Forum Report]]    | [[“Pretty shoddy hockey” dooms Kings as Toffoli scores on first career shot on Quick - Lewis on the evolution of playing for Sutter]] |

@@ -22,10 +22,13 @@ RW | L | 6'2" | 210 | 21 | 2001-06-26 | Tashkent, UZB | 2019 LAK, 2nd rd, 2nd pk
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                         |     |
 | ---------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------- | --- |
-| 2022-11-14 | [[LA Hockey Now]] | [[Kings Win Streak Ends at Four After 6-5 Loss to Flames]] |
-| 2022-11-14 | [[LA Kings Insider]] | [[FINAL – Kings 5, Flames 6 – Danault, McLellan]] |
-| 2022-11-12 | [[Hockey Royalty]] | [[Three ways the LA Kings can improve the powerplay]] |
-| 2022-11-12 | [[LA Kings Insider]] | [[11-12 Preview – Petersen in Net + Finding Consistency, PP Zone Entries, Pushing Purple]] |
+| 2022-11-15 | [[Field Level Media]] | [[Kings aim to tighten up defense before facing Oilers]] |
+| 2022-11-15 | [[Hockey Royalty]]    | [[Takeaways - LA Kings 5, Calgary 6 – Down In Flames]]                                                                        |     |
+| 2022-11-15 | [[LA Kings Insider]]  | [[11-15 Practice – Kings Review CGY Pitfalls + Kaliyev talks goals, Doughty on World Cup, Kopitar Players Tribune]]           |     |
+| 2022-11-14 | [[LA Hockey Now]]     | [[Kings Win Streak Ends at Four After 6-5 Loss to Flames]]                                                                    |     |
+| 2022-11-14 | [[LA Kings Insider]]  | [[FINAL – Kings 5, Flames 6 – Danault, McLellan]]                                                                             |     |
+| 2022-11-12 | [[Hockey Royalty]]    | [[Three ways the LA Kings can improve the powerplay]]                                                                         |     |
+| 2022-11-12 | [[LA Kings Insider]]  | [[11-12 Preview – Petersen in Net + Finding Consistency, PP Zone Entries, Pushing Purple]]                                    |     |
 | 2022-11-09 | [[The Athletic]]      | [[LA Kings are scoring more goals — heres why, and is there a cost involved]]                                                 |     |
 | 2022-11-08 | [[LA Daily News]]     | [[Kings edge Wild as Jonathan Quick outduels Marc-Andre Fleury]]                                                              |     |
 | 2022-11-08 | [[Kings at NHL.com]]  | [[LA Kings vs Minnesota Wild - How to Watch]]                                                                                 |     |

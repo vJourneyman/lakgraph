@@ -20,12 +20,13 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                                       |
 | ---------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-14 | [[LA Hockey Now]] | [[Kings vs Flames Game No 18 - Lines, Notes, and How to Watch]] |
-| 2022-11-14 | [[Hockey Royalty]] | [[LA Kings at Calgary Flames projected lineup, betting preview]] |
-| 2022-11-14 | [[Mayors Manor]] | [[Projected Lineup - LA Kings at Calgary Flames, Welcome to the Sutter Show]] |
-| 2022-11-14 | [[LA Kings Insider]] | [[11-14 Preview – JAD Confirmed To Play, His Focus Tonight + Vitals, Improvements, Photos]] |
-| 2022-11-13 | [[Mayors Manor]] | [[Kings Roster Moves - Clarke to AHL, Lemieux to IR, Pair of Prospects Recalled]] |
-| 2022-11-13 | [[LA Kings Insider]] | [[Roster Moves – Andersson and Moverare recalled, Lemieux to IR Clarke to ONT on conditioning loan]] |
+| 2022-11-15 | [[The Forum Report]] | [[Waking Up with the Kings - November 15]]                                                                                  |
+| 2022-11-14 | [[LA Hockey Now]]    | [[Kings vs Flames Game No 18 - Lines, Notes, and How to Watch]]                                                             |
+| 2022-11-14 | [[Hockey Royalty]]   | [[LA Kings at Calgary Flames projected lineup, betting preview]]                                                            |
+| 2022-11-14 | [[Mayors Manor]]     | [[Projected Lineup - LA Kings at Calgary Flames, Welcome to the Sutter Show]]                                               |
+| 2022-11-14 | [[LA Kings Insider]] | [[11-14 Preview – JAD Confirmed To Play, His Focus Tonight + Vitals, Improvements, Photos]]                                 |
+| 2022-11-13 | [[Mayors Manor]]     | [[Kings Roster Moves - Clarke to AHL, Lemieux to IR, Pair of Prospects Recalled]]                                           |
+| 2022-11-13 | [[LA Kings Insider]] | [[Roster Moves – Andersson and Moverare recalled, Lemieux to IR Clarke to ONT on conditioning loan]]                        |
 | 2022-11-11 | [[LA Kings Insider]] | [[11-11 Practice – Diving into lineup changes and the state of the power play with Todd McLellan]]                          |
 | 2022-11-01 | [[LA Kings Insider]] | [[11-1 Preview - No Morning Skate in Dallas + McLellan on Fiala, Doughty/Anderson Pairing, The Big 100 - LA Kings Insider]] |
 | 2022-10-30 | [[The Forum Report]] | [[Waking up with the Kings - October 30]]                                                                                   |

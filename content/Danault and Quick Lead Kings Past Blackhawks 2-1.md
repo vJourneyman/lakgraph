@@ -35,6 +35,6 @@ status: stable
 
 ## Notes and Quotes
 ### [[Todd McLellan]]
-> For the first three to four games, just like [[Phil Danault]] was last year, it's hard on those individuals to find where they fit. They probably don't play their games right away, they want to share everything with their teammates, and impress them. I think \[[[Kevin Fiala]]]'s playing his game now, in our system, and that's a really good thing.
+> For the first three to four games, just like [[Phillip Danault|Phil Danault]] was last year, it's hard on those individuals to find where they fit. They probably don't play their games right away, they want to share everything with their teammates, and impress them. I think \[[[Kevin Fiala]]]'s playing his game now, in our system, and that's a really good thing.
 
 > It (practice) helps a lot. If I was you, the next question I would as would be 'well then the powerplay should be getting better.' Because we have time to practice that as well. But we're still working on things, we're a little disjointed, the timing and rhythm is off. For me, powerplays are about rhythm and we don't have a lot of rhythm in ours right now. Ones going east and ones going west. We're just not predictable of what's going to happen next. We're going to fix it, we will.

@@ -21,7 +21,8 @@ Viktor Arvidsson | 33 | LW | R | 5' 10" | 185 | 1993-04-08 | Skellefteå, SWE | 
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-11-12 | [[Hockey Royalty]] | [[Three ways the LA Kings can improve the powerplay]] |
+| 2022-11-15 | [[LA Kings Insider]]    | [[11-15 Practice – Kings Review CGY Pitfalls + Kaliyev talks goals, Doughty on World Cup, Kopitar Players Tribune]]                  |
+| 2022-11-12 | [[Hockey Royalty]]      | [[Three ways the LA Kings can improve the powerplay]]                                                                                |
 | 2022-11-10 | [[The Athletic]]        | [[Blackhawks vs Kings conjures fuzzy memories and warns of fuzzier futures]]                                                         |
 | 2022-11-10 | [[LA Kings Insider]]    | [[FINAL – Kings 2, Blackhawks 1 (OT) – Fiala, Danault, McLellan]]                                                                    |
 | 2022-11-09 | [[The Athletic]]        | [[LA Kings are scoring more goals — heres why, and is there a cost involved]]                                                        |
@@ -79,7 +80,7 @@ Viktor Arvidsson | 33 | LW | R | 5' 10" | 185 | 1993-04-08 | Skellefteå, SWE | 
 | 2022-09-30 | [[LA Kings Insider]]    | [[After a mentally and physically challenging summer, Viktor Arvidsson is looking to the bright side in camp]]                       |
 | 2022-09-30 | [[LA Kings Insider]]    | [[Day 9 Primer – Today’s Groups + Arvidsson and Durzi with main group, Wagner clears waivers]]                                       |
 | 2022-09-29 | [[LA Kings Insider]]    | [[Angeles Analysis – Thoughts From The First Week Of Training Camp]]                                                                 |
-| 2022-09-27 | [[LA Kings Insider]]    | [[Day 6 Notes – Injury Updates + Grundstrom Opportunity, Anderson Debut and Kempe joins ATKM]]                   |
+| 2022-09-27 | [[LA Kings Insider]]    | [[Day 6 Notes – Injury Updates + Grundstrom Opportunity, Anderson Debut and Kempe joins ATKM]]                                       |
 
 
 
