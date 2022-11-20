@@ -20,7 +20,9 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-14 | [[LA Kings Insider]] | [[11-14 Preview – JAD Confirmed To Play, His Focus Tonight + Vitals, Improvements, Photos]] |
+| 2022-11-17 | [[The Hockey News]]     | [[SCREEN SHOTS - ALEX EDLERS HIT, FLEURYS INJURY AND BUFFALOS SLUMP]]                                                                               |
+| 2022-11-17 | [[The Hockey Writers]]  | [[Oilers Not Staying Silent About Dirty Edler Hit on Connor McDavid]]                                                                               |
+| 2022-11-14 | [[LA Kings Insider]]    | [[11-14 Preview – JAD Confirmed To Play, His Focus Tonight + Vitals, Improvements, Photos]]                                                         |
 | 2022-11-11 | [[The Forum Report]]    | [[Playmaking Chart - 11-10 vs CHI]]                                                                                                                 |
 | 2022-11-06 | [[The Forum Report]]    | [[Playmaking Chart - 11-5-22 vs FLA]]                                                                                                               |
 | 2022-11-02 | [[The Forum Report]]    | [[Reaction in Dallas - Todd on 11-7 - Colin Miller on Calder Cup teammate Adrian Kempe - “You could tell early on that he was going to be a stud”]] |

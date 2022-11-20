@@ -21,7 +21,12 @@ Viktor Arvidsson | 33 | LW | R | 5' 10" | 185 | 1993-04-08 | Skellefteå, SWE | 
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                           |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-16 | [[LA Hockey Now]] | [[Trevor Moore Leads Kings Past Oilers 3-1]] |
+| 2022-11-17 | [[Mayors Manor]] | [[Rapid Review - Highlights and Notes from Kings Scoring Moore than Oilers]] |
+| 2022-11-17 | [[The Athletic]] | [[LA Kings win over Oilers can go a long way toward defining who they can be]] |
+| 2022-11-17 | [[The Forum Report]] | [[Waking Up with the Kings - November 17]] |
+| 2022-11-17 | [[LA Kings Insider]]    | [[With 300 points in the rearview mirror, Viktor Arvidsson is feeling more like himself by the day]]                                                            |
+| 2022-11-17 | [[LA Kings Insider]]    | [[A Not-So-Practice Report – Kings off today in Vancouver, McLellan talks process behind scheduling]]                                                           |
+| 2022-11-16 | [[LA Hockey Now]]       | [[Trevor Moore Leads Kings Past Oilers 3-1]]                                                                                                                    |
 | 2022-11-16 | [[Kings at NHL.com]]    | [[Moore gets first NHL hat trick, Kings shut down Oilers]]                                                                                                      |
 | 2022-11-16 | [[The Forum Report]]    | [[Moore hat trick, 29 blocks lead character win as Petersen finds groove “These guys ended our season last year, so there is a little bit of payback in that”]] |
 | 2022-11-16 | [[LA Kings Insider]]    | [[FINAL – Kings 3, Oilers 1 – Moore, Arvidsson, Petersen, McLellan]]                                                                                            |

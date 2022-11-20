@@ -19,7 +19,13 @@ NHL.com | Twitter
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                           |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-16 | [[LA Hockey Now]] | [[Trevor Moore Leads Kings Past Oilers 3-1]] |
+| 2022-11-17 | [[Field Level Media]]   | [[With coachs job security in question, Canucks prep to face Kings]]                                                                                            |
+| 2022-11-17 | [[LA Daily News]]       | [[Kings head to Pacific Northwest for back-to-back set]]                                                                                                        |
+| 2022-11-17 | [[Hockey Royalty]]      | [[Takeaways - LA Kings 3, Edmonton 1 – A Great Defensive Effort]]                                                                                               |
+| 2022-11-17 | [[Mayors Manor]]        | [[Rapid Review - Highlights and Notes from Kings Scoring Moore than Oilers]]                                                                                    |
+| 2022-11-17 | [[The Athletic]]        | [[LA Kings win over Oilers can go a long way toward defining who they can be]]                                                                                  |
+| 2022-11-17 | [[The Forum Report]]    | [[Waking Up with the Kings - November 17]]                                                                                                                      |
+| 2022-11-16 | [[LA Hockey Now]]       | [[Trevor Moore Leads Kings Past Oilers 3-1]]                                                                                                                    |
 | 2022-11-16 | [[LA Hockey Now]]       | [[Kings vs Oilers Game No 19 - Lines, Notes and How to Watch]]                                                                                                  |
 | 2022-11-16 | [[The Forum Report]]    | [[Moore hat trick, 29 blocks lead character win as Petersen finds groove “These guys ended our season last year, so there is a little bit of payback in that”]] |
 | 2022-11-16 | [[LA Kings Insider]]    | [[FINAL – Kings 3, Oilers 1 – Moore, Arvidsson, Petersen, McLellan]]                                                                                            |
@@ -106,7 +112,7 @@ NHL.com | Twitter
 | 2022-10-04 | [[LA Kings Insider]]    | [[PRESEASON FINAL – Kings 4, Ducks 5 – Vilardi, Edler, McLellan]]                                                                                               |
 | 2022-10-04 | [[LA Kings Insider]]    | [[10-4 Preview – Projected Lineup + Petersen expected, Clarke goes 5-for-5, Today’s Practice]]                                                                  |
 | 2022-10-01 | [[LA Kings Insider]]    | [[Day 10 Practice Notes – Petersen, Byfield Updates + Durzi talks contract, Walker on the left]]                                                                |
-| 2022-09-27 | [[LA Kings Insider]]    | [[Day 6 Notes – Injury Updates + Grundstrom Opportunity, Anderson Debut and Kempe joins ATKM]]                                                      |
+| 2022-09-27 | [[LA Kings Insider]]    | [[Day 6 Notes – Injury Updates + Grundstrom Opportunity, Anderson Debut and Kempe joins ATKM]]                                                                  |
 
 
 

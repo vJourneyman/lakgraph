@@ -22,6 +22,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-17 | [[TSN.ca]] | [[Insider Trading - Injuries forcing Jets to consider all options]] |
 | 2022-11-15 | [[The Forum Report]]    | [[Waking Up with the Kings - November 15]]                                                                                           |
 | 2022-11-14 | [[Kings at NHL.com]]    | [[The Week That Was, The Week That Is - 11-14]]                                                                                      |
 | 2022-11-14 | [[Hockey Royalty]]      | [[Week 6 Pacific Division Power Rankings]]                                                                                           |

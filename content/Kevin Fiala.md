@@ -20,6 +20,7 @@ Kevin Fiala | 22 | LW | L | 5' 10" | 204 | 1996-07-22 | St. Gallen, CHE | 2014 N
 ## NHL  Coverage
 | Date       | Site                            | Title                                                                                                                                                      |
 | ---------- | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-17 | [[Field Level Media]]           | [[With coachs job security in question, Canucks prep to face Kings]]                                                                                       |
 | 2022-11-16 | [[The Forum Report]]            | [[Returning to Edmonton as a player, not observer, Doughty praises team growth and credits Quick - JAD looks to maintain rhythm after Calgary homecoming]] |
 | 2022-11-15 | [[The Forum Report]]            | [[Playmaking Chart - 11-14 at CGY]]                                                                                                                        |
 | 2022-11-14 | [[Last Word On Sports]]         | [[NHL Predictions - November 14 Including Los Angeles Kings vs Calgary Flames]]                                                                            |

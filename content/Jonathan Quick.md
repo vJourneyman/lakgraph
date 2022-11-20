@@ -21,7 +21,9 @@ NHL.com / Ontario Reign | Twitter
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                 |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-15 | [[The Forum Report]]    | [[Playmaking Chart - 11-14 at CGY]]                                                                                                                                                                                                                                                           |
+| 2022-11-17 | [[Field Level Media]]   | [[With coachs job security in question, Canucks prep to face Kings]]                                                                                  |
+| 2022-11-17 | [[ESPN]]                | [[Which current NHL players will make the Hockey Hall of Fame]]                                                                                       |
+| 2022-11-15 | [[The Forum Report]]    | [[Playmaking Chart - 11-14 at CGY]]                                                                                                                   |
 | 2022-11-14 | [[LA Hockey Now]]       | [[Kings Win Streak Ends at Four After 6-5 Loss to Flames]]                                                                                            |
 | 2022-11-14 | [[LA Hockey Now]]       | [[Kings vs Flames Game No 18 - Lines, Notes, and How to Watch]]                                                                                       |
 | 2022-11-14 | [[Kings at NHL.com]]    | [[The Week That Was, The Week That Is - 11-14]]                                                                                                       |

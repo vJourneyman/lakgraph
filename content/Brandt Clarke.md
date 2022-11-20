@@ -127,14 +127,16 @@ Brandt Clarke | 92 | RD | R | 6' 2" | 185 | 2003-02-09 | Nepean, ON, CAN | 2021 
 
 
 ## Minor League Coverage
-| Date       | Site                 | Title                                                                                         |
-| ---------- | -------------------- | --------------------------------------------------------------------------------------------- |
-| 2022-11-15 | [[Mayors Manor]]     | [[Brandt Clarke on Being Sent Down, Adjusting to AHL Life]]                                   |
-| 2022-11-14 | [[Kings at NHL.com]] | [[The Week That Was, The Week That Is - 11-14]]                                               |
-| 2022-11-14 | [[Hockey Royalty]]   | [[LA Kings at Calgary Flames projected lineup, betting preview]]                              |
-| 2022-11-13 | [[Mayors Manor]]     | [[Reign Recap - Concerns Mounting as Ontario Drops Fourth Straight]]                          |
-| 2022-11-13 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup vs San Diego - Brandt Clarke Debut Among Myriad of Changes]] |
-| 2022-11-13 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 1, Gulls 4 – Sturm, Turcotte, Clarke]]                                  |
+| Date       | Site                  | Title                                                                                         |
+| ---------- | --------------------- | --------------------------------------------------------------------------------------------- |
+| 2022-11-17 | [[TSN.ca]]            | [[Insider Trading - Injuries forcing Jets to consider all options]]                           |
+| 2022-11-17 | [[Pro Hockey Rumors]] | [[Snapshots - Pastujov, Wedgewood, Kings Defense]]                                            |
+| 2022-11-15 | [[Mayors Manor]]      | [[Brandt Clarke on Being Sent Down, Adjusting to AHL Life]]                                   |
+| 2022-11-14 | [[Kings at NHL.com]]  | [[The Week That Was, The Week That Is - 11-14]]                                               |
+| 2022-11-14 | [[Hockey Royalty]]    | [[LA Kings at Calgary Flames projected lineup, betting preview]]                              |
+| 2022-11-13 | [[Mayors Manor]]      | [[Reign Recap - Concerns Mounting as Ontario Drops Fourth Straight]]                          |
+| 2022-11-13 | [[Mayors Manor]]      | [[Ontario Reign Projected Lineup vs San Diego - Brandt Clarke Debut Among Myriad of Changes]] |
+| 2022-11-13 | [[LA Kings Insider]]  | [[REIGN FINAL – Reign 1, Gulls 4 – Sturm, Turcotte, Clarke]]                                  |
 | 2022-11-13 | [[LA Kings Insider]] | [[Roster Moves – Andersson and Moverare recalled, Lemieux to IR Clarke to ONT on conditioning loan]] |
 
 

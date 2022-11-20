@@ -22,7 +22,10 @@ Anze Kopitar | 11 | C | L | 6' 3" | 225 | 1987-08-24 | Jesenice, SVN | 2005 LAK,
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                               |
 | ---------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-15 | [[Field Level Media]] | [[Kings aim to tighten up defense before facing Oilers]] |
+| 2022-11-17 | [[ESPN]]               | [[Which current NHL players will make the Hockey Hall of Fame]]                                                                                     |
+| 2022-11-17 | [[Hockey Royalty]]     | [[Takeaways - LA Kings 3, Edmonton 1 – A Great Defensive Effort]]                                                                                   |
+| 2022-11-17 | [[The Forum Report]]   | [[Playmaking Chart - 11-16 at EDM]]                                                                                                                 |
+| 2022-11-15 | [[Field Level Media]]  | [[Kings aim to tighten up defense before facing Oilers]]                                                                                            |
 | 2022-11-15 | [[LA Kings Insider]]   | [[11-15 Practice – Kings Review CGY Pitfalls + Kaliyev talks goals, Doughty on World Cup, Kopitar Players Tribune]]                                 |
 | 2022-11-14 | [[Kings at NHL.com]]   | [[The Week That Was, The Week That Is - 11-14]]                                                                                                     |
 | 2022-11-13 | [[Action Network]]     | [[NHL Odds, Preview, Prediction - Kings vs Flames (November 14)]]                                                                                   |

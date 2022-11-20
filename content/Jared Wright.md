@@ -34,6 +34,7 @@ status: unstarted
 ## Post-Draft Coverage
 | Date       | Site               | Title                                                                                 |
 | ---------- | ------------------ | ------------------------------------------------------------------------------------- |
+| 2022-11-17 | [[Hockey Royalty]] | [[A ‘Shell-Shocked Jared Wright Talks First NCAA Goal, LA Kings Dev Camp]] |
 | 2022-11-16 | [[Hockey Royalty]] | [[Jared Wrights Big Weekend Highlights LA Kings Prospect Update – Week Ending 11-13]] |
 | 2022-11-14 | [[Hockey Royalty]] | [[LA Kings Prospect Jared Wright Earns NCHC Forward of the Week Honors]]              |
 | 2022-11-14 | [[NCHC Hockey]]    | [[KJ Branding NCHC Players of the Week - Nov 7-13 2022]]                              |

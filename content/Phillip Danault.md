@@ -22,7 +22,9 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                 |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-15 | [[Field Level Media]] | [[Kings aim to tighten up defense before facing Oilers]] |
+| 2022-11-17 | [[Mayors Manor]]        | [[Rapid Review - Highlights and Notes from Kings Scoring Moore than Oilers]]                                                          |
+| 2022-11-17 | [[LA Kings Insider]]    | [[With 300 points in the rearview mirror, Viktor Arvidsson is feeling more like himself by the day]]                                  |
+| 2022-11-15 | [[Field Level Media]]   | [[Kings aim to tighten up defense before facing Oilers]]                                                                              |
 | 2022-11-15 | [[LA Daily News]]       | [[Kings need ‘all-around improvement going into Edmonton]]                                                                            |
 | 2022-11-15 | [[Hockey Royalty]]      | [[Takeaways - LA Kings 5, Calgary 6 – Down In Flames]]                                                                                |
 | 2022-11-15 | [[LA Kings Insider]]    | [[Off-Ice Roundup as Kings practice in Edmonton]]                                                                                     |
