@@ -20,6 +20,9 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                                       |
 | ---------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-16 | [[The Forum Report]] | [[Returning to Edmonton as a player, not observer, Doughty praises team growth and credits Quick - JAD looks to maintain rhythm after Calgary homecoming]] |
+| 2022-11-16 | [[LA Kings Insider]] | [[11-16 Preview – Petersen Off First plus Mental Readiness, Kempe Off The Schneid, McHugh Talks LAK]]                       |
+| 2022-11-15 | [[The Forum Report]] | [[Playmaking Chart - 11-14 at CGY]]                                                                                         |
 | 2022-11-15 | [[The Forum Report]] | [[Waking Up with the Kings - November 15]]                                                                                  |
 | 2022-11-14 | [[LA Hockey Now]]    | [[Kings vs Flames Game No 18 - Lines, Notes, and How to Watch]]                                                             |
 | 2022-11-14 | [[Hockey Royalty]]   | [[LA Kings at Calgary Flames projected lineup, betting preview]]                                                            |

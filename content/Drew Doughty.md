@@ -22,6 +22,7 @@ Drew Doughty | 8 | RD | R | 6' 1" | 210 | 1989-12-08 | London, ON, CAN | 2008 LA
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                 |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-16 | [[The Forum Report]] | [[Returning to Edmonton as a player, not observer, Doughty praises team growth and credits Quick - JAD looks to maintain rhythm after Calgary homecoming]] |
 | 2022-11-15 | [[Edmonton Sun]]        | [[MATHESON - This time, Kings have Doughty to face Oilers]]                                                                                           |
 | 2022-11-15 | [[The Forum Report]]    | [[Doughty was “willing to risk further injury” to play playoff hockey, but ended up traveling as the teams most vocal supporter And FIFA boss]]       |
 | 2022-11-15 | [[LA Kings Insider]]    | [[11-15 Practice – Kings Review CGY Pitfalls + Kaliyev talks goals, Doughty on World Cup, Kopitar Players Tribune]]                                   |
