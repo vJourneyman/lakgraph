@@ -21,6 +21,8 @@ NHL.com / Ontario Reign | Twitter
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                 |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-18 | [[The Forum Report]]    | [[After winning one “circled on the calendar,” Kings strive to maintain intensity - “tremendous” Doughty playing at an elite level]]                  |
+| 2022-11-18 | [[LA Kings Insider]]    | [[11-18 Preview – Full-Team Skate in VAN + Playing “Kings Hockey”, Shot Blocking and Edler talks HOF]]                                                |
 | 2022-11-17 | [[Field Level Media]]   | [[With coachs job security in question, Canucks prep to face Kings]]                                                                                  |
 | 2022-11-17 | [[ESPN]]                | [[Which current NHL players will make the Hockey Hall of Fame]]                                                                                       |
 | 2022-11-15 | [[The Forum Report]]    | [[Playmaking Chart - 11-14 at CGY]]                                                                                                                   |
@@ -112,7 +114,7 @@ NHL.com / Ontario Reign | Twitter
 | 2022-10-11 | [[The Forum Report]]    | [[Postgame - Terrible LA game management - Bettman talks RSNs with LA media]]                                                                         |
 | 2022-10-10 | [[LA Daily News]]       | [[2022-23 Kings hockey - Five burning questions]]                                                                                                     |
 | 2022-10-09 | [[LA Daily News]]       | [[Kings need faster start to meet higher expectations]]                                                                                               |
-| 2022-09-25 | [[LA Kings Insider]] | [[PRESEASON FINAL – Kings 2, Sharks 3 OT – McLellan takeaways + Clarke preseason debut and notes]]       |
+| 2022-09-25 | [[LA Kings Insider]]    | [[PRESEASON FINAL – Kings 2, Sharks 3 OT – McLellan takeaways + Clarke preseason debut and notes]]                                                    |
 
 
 

@@ -21,9 +21,11 @@ Viktor Arvidsson | 33 | LW | R | 5' 10" | 185 | 1993-04-08 | Skellefteå, SWE | 
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                           |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-17 | [[Mayors Manor]] | [[Rapid Review - Highlights and Notes from Kings Scoring Moore than Oilers]] |
-| 2022-11-17 | [[The Athletic]] | [[LA Kings win over Oilers can go a long way toward defining who they can be]] |
-| 2022-11-17 | [[The Forum Report]] | [[Waking Up with the Kings - November 17]] |
+| 2022-11-18 | [[Puck Prose]]          | [[Trevor Moores hat trick powers a Los Angeles Kings victory]]                                                                                                  |
+| 2022-11-18 | [[LA Kings Insider]]    | [[11-18 Preview – Full-Team Skate in VAN + Playing “Kings Hockey”, Shot Blocking and Edler talks HOF]]                                                          |
+| 2022-11-17 | [[Mayors Manor]]        | [[Rapid Review - Highlights and Notes from Kings Scoring Moore than Oilers]]                                                                                    |
+| 2022-11-17 | [[The Athletic]]        | [[LA Kings win over Oilers can go a long way toward defining who they can be]]                                                                                  |
+| 2022-11-17 | [[The Forum Report]]    | [[Waking Up with the Kings - November 17]]                                                                                                                      |
 | 2022-11-17 | [[LA Kings Insider]]    | [[With 300 points in the rearview mirror, Viktor Arvidsson is feeling more like himself by the day]]                                                            |
 | 2022-11-17 | [[LA Kings Insider]]    | [[A Not-So-Practice Report – Kings off today in Vancouver, McLellan talks process behind scheduling]]                                                           |
 | 2022-11-16 | [[LA Hockey Now]]       | [[Trevor Moore Leads Kings Past Oilers 3-1]]                                                                                                                    |

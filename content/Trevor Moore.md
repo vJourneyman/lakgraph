@@ -21,7 +21,11 @@ Trevor Moore | 12 | C | L | 5' 10" | 195 | 1995-03-31 | Thousand Oaks, CA, USA
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                                                           |
 | ---------- | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-17 | [[Field Level Media]] | [[With coachs job security in question, Canucks prep to face Kings]] |
+| 2022-11-18 | [[Puck Prose]] | [[Trevor Moores hat trick powers a Los Angeles Kings victory]] |
+| 2022-11-18 | [[LA Hockey Now]] | [[Kings Vs Canucks Game 20 - Lines, Notes and How to Watch]] |
+| 2022-11-18 | [[The Athletic]]      | [[NHL Power Rankings - We have a new No 1 and a surprise top-10 entry]]                                                                                         |
+| 2022-11-18 | [[LA Kings Insider]]  | [[11-18 Preview – Full-Team Skate in VAN + Playing “Kings Hockey”, Shot Blocking and Edler talks HOF]]                                                          |
+| 2022-11-17 | [[Field Level Media]] | [[With coachs job security in question, Canucks prep to face Kings]]                                                                                            |
 | 2022-11-17 | [[Field Level Media]] | [[Trevor Moores first hat trick carries Kings past Oilers]]                                                                                                     |
 | 2022-11-17 | [[Hockey Royalty]]    | [[Takeaways - LA Kings 3, Edmonton 1 – A Great Defensive Effort]]                                                                                               |
 | 2022-11-17 | [[Mayors Manor]]      | [[Rapid Review - Highlights and Notes from Kings Scoring Moore than Oilers]]                                                                                    |

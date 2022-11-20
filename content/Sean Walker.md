@@ -20,8 +20,9 @@ Sean Walker | 26 | RD | R | 5' 11" | 195 | 1994-11-13 | Keswick, ON, CAN
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                     |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-17 | [[Hockey Royalty]] | [[Takeaways - LA Kings 3, Edmonton 1 – A Great Defensive Effort]] |
-| 2022-11-13 | [[The Forum Report]] | [[Playmaking Chart - 11-12 vs Detroit]] |
+| 2022-11-18 | [[The Fourth Period]]   | [[KINGS WEIGHING THEIR BLUELINE OPTIONS]]                                                                                                 |
+| 2022-11-17 | [[Hockey Royalty]]      | [[Takeaways - LA Kings 3, Edmonton 1 – A Great Defensive Effort]]                                                                         |
+| 2022-11-13 | [[The Forum Report]]    | [[Playmaking Chart - 11-12 vs Detroit]]                                                                                                   |
 | 2022-11-08 | [[The Forum Report]]    | [[Moving the needle “immensely,” Walker keeps grasp on lineup spot - faith in lineup balance despite top lines inconsistencies]]          |
 | 2022-11-04 | [[The Forum Report]]    | [[Playmaking Chart - 11-3-22 at CHI]]                                                                                                     |
 | 2022-11-01 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings at Dallas Stars on Tuesday]]                                                                                |

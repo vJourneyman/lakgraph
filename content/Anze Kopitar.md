@@ -22,6 +22,9 @@ Anze Kopitar | 11 | C | L | 6' 3" | 225 | 1987-08-24 | Jesenice, SVN | 2005 LAK,
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                               |
 | ---------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-18 | [[Hockey Royalty]]     | [[What went right for the LA Kings defensively in Edmonton]]                                                                                        |
+| 2022-11-18 | [[The Forum Report]]   | [[They had 20 guys that were willing to play their plan, and we didnt have enough willing to play ours]]                                            |
+| 2022-11-18 | [[LA Kings Insider]]   | [[FINAL – Kings 1, Canucks 4 – Kopitar, McLellan]]                                                                                                  |
 | 2022-11-17 | [[ESPN]]               | [[Which current NHL players will make the Hockey Hall of Fame]]                                                                                     |
 | 2022-11-17 | [[Hockey Royalty]]     | [[Takeaways - LA Kings 3, Edmonton 1 – A Great Defensive Effort]]                                                                                   |
 | 2022-11-17 | [[The Forum Report]]   | [[Playmaking Chart - 11-16 at EDM]]                                                                                                                 |

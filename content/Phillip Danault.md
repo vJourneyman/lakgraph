@@ -22,6 +22,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                 |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-18 | [[The Forum Report]]    | [[After winning one “circled on the calendar,” Kings strive to maintain intensity - “tremendous” Doughty playing at an elite level]]  |
 | 2022-11-17 | [[Mayors Manor]]        | [[Rapid Review - Highlights and Notes from Kings Scoring Moore than Oilers]]                                                          |
 | 2022-11-17 | [[LA Kings Insider]]    | [[With 300 points in the rearview mirror, Viktor Arvidsson is feeling more like himself by the day]]                                  |
 | 2022-11-15 | [[Field Level Media]]   | [[Kings aim to tighten up defense before facing Oilers]]                                                                              |

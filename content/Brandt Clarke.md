@@ -129,6 +129,7 @@ Brandt Clarke | 92 | RD | R | 6' 2" | 185 | 2003-02-09 | Nepean, ON, CAN | 2021 
 ## Minor League Coverage
 | Date       | Site                  | Title                                                                                         |
 | ---------- | --------------------- | --------------------------------------------------------------------------------------------- |
+| 2022-11-18 | [[TSN.ca]]            | [[Chychruns return could spur trade market for Coyotes]]                                      |
 | 2022-11-17 | [[TSN.ca]]            | [[Insider Trading - Injuries forcing Jets to consider all options]]                           |
 | 2022-11-17 | [[Pro Hockey Rumors]] | [[Snapshots - Pastujov, Wedgewood, Kings Defense]]                                            |
 | 2022-11-15 | [[Mayors Manor]]      | [[Brandt Clarke on Being Sent Down, Adjusting to AHL Life]]                                   |

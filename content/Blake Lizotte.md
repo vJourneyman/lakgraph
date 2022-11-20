@@ -23,6 +23,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                                |
 | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-18 | [[The Forum Report]] | [[They had 20 guys that were willing to play their plan, and we didnt have enough willing to play ours]] |
 | 2022-11-10 | [[The Forum Report]]  | [[Todd senses “a little frustration” in Kempe, scoreless in five straight as percentages regress]]                                   |
 | 2022-11-10 | [[LA Kings Insider]]  | [[11-10 Preview – Projected Lineup + Chicago Rematch, Importance Of Faceoffs, Turcotte to ONT]]                                      |
 | 2022-11-09 | [[LA Daily News]]     | [[Gabe Vilardi is finding his game with Kings]]                                                                                      |

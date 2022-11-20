@@ -20,6 +20,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                                       |
 | ---------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-18 | [[The Forum Report]] | [[They had 20 guys that were willing to play their plan, and we didnt have enough willing to play ours]] |
 | 2022-11-16 | [[The Forum Report]] | [[Returning to Edmonton as a player, not observer, Doughty praises team growth and credits Quick - JAD looks to maintain rhythm after Calgary homecoming]] |
 | 2022-11-16 | [[LA Kings Insider]] | [[11-16 Preview – Petersen Off First plus Mental Readiness, Kempe Off The Schneid, McHugh Talks LAK]]                       |
 | 2022-11-15 | [[The Forum Report]] | [[Playmaking Chart - 11-14 at CGY]]                                                                                         |
