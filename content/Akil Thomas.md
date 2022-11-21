@@ -28,7 +28,8 @@ Date | Site |  Title
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                              |
 | ---------- | -------------------- | -------------------------------------------------------------------------------------------------- |
-| 2022-11-17 | [[Mayors Manor]] | [[Alex Turcotte is Taking it Day by Day, Back to Grinding Away]] |
+| 2022-11-19 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup at Henderson Silver Knights - More Changes Expected]]             |
+| 2022-11-17 | [[Mayors Manor]]     | [[Alex Turcotte is Taking it Day by Day, Back to Grinding Away]]                                   |
 | 2022-11-12 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at Bakersfield, 11-12]]                                                  |
 | 2022-11-11 | [[The AHL]]          | [[Weekend notebook - Reign loaded again with young stars]]                                         |
 | 2022-11-11 | [[Mayors Manor]]     | [[Reign Recap - Revamped Lineup Comes Up Short in Shootout Loss at San Jose]]                      |

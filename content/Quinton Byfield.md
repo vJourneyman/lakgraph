@@ -94,7 +94,8 @@ Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                             |     |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------------- | --- |
-| 2022-11-14 | [[Hockey Royalty]] | [[Ontario Reign - Three stars of the week 11-7 to 11-13]] |
+| 2022-11-19 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup at Henderson Silver Knights - More Changes Expected]]            |     |
+| 2022-11-14 | [[Hockey Royalty]]   | [[Ontario Reign - Three stars of the week 11-7 to 11-13]]                                         |     |
 | 2022-11-13 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 3-1 loss to Bakersfield]]                                  |     |
 | 2022-11-13 | [[Mayors Manor]]     | [[Reign Recap - Concerns Mounting as Ontario Drops Fourth Straight]]                              |     |
 | 2022-11-13 | [[Mayors Manor]]     | [[Reign Recap - Byfield Scores, Ontario Comes Up Short in Bakersfield]]                           |     |
@@ -121,17 +122,17 @@ Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
 
 
 ## Pre-Draft
-| Date       | Site                              | Title                                      |
-| ---------- | --------------------------------- | ------------------------------------------ |
-| 2020-10-06 | [[The Athletic]]     | [[Quinton Byfield makes history as highest-drafted Black player]]
-| 2020-10-05 | [[Sportsnet]] | [[Prospect of Interest - Quinton Byfield has makings of franchise centre]]
-| 2020-06-26 | [[The Hockey Tactics Newsletter]] | [[A Development Plan for Quinton Byfield]] | 
-| 2020-05-29 | [[The Hockey Tactics Newsletter]] | [[How will Byfield answer The Question]]                                                                                                            |
-| 2020-04-15 | [[Last Word On Sports]] | [[Quinton Byfield Scouting Report - 2020 NHL Draft No 2]]
-| 2020-04-08 | [[NHL]] | [[Prospects talk Draft prep]]
-| 2020-02-20 | [[CHL]] | [[In Conversation - Wolves centre Quinton Byfield]]                                                                                                                        |
-| 2019-10-03 | [[The Hockey Writers]] | [[Prospect Profile - An Early Look at Quinton Byfield]]                                                                                |
-| 2019-07-31 | [[Sportsnet]] | [[Wolves Quinton Byfield ready for big year ahead of 2020 NHL draft]]
+| Date       | Site                              | Title                                                                                  |
+| ---------- | --------------------------------- | -------------------------------------------------------------------------------------- |
+| 2020-10-06 | [[The Athletic]]                  | [[Quinton Byfield makes history as highest-drafted Black player]]                      |
+| 2020-10-05 | [[Sportsnet]]                     | [[Prospect of Interest - Quinton Byfield has makings of franchise centre]]             |
+| 2020-06-26 | [[The Hockey Tactics Newsletter]] | [[A Development Plan for Quinton Byfield]]                                             |
+| 2020-05-29 | [[The Hockey Tactics Newsletter]] | [[How will Byfield answer The Question]]                                               |
+| 2020-04-15 | [[Last Word On Sports]]           | [[Quinton Byfield Scouting Report - 2020 NHL Draft No 2]]                              |
+| 2020-04-08 | [[NHL]]                           | [[Prospects talk Draft prep]]                                                          |
+| 2020-02-20 | [[CHL]]                           | [[In Conversation - Wolves centre Quinton Byfield]]                                    |
+| 2019-10-03 | [[The Hockey Writers]]            | [[Prospect Profile - An Early Look at Quinton Byfield]]                                |
+| 2019-07-31 | [[Sportsnet]]                     | [[Wolves Quinton Byfield ready for big year ahead of 2020 NHL draft]]                  |
 
 
 ## Unprocessed Articles

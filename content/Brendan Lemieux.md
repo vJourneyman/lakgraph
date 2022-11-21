@@ -22,6 +22,7 @@ Brendan Lemieux | 48 | LW | L | 6' 1" | 215 | 1996-03-15 | Denver, CO, USA | 201
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                     |
 | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-17 | [[Kings at NHL.com]] | [[Super 16 - Devils rise to No 2 - Kings, Flames join rankings]] |
 | 2022-11-15 | [[The Forum Report]]   | [[Waking Up with the Kings - November 15]]                                                                                |
 | 2022-11-14 | [[LA Hockey Now]]      | [[Kings vs Flames Game No 18 - Lines, Notes, and How to Watch]]                                                           |
 | 2022-11-14 | [[Kings at NHL.com]]   | [[The Week That Was, The Week That Is - 11-14]]                                                                           |

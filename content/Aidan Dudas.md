@@ -28,6 +28,7 @@ Aidan Dudas | 47 | F | R | 5' 7" | 164 | 2000-06-15 | Parry Sound, ON, CAN | LAK
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                            |
 | ---------- | -------------------- | -------------------------------------------------------------------------------- |
+| 2022-11-19 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at Henderson, 11-19]] |
 | 2022-11-13 | [[Mayors Manor]]     | [[Reign Recap - Concerns Mounting as Ontario Drops Fourth Straight]]             |
 | 2022-11-03 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at Colorado, 11-3 - LA Kings Insider]]                 |
 | 2022-10-31 | [[Mayors Manor]]     | [[LAK Prospects - Weekly Reign Report, October 30, 2022]]                        |

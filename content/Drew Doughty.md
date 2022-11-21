@@ -22,6 +22,7 @@ Drew Doughty | 8 | RD | R | 6' 1" | 210 | 1989-12-08 | London, ON, CAN | 2008 LA
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                      |
 | ---------- | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-19 | [[The Forum Report]] | [[Playmaking Chart - November 18 at Vancouver]] |
 | 2022-11-18 | [[The Forum Report]]    | [[After winning one “circled on the calendar,” Kings strive to maintain intensity - “tremendous” Doughty playing at an elite level]]                       |
 | 2022-11-17 | [[ESPN]]                | [[Which current NHL players will make the Hockey Hall of Fame]]                                                                                            |
 | 2022-11-17 | [[The Forum Report]]    | [[Playmaking Chart - 11-16 at EDM]]                                                                                                                        |

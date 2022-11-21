@@ -20,6 +20,7 @@ Sean Walker | 26 | RD | R | 5' 11" | 195 | 1994-11-13 | Keswick, ON, CAN
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                     |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-19 | [[The Forum Report]] | [[Playmaking Chart - November 18 at Vancouver]] |
 | 2022-11-18 | [[The Fourth Period]]   | [[KINGS WEIGHING THEIR BLUELINE OPTIONS]]                                                                                                 |
 | 2022-11-17 | [[Hockey Royalty]]      | [[Takeaways - LA Kings 3, Edmonton 1 – A Great Defensive Effort]]                                                                         |
 | 2022-11-13 | [[The Forum Report]]    | [[Playmaking Chart - 11-12 vs Detroit]]                                                                                                   |

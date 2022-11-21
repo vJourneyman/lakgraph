@@ -27,6 +27,7 @@ status: stable
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                             |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------------- |
+| 2022-11-19 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at Henderson, 11-19]] |
 | 2022-11-13 | [[Mayors Manor]] | [[Reign Recap - Byfield Scores, Ontario Comes Up Short in Bakersfield]] |
 | 2022-11-13 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs San Diego, 11-13]] |
 | 2022-11-12 | [[Mayors Manor]]     | [[Ontario Reign - Projected Lineup at Bakersfield - Plus Notes on Spence, Turcotte, and Byfield]] |

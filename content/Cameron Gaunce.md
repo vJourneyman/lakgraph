@@ -26,10 +26,11 @@ Date | Site |  Title
 
 
 ## Minor League Coverage
-| Date       | Site                         | Title                                                                              |
-| ---------- | ---------------------------- | ---------------------------------------------------------------------------------- |
-| 2022-11-02 | [[LA Kings Insider]]         | [[Ontario Reign defense takes center stage in teams 6-1 start - LA Kings Insider]] |
-| 2022-10-14 | [[Mayors Manor]]             | [[Ontario Reign - Opening Night Lineup vs Abbotsford Canucks]]                     |
+| Date       | Site                 | Title                                                                              |
+| ---------- | -------------------- | ---------------------------------------------------------------------------------- |
+| 2022-11-19 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 1, Silver Knights 3 – Sturm, Gaunce]]                        |
+| 2022-11-02 | [[LA Kings Insider]] | [[Ontario Reign defense takes center stage in teams 6-1 start - LA Kings Insider]] |
+| 2022-10-14 | [[Mayors Manor]]     | [[Ontario Reign - Opening Night Lineup vs Abbotsford Canucks]]                     |
 | 2022-10-06 | [[Ontario Reign on Youtube]] | [[Cameron Gaunce - Reign Training Camp Day 1]]                                     |
 
 

@@ -18,3 +18,4 @@ status: unstarted
 	- [ ] [[Brandt Clarke]] 
 - [ ] 2020 draft
 	- [ ] [[Alex Laferriere]]
+- [ ] [[Jacob Moverare]]

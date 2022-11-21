@@ -19,6 +19,12 @@ NHL.com | Twitter
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                           |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-19 | [[Kings at NHL.com]]    | [[Eberles OT goal gives Kraken win against Kings]]                                                                                                              |
+| 2022-11-19 | [[Hockey Royalty]]      | [[LA Kings at Seattle Kraken projected lineup, betting preview]]                                                                                                |
+| 2022-11-19 | [[The Forum Report]]    | [[Sean Durzi (lower-body) day-to-day but could play this week - Vilardi draws praise despite point drought - ex-Washingtonian Anderson-Dolan returns]]          |
+| 2022-11-19 | [[LA Kings Insider]]    | [[FINAL – Kings 2, Kraken 3 (OT) – Petersen, Edler, McLellan]]                                                                                                  |
+| 2022-11-19 | [[LA Kings Insider]]    | [[11-19 Preview – No Morning Skate plus Top Line Takeaways, Petersens Evolving Metrics, Ups and Downs]]                                                         |
+| 2022-11-17 | [[Kings at NHL.com]]    | [[Super 16 - Devils rise to No 2 - Kings, Flames join rankings]]                                                                                                |
 | 2022-11-17 | [[Field Level Media]]   | [[With coachs job security in question, Canucks prep to face Kings]]                                                                                            |
 | 2022-11-17 | [[LA Daily News]]       | [[Kings head to Pacific Northwest for back-to-back set]]                                                                                                        |
 | 2022-11-17 | [[Hockey Royalty]]      | [[Takeaways - LA Kings 3, Edmonton 1 – A Great Defensive Effort]]                                                                                               |

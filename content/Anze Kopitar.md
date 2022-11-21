@@ -22,6 +22,8 @@ Anze Kopitar | 11 | C | L | 6' 3" | 225 | 1987-08-24 | Jesenice, SVN | 2005 LAK,
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                               |
 | ---------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-19 | [[The Forum Report]] | [[Sean Durzi (lower-body) day-to-day but could play this week - Vilardi draws praise despite point drought - ex-Washingtonian Anderson-Dolan returns]] |
+| 2022-11-19 | [[LA Kings Insider]] | [[11-19 Preview – No Morning Skate plus Top Line Takeaways, Petersens Evolving Metrics, Ups and Downs]] |
 | 2022-11-18 | [[Hockey Royalty]]     | [[What went right for the LA Kings defensively in Edmonton]]                                                                                        |
 | 2022-11-18 | [[The Forum Report]]   | [[They had 20 guys that were willing to play their plan, and we didnt have enough willing to play ours]]                                            |
 | 2022-11-18 | [[LA Kings Insider]]   | [[FINAL – Kings 1, Canucks 4 – Kopitar, McLellan]]                                                                                                  |

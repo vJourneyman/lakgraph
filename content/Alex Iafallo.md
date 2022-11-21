@@ -21,6 +21,7 @@ Alex Iafallo | 19 | LW | L | 6' 0" | 200 | 1993-12-21 | Eden, NY, USA |
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                                |
 | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-17 | [[Kings at NHL.com]] | [[Super 16 - Devils rise to No 2 - Kings, Flames join rankings]] |
 | 2022-11-09 | [[Mayors Manor]]      | [[Quinton Byfield – Where do the Kings Go From Here]]                                                                                |
 | 2022-11-04 | [[LA Hockey Now]]     | [[Kings Daily - Disappointing Loss in Chicago and Ovechkin Makes History]]                                                           |
 | 2022-10-29 | [[Pro Hockey Rumors]] | [[Los Angeles Kings Recall Rasmus Kupari]]                                                                                           |

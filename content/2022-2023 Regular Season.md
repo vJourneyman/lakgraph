@@ -10,22 +10,29 @@ status: in-progress
 
 
 # 2022-2023 Regular Season
-| 2022-11-19 | [[Field Level Media]] | [[Kraken look to extend hot streak as Kings visit]](https://fieldlevelmedia.com/news/kraken-look-to-extend-hot-streak-as-kings-visit/) |
-| 2022-11-19 | [[LA Hockey Now]] | [[Kings vs Kraken Game 21 - Lines, Notes and How to Watch]](https://www.lahockeynow.com/2022/11/19/los-angeles-kings-vs-kraken-game-21-lines-notes--how-to-watch) |
-| 2022-11-19 | [[Hockey Royalty]] | [[LA Kings at Seattle Kraken projected lineup, betting preview]](https://hockeyroyalty.com/2022/11/19/la-kings-at-seattle-kraken-projected-lineup-betting-preview/) |
-| 2022-11-19 | [[Hockey Royalty]] | [[Takeaways - Vancouver 4, LA Kings 1 – A Forgettable Night]](https://hockeyroyalty.com/2022/11/19/takeaways-vancouver-4-la-kings-1-a-forgettable-night/) |
-| 2022-11-19 | [[Mayors Manor]] | [[Ontario Reign Projected Lineup at Henderson Silver Knights - More Changes Expected]](https://mayorsmanor.com/2022/11/ontario-reign-projected-lineup-at-henderson-silver-knights-more-changes-expected/) |
-| 2022-11-19 | [[Mayors Manor]] | [[Projected Lineups - LA Kings at Seattle Kraken, Trying to Get Back to Even]](https://mayorsmanor.com/2022/11/projected-lineups-la-kings-at-seattle-kraken-trying-to-get-back-to-even/) |
-| 2022-11-19 | [[The Athletic]] | [[NHL future watch - Whos the hottest player in each teams prospect pipeline]](https://theathletic.com/3907369/2022/11/19/nhl-prospect-pipeline-biggest-risers/) |
-| 2022-11-19 | [[The Forum Report]] | [[Playmaking Chart - November 18 at Vancouver]](https://theforumreport.com/playmaking-chart-november-18-at-vancouver/) |
-| 2022-11-19 | [[The Forum Report]] | [[Waking Up with the Kings - November 19]](https://theforumreport.com/waking-up-with-the-kings-november-19/) |
-| 2022-11-19 | [[LA Kings Insider]] | [[11-19 Preview – No Morning Skate + Top Line Takeaways, Petersens Evolving Metrics, Ups and Downs]](https://lakingsinsider.com/2022/11/19/11-19-preview-no-morning-skate-top-line-takeaways-petersens-evolving-metrics-ups-downs/) |
-| 2022-11-19 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at Henderson, 11-19]](https://lakingsinsider.com/2022/11/19/reign-preview-ontario-at-henderson-11-19/) |
 
 
 
 | Date       | Site                    | Title                                                                                                                                                           |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-19 | [[Field Level Media]]   | [[Jordan Eberle tallies in OT to lift Kraken over Kings]]                                                                                                       |
+| 2022-11-19 | [[Field Level Media]]   | [[Kraken look to extend hot streak as Kings visit]]                                                                                                             |
+| 2022-11-19 | [[LA Hockey Now]]       | [[Kings End Road Trip With 3-2 Overtime Loss Against Kraken]]                                                                                                   |
+| 2022-11-19 | [[LA Hockey Now]]       | [[Kings vs Kraken Game 21 - Lines, Notes and How to Watch]]                                                                                                     |
+| 2022-11-19 | [[Natural Stattrick]]   | [[Los Angeles Kings at Seattle Kraken 2022-11-19]]                                                                                                              |
+| 2022-11-19 | [[Kings at NHL.com]]    | [[Eberles OT goal gives Kraken win against Kings]]                                                                                                              |
+| 2022-11-19 | [[Hockey Royalty]]      | [[LA Kings at Seattle Kraken projected lineup, betting preview]]                                                                                                |
+| 2022-11-19 | [[Hockey Royalty]]      | [[Takeaways - Vancouver 4, LA Kings 1 – A Forgettable Night]]                                                                                                   |
+| 2022-11-19 | [[Mayors Manor]]        | [[Ontario Reign Projected Lineup at Henderson Silver Knights - More Changes Expected]]                                                                          |
+| 2022-11-19 | [[Mayors Manor]]        | [[Projected Lineups - LA Kings at Seattle Kraken, Trying to Get Back to Even]]                                                                                  |
+| 2022-11-19 | [[The Athletic]]        | [[NHL future watch - Whos the hottest player in each teams prospect pipeline]]                                                                                  |
+| 2022-11-19 | [[The Forum Report]]    | [[Sean Durzi (lower-body) day-to-day but could play this week - Vilardi draws praise despite point drought - ex-Washingtonian Anderson-Dolan returns]]          |
+| 2022-11-19 | [[The Forum Report]]    | [[Playmaking Chart - November 18 at Vancouver]]                                                                                                                 |
+| 2022-11-19 | [[The Forum Report]]    | [[Waking Up with the Kings - November 19]]                                                                                                                      |
+| 2022-11-19 | [[LA Kings Insider]]    | [[FINAL – Kings 2, Kraken 3 (OT) – Petersen, Edler, McLellan]]                                                                                                  |
+| 2022-11-19 | [[LA Kings Insider]]    | [[REIGN FINAL – Reign 1, Silver Knights 3 – Sturm, Gaunce]]                                                                                                     |
+| 2022-11-19 | [[LA Kings Insider]]    | [[11-19 Preview – No Morning Skate plus Top Line Takeaways, Petersens Evolving Metrics, Ups and Downs]]                                                         |
+| 2022-11-19 | [[LA Kings Insider]]    | [[REIGN PREVIEW – Ontario at Henderson, 11-19]]                                                                                                                 |
 | 2022-11-18 | [[Puck Prose]]          | [[The Los Angeles Kings Have Been a Big Surprise in the NHL]]                                                                                                   |
 | 2022-11-18 | [[Puck Prose]]          | [[Trevor Moores hat trick powers a Los Angeles Kings victory]]                                                                                                  |
 | 2022-11-18 | [[Last Word On Sports]] | [[NHL Predictions - November 18 Including Los Angeles Kings vs Vancouver Canucks]]                                                                              |
@@ -53,6 +60,7 @@ status: in-progress
 | 2022-11-17 | [[TSN.ca]]              | [[Insider Trading - Injuries forcing Jets to consider all options]]                                                                                             |
 | 2022-11-17 | [[Pro Hockey Rumors]]   | [[Snapshots - Pastujov, Wedgewood, Kings Defense]]                                                                                                              |
 | 2022-11-17 | [[ESPN]]                | [[Which current NHL players will make the Hockey Hall of Fame]]                                                                                                 |
+| 2022-11-17 | [[Kings at NHL.com]]    | [[Super 16 - Devils rise to No 2 - Kings, Flames join rankings]]                                                                                                |
 | 2022-11-17 | [[Hockey Royalty]]      | [[A ‘Shell-Shocked Jared Wright Talks First NCAA Goal, LA Kings Dev Camp]]                                                                                      |
 | 2022-11-17 | [[Hockey Royalty]]      | [[Takeaways - LA Kings 3, Edmonton 1 – A Great Defensive Effort]]                                                                                               |
 | 2022-11-17 | [[Mayors Manor]]        | [[Alex Turcotte is Taking it Day by Day, Back to Grinding Away]]                                                                                                |

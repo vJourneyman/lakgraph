@@ -32,6 +32,7 @@ Alex Turcotte | | C | L | 5' 11" | 185 | 2001-02-26 | Elk Grove, IL, USA | 2019 
 ## Minor League Coverage
 | Date       | Site                  | Title                                                                                                           |
 | ---------- | --------------------- | --------------------------------------------------------------------------------------------------------------- |
+| 2022-11-19 | [[Mayors Manor]]      | [[Ontario Reign Projected Lineup at Henderson Silver Knights - More Changes Expected]]                          |
 | 2022-11-17 | [[Mayors Manor]]      | [[Alex Turcotte is Taking it Day by Day, Back to Grinding Away]]                                                |
 | 2022-11-14 | [[Hockey Royalty]]    | [[Ontario Reign - Three stars of the week 11-7 to 11-13]]                                                       |
 | 2022-11-13 | [[Mayors Manor]]      | [[Reign Recap - Concerns Mounting as Ontario Drops Fourth Straight]]                                            |

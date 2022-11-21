@@ -22,6 +22,8 @@ Lias Andersson | 17 | C | L | 6' 1" | 183 | 1998-10-13 | Smogen, SWE | 2017 NYR,
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                |
 | ---------- | --------------------- | ---------------------------------------------------------------------------------------------------- |
+| 2022-11-19 | [[LA Hockey Now]] | [[Kings vs Kraken Game 21 - Lines, Notes and How to Watch]] |
+| 2022-11-19 | [[Mayors Manor]] | [[Projected Lineups - LA Kings at Seattle Kraken, Trying to Get Back to Even]] |
 | 2022-11-14 | [[Kings at NHL.com]] | [[The Week That Was, The Week That Is - 11-14]] |
 | 2022-11-14 | [[Hockey Royalty]]    | [[LA Kings at Calgary Flames projected lineup, betting preview]]                                     |
 | 2022-11-14 | [[LA Kings Insider]]  | [[11-14 Preview – JAD Confirmed To Play, His Focus Tonight + Vitals, Improvements, Photos]]          |

@@ -22,6 +22,8 @@ RW | L | 6'2" | 210 | 21 | 2001-06-26 | Tashkent, UZB | 2019 LAK, 2nd rd, 2nd pk
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                         |     |
 | ---------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------- | --- |
+| 2022-11-19 | [[LA Hockey Now]] | [[Kings End Road Trip With 3-2 Overtime Loss Against Kraken]] |
+| 2022-11-17 | [[Kings at NHL.com]] | [[Super 16 - Devils rise to No 2 - Kings, Flames join rankings]] |
 | 2022-11-18 | [[LA Hockey Now]] | [[Kings Vs Canucks Game 20 - Lines, Notes and How to Watch]] |
 | 2022-11-15 | [[Field Level Media]] | [[Kings aim to tighten up defense before facing Oilers]] |
 | 2022-11-15 | [[Hockey Royalty]]    | [[Takeaways - LA Kings 5, Calgary 6 – Down In Flames]]                                                                        |     |

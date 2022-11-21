@@ -21,8 +21,10 @@ Trevor Moore | 12 | C | L | 5' 10" | 195 | 1995-03-31 | Thousand Oaks, CA, USA
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                                                           |
 | ---------- | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-18 | [[Puck Prose]] | [[Trevor Moores hat trick powers a Los Angeles Kings victory]] |
-| 2022-11-18 | [[LA Hockey Now]] | [[Kings Vs Canucks Game 20 - Lines, Notes and How to Watch]] |
+| 2022-11-19 | [[Kings at NHL.com]]  | [[Eberles OT goal gives Kraken win against Kings]]                                                                                                              |
+| 2022-11-19 | [[LA Kings Insider]]  | [[FINAL – Kings 2, Kraken 3 (OT) – Petersen, Edler, McLellan]]                                                                                                  |
+| 2022-11-18 | [[Puck Prose]]        | [[Trevor Moores hat trick powers a Los Angeles Kings victory]]                                                                                                  |
+| 2022-11-18 | [[LA Hockey Now]]     | [[Kings Vs Canucks Game 20 - Lines, Notes and How to Watch]]                                                                                                    |
 | 2022-11-18 | [[The Athletic]]      | [[NHL Power Rankings - We have a new No 1 and a surprise top-10 entry]]                                                                                         |
 | 2022-11-18 | [[LA Kings Insider]]  | [[11-18 Preview – Full-Team Skate in VAN + Playing “Kings Hockey”, Shot Blocking and Edler talks HOF]]                                                          |
 | 2022-11-17 | [[Field Level Media]] | [[With coachs job security in question, Canucks prep to face Kings]]                                                                                            |
