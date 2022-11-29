@@ -8,18 +8,21 @@ status: stable
 
 # Jaret Anderson-Dolan
 
-NHL.com / Ontario Reign | Twitter
--|-
-[Jaret Anderson-Dolan]() | [@twitter_handle](https://twitter.com/)
+| NHL.com / Ontario Reign                                                         | Twitter                                 |
+| ------------------------------------------------------------------------------- | --------------------------------------- |
+| [Jaret Anderson-Dolan](https://www.nhl.com/player/jaret-anderson-dolan-8479994) | [@twitter_handle](https://twitter.com/) |
 
-Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft 
--|-|-|-|-|-|-|-|-
+| Player                   | \#  | Position | Shoots | Height | Weight | Born       | Birthplace       | Draft |
+| ------------------------ | --- | -------- | ------ | ------ | ------ | ---------- | ---------------- | ----- |
+| [[Jaret Anderson-Dolan]] | 28  | C        | L      | 5'11"  | 200    | 1999-09-12 | Calgary, AB, CAN | 2017 LAK, 2nd rd, 10th pk (41st overall)      |
 
 
 
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                                       |
 | ---------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-22 | [[The Athletic]] | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]] |
+| 2022-11-20 | [[The Forum Report]] | [[Playmaking Chart - November 19 at Seattle]] |
 | 2022-11-19 | [[The Forum Report]] | [[Sean Durzi (lower-body) day-to-day but could play this week - Vilardi draws praise despite point drought - ex-Washingtonian Anderson-Dolan returns]] |
 | 2022-11-19 | [[The Forum Report]] | [[Playmaking Chart - November 18 at Vancouver]] |
 | 2022-11-18 | [[The Forum Report]] | [[They had 20 guys that were willing to play their plan, and we didnt have enough willing to play ours]] |
@@ -34,7 +37,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 | 2022-11-13 | [[Mayors Manor]]     | [[Kings Roster Moves - Clarke to AHL, Lemieux to IR, Pair of Prospects Recalled]]                                           |
 | 2022-11-13 | [[LA Kings Insider]] | [[Roster Moves – Andersson and Moverare recalled, Lemieux to IR Clarke to ONT on conditioning loan]]                        |
 | 2022-11-11 | [[LA Kings Insider]] | [[11-11 Practice – Diving into lineup changes and the state of the power play with Todd McLellan]]                          |
-| 2022-11-01 | [[LA Kings Insider]] | [[11-1 Preview - No Morning Skate in Dallas + McLellan on Fiala, Doughty/Anderson Pairing, The Big 100 - LA Kings Insider]] |
+| 2022-11-01 | [[LA Kings Insider]] | [[11-1 Preview - No Morning Skate in Dallas plus McLellan on Fiala, Doughty-Anderson Pairing, The Big 100 - LA Kings Insider]] |
 | 2022-10-30 | [[The Forum Report]] | [[Waking up with the Kings - October 30]]                                                                                   |
 | 2022-10-29 | [[Hockey Royalty]]   | [[LA Kings vs Toronto Maple Leafs projected lineup, betting preview]]                                                       |
 | 2022-10-28 | [[LA Kings Insider]] | [[The Lines They Are A-Changing......Kings display new look heading into tomorrows game - LA Kings Insider]]                |

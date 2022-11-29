@@ -9,18 +9,22 @@ priority: high
 
 # Trevor Moore
 
-NHL.com | Twitter
--|-
-[Trevor Moore](https://www.nhl.com/player/trevor-moore-8479675) | 
+| NHL.com / Ontario Reign                                         | Twitter |
+| --------------------------------------------------------------- | ------- |
+| [Trevor Moore](https://www.nhl.com/player/trevor-moore-8479675) |         |
 
-Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft 
--|-|-|-|-|-|-|-|-
-Trevor Moore | 12 | C | L | 5' 10" | 195 | 1995-03-31 | Thousand Oaks, CA, USA
+| Player       | \#  | Position | Shoots | Height | Weight | Born       | Birthplace             | Draft     |
+| ------------ | --- | -------- | ------ | ------ | ------ | ---------- | ---------------------- | --------- |
+| Trevor Moore | 12  | C        | L      | 5' 10" | 195    | 1995-03-31 | Thousand Oaks, CA, USA | Undrafted |
 
 
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                                                           |
 | ---------- | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-22 | [[The Athletic]] | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]] |
+| 2022-11-21 | [[Hockey Royalty]]    | [[Week 7 Pacific Division Power Rankings]]                                                                                                                      |
+| 2022-11-20 | [[Hockey Royalty]]    | [[Takeaways - Seattle 3, LA Kings 2 OT – A Point Salvaged]]                                                                                                     |
+| 2022-11-20 | [[Mayors Manor]]      | [[Rapid Review - Highlights and Notes from Kings OT Loss to Kraken]]                                                                                            |
 | 2022-11-19 | [[Kings at NHL.com]]  | [[Eberles OT goal gives Kraken win against Kings]]                                                                                                              |
 | 2022-11-19 | [[LA Kings Insider]]  | [[FINAL – Kings 2, Kraken 3 (OT) – Petersen, Edler, McLellan]]                                                                                                  |
 | 2022-11-18 | [[Puck Prose]]        | [[Trevor Moores hat trick powers a Los Angeles Kings victory]]                                                                                                  |

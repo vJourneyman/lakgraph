@@ -9,21 +9,25 @@ priority: high
 
 # Rasmus Kupari
 
-NHL.com | Twitter
--|-
-[Rasmus Kupari](https://www.nhl.com/player/rasmus-kupari-8480845) | []()
+| NHL.com / Ontario Reign                                           | Twitter |
+| ----------------------------------------------------------------- | ------- |
+| [Rasmus Kupari](https://www.nhl.com/player/rasmus-kupari-8480845) | []()    |
 
-Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
----|---|---|---|---|---|---|---|---
-Rasmus Kupari | |  C | R | 6'2" | 200 |2000-03-15 | Kotka, FIN | 2018 LAK, 1st rd, 20th pk (20th overall)
+| Player        | \#  | Position | Shoots | Height | Weight | Born       | Birthplace | Draft                                    |
+| ------------- | --- | -------- | ------ | ------ | ------ | ---------- | ---------- | ---------------------------------------- |
+| Rasmus Kupari | 89    | C        | R      | 6'2"   | 200    | 2000-03-15 | Kotka, FIN | 2018 LAK, 1st rd, 20th pk (20th overall) |
  
 
 
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                     |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-13 | [[The Forum Report]] | [[Playmaking Chart - 11-12 vs Detroit]] |
-| 2022-11-13 | [[The Forum Report]] | [[Waking up with the Kings - November 13]] |
+| 2022-11-22 | [[The Athletic]]        | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]]                                                                 |
+| 2022-11-21 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Recall Three Players From AHL]]                                                                                       |
+| 2022-11-21 | [[LA Kings Insider]]    | [[11-21 Practice – Todays Alignment + Fiala/Kopitar/Kempe reunited, Moverare on Debut, Roster Moves]]                                     |
+| 2022-11-20 | [[Hockey Royalty]]      | [[Los Angeles Kings Loan Three Players To AHL]]                                                                                           |
+| 2022-11-13 | [[The Forum Report]]    | [[Playmaking Chart - 11-12 vs Detroit]]                                                                                                   |
+| 2022-11-13 | [[The Forum Report]]    | [[Waking up with the Kings - November 13]]                                                                                                |
 | 2022-11-12 | [[LA Daily News]]       | [[Kings extend win streak with victory over Red Wings]]                                                                                   |
 | 2022-11-12 | [[The Forum Report]]    | [[Inside Kupari, Fiala and Grundstroms chemistry - remembering the 2001 Detroit-LA playoff back-to-back]]                                 |
 | 2022-11-11 | [[The Forum Report]]    | [[Waking Up with the Kings - November 11]]                                                                                                |
@@ -51,7 +55,7 @@ Rasmus Kupari | |  C | R | 6'2" | 200 |2000-03-15 | Kotka, FIN | 2018 LAK, 1st r
 | 2022-11-04 | [[LA Kings Insider]]    | [[Angeles Analysis - An Interesting Road Trip - LA Kings Insider]]                                                                        |
 | 2022-11-01 | [[The Forum Report]]    | [[Playmaking Chart - 10-31 vs St Louis]]                                                                                                  |
 | 2022-11-01 | [[The Forum Report]]    | [[Waking up with the Kings - November 1]]                                                                                                 |
-| 2022-11-01 | [[LA Kings Insider]]    | [[11-1 Preview - No Morning Skate in Dallas + McLellan on Fiala, Doughty/Anderson Pairing, The Big 100 - LA Kings Insider]]               |
+| 2022-11-01 | [[LA Kings Insider]]    | [[11-1 Preview - No Morning Skate in Dallas plus McLellan on Fiala, Doughty-Anderson Pairing, The Big 100 - LA Kings Insider]]            |
 | 2022-10-31 | [[Hockey Royalty]]      | [[LA Kings at St Louis Blues projected lineup, betting preview]]                                                                          |
 | 2022-10-31 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings at St Louis Blues, Plus Byfield Update]]                                                                    |
 | 2022-10-31 | [[The Athletic]]        | [[How Kings Gabriel Vilardi finally arrived - ‘I had more to prove this year]]                                                            |

@@ -8,13 +8,13 @@ status: stable
 
 # Drew Doughty
 
-NHL.com / Ontario Reign | Twitter
--|-
-[Drew Doughty](https://www.nhl.com/player/drew-doughty-8474563) | [@dewyy8](https://twitter.com/dewyy8)
+| NHL.com / Ontario Reign                                         | Twitter                               |
+| --------------------------------------------------------------- | ------------------------------------- |
+| [Drew Doughty](https://www.nhl.com/player/drew-doughty-8474563) | [@dewyy8](https://twitter.com/dewyy8) |
 
-Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft 
--|-|-|-|-|-|-|-|-
-Drew Doughty | 8 | RD | R | 6' 1" | 210 | 1989-12-08 | London, ON, CAN | 2008 LAK, 1st rd, 2nd pk (2nd overall)
+| Player       | \#  | Position | Shoots | Height | Weight | Born       | Birthplace      | Draft                                  |
+| ------------ | --- | -------- | ------ | ------ | ------ | ---------- | --------------- | -------------------------------------- |
+| Drew Doughty | 8   | RD       | R      | 6' 1"  | 210    | 1989-12-08 | London, ON, CAN | 2008 LAK, 1st rd, 2nd pk (2nd overall) |
 
 
 
@@ -22,7 +22,10 @@ Drew Doughty | 8 | RD | R | 6' 1" | 210 | 1989-12-08 | London, ON, CAN | 2008 LA
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                      |
 | ---------- | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-19 | [[The Forum Report]] | [[Playmaking Chart - November 18 at Vancouver]] |
+| 2022-11-22 | [[The Athletic]]        | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]]                                                                                  |
+| 2022-11-22 | [[LA Kings Insider]]    | [[11-22 Preview – Potential Alignment + Fiala talks comfort level, Penalties and Kill, Rushing Rangers]]                                                   |
+| 2022-11-21 | [[LA Kings Insider]]    | [[11-21 Practice – Todays Alignment + Fiala/Kopitar/Kempe reunited, Moverare on Debut, Roster Moves]]                                                      |
+| 2022-11-19 | [[The Forum Report]]    | [[Playmaking Chart - November 18 at Vancouver]]                                                                                                            |
 | 2022-11-18 | [[The Forum Report]]    | [[After winning one “circled on the calendar,” Kings strive to maintain intensity - “tremendous” Doughty playing at an elite level]]                       |
 | 2022-11-17 | [[ESPN]]                | [[Which current NHL players will make the Hockey Hall of Fame]]                                                                                            |
 | 2022-11-17 | [[The Forum Report]]    | [[Playmaking Chart - 11-16 at EDM]]                                                                                                                        |
@@ -51,7 +54,7 @@ Drew Doughty | 8 | RD | R | 6' 1" | 210 | 1989-12-08 | London, ON, CAN | 2008 LA
 | 2022-11-03 | [[The Forum Report]]    | [[No hands tipped on Clarkes status - as competition rises, so do Vilardi and his new linemates numbers]]                                                  |
 | 2022-11-02 | [[The Hockey Writers]]  | [[Kings Strong Play Being Cancelled Out by Lackluster Goaltending]]                                                                                        |
 | 2022-11-02 | [[LA Kings Insider]]    | [[By The Numbers - What The Metrics Say Through 12 Games - LA Kings Insider]]                                                                              |
-| 2022-11-01 | [[LA Kings Insider]]    | [[11-1 Preview - No Morning Skate in Dallas + McLellan on Fiala, Doughty/Anderson Pairing, The Big 100 - LA Kings Insider]]                                |
+| 2022-11-01 | [[LA Kings Insider]]    | [[11-1 Preview - No Morning Skate in Dallas plus McLellan on Fiala, Doughty-Anderson Pairing, The Big 100 - LA Kings Insider]]                             |
 | 2022-10-31 | [[The Forum Report]]    | [[Muzzin, Clifford, Kings reconnect - Byfield “a little bit better” but not with team - Kuparis play away from the puck a good baseline]]                  |
 | 2022-10-26 | [[The Forum Report]]    | [[Playmaking Chart - 10-25 vs TBL]]                                                                                                                        |
 | 2022-10-25 | [[The Hockey News]]     | [[Los Angeles Kings Goaltending Must Tighten Up To Win A Playoff Round]]                                                                                   |

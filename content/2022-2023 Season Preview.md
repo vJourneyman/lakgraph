@@ -32,6 +32,7 @@ status: unfinished
 | 2022-09-10 | [[Mayors Manor]] | [[Kings Tidbits - Latest Updates on Mikey Anderson and Alex Turcotte]](https://mayorsmanor.com/2022/09/kings-tidbits-latest-updates-on-mikey-anderson-and-alex-turcotte/)
 | 2022-09-10 | [[HockeyBuzz]] | [[Kings re-sign Mikey Anderson]](https://hockeybuzz.com/blog/Ben-Shelley/Kings-re-sign-Mikey-Anderson/281/118655)
 | 2022-09-07 | [[The Athletic]] | [[State of the Kings -  Defense looks strong, but can Drew Doughty stay healthy]](https://theathletic.com/3571831/2022/09/07/kings-defense-doughty-inujuries)
+| 2022-08-05 | [[The Hockey News]] | [[Prospect Pool Overview: Los Angeles Kings]](https://thehockeynews.com/news/prospect-pool-overview-los-angeles-kings) |
 | 2022-07-16 | [[Mayors Manor]] | [[Mike Donnelly on Standouts at LA Kings Dev Camp and Other Impressions]](https://mayorsmanor.com/2022/07/mike-donnelly-on-standouts-at-kings-development-camp-and-overall-impressions/)
 
 

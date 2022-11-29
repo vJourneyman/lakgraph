@@ -32,7 +32,10 @@ Jordan Spence | 58 | D | R | 5' 10" | 180 | 2001-02-24 | Manly, AUS | -   2019 L
 ## Minor League Coverage
 | Date       | Site                    | Title                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------- |
-| 2022-11-19 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at Henderson, 11-19]] |
+| 2022-11-23 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs San Jose, 11-23]] |
+| 2022-11-20 | [[Mayors Manor]]        | [[Reign Recap - Clarke and Byfield Score, Get Ontario Back to Their Winning Ways]]                  |
+| 2022-11-20 | [[LA Kings Insider]]    | [[REIGN PREVIEW – Ontario vs Henderson, 11-20]]                                                     |
+| 2022-11-19 | [[LA Kings Insider]]    | [[REIGN PREVIEW – Ontario at Henderson, 11-19]]                                                     |
 | 2022-11-18 | [[TSN.ca]]              | [[Chychruns return could spur trade market for Coyotes]]                                            |
 | 2022-11-17 | [[TSN.ca]]              | [[Insider Trading - Injuries forcing Jets to consider all options]]                                 |
 | 2022-11-17 | [[Pro Hockey Rumors]]   | [[Snapshots - Pastujov, Wedgewood, Kings Defense]]                                                  |

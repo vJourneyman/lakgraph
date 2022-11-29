@@ -8,19 +8,20 @@ status: stable
 
 # Alex Iafallo
 
-NHL.com / Ontario Reign | Twitter
--|-
-[Alex Iafallo](https://www.nhl.com/player/alex-iafallo-8480113) | [@twitter_handle](https://twitter.com/)
+| NHL.com / Ontario Reign                                                 | Twitter                                 |
+| ----------------------------------------------------------------------- | --------------------------------------- |
+|[Alex Iafallo](https://www.nhl.com/player/alex-iafallo-8480113) | [@twitter_handle](https://twitter.com/)
 
-Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft 
--|-|-|-|-|-|-|-|-
-Alex Iafallo | 19 | LW | L | 6' 0" | 200 | 1993-12-21 | Eden, NY, USA | 
+| Player       | \#  | Position | Shoots | Height | Weight | Born       | Birthplace    | Draft |
+| ------------ | --- | -------- | ------ | ------ | ------ | ---------- | ------------- | ----- |
+| Alex Iafallo | 19  | LW       | L      | 6' 0"  | 200    | 1993-12-21 | Eden, NY, USA |       |
 
 
 
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                                |
 | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-22 | [[The Athletic]] | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]] |
 | 2022-11-17 | [[Kings at NHL.com]] | [[Super 16 - Devils rise to No 2 - Kings, Flames join rankings]] |
 | 2022-11-09 | [[Mayors Manor]]      | [[Quinton Byfield – Where do the Kings Go From Here]]                                                                                |
 | 2022-11-04 | [[LA Hockey Now]]     | [[Kings Daily - Disappointing Loss in Chicago and Ovechkin Makes History]]                                                           |
@@ -34,7 +35,7 @@ Alex Iafallo | 19 | LW | L | 6' 0" | 200 | 1993-12-21 | Eden, NY, USA |
 | 2022-10-24 | [[LA Kings Insider]]  | [[10-24 Practice - Kings address areas of focus + McLellan on Lines, Lizotte on Identity, Robitaille Joins ATKM - LA Kings Insider]] |
 | 2022-10-23 | [[Pro Hockey Rumors]] | [[Alex Iafallo Moved To LTIR, Austin Wagner Recalled]]                                                                               |
 | 2022-10-23 | [[The Forum Report]]  | [[Waking up with the Kings - October 23]]                                                                                            |
-| 2022-10-23 | [[LA Kings Insider]]  | [[Sunday Roster Moves - Iafallo to LTIR + Moverare/Wagner Exchange - LA Kings Insider]]                                              |
+| 2022-10-23 | [[LA Kings Insider]]  | [[Sunday Roster Moves - Iafallo to LTIR plus Moverare-Wagner Exchange - LA Kings Insider]]                                              |
 | 2022-10-21 | [[Hockey Royalty]]    | [[LA Kings at Washington Capitals projected lineups, betting preview]]                                                               |
 | 2022-10-20 | [[Hockey Royalty]]    | [[LA Kings at Pittsburgh Penguins projected lineups, betting preview]]                                                               |
 | 2022-10-20 | [[Mayors Manor]]      | [[Projected Lineup - LA Kings at Pittsburgh Penguins, Game 6]]                                                                       |

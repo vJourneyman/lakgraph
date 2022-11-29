@@ -9,18 +9,19 @@ priority: high
 
 # Brandt Clarke
 
-NHL.com | Twitter
--|-
-[Brandt Clarke]() | [@twitter_handle](https://twitter.com/)
+| NHL.com / Ontario Reign | Twitter                                 |
+| ----------------------- | --------------------------------------- |
+| [Brandt Clarke]()       | [@twitter_handle](https://twitter.com/) |
 
-Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft 
----|---|---|---|---|---|---|---|---
-Brandt Clarke | 92 | RD | R | 6' 2" | 185 | 2003-02-09 | Nepean, ON, CAN | 2021 LAK, 1st rd, 8th pk (8th overall)
+| Player        | \#  | Position | Shoots | Height | Weight | Born       | Birthplace      | Draft                                  |
+| ------------- | --- | -------- | ------ | ------ | ------ | ---------- | --------------- | -------------------------------------- |
+| Brandt Clarke | 92  | RD       | R      | 6' 2"  | 185    | 2003-02-09 | Nepean, ON, CAN | 2021 LAK, 1st rd, 8th pk (8th overall) |
 
 
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-22 | [[The Athletic]] | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]] |
 | 2022-11-14 | [[Hockey Royalty]] | [[Ontario Reign - Three stars of the week 11-7 to 11-13]] |
 | 2022-11-13 | [[Field Level Media]]   | [[Kings place F Brendan Lemieux (lower body) on IR]]                                                                                                |
 | 2022-11-13 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Place Brendan Lemieux On IR - Recall Jacob Moverare, Lias Andersson]]                                                           |
@@ -48,7 +49,7 @@ Brandt Clarke | 92 | RD | R | 6' 2" | 185 | 2003-02-09 | Nepean, ON, CAN | 2021 
 | 2022-11-01 | [[Defending Big D]]     | [[Questions Face Stars Leading into Matchup with Kings]]                                                                                            |
 | 2022-11-01 | [[Hockey Royalty]]      | [[LA Kings at Dallas Stars projected lineup, betting preview]]                                                                                      |
 | 2022-11-01 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings at Dallas Stars on Tuesday]]                                                                                          |
-| 2022-11-01 | [[LA Kings Insider]]    | [[11-1 Preview - No Morning Skate in Dallas + McLellan on Fiala, Doughty/Anderson Pairing, The Big 100 - LA Kings Insider]]                         |
+| 2022-11-01 | [[LA Kings Insider]]    | [[11-1 Preview - No Morning Skate in Dallas plus McLellan on Fiala, Doughty-Anderson Pairing, The Big 100 - LA Kings Insider]]                         |
 | 2022-10-31 | [[Hockey Royalty]]      | [[LA Kings at St Louis Blues projected lineup, betting preview]]                                                                                    |
 | 2022-10-31 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings at St Louis Blues, Plus Byfield Update]]                                                                              |
 | 2022-10-29 | [[LA Daily News]]       | [[Kings goalie Cal Petersen starts in victory over Toronto]]                                                                                        |
@@ -129,6 +130,15 @@ Brandt Clarke | 92 | RD | R | 6' 2" | 185 | 2003-02-09 | Nepean, ON, CAN | 2021 
 ## Minor League Coverage
 | Date       | Site                  | Title                                                                                         |
 | ---------- | --------------------- | --------------------------------------------------------------------------------------------- |
+| 2022-11-23 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs San Jose, 11-23]] |
+| 2022-11-22 | [[Hockey Royalty]] | [[Ontario Reign - Three stars of the week – 11-14 to 11-20]] |
+| 2022-11-22 | [[The Forum Report]] | [[Patience, process emphasized as key prospects gain repetitions in Ontario – including Byfield, who missed time with Covid, per his coach]] |
+| 2022-11-21 | [[Hockey Royalty]]    | [[Takeaways - Ontario Reign 3, Henderson 2 – Finally]]                                        |
+| 2022-11-20 | [[Hockey Royalty]]    | [[Ontario Reign - Three takeaways from 3-1 loss to Henderson]]                                |
+| 2022-11-20 | [[Mayors Manor]]      | [[Reign Recap - Clarke and Byfield Score, Get Ontario Back to Their Winning Ways]]            |
+| 2022-11-20 | [[Mayors Manor]]      | [[Ontario Reign Projected Lineup vs Henderson Silver Knights - Searching For Answers]]        |
+| 2022-11-20 | [[Mayors Manor]]      | [[Reign Recap - Ontario Loses Front End of Home-and-Home Weekend vs Silver Knights]]          |
+| 2022-11-20 | [[LA Kings Insider]]  | [[REIGN FINAL – Reign 3, Silver Knights 2 – Sturm, Copley, Clarke]]                           |
 | 2022-11-19 | [[Mayors Manor]]      | [[Ontario Reign Projected Lineup at Henderson Silver Knights - More Changes Expected]]        |
 | 2022-11-18 | [[TSN.ca]]            | [[Chychruns return could spur trade market for Coyotes]]                                      |
 | 2022-11-17 | [[TSN.ca]]            | [[Insider Trading - Injuries forcing Jets to consider all options]]                           |

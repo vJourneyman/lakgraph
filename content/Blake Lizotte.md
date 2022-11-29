@@ -8,23 +8,21 @@ status: stable
 
 # Blake Lizotte
 
-NHL.com / Ontario Reign | Twitter
--|-
-[Blake Lizotte]() | [@twitter_handle](https://twitter.com/)
+| NHL.com / Ontario Reign                                                 | Twitter                                 |
+| ----------------------------------------------------------------------- | --------------------------------------- |
+|[Blake Lizotte](https://www.nhl.com/player/blake-lizotte-8481481) | [@twitter_handle](https://twitter.com/)
 
-Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft 
--|-|-|-|-|-|-|-|-
-	[[Blake Lizotte]] | 46 | C | L | 5' 9" | 170 | 1997-12-13 | Lindstrom, MN, USA | 
- 
-
-
-
+| Player            | \#  | Position | Shoots | Height | Weight | Born       | Birthplace         | Draft |
+| ----------------- | --- | -------- | ------ | ------ | ------ | ---------- | ------------------ | ----- |
+| [[Blake Lizotte]] | 46  | C        | L      | 5' 9"  | 170    | 1997-12-13 | Lindstrom, MN, USA | Undrafted      |
 
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                                |
 | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-11-19 | [[LA Hockey Now]] | [[Kings End Road Trip With 3-2 Overtime Loss Against Kraken]] |
-| 2022-11-18 | [[The Forum Report]] | [[They had 20 guys that were willing to play their plan, and we didnt have enough willing to play ours]] |
+| 2022-11-22 | [[Hockey Royalty]] | [[LA Kings vs New York Rangers projected lineup, betting preview]] |
+| 2022-11-22 | [[The Athletic]]      | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]]                                                            |
+| 2022-11-19 | [[LA Hockey Now]]     | [[Kings End Road Trip With 3-2 Overtime Loss Against Kraken]]                                                                        |
+| 2022-11-18 | [[The Forum Report]]  | [[They had 20 guys that were willing to play their plan, and we didnt have enough willing to play ours]]                             |
 | 2022-11-10 | [[The Forum Report]]  | [[Todd senses “a little frustration” in Kempe, scoreless in five straight as percentages regress]]                                   |
 | 2022-11-10 | [[LA Kings Insider]]  | [[11-10 Preview – Projected Lineup + Chicago Rematch, Importance Of Faceoffs, Turcotte to ONT]]                                      |
 | 2022-11-09 | [[LA Daily News]]     | [[Gabe Vilardi is finding his game with Kings]]                                                                                      |

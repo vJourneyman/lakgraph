@@ -8,20 +8,19 @@ status: stable
 
 # Matt Roy
 
-NHL.com / Ontario Reign | Twitter
--|-
-[Matt Roy](https://www.nhl.com/player/matt-roy-8478911) | [@mattroy6](https://twitter.com/mattroy6)
+| NHL.com / Ontario Reign                                 | Twitter                                   |
+| ------------------------------------------------------- | ----------------------------------------- |
+| [Matt Roy](https://www.nhl.com/player/matt-roy-8478911) | [@mattroy6](https://twitter.com/mattroy6) |
 
-Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft 
--|-|-|-|-|-|-|-|-
-Matt Roy | 3 | RD | R | 6' 1" | 205 | 1995-03-01 | Detroit, MI, USA | 2015 LAK, 7th rd, 13th pk (194th overall)
-
-
+| Player   | \#  | Position | Shoots | Height | Weight | Born       | Birthplace       | Draft                                     |
+| -------- | --- | -------- | ------ | ------ | ------ | ---------- | ---------------- | ----------------------------------------- |
+| Matt Roy | 3   | RD       | R      | 6' 1"  | 205    | 1995-03-01 | Detroit, MI, USA | 2015 LAK, 7th rd, 13th pk (194th overall) |
 
 
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                           |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-22 | [[The Athletic]] | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]] |
 | 2022-11-19 | [[LA Kings Insider]] | [[FINAL – Kings 2, Kraken 3 (OT) – Petersen, Edler, McLellan]] |
 | 2022-11-18 | [[The Fourth Period]]   | [[KINGS WEIGHING THEIR BLUELINE OPTIONS]]                                                                                                                       |
 | 2022-11-16 | [[The Forum Report]]    | [[Moore hat trick, 29 blocks lead character win as Petersen finds groove “These guys ended our season last year, so there is a little bit of payback in that”]] |

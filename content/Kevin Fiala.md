@@ -8,18 +8,29 @@ status: UnprocessedContent
 
 # Kevin Fiala
 
-NHL.com | Twitter
--|-
-[Kevin Fiala]() | [@twitter_handle](https://twitter.com/)
+| NHL.com / Ontario Reign | Twitter                                 |
+| ----------------------- | --------------------------------------- |
+| [Kevin Fiala]()         | [@twitter_handle](https://twitter.com/) |
 
-Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft 
----|---|---|---|---|---|---|---|---
-Kevin Fiala | 22 | LW | L | 5' 10" | 204 | 1996-07-22 | St. Gallen, CHE | 2014 NSH, 1st rd, 11th pk (11th overall)
+| Player      | \#  | Position | Shoots | Height | Weight | Born       | Birthplace      | Draft                                    |
+| ----------- | --- | -------- | ------ | ------ | ------ | ---------- | --------------- | ---------------------------------------- |
+| Kevin Fiala | 22  | LW       | L      | 5' 10" | 204    | 1996-07-22 | St. Gallen, CHE | 2014 NSH, 1st rd, 11th pk (11th overall) |
 
 
 ## NHL  Coverage
 | Date       | Site                            | Title                                                                                                                                                      |
 | ---------- | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-22 | [[LA Hockey Now]] | [[Kings Blow Early Lead in 5-3 Loss to Rangers]] |
+| 2022-11-22 | [[LA Hockey Now]] | [[Kings vs Rangers Game 22 - Notes, Lines and How to Watch]] |
+| 2022-11-22 | [[LA Daily News]]               | [[Kings home winning streak ends as Rangers rally]]                                                                                                        |
+| 2022-11-22 | [[Kings at NHL.com]]            | [[Kreider scores twice in third period in Rangers win against Kings]]                                                                                      |
+| 2022-11-22 | [[Hockey Royalty]]              | [[LA Kings vs New York Rangers projected lineup, betting preview]]                                                                                         |
+| 2022-11-22 | [[Mayors Manor]]                | [[Projected Lineups - LA Kings vs New York Rangers, Home Sweet Home]]                                                                                      |
+| 2022-11-22 | [[The Athletic]]                | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]]                                                                                  |
+| 2022-11-22 | [[LA Kings Insider]]            | [[FINAL – Kings 3, Rangers 5 – Fiala, Edler, McLellan]]                                                                                                    |
+| 2022-11-22 | [[LA Kings Insider]]            | [[11-22 Preview – Potential Alignment + Fiala talks comfort level, Penalties and Kill, Rushing Rangers]]                                                   |
+| 2022-11-21 | [[Hockey Royalty]]              | [[LA Kings - Whats up with Anze Kopitar]]                                                                                                                  |
+| 2022-11-21 | [[LA Kings Insider]]            | [[11-21 Practice – Todays Alignment + Fiala/Kopitar/Kempe reunited, Moverare on Debut, Roster Moves]]                                                      |
 | 2022-11-19 | [[LA Hockey Now]]               | [[Kings End Road Trip With 3-2 Overtime Loss Against Kraken]]                                                                                              |
 | 2022-11-17 | [[Field Level Media]]           | [[With coachs job security in question, Canucks prep to face Kings]]                                                                                       |
 | 2022-11-16 | [[The Forum Report]]            | [[Returning to Edmonton as a player, not observer, Doughty praises team growth and credits Quick - JAD looks to maintain rhythm after Calgary homecoming]] |
@@ -72,7 +83,7 @@ Kevin Fiala | 22 | LW | L | 5' 10" | 204 | 1996-07-22 | St. Gallen, CHE | 2014 N
 | 2022-11-01 | [[The Forum Report]]            | [[Waking up with the Kings - November 1]]                                                                                                                  |
 | 2022-11-01 | [[LA Kings Insider]]            | [[FINAL - Kings 2, Stars 5 - Kopitar, Danault, McLellan - LA Kings Insider]]                                                                               |
 | 2022-11-01 | [[LA Kings Insider]]            | [[FINAL - Kings 2, Stars 5 - Kopitar, Danault, McLellan - LA Kings Insider]]                                                                               |
-| 2022-11-01 | [[LA Kings Insider]]            | [[11-1 Preview - No Morning Skate in Dallas + McLellan on Fiala, Doughty/Anderson Pairing, The Big 100 - LA Kings Insider]]                                |
+| 2022-11-01 | [[LA Kings Insider]]            | [[11-1 Preview - No Morning Skate in Dallas plus McLellan on Fiala, Doughty-Anderson Pairing, The Big 100 - LA Kings Insider]]                             |
 | 2022-10-31 | [[Field Level Media]]           | [[Kings cruise as Blues drop fifth consecutive game]]                                                                                                      |
 | 2022-10-31 | [[Kings at NHL.com]]            | [[Kings chase Binnington, hand Blues fifth straight loss]]                                                                                                 |
 | 2022-10-31 | [[The Forum Report]]            | [[Quick on successfully defending a 3-on-0 - Grundstrom thriving within team schematics]]                                                                  |
@@ -146,7 +157,7 @@ Kevin Fiala | 22 | LW | L | 5' 10" | 204 | 1996-07-22 | St. Gallen, CHE | 2014 N
 | 2022-07-07 | [[Hockey Wilderness]]           | [[Roundtable - Thoughts about the Fiala trade]]                                                                                                            |
 | 2022-07-06 | [[StarTribune]]                 | [[Kevin Fiala really excited to start next step in NHL career with Los Angeles Kings]]                                                                     |
 | 2022-07-05 | [[LA Kings Insider]]            | [[First Reactions from dynamic Kevin Fiala and Rob Blake after blockbuster trade + Other Takeaways - LA Kings Insider]]                                    |
-| 2022-07-04 | [[Hockey Royalty]]    | [[Kevin Fiala - a full scale breakdown on the newest member of the LA Kings]] |
+| 2022-07-04 | [[Hockey Royalty]]              | [[Kevin Fiala - a full scale breakdown on the newest member of the LA Kings]]                                                                              |
 
 
 

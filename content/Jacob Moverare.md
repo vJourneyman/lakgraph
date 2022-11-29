@@ -21,6 +21,11 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                  |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-22 | [[Mayors Manor]] | [[Projected Lineups - LA Kings vs New York Rangers, Home Sweet Home]] |
+| 2022-11-21 | [[Pro Hockey Rumors]] | [[Los Angeles Kings Recall Three Players From AHL]] |
+| 2022-11-21 | [[LA Kings Insider]] | [[11-21 Practice – Todays Alignment + Fiala/Kopitar/Kempe reunited, Moverare on Debut, Roster Moves]] |
+| 2022-11-20 | [[Hockey Royalty]]      | [[Los Angeles Kings Loan Three Players To AHL]]                                                                                                        |
+| 2022-11-20 | [[Mayors Manor]]        | [[Rapid Review - Highlights and Notes from Kings OT Loss to Kraken]]                                                                                   |
 | 2022-11-19 | [[LA Hockey Now]]       | [[Kings End Road Trip With 3-2 Overtime Loss Against Kraken]]                                                                                          |
 | 2022-11-19 | [[LA Hockey Now]]       | [[Kings vs Kraken Game 21 - Lines, Notes and How to Watch]]                                                                                            |
 | 2022-11-19 | [[Hockey Royalty]]      | [[LA Kings at Seattle Kraken projected lineup, betting preview]]                                                                                       |
@@ -38,7 +43,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 | 2022-10-28 | [[Hockey Royalty]]      | [[LA Kings - Takeaways from the teams 6-4 loss to Winnipeg]]                                                                                           |
 | 2022-10-24 | [[Hockey Royalty]]      | [[LA Kings After 7 Games - Its Something We Know We Need To Fix]]                                                                                      |
 | 2022-10-23 | [[Pro Hockey Rumors]]   | [[Alex Iafallo Moved To LTIR, Austin Wagner Recalled]]                                                                                                 |
-| 2022-10-23 | [[LA Kings Insider]]    | [[Sunday Roster Moves - Iafallo to LTIR + Moverare/Wagner Exchange - LA Kings Insider]]                                                                |
+| 2022-10-23 | [[LA Kings Insider]]    | [[Sunday Roster Moves - Iafallo to LTIR plus Moverare-Wagner Exchange - LA Kings Insider]]                                                                |
 | 2022-10-22 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings at Washington Capitals, Game 7]]                                                                                         |
 | 2022-10-21 | [[Hockey Royalty]]      | [[LA Kings at Washington Capitals projected lineups, betting preview]]                                                                                 |
 | 2022-10-20 | [[Hockey Royalty]]      | [[LA Kings at Pittsburgh Penguins projected lineups, betting preview]]                                                                                 |

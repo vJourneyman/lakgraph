@@ -11,19 +11,27 @@ priority: high
 
 # Gabe Vilardi
 
-NHL.com | Twitter
--|-
-[Gabe Vilardi](https://www.nhl.com/player/gabriel-vilardi-8480014) | [@Gabe_Vilardi13](https://twitter.com/Gabe_Vilardi13)
+| NHL.com / Ontario Reign                                            | Twitter                                               |
+| ------------------------------------------------------------------ | ----------------------------------------------------- |
+| [Gabe Vilardi](https://www.nhl.com/player/gabriel-vilardi-8480014) | [@Gabe_Vilardi13](https://twitter.com/Gabe_Vilardi13) |
 
 | Player           | \#  | Position | Shoots | Height | Weight | Born       | Birthplace        | Draft                                    |
 | ---------------- | --- | -------- | ------ | ------ | ------ | ---------- | ----------------- | ---------------------------------------- |
 | Gabe Vilardi | 13  | C        | R      | 6' 3"  | 215    | 1999-08-16 | Kingston, ON, CAN | 2017 LAK, 1st rd, 11th pk (11th overall) |
 
-
-
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                  |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-22 | [[LA Hockey Now]] | [[Kings Blow Early Lead in 5-3 Loss to Rangers]] |
+| 2022-11-22 | [[LA Hockey Now]]       | [[Kings vs Rangers Game 22 - Notes, Lines and How to Watch]]                                                                                           |
+| 2022-11-22 | [[LA Daily News]]       | [[Kings home winning streak ends as Rangers rally]]                                                                                                    |
+| 2022-11-22 | [[Kings at NHL.com]]    | [[Kreider scores twice in third period in Rangers win against Kings]]                                                                                  |
+| 2022-11-22 | [[Mayors Manor]]        | [[Projected Lineups - LA Kings vs New York Rangers, Home Sweet Home]]                                                                                  |
+| 2022-11-22 | [[The Athletic]]        | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]]                                                                              |
+| 2022-11-22 | [[LA Kings Insider]]    | [[FINAL – Kings 3, Rangers 5 – Fiala, Edler, McLellan]]                                                                                                |
+| 2022-11-20 | [[Hockey Royalty]]      | [[Takeaways - Seattle 3, LA Kings 2 OT – A Point Salvaged]]                                                                                            |
+| 2022-11-20 | [[Mayors Manor]]        | [[Rapid Review - Highlights and Notes from Kings OT Loss to Kraken]]                                                                                   |
+| 2022-11-20 | [[The Forum Report]]    | [[Playmaking Chart - November 19 at Seattle]]                                                                                                          |
 | 2022-11-19 | [[LA Hockey Now]]       | [[Kings End Road Trip With 3-2 Overtime Loss Against Kraken]]                                                                                          |
 | 2022-11-19 | [[The Forum Report]]    | [[Sean Durzi (lower-body) day-to-day but could play this week - Vilardi draws praise despite point drought - ex-Washingtonian Anderson-Dolan returns]] |
 | 2022-11-19 | [[LA Kings Insider]]    | [[11-19 Preview – No Morning Skate plus Top Line Takeaways, Petersens Evolving Metrics, Ups and Downs]]                                                |
@@ -67,7 +75,7 @@ NHL.com | Twitter
 | 2022-11-01 | [[Field Level Media]]   | [[Gabriel Vilardi, Kings bring hot streak to Dallas]]                                                                                                  |
 | 2022-11-01 | [[The Forum Report]]    | [[Playmaking Chart - 10-31 vs St Louis]]                                                                                                               |
 | 2022-11-01 | [[The Forum Report]]    | [[Waking up with the Kings - November 1]]                                                                                                              |
-| 2022-11-01 | [[LA Kings Insider]]    | [[11-1 Preview - No Morning Skate in Dallas + McLellan on Fiala, Doughty/Anderson Pairing, The Big 100 - LA Kings Insider]]                            |
+| 2022-11-01 | [[LA Kings Insider]]    | [[11-1 Preview - No Morning Skate in Dallas plus McLellan on Fiala, Doughty-Anderson Pairing, The Big 100 - LA Kings Insider]]                         |
 | 2022-10-31 | [[Field Level Media]]   | [[Kings cruise as Blues drop fifth consecutive game]]                                                                                                  |
 | 2022-10-31 | [[Kings at NHL.com]]    | [[Kings chase Binnington, hand Blues fifth straight loss]]                                                                                             |
 | 2022-10-31 | [[Hockey Royalty]]      | [[LA Kings - Gabriel Vilardi is the NHLs best early season story]]                                                                                     |
@@ -150,7 +158,7 @@ NHL.com | Twitter
 | 2022-10-04 | [[LA Kings Insider]]    | [[PRESEASON FINAL – Kings 4, Ducks 5 – Vilardi, Edler, McLellan]]                                                                                      |
 | 2022-10-02 | [[LA Kings Insider]]    | [[PRESEASON FINAL – Kings 2, Ducks 1 – Walker, Vilardi, McLellan]]                                                                                     |
 | 2022-09-29 | [[LA Kings Insider]]    | [[Angeles Analysis – Thoughts From The First Week Of Training Camp]]                                                                                   |
-| 2022-09-27 | [[LA Kings Insider]]    | [[Day 6 Primer + The Differences Between Playing Center and Playing Winger]]                                                              |
+| 2022-09-27 | [[LA Kings Insider]]    | [[Day 6 Primer + The Differences Between Playing Center and Playing Winger]]                                                                           |
 
 
 

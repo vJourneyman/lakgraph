@@ -8,13 +8,13 @@ status: stable
 
 # Carl Grundstrom
 
-NHL.com / Ontario Reign | Twitter
--|-
-[Carl Grundstrom](https://www.nhl.com/player/carl-grundstrom-8479336) | [@carlgrundstrom](https://twitter.com/carlgrundstrom)
+| NHL.com / Ontario Reign                                                 | Twitter                                 |
+| ----------------------------------------------------------------------- | --------------------------------------- |
+|[Carl Grundstrom](https://www.nhl.com/player/carl-grundstrom-8479336) | [@carlgrundstrom](https://twitter.com/carlgrundstrom)
 
-Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft 
--|-|-|-|-|-|-|-|-
-Carl Grundstrom | 91 | RW | L | 6' 0" | 195 | 1997-12-01 | Umea, SWE | 2016 TOR, 2nd rd, 27th pk (57th overall)
+| Player          | \#  | Position | Shoots | Height | Weight | Born       | Birthplace | Draft                                    |
+| --------------- | --- | -------- | ------ | ------ | ------ | ---------- | ---------- | ---------------------------------------- |
+| Carl Grundstrom | 91  | RW       | L      | 6' 0"  | 195    | 1997-12-01 | Umea, SWE  | 2016 TOR, 2nd rd, 27th pk (57th overall) |
 
 
 
@@ -22,8 +22,10 @@ Carl Grundstrom | 91 | RW | L | 6' 0" | 195 | 1997-12-01 | Umea, SWE | 2016 TOR,
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                       |
 | ---------- | --------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-13 | [[The Forum Report]] | [[Playmaking Chart - 11-12 vs Detroit]] |
-| 2022-11-13 | [[The Forum Report]] | [[Waking up with the Kings - November 13]] |
+| 2022-11-22 | [[The Athletic]] | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]] |
+| 2022-11-20 | [[The Forum Report]]  | [[Playmaking Chart - November 19 at Seattle]]                                                                               |
+| 2022-11-13 | [[The Forum Report]]  | [[Playmaking Chart - 11-12 vs Detroit]]                                                                                     |
+| 2022-11-13 | [[The Forum Report]]  | [[Waking up with the Kings - November 13]]                                                                                  |
 | 2022-11-12 | [[Kings at NHL.com]]  | [[Durzi has two goals, Kings hold off Red Wings]]                                                                           |
 | 2022-11-12 | [[The Forum Report]]  | [[Effective in a role not easily replicated, Lemieux “probably going to be out for a little while”]]                        |
 | 2022-11-12 | [[The Forum Report]]  | [[Inside Kupari, Fiala and Grundstroms chemistry - remembering the 2001 Detroit-LA playoff back-to-back]]                   |
@@ -37,7 +39,7 @@ Carl Grundstrom | 91 | RW | L | 6' 0" | 195 | 1997-12-01 | Umea, SWE | 2016 TOR,
 | 2022-11-04 | [[The Forum Report]]  | [[Waking Up with the Kings - November 4]]                                                                                   |
 | 2022-11-02 | [[LA Hockey Now]]     | [[Kings Undone by Stars Explosive Power Play in 5-2 Loss]]                                                                  |
 | 2022-11-01 | [[LA Kings Insider]]  | [[FINAL - Kings 2, Stars 5 - Kopitar, Danault, McLellan - LA Kings Insider]]                                                |
-| 2022-11-01 | [[LA Kings Insider]]  | [[11-1 Preview - No Morning Skate in Dallas + McLellan on Fiala, Doughty/Anderson Pairing, The Big 100 - LA Kings Insider]] |
+| 2022-11-01 | [[LA Kings Insider]]  | [[11-1 Preview - No Morning Skate in Dallas plus McLellan on Fiala, Doughty-Anderson Pairing, The Big 100 - LA Kings Insider]] |
 | 2022-10-31 | [[Field Level Media]] | [[Kings cruise as Blues drop fifth consecutive game]]                                                                       |
 | 2022-10-31 | [[Kings at NHL.com]]  | [[Kings chase Binnington, hand Blues fifth straight loss]]                                                                  |
 | 2022-10-31 | [[The Forum Report]]  | [[Quick on successfully defending a 3-on-0 - Grundstrom thriving within team schematics]]                                   |

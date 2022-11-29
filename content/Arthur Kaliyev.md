@@ -10,22 +10,24 @@ priority: high
 
 # Arthur Kaliyev
 
-NHL.com | Twitter
--|-
-[Arthur Kaliyev](https://www.nhl.com/player/arthur-kaliyev-8481560) | [@Arthur_Kaliyev](https://twitter.com/Arthur_Kaliyev)
+| NHL.com / Ontario Reign                                             | Twitter                                               |
+| ------------------------------------------------------------------- | ----------------------------------------------------- |
+| [Arthur Kaliyev](https://www.nhl.com/player/arthur-kaliyev-8481560) | [@Arthur_Kaliyev](https://twitter.com/Arthur_Kaliyev) |
 
-Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
--|-|-|-|-|-|-|-
-RW | L | 6'2" | 210 | 21 | 2001-06-26 | Tashkent, UZB | 2019 LAK, 2nd rd, 2nd pk (33rd overall)
+| Player        | \#  | Position | Shoots | Height | Weight | Born       | Birthplace    | Draft                                   |
+| ------------- | --- | -------- | ------ | ------ | ------ | ---------- | ------------- | --------------------------------------- |
+| Athur Kaliyev | 34  | RW       | L      | 6'2"   | 210    | 2001-06-26 | Tashkent, UZB | 2019 LAK, 2nd rd, 2nd pk (33rd overall) |
 
 
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                         |     |
 | ---------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------- | --- |
-| 2022-11-19 | [[LA Hockey Now]] | [[Kings End Road Trip With 3-2 Overtime Loss Against Kraken]] |
-| 2022-11-17 | [[Kings at NHL.com]] | [[Super 16 - Devils rise to No 2 - Kings, Flames join rankings]] |
-| 2022-11-18 | [[LA Hockey Now]] | [[Kings Vs Canucks Game 20 - Lines, Notes and How to Watch]] |
-| 2022-11-15 | [[Field Level Media]] | [[Kings aim to tighten up defense before facing Oilers]] |
+| 2022-11-22 | [[The Athletic]]      | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]]                                                     |     |
+| 2022-11-20 | [[The Forum Report]]  | [[Playmaking Chart - November 19 at Seattle]]                                                                                 |     |
+| 2022-11-19 | [[LA Hockey Now]]     | [[Kings End Road Trip With 3-2 Overtime Loss Against Kraken]]                                                                 |     |
+| 2022-11-17 | [[Kings at NHL.com]]  | [[Super 16 - Devils rise to No 2 - Kings, Flames join rankings]]                                                              |     |
+| 2022-11-18 | [[LA Hockey Now]]     | [[Kings Vs Canucks Game 20 - Lines, Notes and How to Watch]]                                                                  |     |
+| 2022-11-15 | [[Field Level Media]] | [[Kings aim to tighten up defense before facing Oilers]]                                                                      |     |
 | 2022-11-15 | [[Hockey Royalty]]    | [[Takeaways - LA Kings 5, Calgary 6 – Down In Flames]]                                                                        |     |
 | 2022-11-15 | [[LA Kings Insider]]  | [[11-15 Practice – Kings Review CGY Pitfalls + Kaliyev talks goals, Doughty on World Cup, Kopitar Players Tribune]]           |     |
 | 2022-11-14 | [[LA Hockey Now]]     | [[Kings Win Streak Ends at Four After 6-5 Loss to Flames]]                                                                    |     |

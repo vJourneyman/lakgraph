@@ -34,7 +34,8 @@ status: stable
 ## Post-Draft Coverage
 | Date       | Site                 | Title                                                                                       |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------- |
-| 2022-11-19 | [[The Athletic]] | [[NHL future watch - Whos the hottest player in each teams prospect pipeline]] |
+| 2022-11-21 | [[Hockey Royalty]]   | [[Francesco Pinelli Highlights LA Kings Prospects Update – Week of 11-14]]                  |
+| 2022-11-19 | [[The Athletic]]     | [[NHL future watch - Whos the hottest player in each teams prospect pipeline]]              |
 | 2022-11-17 | [[LA Kings Insider]] | [[LA Kings prospect Kenny Connors off to flying start as Hockey Easts Rookie of the Month]] |
 | 2022-11-04 | [[Kings at NHL.com]] | [[LA Kings Prospect Report, 11-4]]                                                          |
 | 2022-10-22 | [[Mayors Manor]]     | [[And So It Begins – Kings On Kings Crime On TV Today]] |

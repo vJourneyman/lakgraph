@@ -9,13 +9,13 @@ priority: high
 
 # Adrian Kempe
 
-NHL.com | Twitter
--|-
-[Adrian Kempe](https://www.nhl.com/player/adrian-kempe-8477960) | [@adriankempe](https://twitter.com/adriankempe)
+| NHL.com / Ontario Reign                                         | Twitter                                         |
+| --------------------------------------------------------------- | ----------------------------------------------- |
+| [Adrian Kempe](https://www.nhl.com/player/adrian-kempe-8477960) | [@adriankempe](https://twitter.com/adriankempe) |
 
-| Position         | Shoots | Height | Weight | Age   | Birthday | Birthplace | Draft         |
-| ---------------- | ------ | ------ | ------ | ----- | -------- | ---------- | ------------- |
-| [[Adrian Kempe]] | 9      | C      | L      | 6' 2" | 200      | 1996-09-13 | Kramfors, SWE |
+| Player           | \#  | Position | Shoots | Height | Weight | Born       | Birthplace    | Draft                                    |
+| ---------------- | --- | -------- | ------ | ------ | ------ | ---------- | ------------- | ---------------------------------------- |
+| [[Adrian Kempe]] | 9   | C        | L      | 6' 2"  | 200    | 1996-09-13 | Kramfors, SWE | 2014 LAK, 1st rd, 29th pk (29th overall) |
 
 
 
@@ -23,7 +23,10 @@ NHL.com | Twitter
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-19 | [[LA Kings Insider]] | [[11-19 Preview – No Morning Skate plus Top Line Takeaways, Petersens Evolving Metrics, Ups and Downs]] |
+| 2022-11-22 | [[LA Hockey Now]] | [[Kings Blow Early Lead in 5-3 Loss to Rangers]] |
+| 2022-11-22 | [[The Athletic]]        | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]]                                                                           |
+| 2022-11-20 | [[Hockey Royalty]]      | [[Takeaways - Seattle 3, LA Kings 2 OT – A Point Salvaged]]                                                                                         |
+| 2022-11-19 | [[LA Kings Insider]]    | [[11-19 Preview – No Morning Skate plus Top Line Takeaways, Petersens Evolving Metrics, Ups and Downs]]                                             |
 | 2022-11-16 | [[LA Kings Insider]]    | [[11-16 Preview – Petersen Off First plus Mental Readiness, Kempe Off The Schneid, McHugh Talks LAK]]                                               |
 | 2022-11-14 | [[LA Hockey Now]]       | [[Kings vs Flames Game No 18 - Lines, Notes, and How to Watch]]                                                                                     |
 | 2022-11-14 | [[Kings at NHL.com]]    | [[The Week That Was, The Week That Is - 11-14]]                                                                                                     |
@@ -39,7 +42,7 @@ NHL.com | Twitter
 | 2022-11-06 | [[The Forum Report]]    | [[Playmaking Chart - 11-5-22 vs FLA]]                                                                                                               |
 | 2022-11-06 | [[LA Kings Insider]]    | [[Goals On Goals – Where The Kings Stand On A Higher Scoring Start]]                                                                                |
 | 2022-11-02 | [[The Forum Report]]    | [[Reaction in Dallas - Todd on 11-7 - Colin Miller on Calder Cup teammate Adrian Kempe - “You could tell early on that he was going to be a stud”]] |
-| 2022-11-01 | [[LA Kings Insider]]    | [[11-1 Preview - No Morning Skate in Dallas + McLellan on Fiala, Doughty/Anderson Pairing, The Big 100 - LA Kings Insider]]                         |
+| 2022-11-01 | [[LA Kings Insider]]    | [[11-1 Preview - No Morning Skate in Dallas plus McLellan on Fiala, Doughty-Anderson Pairing, The Big 100 - LA Kings Insider]]                      |
 | 2022-10-31 | [[Hockey Royalty]]      | [[Week 4 Pacific Division Power Rankings]]                                                                                                          |
 | 2022-10-30 | [[LA Kings Insider]]    | [[Armed with a wealth of confidence, a look into Gabe Vilardis high-flying start to the season - LA Kings Insider]]                                 |
 | 2022-10-29 | [[Field Level Media]]   | [[Kings use big 2nd period to dispatch Maple Leafs]]                                                                                                |

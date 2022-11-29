@@ -8,19 +8,20 @@ status: stable
 
 # Jonathan Quick
 
-NHL.com / Ontario Reign | Twitter
--|-
-[Jonathan Quick](https://www.nhl.com/player/jonathan-quick-8471734) | [@JonathanQuick32](https://twitter.com/JonathanQuick32)
+| NHL.com / Ontario Reign                                             | Twitter                                                 |
+| ------------------------------------------------------------------- | ------------------------------------------------------- |
+| [Jonathan Quick](https://www.nhl.com/player/jonathan-quick-8471734) | [@JonathanQuick32](https://twitter.com/JonathanQuick32) |
 
-| Player         | \#  | Position | Shoots | Height | Weight | Born       | Birthplace       | Draft                                        |
-| -------------- | --- | -------- | ------ | ------ | ------ | ---------- | ---------------- | -------------------------------------------- |
-| Jonathan Quick | 32  | G        | L      | 6' 1"  | 220    | 1986-01-21 | Milford, CT, USA | -   2005 LAK, 3rd rd, 11th pk (72nd overall) |
+| Player         | \#  | Position | Catches | Height | Weight | Born       | Birthplace       | Draft                                    |
+| -------------- | --- | -------- | ------- | ------ | ------ | ---------- | ---------------- | ---------------------------------------- |
+| Jonathan Quick | 32  | G        | L       | 6' 1"  | 220    | 1986-01-21 | Milford, CT, USA | 2005 LAK, 3rd rd, 11th pk (72nd overall) |
 
 
 
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                 |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-22 | [[The Athletic]] | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]] |
 | 2022-11-17 | [[Kings at NHL.com]] | [[Super 16 - Devils rise to No 2 - Kings, Flames join rankings]] |
 | 2022-11-18 | [[The Forum Report]]    | [[After winning one “circled on the calendar,” Kings strive to maintain intensity - “tremendous” Doughty playing at an elite level]]                  |
 | 2022-11-18 | [[LA Kings Insider]]    | [[11-18 Preview – Full-Team Skate in VAN + Playing “Kings Hockey”, Shot Blocking and Edler talks HOF]]                                                |

@@ -8,19 +8,23 @@ status: stable
 
 # Alex Edler
 
-NHL.com | Twitter
--|-
-[Alex Edler]() | [@twitter_handle](https://twitter.com/)
+| NHL.com / Ontario Reign | Twitter                                 |
+| ----------------------- | --------------------------------------- |
+| [Alex Edler]()          | [@twitter_handle](https://twitter.com/) |
 
-Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft 
----|---|---|---|---|---|---|---|---
-[[Alex Edler]] | 2 | LD | L| 6' 4" | 210 | 1986-04-21 | Ostersund, SWE
+| Player         | \#  | Position | Shoots | Height | Weight | Born       | Birthplace     | Draft                                    |
+| -------------- | --- | -------- | ------ | ------ | ------ | ---------- | -------------- | ---------------------------------------- |
+| [[Alex Edler]] | 2   | LD       | L      | 6' 4"  | 210    | 1986-04-21 | Ostersund, SWE | 2004 VAN, 3rd rd, 26th pk (91st overall) |
 
 
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-19 | [[LA Kings Insider]] | [[FINAL – Kings 2, Kraken 3 (OT) – Petersen, Edler, McLellan]] |
+| 2022-11-22 | [[The Athletic]] | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]] |
+| 2022-11-22 | [[LA Kings Insider]]    | [[FINAL – Kings 3, Rangers 5 – Fiala, Edler, McLellan]]                                                                                             |
+| 2022-11-21 | [[LA Daily News]]       | [[Kings return home to face star-studded Rangers]]                                                                                                  |
+| 2022-11-20 | [[LA Kings Insider]]    | [[Angeles Analysis – A Gamut Of Games]]                                                                                                             |
+| 2022-11-19 | [[LA Kings Insider]]    | [[FINAL – Kings 2, Kraken 3 (OT) – Petersen, Edler, McLellan]]                                                                                      |
 | 2022-11-18 | [[The Forum Report]]    | [[After winning one “circled on the calendar,” Kings strive to maintain intensity - “tremendous” Doughty playing at an elite level]]                |
 | 2022-11-18 | [[LA Kings Insider]]    | [[11-18 Preview – Full-Team Skate in VAN + Playing “Kings Hockey”, Shot Blocking and Edler talks HOF]]                                              |
 | 2022-11-17 | [[The Hockey News]]     | [[SCREEN SHOTS - ALEX EDLERS HIT, FLEURYS INJURY AND BUFFALOS SLUMP]]                                                                               |
@@ -51,7 +55,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 | 2022-10-17 | [[The Forum Report]]    | [[Walker in after Edler takes puck to face in warm-ups]]                                                                                            |
 | 2022-10-16 | [[The Forum Report]]    | [[Possession Chart - 10-15 at MIN]]                                                                                                                 |
 | 2022-10-11 | [[LA Kings Insider]]    | [[10-11 Preview - Projected Lineup + Opening Night Jitters, First Line Coming Together, Blake on Final Moves - LA Kings Insider]]                   |
-| 2022-10-04 | [[LA Kings Insider]] | [[PRESEASON FINAL – Kings 4, Ducks 5 – Vilardi, Edler, McLellan]]                                                                 |
+| 2022-10-04 | [[LA Kings Insider]]    | [[PRESEASON FINAL – Kings 4, Ducks 5 – Vilardi, Edler, McLellan]]                                                                                   |
 
 
 

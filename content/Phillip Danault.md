@@ -9,19 +9,22 @@ priority: high
 
 # Phillip Danault
 
-NHL.com | Twitter
--|-
-[Phillip Danault](https://www.nhl.com/player/phillip-danault-8476479) | [@phildanault](https://twitter.com/phildanault)
+| NHL.com / Ontario Reign                                                 | Twitter                                 |
+| ----------------------------------------------------------------------- | --------------------------------------- |
+|[Phillip Danault](https://www.nhl.com/player/phillip-danault-8476479) | [@phildanault](https://twitter.com/phildanault)
 
-Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft 
----|---|---|---|---|---|---|---|---
-[[Phillip Danault]] | 24 | C | L | 6' 1" | 200 | 1996-07-22 | Victoriaville, QC, CAN | 2011 CHI, 1st rd, 26th pk (26th overall)
+| Player              | \#  | Position | Shoots | Height | Weight | Born       | Birthplace             | Draft                                    |
+| ------------------- | --- | -------- | ------ | ------ | ------ | ---------- | ---------------------- | ---------------------------------------- |
+| [[Phillip Danault]] | 24  | C        | L      | 6' 1"  | 200    | 1996-07-22 | Victoriaville, QC, CAN | 2011 CHI, 1st rd, 26th pk (26th overall) |
 
 
 
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                 |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-22 | [[The Athletic]] | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]] |
+| 2022-11-20 | [[Hockey Royalty]]      | [[Takeaways - Seattle 3, LA Kings 2 OT – A Point Salvaged]]                                                                           |
+| 2022-11-20 | [[The Forum Report]]    | [[Playmaking Chart - November 19 at Seattle]]                                                                                         |
 | 2022-11-19 | [[Kings at NHL.com]]    | [[Eberles OT goal gives Kraken win against Kings]]                                                                                    |
 | 2022-11-19 | [[LA Kings Insider]]    | [[FINAL – Kings 2, Kraken 3 (OT) – Petersen, Edler, McLellan]]                                                                        |
 | 2022-11-18 | [[The Forum Report]]    | [[After winning one “circled on the calendar,” Kings strive to maintain intensity - “tremendous” Doughty playing at an elite level]]  |

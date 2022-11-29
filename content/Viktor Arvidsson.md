@@ -8,19 +8,20 @@ status: stable
 
 # Viktor Arvidsson
 
-NHL.com | Twitter
--|-
-[Viktor Arvidsson]() | [@twitter_handle](https://twitter.com/)
+| NHL.com / Ontario Reign                                                 | Twitter                                 |
+| ----------------------------------------------------------------------- | --------------------------------------- |
+| [Viktor Arvidsson](https://www.nhl.com/player/viktor-arvidsson-8478042) | [@twitter_handle](https://twitter.com/) |
 
-Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft 
--|-|-|-|-|-|-|-|-
-Viktor Arvidsson | 33 | LW | R | 5' 10" | 185 | 1993-04-08 | Skellefteå, SWE | 2014 NSH, 4th rd, 22nd pk (112th overall)
-
-
+| Player                   | \#  | Position | Shoots | Height | Weight | Born       | Birthplace       | Draft |
+| ------------------------ | --- | -------- | ------ | ------ | ------ | ---------- | ---------------- | ----- |
+|Viktor Arvidsson | 33 | LW | R | 5' 10" | 185 | 1993-04-08 | Skellefteå, SWE | 2014 NSH, 4th rd, 22nd pk (112th overall)
 
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                           |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-22 | [[LA Daily News]] | [[Kings home winning streak ends as Rangers rally]] |
+| 2022-11-22 | [[The Athletic]] | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]] |
+| 2022-11-20 | [[Mayors Manor]] | [[Rapid Review - Highlights and Notes from Kings OT Loss to Kraken]] |
 | 2022-11-18 | [[Puck Prose]]          | [[Trevor Moores hat trick powers a Los Angeles Kings victory]]                                                                                                  |
 | 2022-11-18 | [[LA Kings Insider]]    | [[11-18 Preview – Full-Team Skate in VAN + Playing “Kings Hockey”, Shot Blocking and Edler talks HOF]]                                                          |
 | 2022-11-17 | [[Mayors Manor]]        | [[Rapid Review - Highlights and Notes from Kings Scoring Moore than Oilers]]                                                                                    |

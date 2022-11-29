@@ -27,9 +27,13 @@ status: stable
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                             |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------------- |
-| 2022-11-19 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at Henderson, 11-19]] |
-| 2022-11-13 | [[Mayors Manor]] | [[Reign Recap - Byfield Scores, Ontario Comes Up Short in Bakersfield]] |
-| 2022-11-13 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs San Diego, 11-13]] |
+| 2022-11-23 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs San Jose, 11-23]] |
+| 2022-11-22 | [[Hockey Royalty]] | [[Ontario Reign - Three stars of the week – 11-14 to 11-20]] |
+| 2022-11-20 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 3-1 loss to Henderson]]                                    |
+| 2022-11-20 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Henderson, 11-20]]                                                   |
+| 2022-11-19 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at Henderson, 11-19]]                                                   |
+| 2022-11-13 | [[Mayors Manor]]     | [[Reign Recap - Byfield Scores, Ontario Comes Up Short in Bakersfield]]                           |
+| 2022-11-13 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs San Diego, 11-13]]                                                   |
 | 2022-11-12 | [[Mayors Manor]]     | [[Ontario Reign - Projected Lineup at Bakersfield - Plus Notes on Spence, Turcotte, and Byfield]] |
 | 2022-11-12 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at Bakersfield, 11-12]]                                                 |
 | 2022-11-11 | [[The AHL]]          | [[Weekend notebook - Reign loaded again with young stars]]                                        |

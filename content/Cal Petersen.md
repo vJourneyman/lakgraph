@@ -8,17 +8,24 @@ status: stable
 
 # Cal Petersen
 
-NHL.com | Twitter
--|-
-[Cal Petersen]() | [@twitter_handle](https://twitter.com/)
+| NHL.com / Ontario Reign                                         | Twitter                                 |
+| --------------------------------------------------------------- | --------------------------------------- |
+| [Cal Petersen](https://www.nhl.com/player/cal-petersen-8477361) | [@twitter_handle](https://twitter.com/) |
 
-| Player | \#  | Position | Shoots | Height | Weight | Born | Birthplace | Draft |
-| ------ | --- | -------- | ------ | ------ | ------ | ---- | ---------- | ----- |
+| Player       | \#  | Position | Catches | Height | Weight | Born       | Birthplace        | Draft |
+| ------------ | --- | -------- | ------- | ------ | ------ | ---------- | ----------------- | ----- |
+| Cal Petersen | 40  | G        | R       | 6'2"   | 185    | 1994-10-19 | Waterloo, IA, USA | 2013 BUF, 5th rd, 8th pk (129th overall)      |
 
 
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                           |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-22 | [[LA Hockey Now]] | [[Kings Blow Early Lead in 5-3 Loss to Rangers]] |
+| 2022-11-22 | [[LA Daily News]] | [[Kings home winning streak ends as Rangers rally]] |
+| 2022-11-22 | [[The Athletic]] | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]] |
+| 2022-11-22 | [[LA Kings Insider]] | [[FINAL – Kings 3, Rangers 5 – Fiala, Edler, McLellan]] |
+| 2022-11-22 | [[LA Kings Insider]]    | [[11-22 Preview – Potential Alignment + Fiala talks comfort level, Penalties and Kill, Rushing Rangers]]                                                        |
+| 2022-11-20 | [[Hockey Royalty]]      | [[Takeaways - Seattle 3, LA Kings 2 OT – A Point Salvaged]]                                                                                                     |
 | 2022-11-19 | [[Kings at NHL.com]]    | [[Eberles OT goal gives Kraken win against Kings]]                                                                                                              |
 | 2022-11-19 | [[Hockey Royalty]]      | [[LA Kings at Seattle Kraken projected lineup, betting preview]]                                                                                                |
 | 2022-11-19 | [[The Forum Report]]    | [[Sean Durzi (lower-body) day-to-day but could play this week - Vilardi draws praise despite point drought - ex-Washingtonian Anderson-Dolan returns]]          |
@@ -60,7 +67,7 @@ NHL.com | Twitter
 | 2022-11-02 | [[The Forum Report]]    | [[Reaction in Dallas - Todd on 11-7 - Colin Miller on Calder Cup teammate Adrian Kempe - “You could tell early on that he was going to be a stud”]]             |
 | 2022-11-01 | [[Kings at NHL.com]]    | [[Hintz has two goals, assist for Stars in win against Kings]]                                                                                                  |
 | 2022-11-01 | [[Hockey Royalty]]      | [[LA Kings at Dallas Stars projected lineup, betting preview]]                                                                                                  |
-| 2022-11-01 | [[LA Kings Insider]]    | [[11-1 Preview - No Morning Skate in Dallas + McLellan on Fiala, Doughty/Anderson Pairing, The Big 100 - LA Kings Insider]]                                     |
+| 2022-11-01 | [[LA Kings Insider]]    | [[11-1 Preview - No Morning Skate in Dallas plus McLellan on Fiala, Doughty-Anderson Pairing, The Big 100 - LA Kings Insider]]                                  |
 | 2022-10-31 | [[Hockey Royalty]]      | [[LA Kings at St Louis Blues projected lineup, betting preview]]                                                                                                |
 | 2022-10-30 | [[Hockey Royalty]]      | [[Takeaways - LA Kings 4, Maple Leafs 2 - A Breath of Fresh Air]]                                                                                               |
 | 2022-10-30 | [[The Forum Report]]    | [[Waking up with the Kings - October 30]]                                                                                                                       |

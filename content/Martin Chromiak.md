@@ -27,7 +27,8 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## Minor League Coverage
 | Date       | Site                         | Title                                                                                         |
 | ---------- | ---------------------------- | --------------------------------------------------------------------------------------------- |
-| 2022-11-14 | [[Hockey Royalty]] | [[Ontario Reign - Three stars of the week 11-7 to 11-13]] |
+| 2022-11-20 | [[Mayors Manor]]             | [[Reign Recap - Ontario Loses Front End of Home-and-Home Weekend vs Silver Knights]]          |
+| 2022-11-14 | [[Hockey Royalty]]           | [[Ontario Reign - Three stars of the week 11-7 to 11-13]]                                     |
 | 2022-11-13 | [[Mayors Manor]]             | [[Ontario Reign Projected Lineup vs San Diego - Brandt Clarke Debut Among Myriad of Changes]] |
 | 2022-11-13 | [[LA Kings Insider]]         | [[REIGN FINAL – Reign 1, Gulls 4 – Sturm, Turcotte, Clarke]]                                  |
 | 2022-11-10 | [[Mayors Manor]]             | [[Ontario Reign - Projected Lineup at San Jose - With Trio of Top Kings Prospects Returning]] |

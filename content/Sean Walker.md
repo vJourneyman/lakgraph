@@ -8,18 +8,21 @@ status: stable
 
 # Sean Walker
 
-NHL.com / Ontario Reign | Twitter
--|-
-[Sean Walker](https://www.nhl.com/player/sean-walker-8480336) | [@twitter_handle](https://twitter.com/)
+| NHL.com / Ontario Reign                                       | Twitter                                 |
+| ------------------------------------------------------------- | --------------------------------------- |
+| [Sean Walker](https://www.nhl.com/player/sean-walker-8480336) | [@twitter_handle](https://twitter.com/) |
 
-Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft 
--|-|-|-|-|-|-|-|-
-Sean Walker | 26 | RD | R | 5' 11" | 195 | 1994-11-13 | Keswick, ON, CAN
+| Player      | \#  | Position | Shoots | Height | Weight | Born       | Birthplace       | Draft     |
+| ----------- | --- | -------- | ------ | ------ | ------ | ---------- | ---------------- | --------- |
+| Sean Walker | 26  | RD       | R      | 5' 11" | 195    | 1994-11-13 | Keswick, ON, CAN | Undrafted |
 
 
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                     |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-22 | [[LA Daily News]] | [[Kings home winning streak ends as Rangers rally]] |
+| 2022-11-22 | [[The Athletic]] | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]] |
+| 2022-11-21 | [[LA Kings Insider]] | [[11-21 Practice – Todays Alignment + Fiala/Kopitar/Kempe reunited, Moverare on Debut, Roster Moves]] |
 | 2022-11-19 | [[The Forum Report]] | [[Playmaking Chart - November 18 at Vancouver]] |
 | 2022-11-18 | [[The Fourth Period]]   | [[KINGS WEIGHING THEIR BLUELINE OPTIONS]]                                                                                                 |
 | 2022-11-17 | [[Hockey Royalty]]      | [[Takeaways - LA Kings 3, Edmonton 1 – A Great Defensive Effort]]                                                                         |

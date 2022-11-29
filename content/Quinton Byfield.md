@@ -10,19 +10,20 @@ priority: high
 
 # Quinton Byfield
 
-NHL.com | Twitter
--|-
-[Quinton Byfield](https://www.nhl.com/player/quinton-byfield-8482124) | [@byfield55](https://twitter.com/byfield55)
+| NHL.com / Ontario Reign                                                 | Twitter                                 |
+| ----------------------------------------------------------------------- | --------------------------------------- |
+|[Quinton Byfield](https://www.nhl.com/player/quinton-byfield-8482124) | [@byfield55](https://twitter.com/byfield55)
 
-Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
--|-|-|-|-|-|-|-
- C | L | 6'5" | 220 | 20 | 2002-08-19 | Newmarket, ON, CAN | 2020 LAK, 1st rd, 2nd pk (2nd overall)
+| Player          | \#  | Position | Shoots | Height | Weight | Born       | Birthplace         | Draft                                  |
+| --------------- | --- | -------- | ------ | ------ | ------ | ---------- | ------------------ | -------------------------------------- |
+| Quinton Byfield | 55  | C        | L      | 6'5"   | 220    | 2002-08-19 | Newmarket, ON, CAN | 2020 LAK, 1st rd, 2nd pk (2nd overall) |
 
 
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-11-12 | [[The Forum Report]] | [[Effective in a role not easily replicated, Lemieux “probably going to be out for a little while”]] |
+| 2022-11-22 | [[The Athletic]] | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]] |
+| 2022-11-12 | [[The Forum Report]]    | [[Effective in a role not easily replicated, Lemieux “probably going to be out for a little while”]]                                 |
 | 2022-11-10 | [[ESPN]]                | [[They make you feel like you belong - How Drew Doughty and Anze Kopitar have shaped the Kings]]                                     |
 | 2022-11-10 | [[The Athletic]]        | [[Blackhawks vs Kings conjures fuzzy memories and warns of fuzzier futures]]                                                         |
 | 2022-11-09 | [[Mayors Manor]]        | [[Quinton Byfield – Where do the Kings Go From Here]]                                                                                |
@@ -47,7 +48,7 @@ Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
 | 2022-11-02 | [[LA Daily News]]       | [[Kings seek better discipline in road-trip finale in Chicago]]                                                                      |
 | 2022-11-01 | [[Defending Big D]]     | [[Questions Face Stars Leading into Matchup with Kings]]                                                                             |
 | 2022-11-01 | [[Hockey Royalty]]      | [[LA Kings at Dallas Stars projected lineup, betting preview]]                                                                       |
-| 2022-11-01 | [[LA Kings Insider]]    | [[11-1 Preview - No Morning Skate in Dallas + McLellan on Fiala, Doughty/Anderson Pairing, The Big 100 - LA Kings Insider]]          |
+| 2022-11-01 | [[LA Kings Insider]]    | [[11-1 Preview - No Morning Skate in Dallas plus McLellan on Fiala, Doughty-Anderson Pairing, The Big 100 - LA Kings Insider]]          |
 | 2022-10-31 | [[Hockey Royalty]]      | [[LA Kings at St Louis Blues projected lineup, betting preview]]                                                                     |
 | 2022-10-31 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings at St Louis Blues, Plus Byfield Update]]                                                               |
 | 2022-10-31 | [[The Athletic]]        | [[How Kings Gabriel Vilardi finally arrived - ‘I had more to prove this year]]                                                       |
@@ -94,6 +95,11 @@ Position | Shoots | Height | Weight | Age | Birthday | Birthplace | Draft
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                             |     |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------------- | --- |
+| 2022-11-22 | [[The Forum Report]] | [[Patience, process emphasized as key prospects gain repetitions in Ontario – including Byfield, who missed time with Covid, per his coach]] |
+| 2022-11-20 | [[Mayors Manor]]     | [[Reign Recap - Clarke and Byfield Score, Get Ontario Back to Their Winning Ways]]                |     |
+| 2022-11-20 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup vs Henderson Silver Knights - Searching For Answers]]            |     |
+| 2022-11-20 | [[Mayors Manor]]     | [[Reign Recap - Ontario Loses Front End of Home-and-Home Weekend vs Silver Knights]]              |     |
+| 2022-11-20 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 3, Silver Knights 2 – Sturm, Copley, Clarke]]                               |     |
 | 2022-11-19 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup at Henderson Silver Knights - More Changes Expected]]            |     |
 | 2022-11-14 | [[Hockey Royalty]]   | [[Ontario Reign - Three stars of the week 11-7 to 11-13]]                                         |     |
 | 2022-11-13 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 3-1 loss to Bakersfield]]                                  |     |
