@@ -32,6 +32,7 @@ Jordan Spence | 58 | D | R | 5' 10" | 180 | 2001-02-24 | Manly, AUS | -   2019 L
 ## Minor League Coverage
 | Date       | Site                    | Title                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------- |
+| 2022-11-23 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 5, Barracuda 1 – Sturm, Spence, Madden]] |
 | 2022-11-23 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs San Jose, 11-23]] |
 | 2022-11-20 | [[Mayors Manor]]        | [[Reign Recap - Clarke and Byfield Score, Get Ontario Back to Their Winning Ways]]                  |
 | 2022-11-20 | [[LA Kings Insider]]    | [[REIGN PREVIEW – Ontario vs Henderson, 11-20]]                                                     |

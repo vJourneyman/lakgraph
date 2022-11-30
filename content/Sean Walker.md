@@ -20,10 +20,11 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                     |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-22 | [[LA Daily News]] | [[Kings home winning streak ends as Rangers rally]] |
-| 2022-11-22 | [[The Athletic]] | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]] |
-| 2022-11-21 | [[LA Kings Insider]] | [[11-21 Practice – Todays Alignment + Fiala/Kopitar/Kempe reunited, Moverare on Debut, Roster Moves]] |
-| 2022-11-19 | [[The Forum Report]] | [[Playmaking Chart - November 18 at Vancouver]] |
+| 2022-11-23 | [[LA Kings Insider]]    | [[11-23 Practice – Todays Alignment + Walkers Goal and Metrics, Top Line Produces, McLellan on SV%]]                                      |
+| 2022-11-22 | [[LA Daily News]]       | [[Kings home winning streak ends as Rangers rally]]                                                                                       |
+| 2022-11-22 | [[The Athletic]]        | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]]                                                                 |
+| 2022-11-21 | [[LA Kings Insider]]    | [[11-21 Practice – Todays Alignment + Fiala/Kopitar/Kempe reunited, Moverare on Debut, Roster Moves]]                                     |
+| 2022-11-19 | [[The Forum Report]]    | [[Playmaking Chart - November 18 at Vancouver]]                                                                                           |
 | 2022-11-18 | [[The Fourth Period]]   | [[KINGS WEIGHING THEIR BLUELINE OPTIONS]]                                                                                                 |
 | 2022-11-17 | [[Hockey Royalty]]      | [[Takeaways - LA Kings 3, Edmonton 1 – A Great Defensive Effort]]                                                                         |
 | 2022-11-13 | [[The Forum Report]]    | [[Playmaking Chart - 11-12 vs Detroit]]                                                                                                   |

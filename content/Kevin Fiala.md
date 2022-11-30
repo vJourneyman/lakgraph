@@ -20,8 +20,9 @@ status: UnprocessedContent
 ## NHL  Coverage
 | Date       | Site                            | Title                                                                                                                                                      |
 | ---------- | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-22 | [[LA Hockey Now]] | [[Kings Blow Early Lead in 5-3 Loss to Rangers]] |
-| 2022-11-22 | [[LA Hockey Now]] | [[Kings vs Rangers Game 22 - Notes, Lines and How to Watch]] |
+| 2022-11-23 | [[The Forum Report]]            | [[McLellan confident in Petersen, but as team save percentage drops to 31st, concern grows - reunited with Kopitar and Kempe, Fiala erupts]]               |
+| 2022-11-22 | [[LA Hockey Now]]               | [[Kings Blow Early Lead in 5-3 Loss to Rangers]]                                                                                                           |
+| 2022-11-22 | [[LA Hockey Now]]               | [[Kings vs Rangers Game 22 - Notes, Lines and How to Watch]]                                                                                               |
 | 2022-11-22 | [[LA Daily News]]               | [[Kings home winning streak ends as Rangers rally]]                                                                                                        |
 | 2022-11-22 | [[Kings at NHL.com]]            | [[Kreider scores twice in third period in Rangers win against Kings]]                                                                                      |
 | 2022-11-22 | [[Hockey Royalty]]              | [[LA Kings vs New York Rangers projected lineup, betting preview]]                                                                                         |

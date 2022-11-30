@@ -20,7 +20,8 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                                  |
 | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-11-22 | [[LA Hockey Now]] | [[Kings Blow Early Lead in 5-3 Loss to Rangers]] |
+| 2022-11-23 | [[LA Kings Insider]]   | [[11-23 Practice – Todays Alignment + Walkers Goal and Metrics, Top Line Produces, McLellan on SV%]]                                                   |
+| 2022-11-22 | [[LA Hockey Now]]      | [[Kings Blow Early Lead in 5-3 Loss to Rangers]]                                                                                                       |
 | 2022-11-22 | [[The Athletic]]       | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]]                                                                              |
 | 2022-11-22 | [[LA Kings Insider]]   | [[FINAL – Kings 3, Rangers 5 – Fiala, Edler, McLellan]]                                                                                                |
 | 2022-11-21 | [[Hockey Royalty]]     | [[LA Kings - Whats up with Anze Kopitar]]                                                                                                              |

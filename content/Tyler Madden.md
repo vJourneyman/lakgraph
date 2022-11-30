@@ -28,8 +28,9 @@ Tyler Madden | 10 | F | R | 5' 11" | 170 | 1999-11-09 | Deerfield Beach, FL | VA
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                   |
 | ---------- | -------------------- | --------------------------------------------------------------------------------------- |
-| 2022-11-23 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs San Jose, 11-23]] |
-| 2022-11-22 | [[Hockey Royalty]] | [[Ontario Reign - Three stars of the week – 11-14 to 11-20]] |
+| 2022-11-23 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 5, Barracuda 1 – Sturm, Spence, Madden]]                          |
+| 2022-11-23 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs San Jose, 11-23]]                                          |
+| 2022-11-22 | [[Hockey Royalty]]   | [[Ontario Reign - Three stars of the week – 11-14 to 11-20]]                            |
 | 2022-11-20 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 3-1 loss to Henderson]]                          |
 | 2022-11-20 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 3, Silver Knights 2 – Sturm, Copley, Clarke]]                     |
 | 2022-11-20 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Henderson, 11-20]]                                         |

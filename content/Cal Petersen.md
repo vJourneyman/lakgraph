@@ -20,10 +20,11 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                           |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-22 | [[LA Hockey Now]] | [[Kings Blow Early Lead in 5-3 Loss to Rangers]] |
-| 2022-11-22 | [[LA Daily News]] | [[Kings home winning streak ends as Rangers rally]] |
-| 2022-11-22 | [[The Athletic]] | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]] |
-| 2022-11-22 | [[LA Kings Insider]] | [[FINAL – Kings 3, Rangers 5 – Fiala, Edler, McLellan]] |
+| 2022-11-23 | [[The Forum Report]]    | [[McLellan confident in Petersen, but as team save percentage drops to 31st, concern grows - reunited with Kopitar and Kempe, Fiala erupts]]                    |
+| 2022-11-22 | [[LA Hockey Now]]       | [[Kings Blow Early Lead in 5-3 Loss to Rangers]]                                                                                                                |
+| 2022-11-22 | [[LA Daily News]]       | [[Kings home winning streak ends as Rangers rally]]                                                                                                             |
+| 2022-11-22 | [[The Athletic]]        | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]]                                                                                       |
+| 2022-11-22 | [[LA Kings Insider]]    | [[FINAL – Kings 3, Rangers 5 – Fiala, Edler, McLellan]]                                                                                                         |
 | 2022-11-22 | [[LA Kings Insider]]    | [[11-22 Preview – Potential Alignment + Fiala talks comfort level, Penalties and Kill, Rushing Rangers]]                                                        |
 | 2022-11-20 | [[Hockey Royalty]]      | [[Takeaways - Seattle 3, LA Kings 2 OT – A Point Salvaged]]                                                                                                     |
 | 2022-11-19 | [[Kings at NHL.com]]    | [[Eberles OT goal gives Kraken win against Kings]]                                                                                                              |
