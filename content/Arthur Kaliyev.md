@@ -22,6 +22,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                         |     |
 | ---------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------- | --- |
+| 2022-11-23 | [[Kings at NHL.com]]  | [[It Takes A Village]]                                                                                                        |     |
 | 2022-11-22 | [[The Athletic]]      | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]]                                                     |     |
 | 2022-11-20 | [[The Forum Report]]  | [[Playmaking Chart - November 19 at Seattle]]                                                                                 |     |
 | 2022-11-19 | [[LA Hockey Now]]     | [[Kings End Road Trip With 3-2 Overtime Loss Against Kraken]]                                                                 |     |

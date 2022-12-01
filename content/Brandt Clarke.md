@@ -128,27 +128,28 @@ priority: high
 
 
 ## Minor League Coverage
-| Date       | Site                  | Title                                                                                         |
-| ---------- | --------------------- | --------------------------------------------------------------------------------------------- |
-| 2022-11-23 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs San Jose, 11-23]] |
-| 2022-11-22 | [[Hockey Royalty]] | [[Ontario Reign - Three stars of the week – 11-14 to 11-20]] |
-| 2022-11-22 | [[The Forum Report]] | [[Patience, process emphasized as key prospects gain repetitions in Ontario – including Byfield, who missed time with Covid, per his coach]] |
-| 2022-11-21 | [[Hockey Royalty]]    | [[Takeaways - Ontario Reign 3, Henderson 2 – Finally]]                                        |
-| 2022-11-20 | [[Hockey Royalty]]    | [[Ontario Reign - Three takeaways from 3-1 loss to Henderson]]                                |
-| 2022-11-20 | [[Mayors Manor]]      | [[Reign Recap - Clarke and Byfield Score, Get Ontario Back to Their Winning Ways]]            |
-| 2022-11-20 | [[Mayors Manor]]      | [[Ontario Reign Projected Lineup vs Henderson Silver Knights - Searching For Answers]]        |
-| 2022-11-20 | [[Mayors Manor]]      | [[Reign Recap - Ontario Loses Front End of Home-and-Home Weekend vs Silver Knights]]          |
-| 2022-11-20 | [[LA Kings Insider]]  | [[REIGN FINAL – Reign 3, Silver Knights 2 – Sturm, Copley, Clarke]]                           |
-| 2022-11-19 | [[Mayors Manor]]      | [[Ontario Reign Projected Lineup at Henderson Silver Knights - More Changes Expected]]        |
-| 2022-11-18 | [[TSN.ca]]            | [[Chychruns return could spur trade market for Coyotes]]                                      |
-| 2022-11-17 | [[TSN.ca]]            | [[Insider Trading - Injuries forcing Jets to consider all options]]                           |
-| 2022-11-17 | [[Pro Hockey Rumors]] | [[Snapshots - Pastujov, Wedgewood, Kings Defense]]                                            |
-| 2022-11-15 | [[Mayors Manor]]      | [[Brandt Clarke on Being Sent Down, Adjusting to AHL Life]]                                   |
-| 2022-11-14 | [[Kings at NHL.com]]  | [[The Week That Was, The Week That Is - 11-14]]                                               |
-| 2022-11-14 | [[Hockey Royalty]]    | [[LA Kings at Calgary Flames projected lineup, betting preview]]                              |
-| 2022-11-13 | [[Mayors Manor]]      | [[Reign Recap - Concerns Mounting as Ontario Drops Fourth Straight]]                          |
-| 2022-11-13 | [[Mayors Manor]]      | [[Ontario Reign Projected Lineup vs San Diego - Brandt Clarke Debut Among Myriad of Changes]] |
-| 2022-11-13 | [[LA Kings Insider]]  | [[REIGN FINAL – Reign 1, Gulls 4 – Sturm, Turcotte, Clarke]]                                  |
+| Date       | Site                  | Title                                                                                                                                        |
+| ---------- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-23 | [[Hockey Royalty]]    | [[Ontario Reign - How are the defensemen prospects doing]]                                                                                   |
+| 2022-11-23 | [[LA Kings Insider]]  | [[REIGN PREVIEW – Ontario vs San Jose, 11-23]]                                                                                               |
+| 2022-11-22 | [[Hockey Royalty]]    | [[Ontario Reign - Three stars of the week – 11-14 to 11-20]]                                                                                 |
+| 2022-11-22 | [[The Forum Report]]  | [[Patience, process emphasized as key prospects gain repetitions in Ontario – including Byfield, who missed time with Covid, per his coach]] |
+| 2022-11-21 | [[Hockey Royalty]]    | [[Takeaways - Ontario Reign 3, Henderson 2 – Finally]]                                                                                       |
+| 2022-11-20 | [[Hockey Royalty]]    | [[Ontario Reign - Three takeaways from 3-1 loss to Henderson]]                                                                               |
+| 2022-11-20 | [[Mayors Manor]]      | [[Reign Recap - Clarke and Byfield Score, Get Ontario Back to Their Winning Ways]]                                                           |
+| 2022-11-20 | [[Mayors Manor]]      | [[Ontario Reign Projected Lineup vs Henderson Silver Knights - Searching For Answers]]                                                       |
+| 2022-11-20 | [[Mayors Manor]]      | [[Reign Recap - Ontario Loses Front End of Home-and-Home Weekend vs Silver Knights]]                                                         |
+| 2022-11-20 | [[LA Kings Insider]]  | [[REIGN FINAL – Reign 3, Silver Knights 2 – Sturm, Copley, Clarke]]                                                                          |
+| 2022-11-19 | [[Mayors Manor]]      | [[Ontario Reign Projected Lineup at Henderson Silver Knights - More Changes Expected]]                                                       |
+| 2022-11-18 | [[TSN.ca]]            | [[Chychruns return could spur trade market for Coyotes]]                                                                                     |
+| 2022-11-17 | [[TSN.ca]]            | [[Insider Trading - Injuries forcing Jets to consider all options]]                                                                          |
+| 2022-11-17 | [[Pro Hockey Rumors]] | [[Snapshots - Pastujov, Wedgewood, Kings Defense]]                                                                                           |
+| 2022-11-15 | [[Mayors Manor]]      | [[Brandt Clarke on Being Sent Down, Adjusting to AHL Life]]                                                                                  |
+| 2022-11-14 | [[Kings at NHL.com]]  | [[The Week That Was, The Week That Is - 11-14]]                                                                                              |
+| 2022-11-14 | [[Hockey Royalty]]    | [[LA Kings at Calgary Flames projected lineup, betting preview]]                                                                             |
+| 2022-11-13 | [[Mayors Manor]]      | [[Reign Recap - Concerns Mounting as Ontario Drops Fourth Straight]]                                                                         |
+| 2022-11-13 | [[Mayors Manor]]      | [[Ontario Reign Projected Lineup vs San Diego - Brandt Clarke Debut Among Myriad of Changes]]                                                |
+| 2022-11-13 | [[LA Kings Insider]]  | [[REIGN FINAL – Reign 1, Gulls 4 – Sturm, Turcotte, Clarke]]                                                                                 |
 | 2022-11-13 | [[LA Kings Insider]] | [[Roster Moves – Andersson and Moverare recalled, Lemieux to IR Clarke to ONT on conditioning loan]] |
 
 

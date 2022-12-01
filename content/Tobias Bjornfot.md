@@ -34,6 +34,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                               |
 | ---------- | -------------------- | ----------------------------------------------------------------------------------- |
+| 2022-11-23 | [[Hockey Royalty]] | [[Ontario Reign - How are the defensemen prospects doing]] |
 | 2022-11-11 | [[The AHL]]          | [[Weekend notebook - Reign loaded again with young stars]]                          |
 | 2022-11-05 | [[Mayors Manor]]     | [[Ontario Reign - Projected Lineup for Rematch in Colorado - Plus Bjornfot Update]] |
 | 2022-11-04 | [[Mayors Manor]]     | [[Reign Recap - Villalta Stands Tall in Colorado, Earns 2-0 Shutout]]               |

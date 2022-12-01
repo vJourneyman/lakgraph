@@ -21,6 +21,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                                |
 | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-23 | [[The Forum Report]] | [[Iafallo skating lightly - Durzi rejoins practice - how McLellan chooses road starting lineups]] |
 | 2022-11-22 | [[The Athletic]] | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]] |
 | 2022-11-17 | [[Kings at NHL.com]] | [[Super 16 - Devils rise to No 2 - Kings, Flames join rankings]] |
 | 2022-11-09 | [[Mayors Manor]]      | [[Quinton Byfield – Where do the Kings Go From Here]]                                                                                |

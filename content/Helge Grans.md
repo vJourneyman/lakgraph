@@ -29,6 +29,7 @@ status: needs-draft-content
 ## Minor League Coverage
 | Date       | Site                    | Title                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------- |
+| 2022-11-23 | [[Hockey Royalty]] | [[Ontario Reign - How are the defensemen prospects doing]] |
 | 2022-11-04 | [[LA Kings Insider]]    | [[Jordan Spence continuing to develop as a top prospect with the Ontario Reign - LA Kings Insider]] |
 | 2022-11-03 | [[Mayors Manor]]        | [[Ontario Reign - Projected Lineup vs Colorado Eagles - Fagemo Out]]                                |
 | 2022-10-21 | [[Montreal Hockey Now]] | [[Montreal Canadiens and LA Kings Could Rekindle Trade Talks]]                                      |

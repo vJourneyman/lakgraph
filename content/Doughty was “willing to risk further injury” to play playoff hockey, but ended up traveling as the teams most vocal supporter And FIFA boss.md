@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site                | External Link                                                                                                                                                                                                                                                                                                         |
 | ---------- | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-15 | [[The Forum Repor]] | [*Doughty was “willing to risk further injury” to play playoff hockey, but ended up traveling as the teams most vocal supporter And FIFA boss*](https://theforumreport.com/doughty-was-willing-to-risk-further-injury-to-play-playoff-hockey-but-ended-up-traveling-as-the-teams-most-vocal-supporter-and-fifa-boss/) |
+| 2022-11-15 | [[The Forum Report]] | [*Doughty was “willing to risk further injury” to play playoff hockey, but ended up traveling as the teams most vocal supporter And FIFA boss*](https://theforumreport.com/doughty-was-willing-to-risk-further-injury-to-play-playoff-hockey-but-ended-up-traveling-as-the-teams-most-vocal-supporter-and-fifa-boss/) |
 
 ## Contributors
 - [[Jon Rosen]]

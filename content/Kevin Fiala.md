@@ -20,6 +20,8 @@ status: UnprocessedContent
 ## NHL  Coverage
 | Date       | Site                            | Title                                                                                                                                                      |
 | ---------- | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-23 | [[Hockey Royalty]] | [[Takeaways - LA Kings 3, NY Rangers 5 – ‘Our game matched our year]] |
+| 2022-11-23 | [[Mayors Manor]] | [[Rapid Review - Notes and Highlights of Kings Come-From-Ahead Loss to Rangers]] |
 | 2022-11-23 | [[The Forum Report]]            | [[McLellan confident in Petersen, but as team save percentage drops to 31st, concern grows - reunited with Kopitar and Kempe, Fiala erupts]]               |
 | 2022-11-22 | [[LA Hockey Now]]               | [[Kings Blow Early Lead in 5-3 Loss to Rangers]]                                                                                                           |
 | 2022-11-22 | [[LA Hockey Now]]               | [[Kings vs Rangers Game 22 - Notes, Lines and How to Watch]]                                                                                               |

@@ -22,6 +22,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-23 | [[Mayors Manor]] | [[Ontario Reign Projected Lineup vs San Jose Barracuda - Looking to Build Momentum]] |
 | 2022-11-23 | [[LA Kings Insider]]    | [[REIGN FINAL – Reign 5, Barracuda 1 – Sturm, Spence, Madden]]                                                                       |
 | 2022-11-22 | [[The Athletic]]        | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]]                                                            |
 | 2022-11-12 | [[The Forum Report]]    | [[Effective in a role not easily replicated, Lemieux “probably going to be out for a little while”]]                                 |

@@ -29,6 +29,7 @@ status: needs-draft-content
 ## Minor League Coverage
 | Date       | Site             | Title                                                                                  |
 | ---------- | ---------------- | -------------------------------------------------------------------------------------- |
+| 2022-11-23 | [[Hockey Royalty]] | [[Ontario Reign - How are the defensemen prospects doing]] |
 | 2022-11-20 | [[Mayors Manor]] | [[Ontario Reign Projected Lineup vs Henderson Silver Knights - Searching For Answers]] |
 | 2022-11-19 | [[Mayors Manor]] | [[Ontario Reign Projected Lineup at Henderson Silver Knights - More Changes Expected]] |
 | 2022-10-26 | [[Mayors Manor]] | [[Ontario Reign - Projected Lineup at San Jose Barracuda on Wednesday]]                |

@@ -21,6 +21,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                  |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-23 | [[The Forum Report]] | [[Iafallo skating lightly - Durzi rejoins practice - how McLellan chooses road starting lineups]] |
 | 2022-11-22 | [[Mayors Manor]] | [[Projected Lineups - LA Kings vs New York Rangers, Home Sweet Home]] |
 | 2022-11-22 | [[The Athletic]] | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]] |
 | 2022-11-22 | [[LA Kings Insider]]    | [[11-22 Preview – Potential Alignment + Fiala talks comfort level, Penalties and Kill, Rushing Rangers]]                                               |
