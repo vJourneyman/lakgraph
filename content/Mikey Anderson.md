@@ -22,6 +22,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                                           |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-25 | [[LA Hockey Now]] | [[Kings Bounce Back With 5-2 Win Over Sharks]] |
 | 2022-11-24 | [[The Forum Report]] | [[Playmaking Chart - November 22 vs New York]] |
 | 2022-11-22 | [[The Athletic]] | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]] |
 | 2022-11-19 | [[The Forum Report]] | [[Playmaking Chart - November 18 at Vancouver]] |

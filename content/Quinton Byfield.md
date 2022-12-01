@@ -97,7 +97,8 @@ priority: high
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                                                                        |
 | ---------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-24 | [[Hockey Royalty]]                | [[Ontario Reign - Three takeaways from 5-1 win against San Jose]]                                                                                                                                                                                                                                                              |
+| 2022-11-25 | [[Mayors Manor]]     | [[Tyler Madden on Turcotte, Byfield, and the Magic They Create]]                                                                             |
+| 2022-11-24 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 5-1 win against San Jose]]                                                                            |
 | 2022-11-24 | [[Mayors Manor]]     | [[Reign Recap - Ontario def San Jose, Pair of Kings Prospects Shine]]                                                                        |
 | 2022-11-22 | [[The Forum Report]] | [[Patience, process emphasized as key prospects gain repetitions in Ontario – including Byfield, who missed time with Covid, per his coach]] |
 | 2022-11-20 | [[Mayors Manor]]     | [[Reign Recap - Clarke and Byfield Score, Get Ontario Back to Their Winning Ways]]                                                           |

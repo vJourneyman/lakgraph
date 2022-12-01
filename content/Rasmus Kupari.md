@@ -22,6 +22,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                     |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-25 | [[LA Hockey Now]] | [[Kings Bounce Back With 5-2 Win Over Sharks]] |
 | 2022-11-22 | [[The Athletic]]        | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]]                                                                 |
 | 2022-11-21 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Recall Three Players From AHL]]                                                                                       |
 | 2022-11-21 | [[LA Kings Insider]]    | [[11-21 Practice – Todays Alignment + Fiala/Kopitar/Kempe reunited, Moverare on Debut, Roster Moves]]                                     |

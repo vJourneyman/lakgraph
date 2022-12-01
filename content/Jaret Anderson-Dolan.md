@@ -21,6 +21,8 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                                       |
 | ---------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-25 | [[LA Hockey Now]] | [[Kings Bounce Back With 5-2 Win Over Sharks]] |
+| 2022-11-25 | [[LA Kings Insider]] | [[FINAL – Kings 5, Sharks 2 – Arvidsson, Anderson-Dolan, McLellan]] |
 | 2022-11-23 | [[The Forum Report]] | [[Waking up with the Kings - November 23]] |
 | 2022-11-22 | [[The Athletic]] | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]] |
 | 2022-11-20 | [[The Forum Report]] | [[Playmaking Chart - November 19 at Seattle]] |

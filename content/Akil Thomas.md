@@ -28,6 +28,7 @@ Date | Site |  Title
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                              |
 | ---------- | -------------------- | -------------------------------------------------------------------------------------------------- |
+| 2022-11-25 | [[Mayors Manor]]     | [[REPORT - Akil Thomas to Have Season-Ending Surgery]]                                             |
 | 2022-11-20 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 3-1 loss to Henderson]]                                     |
 | 2022-11-20 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup vs Henderson Silver Knights - Searching For Answers]]             |
 | 2022-11-20 | [[Mayors Manor]]     | [[Reign Recap - Ontario Loses Front End of Home-and-Home Weekend vs Silver Knights]]               |

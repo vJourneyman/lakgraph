@@ -22,6 +22,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                      |
 | ---------- | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-25 | [[The Athletic]] | [[How LA Kings key second line is complete with healthy Viktor Arvidsson]] |
 | 2022-11-22 | [[The Athletic]]        | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]]                                                                                  |
 | 2022-11-22 | [[LA Kings Insider]]    | [[11-22 Preview – Potential Alignment + Fiala talks comfort level, Penalties and Kill, Rushing Rangers]]                                                   |
 | 2022-11-21 | [[LA Kings Insider]]    | [[11-21 Practice – Todays Alignment + Fiala/Kopitar/Kempe reunited, Moverare on Debut, Roster Moves]]                                                      |

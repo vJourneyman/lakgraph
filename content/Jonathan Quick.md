@@ -21,6 +21,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                 |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-25 | [[LA Hockey Now]] | [[Kings Bounce Back With 5-2 Win Over Sharks]] |
 | 2022-11-24 | [[LA Times]]            | [[Kings Jonathan Quick isnt ready to stop fighting for wins - Los Angeles Times]]                                                                     |
 | 2022-11-24 | [[Hockey Royalty]]      | [[The LA Kings are in need of a change]]                                                                                                              |
 | 2022-11-23 | [[The Forum Report]]    | [[Waking up with the Kings - November 23]]                                                                                                            |

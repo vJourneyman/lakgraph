@@ -22,9 +22,10 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                  |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-11-23 | [[Hockey Royalty]] | [[Takeaways - LA Kings 3, NY Rangers 5 – ‘Our game matched our year]] |
-| 2022-11-23 | [[Mayors Manor]] | [[Rapid Review - Notes and Highlights of Kings Come-From-Ahead Loss to Rangers]] |
-| 2022-11-22 | [[LA Hockey Now]] | [[Kings Blow Early Lead in 5-3 Loss to Rangers]] |
+| 2022-11-25 | [[The Athletic]]        | [[NHL Power Rankings - 32 stats One for every team]]                                                                                                   |
+| 2022-11-23 | [[Hockey Royalty]]      | [[Takeaways - LA Kings 3, NY Rangers 5 – ‘Our game matched our year]]                                                                                  |
+| 2022-11-23 | [[Mayors Manor]]        | [[Rapid Review - Notes and Highlights of Kings Come-From-Ahead Loss to Rangers]]                                                                       |
+| 2022-11-22 | [[LA Hockey Now]]       | [[Kings Blow Early Lead in 5-3 Loss to Rangers]]                                                                                                       |
 | 2022-11-22 | [[LA Hockey Now]]       | [[Kings vs Rangers Game 22 - Notes, Lines and How to Watch]]                                                                                           |
 | 2022-11-22 | [[LA Daily News]]       | [[Kings home winning streak ends as Rangers rally]]                                                                                                    |
 | 2022-11-22 | [[Kings at NHL.com]]    | [[Kreider scores twice in third period in Rangers win against Kings]]                                                                                  |

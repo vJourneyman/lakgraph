@@ -31,39 +31,40 @@ Alex Turcotte | | C | L | 5' 11" | 185 | 2001-02-26 | Elk Grove, IL, USA | 2019 
 
 
 ## Minor League Coverage
-| Date       | Site                  | Title                                                                                                           |
-| ---------- | --------------------- | --------------------------------------------------------------------------------------------------------------- |
-| 2022-11-24 | [[Hockey Royalty]]                | [[Ontario Reign - Three takeaways from 5-1 win against San Jose]]                                                                                                                                                                                                                                                              |
-| 2022-11-24 | [[Mayors Manor]] | [[Reign Recap - Ontario def San Jose, Pair of Kings Prospects Shine]] |
-| 2022-11-23 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 5, Barracuda 1 – Sturm, Spence, Madden]] |
-| 2022-11-22 | [[The Forum Report]] | [[Patience, process emphasized as key prospects gain repetitions in Ontario – including Byfield, who missed time with Covid, per his coach]] |
-| 2022-11-20 | [[Mayors Manor]]      | [[Reign Recap - Clarke and Byfield Score, Get Ontario Back to Their Winning Ways]]                              |
-| 2022-11-20 | [[Mayors Manor]]      | [[Ontario Reign Projected Lineup vs Henderson Silver Knights - Searching For Answers]]                          |
-| 2022-11-20 | [[Mayors Manor]]      | [[Reign Recap - Ontario Loses Front End of Home-and-Home Weekend vs Silver Knights]]                            |
-| 2022-11-20 | [[LA Kings Insider]]  | [[REIGN FINAL – Reign 3, Silver Knights 2 – Sturm, Copley, Clarke]]                                             |
-| 2022-11-19 | [[Mayors Manor]]      | [[Ontario Reign Projected Lineup at Henderson Silver Knights - More Changes Expected]]                          |
-| 2022-11-17 | [[Mayors Manor]]      | [[Alex Turcotte is Taking it Day by Day, Back to Grinding Away]]                                                |
-| 2022-11-14 | [[Hockey Royalty]]    | [[Ontario Reign - Three stars of the week 11-7 to 11-13]]                                                       |
-| 2022-11-13 | [[Mayors Manor]]      | [[Reign Recap - Concerns Mounting as Ontario Drops Fourth Straight]]                                            |
-| 2022-11-13 | [[Mayors Manor]]      | [[Reign Recap - Byfield Scores, Ontario Comes Up Short in Bakersfield]]                                         |
-| 2022-11-13 | [[LA Kings Insider]]  | [[REIGN PREVIEW – Ontario vs San Diego, 11-13]]                                                                 |
-| 2022-11-12 | [[Mayors Manor]]      | [[Ontario Reign - Projected Lineup at Bakersfield - Plus Notes on Spence, Turcotte, and Byfield]]               |
-| 2022-11-12 | [[LA Kings Insider]]  | [[REIGN FINAL – Reign 1, Condors 3 – Marco Sturm]]                                                              |
-| 2022-11-11 | [[The AHL]]           | [[Weekend notebook - Reign loaded again with young stars]]                                                      |
-| 2022-11-11 | [[Mayors Manor]]      | [[Reign Recap - Revamped Lineup Comes Up Short in Shootout Loss at San Jose]]                                   |
-| 2022-11-11 | [[LA Kings Insider]]  | [[11-11 Practice – Diving into lineup changes and the state of the power play with Todd McLellan]]              |
-| 2022-11-11 | [[LA Kings Insider]]  | [[After a trying road back, Alex Turcotte is feeling good after a long-awaited return to Ontario Reign lineup]] |
-| 2022-11-10 | [[ESPN]]              | [[They make you feel like you belong - How Drew Doughty and Anze Kopitar have shaped the Kings]]                |
-| 2022-11-10 | [[Pro Hockey Rumors]] | [[Los Angeles Kings Activate Alex Turcotte - Assign To AHL]]                                                    |
-| 2022-11-10 | [[LA Daily News]]     | [[Kings prospect Alex Turcotte activated from injured non-roster list]]                                         |
-| 2022-11-10 | [[Kings at NHL.com]]  | [[LA Kings Activate Forward Alex Turcotte for Loan to Ontario Reign]]                                           |
-| 2022-11-10 | [[Mayors Manor]]      | [[Ontario Reign - Projected Lineup at San Jose - With Trio of Top Kings Prospects Returning]]                   |
-| 2022-11-10 | [[LA Kings Insider]]  | [[11-10 Preview – Projected Lineup + Chicago Rematch, Importance Of Faceoffs, Turcotte to ONT]]                 |
-| 2022-11-05 | [[Mayors Manor]]      | [[Ontario Reign - Projected Lineup for Rematch in Colorado - Plus Bjornfot Update]]                             |
-| 2022-11-05 | [[Mayors Manor]]      | [[NEWS - Updated Information on Status of Byfield and Turcotte]]                                                |
-| 2022-10-29 | [[Mayors Manor]]      | [[Ontario Reign - Projected Lineup vs Bakersfield Condors - Several Changes Included]]                          |
-| 2022-10-28 | [[Hockey Royalty]]    | [[LA Kings - 2022-23 prospect rankings, the top five]]                                                          |
-| 2022-10-22 | [[The Hockey News]]   | [[Where Are They Now - The Historic 2019 USA NTDP Squad]]                                                       |
+| Date       | Site                  | Title                                                                                                                                        |
+| ---------- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-25 | [[Mayors Manor]]      | [[Tyler Madden on Turcotte, Byfield, and the Magic They Create]]                                                                             |
+| 2022-11-24 | [[Hockey Royalty]]    | [[Ontario Reign - Three takeaways from 5-1 win against San Jose]]                                                                            |
+| 2022-11-24 | [[Mayors Manor]]      | [[Reign Recap - Ontario def San Jose, Pair of Kings Prospects Shine]]                                                                        |
+| 2022-11-23 | [[LA Kings Insider]]  | [[REIGN FINAL – Reign 5, Barracuda 1 – Sturm, Spence, Madden]]                                                                               |
+| 2022-11-22 | [[The Forum Report]]  | [[Patience, process emphasized as key prospects gain repetitions in Ontario – including Byfield, who missed time with Covid, per his coach]] |
+| 2022-11-20 | [[Mayors Manor]]      | [[Reign Recap - Clarke and Byfield Score, Get Ontario Back to Their Winning Ways]]                                                           |
+| 2022-11-20 | [[Mayors Manor]]      | [[Ontario Reign Projected Lineup vs Henderson Silver Knights - Searching For Answers]]                                                       |
+| 2022-11-20 | [[Mayors Manor]]      | [[Reign Recap - Ontario Loses Front End of Home-and-Home Weekend vs Silver Knights]]                                                         |
+| 2022-11-20 | [[LA Kings Insider]]  | [[REIGN FINAL – Reign 3, Silver Knights 2 – Sturm, Copley, Clarke]]                                                                          |
+| 2022-11-19 | [[Mayors Manor]]      | [[Ontario Reign Projected Lineup at Henderson Silver Knights - More Changes Expected]]                                                       |
+| 2022-11-17 | [[Mayors Manor]]      | [[Alex Turcotte is Taking it Day by Day, Back to Grinding Away]]                                                                             |
+| 2022-11-14 | [[Hockey Royalty]]    | [[Ontario Reign - Three stars of the week 11-7 to 11-13]]                                                                                    |
+| 2022-11-13 | [[Mayors Manor]]      | [[Reign Recap - Concerns Mounting as Ontario Drops Fourth Straight]]                                                                         |
+| 2022-11-13 | [[Mayors Manor]]      | [[Reign Recap - Byfield Scores, Ontario Comes Up Short in Bakersfield]]                                                                      |
+| 2022-11-13 | [[LA Kings Insider]]  | [[REIGN PREVIEW – Ontario vs San Diego, 11-13]]                                                                                              |
+| 2022-11-12 | [[Mayors Manor]]      | [[Ontario Reign - Projected Lineup at Bakersfield - Plus Notes on Spence, Turcotte, and Byfield]]                                            |
+| 2022-11-12 | [[LA Kings Insider]]  | [[REIGN FINAL – Reign 1, Condors 3 – Marco Sturm]]                                                                                           |
+| 2022-11-11 | [[The AHL]]           | [[Weekend notebook - Reign loaded again with young stars]]                                                                                   |
+| 2022-11-11 | [[Mayors Manor]]      | [[Reign Recap - Revamped Lineup Comes Up Short in Shootout Loss at San Jose]]                                                                |
+| 2022-11-11 | [[LA Kings Insider]]  | [[11-11 Practice – Diving into lineup changes and the state of the power play with Todd McLellan]]                                           |
+| 2022-11-11 | [[LA Kings Insider]]  | [[After a trying road back, Alex Turcotte is feeling good after a long-awaited return to Ontario Reign lineup]]                              |
+| 2022-11-10 | [[ESPN]]              | [[They make you feel like you belong - How Drew Doughty and Anze Kopitar have shaped the Kings]]                                             |
+| 2022-11-10 | [[Pro Hockey Rumors]] | [[Los Angeles Kings Activate Alex Turcotte - Assign To AHL]]                                                                                 |
+| 2022-11-10 | [[LA Daily News]]     | [[Kings prospect Alex Turcotte activated from injured non-roster list]]                                                                      |
+| 2022-11-10 | [[Kings at NHL.com]]  | [[LA Kings Activate Forward Alex Turcotte for Loan to Ontario Reign]]                                                                        |
+| 2022-11-10 | [[Mayors Manor]]      | [[Ontario Reign - Projected Lineup at San Jose - With Trio of Top Kings Prospects Returning]]                                                |
+| 2022-11-10 | [[LA Kings Insider]]  | [[11-10 Preview – Projected Lineup + Chicago Rematch, Importance Of Faceoffs, Turcotte to ONT]]                                              |
+| 2022-11-05 | [[Mayors Manor]]      | [[Ontario Reign - Projected Lineup for Rematch in Colorado - Plus Bjornfot Update]]                                                          |
+| 2022-11-05 | [[Mayors Manor]]      | [[NEWS - Updated Information on Status of Byfield and Turcotte]]                                                                             |
+| 2022-10-29 | [[Mayors Manor]]      | [[Ontario Reign - Projected Lineup vs Bakersfield Condors - Several Changes Included]]                                                       |
+| 2022-10-28 | [[Hockey Royalty]]    | [[LA Kings - 2022-23 prospect rankings, the top five]]                                                                                       |
+| 2022-10-22 | [[The Hockey News]]   | [[Where Are They Now - The Historic 2019 USA NTDP Squad]]                                                                                    |
 | 2022-10-14 | [[Mayors Manor]]      | [[Update and Next Steps with Kings Prospect Alex Turcotte]]                                                     |
 
 
