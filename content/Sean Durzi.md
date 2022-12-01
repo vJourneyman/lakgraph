@@ -21,9 +21,13 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                  |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-11-25 | [[Hockey Royalty]] | [[LA Kings at San Jose Sharks projected lineup, betting preview]] |
-| 2022-11-25 | [[LA Kings Insider]] | [[FINAL – Kings 5, Sharks 2 – Arvidsson, Anderson-Dolan, McLellan]] |
-| 2022-11-25 | [[LA Kings Insider]] | [[11-25 Preview – Full Skate Today + Kings on Special Teams, Durzi on Return, McLellan on Holiday]] |
+| 2022-11-26 | [[Mayors Manor]]        | [[Rapid Review - Notes and Highlights of Five Kings Scoring vs Sharks in LA Victory]]                                                                  |
+| 2022-11-26 | [[The Forum Report]]    | [[Playmaking Chart - November 25 at San Jose]]                                                                                                         |
+| 2022-11-26 | [[LA Kings Insider]]    | [[Angeles Analysis – Black on Black Friday]]                                                                                                           |
+| 2022-11-26 | [[LA Kings Insider]]    | [[Updates - Andersson, Moverare Loaned, Kings Injury Latest, Thomas, Doty headed for surgery]]                                                         |
+| 2022-11-25 | [[Hockey Royalty]]      | [[LA Kings at San Jose Sharks projected lineup, betting preview]]                                                                                      |
+| 2022-11-25 | [[LA Kings Insider]]    | [[FINAL – Kings 5, Sharks 2 – Arvidsson, Anderson-Dolan, McLellan]]                                                                                    |
+| 2022-11-25 | [[LA Kings Insider]]    | [[11-25 Preview – Full Skate Today + Kings on Special Teams, Durzi on Return, McLellan on Holiday]]                                                    |
 | 2022-11-24 | [[LA Kings Insider]]    | [[Happy Thanksgiving! Short Skate in El Segundo, Travel to SJ]]                                                                                        |
 | 2022-11-23 | [[The Forum Report]]    | [[Iafallo skating lightly - Durzi rejoins practice - how McLellan chooses road starting lineups]]                                                      |
 | 2022-11-22 | [[Mayors Manor]]        | [[Projected Lineups - LA Kings vs New York Rangers, Home Sweet Home]]                                                                                  |

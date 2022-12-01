@@ -20,6 +20,9 @@ status: UnprocessedContent
 ## NHL  Coverage
 | Date       | Site                            | Title                                                                                                                                                      |
 | ---------- | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-26 | [[The Athletic]]                | [[NHL style power rankings - ‘Gomez Addams, David Pastrnaks hat and the Bruins dominate]]                                                                  |
+| 2022-11-26 | [[The Forum Report]]            | [[Playmaking Chart - November 25 at San Jose]]                                                                                                             |
+| 2022-11-26 | [[LA Kings Insider]]            | [[Angeles Analysis – Black on Black Friday]]                                                                                                               |
 | 2022-11-24 | [[Field Level Media]]           | [[Kings, Sharks seek consistency after tough losses]]                                                                                                      |
 | 2022-11-23 | [[Hockey Royalty]]              | [[Takeaways - LA Kings 3, NY Rangers 5 – ‘Our game matched our year]]                                                                                      |
 | 2022-11-23 | [[Mayors Manor]]                | [[Rapid Review - Notes and Highlights of Kings Come-From-Ahead Loss to Rangers]]                                                                           |

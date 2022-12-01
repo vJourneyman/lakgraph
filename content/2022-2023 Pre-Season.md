@@ -99,7 +99,7 @@ Date | Site | Title
 2022-09-22 | [[LA Kings Insider]] |  [[Training Camp Primer – Day 1]](http://lakingsinsider.com/2022/09/22/training-camp-primer-day-1/)
 2022-09-22 | [[The Fourth Period]] | [[Camping out in L.A. — The Fourth Period]](https://www.thefourthperiod.com/bernstein/camping-out-in-la)
 2022-09-21 | [[LA Times]] | [[Elliott - After ending playoff drought, Kings face next challenge — getting better - Los Angeles Times]](https://www.latimes.com/sports/hockey/story/2022-09-21/column-kings-training-camp-todd-mcllellan-heightened-expectations)
-2022-09-16 | [[www.prohockeyrumors.com]] | [[Injury Updates: Keller, Turcotte, Perfetti]](https://www.prohockeyrumors.com/2022/09/injury-updates-keller-turcotte-perfetti.html)
-2022-09-15 | [[Los Angeles Daily News]] | [[Kings prep for Rookie Faceoff with Quinton Byfield, but without Alex Turcotte]](https://www.dailynews.com/2022/09/15/kings-prep-for-rookie-faceoff-with-quinton-byfield-but-without-alex-turcotte/)
+2022-09-16 | [[Pro Hockey Rumors]] | [[Injury Updates: Keller, Turcotte, Perfetti]](https://www.prohockeyrumors.com/2022/09/injury-updates-keller-turcotte-perfetti.html)
+2022-09-15 | [[LA Daily News]] | [[Kings prep for Rookie Faceoff with Quinton Byfield, but without Alex Turcotte]](https://www.dailynews.com/2022/09/15/kings-prep-for-rookie-faceoff-with-quinton-byfield-but-without-alex-turcotte/)
 
 

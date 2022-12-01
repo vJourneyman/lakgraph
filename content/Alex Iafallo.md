@@ -21,9 +21,11 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                                |
 | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-11-23 | [[The Forum Report]] | [[Iafallo skating lightly - Durzi rejoins practice - how McLellan chooses road starting lineups]] |
-| 2022-11-22 | [[The Athletic]] | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]] |
-| 2022-11-17 | [[Kings at NHL.com]] | [[Super 16 - Devils rise to No 2 - Kings, Flames join rankings]] |
+| 2022-11-26 | [[Pro Hockey Rumors]] | [[Forward Notes - Iafallo, Howden, Balcers]]                                                                                         |
+| 2022-11-26 | [[LA Kings Insider]]  | [[Updates - Andersson, Moverare Loaned, Kings Injury Latest, Thomas, Doty headed for surgery]]                                       |
+| 2022-11-23 | [[The Forum Report]]  | [[Iafallo skating lightly - Durzi rejoins practice - how McLellan chooses road starting lineups]]                                    |
+| 2022-11-22 | [[The Athletic]]      | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]]                                                            |
+| 2022-11-17 | [[Kings at NHL.com]]  | [[Super 16 - Devils rise to No 2 - Kings, Flames join rankings]]                                                                     |
 | 2022-11-09 | [[Mayors Manor]]      | [[Quinton Byfield – Where do the Kings Go From Here]]                                                                                |
 | 2022-11-04 | [[LA Hockey Now]]     | [[Kings Daily - Disappointing Loss in Chicago and Ovechkin Makes History]]                                                           |
 | 2022-10-29 | [[Pro Hockey Rumors]] | [[Los Angeles Kings Recall Rasmus Kupari]]                                                                                           |
@@ -36,7 +38,7 @@ status: stable
 | 2022-10-24 | [[LA Kings Insider]]  | [[10-24 Practice - Kings address areas of focus + McLellan on Lines, Lizotte on Identity, Robitaille Joins ATKM - LA Kings Insider]] |
 | 2022-10-23 | [[Pro Hockey Rumors]] | [[Alex Iafallo Moved To LTIR, Austin Wagner Recalled]]                                                                               |
 | 2022-10-23 | [[The Forum Report]]  | [[Waking up with the Kings - October 23]]                                                                                            |
-| 2022-10-23 | [[LA Kings Insider]]  | [[Sunday Roster Moves - Iafallo to LTIR plus Moverare-Wagner Exchange - LA Kings Insider]]                                              |
+| 2022-10-23 | [[LA Kings Insider]]  | [[Sunday Roster Moves - Iafallo to LTIR plus Moverare-Wagner Exchange - LA Kings Insider]]                                           |
 | 2022-10-21 | [[Hockey Royalty]]    | [[LA Kings at Washington Capitals projected lineups, betting preview]]                                                               |
 | 2022-10-20 | [[Hockey Royalty]]    | [[LA Kings at Pittsburgh Penguins projected lineups, betting preview]]                                                               |
 | 2022-10-20 | [[Mayors Manor]]      | [[Projected Lineup - LA Kings at Pittsburgh Penguins, Game 6]]                                                                       |
@@ -63,7 +65,7 @@ status: stable
 | 2022-10-12 | [[The Forum Report]]  | [[Waking up with the Kings - October 12]]                                                                                            |
 | 2022-10-12 | [[LA Kings Insider]]  | [[Practice 10-12 - Identity Through 3 Periods + Notes on Vilardis Speed, Fourth Goal, Looking Ahead - LA Kings Insider]]             |
 | 2022-10-11 | [[LA Kings Insider]]  | [[10-11 Preview - Projected Lineup + Opening Night Jitters, First Line Coming Together, Blake on Final Moves - LA Kings Insider]]    |
-| 2022-10-10 | [[LA Kings Insider]]  | [[Kings Announce Opening-Night Roster and Roster Moves - LA Kings Insider]]                                                       |
+| 2022-10-10 | [[LA Kings Insider]]  | [[Kings Announce Opening-Night Roster and Roster Moves - LA Kings Insider]]                                                          |
 | 2022-07-11 | [[LA Daily News]] | [[NHL free agency - Kings look to polish their improved roster]] |
 
 ## Minor League Coverage

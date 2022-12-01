@@ -22,6 +22,9 @@ Lias Andersson | 17 | C | L | 6' 1" | 183 | 1998-10-13 | Smogen, SWE | 2017 NYR,
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                |
 | ---------- | --------------------- | ---------------------------------------------------------------------------------------------------- |
+| 2022-11-26 | [[Pro Hockey Rumors]] | [[Kings Assign Lias Andersson And Jacob Moverare To The AHL]] |
+| 2022-11-26 | [[Kings at NHL.com]] | [[LA Kings Loan Two Players to Ontario Reign]] |
+| 2022-11-26 | [[LA Kings Insider]] | [[Updates - Andersson, Moverare Loaned, Kings Injury Latest, Thomas, Doty headed for surgery]] |
 | 2022-11-21 | [[Pro Hockey Rumors]] | [[Los Angeles Kings Recall Three Players From AHL]] |
 | 2022-11-21 | [[LA Kings Insider]] | [[11-21 Practice – Todays Alignment + Fiala/Kopitar/Kempe reunited, Moverare on Debut, Roster Moves]] |
 | 2022-11-20 | [[Hockey Royalty]]    | [[Los Angeles Kings Loan Three Players To AHL]]                                                      |
@@ -43,6 +46,7 @@ Lias Andersson | 17 | C | L | 6' 1" | 183 | 1998-10-13 | Smogen, SWE | 2017 NYR,
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                               |
 | ---------- | -------------------- | --------------------------------------------------------------------------------------------------- |
+| 2022-11-26 | [[Mayors Manor]] | [[Ontario Reign Projected Lineup vs Tucson Roadrunners - Clarkes Last Stand]] |
 | 2022-11-12 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at Bakersfield, 11-12]] |
 | 2022-11-11 | [[The AHL]]          | [[Weekend notebook - Reign loaded again with young stars]]                                          |
 | 2022-11-11 | [[Mayors Manor]]     | [[Reign Recap - Revamped Lineup Comes Up Short in Shootout Loss at San Jose]]                       |

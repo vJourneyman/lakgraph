@@ -23,6 +23,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-26 | [[LA Kings Insider]] | [[Angeles Analysis – Black on Black Friday]] |
 | 2022-11-24 | [[The Forum Report]] | [[Playmaking Chart - November 22 vs New York]] |
 | 2022-11-23 | [[LA Kings Insider]] | [[11-23 Practice – Todays Alignment + Walkers Goal and Metrics, Top Line Produces, McLellan on SV%]] |
 | 2022-11-22 | [[LA Hockey Now]] | [[Kings Blow Early Lead in 5-3 Loss to Rangers]] |

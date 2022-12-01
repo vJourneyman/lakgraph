@@ -28,6 +28,8 @@ Jacob Doty | 37 | RW | R | 6' 3" | 225 | 1993-06-19 | Billings, MT |
 ## Minor League Coverage
 | Date       | Site                 | Title                                                               |
 | ---------- | -------------------- | ------------------------------------------------------------------- |
+| 2022-11-26 | [[Hockey Royalty]] | [[Ontario Reign - Jacob Doty and Akil Thomas are out indefinitely]] |
+| 2022-11-26 | [[LA Kings Insider]] | [[Updates - Andersson, Moverare Loaned, Kings Injury Latest, Thomas, Doty headed for surgery]] |
 | 2022-10-26 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at San Jose, 10-26 - LA Kings Insider]]   |
 | 2022-10-22 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 5, Gulls 1 – Sturm, Doty - LA Kings Insider]] |
 

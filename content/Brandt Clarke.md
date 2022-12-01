@@ -130,6 +130,9 @@ priority: high
 ## Minor League Coverage
 | Date       | Site                  | Title                                                                                                                                        |
 | ---------- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-26 | [[Mayors Manor]] | [[Ontario Reign Projected Lineup vs Tucson Roadrunners - Clarkes Last Stand]] |
+| 2022-11-26 | [[Mayors Manor]]      | [[One Game Left - Clarke Talks Greene, ODonnell, and Ontario Reign Experience]]                                                              |
+| 2022-11-26 | [[LA Kings Insider]]  | [[REIGN FINAL – Reign 1, Roadrunners 3 – Sturm, Dudas, Clarke]]                                                                              |
 | 2022-11-23 | [[Hockey Royalty]]    | [[Ontario Reign - How are the defensemen prospects doing]]                                                                                   |
 | 2022-11-23 | [[LA Kings Insider]]  | [[REIGN PREVIEW – Ontario vs San Jose, 11-23]]                                                                                               |
 | 2022-11-22 | [[Hockey Royalty]]    | [[Ontario Reign - Three stars of the week – 11-14 to 11-20]]                                                                                 |

@@ -21,9 +21,12 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                  |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-11-22 | [[Mayors Manor]] | [[Projected Lineups - LA Kings vs New York Rangers, Home Sweet Home]] |
-| 2022-11-21 | [[Pro Hockey Rumors]] | [[Los Angeles Kings Recall Three Players From AHL]] |
-| 2022-11-21 | [[LA Kings Insider]] | [[11-21 Practice – Todays Alignment + Fiala/Kopitar/Kempe reunited, Moverare on Debut, Roster Moves]] |
+| 2022-11-26 | [[Pro Hockey Rumors]]   | [[Kings Assign Lias Andersson And Jacob Moverare To The AHL]]                                                                                          |
+| 2022-11-26 | [[Kings at NHL.com]]    | [[LA Kings Loan Two Players to Ontario Reign]]                                                                                                         |
+| 2022-11-26 | [[LA Kings Insider]]    | [[Updates - Andersson, Moverare Loaned, Kings Injury Latest, Thomas, Doty headed for surgery]]                                                         |
+| 2022-11-22 | [[Mayors Manor]]        | [[Projected Lineups - LA Kings vs New York Rangers, Home Sweet Home]]                                                                                  |
+| 2022-11-21 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Recall Three Players From AHL]]                                                                                                    |
+| 2022-11-21 | [[LA Kings Insider]]    | [[11-21 Practice – Todays Alignment + Fiala/Kopitar/Kempe reunited, Moverare on Debut, Roster Moves]]                                                  |
 | 2022-11-20 | [[Hockey Royalty]]      | [[Los Angeles Kings Loan Three Players To AHL]]                                                                                                        |
 | 2022-11-20 | [[Mayors Manor]]        | [[Rapid Review - Highlights and Notes from Kings OT Loss to Kraken]]                                                                                   |
 | 2022-11-19 | [[LA Hockey Now]]       | [[Kings End Road Trip With 3-2 Overtime Loss Against Kraken]]                                                                                          |
@@ -43,7 +46,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 | 2022-10-28 | [[Hockey Royalty]]      | [[LA Kings - Takeaways from the teams 6-4 loss to Winnipeg]]                                                                                           |
 | 2022-10-24 | [[Hockey Royalty]]      | [[LA Kings After 7 Games - Its Something We Know We Need To Fix]]                                                                                      |
 | 2022-10-23 | [[Pro Hockey Rumors]]   | [[Alex Iafallo Moved To LTIR, Austin Wagner Recalled]]                                                                                                 |
-| 2022-10-23 | [[LA Kings Insider]]    | [[Sunday Roster Moves - Iafallo to LTIR plus Moverare-Wagner Exchange - LA Kings Insider]]                                                                |
+| 2022-10-23 | [[LA Kings Insider]]    | [[Sunday Roster Moves - Iafallo to LTIR plus Moverare-Wagner Exchange - LA Kings Insider]]                                                             |
 | 2022-10-22 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings at Washington Capitals, Game 7]]                                                                                         |
 | 2022-10-21 | [[Hockey Royalty]]      | [[LA Kings at Washington Capitals projected lineups, betting preview]]                                                                                 |
 | 2022-10-20 | [[Hockey Royalty]]      | [[LA Kings at Pittsburgh Penguins projected lineups, betting preview]]                                                                                 |
@@ -62,6 +65,8 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## Minor League Coverage
 | Date       | Site                    | Title                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------- |
+| 2022-11-26 | [[Mayors Manor]] | [[Ontario Reign Projected Lineup vs Tucson Roadrunners - Clarkes Last Stand]] |
+| 2022-11-26 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 1, Roadrunners 3 – Sturm, Dudas, Clarke]] |
 | 2022-10-26 | [[Mayors Manor]] | [[Ontario Reign - Projected Lineup at San Jose Barracuda on Wednesday]]                                                                                                   |
 | 2022-10-18 | [[Mayors Manor]] | [[Ontario Reign - Projected Lineup vs Henderson Silver Knights on Tuesday]]                                                                                                       |
 

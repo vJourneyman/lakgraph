@@ -27,6 +27,7 @@ status: stable
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                             |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------------- |
+| 2022-11-26 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Tucson, 11-26]] |
 | 2022-11-23 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs San Jose, 11-23]] |
 | 2022-11-22 | [[Hockey Royalty]] | [[Ontario Reign - Three stars of the week – 11-14 to 11-20]] |
 | 2022-11-20 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 3-1 loss to Henderson]]                                    |
