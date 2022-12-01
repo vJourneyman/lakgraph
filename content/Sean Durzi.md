@@ -21,6 +21,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                  |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-27 | [[LA Kings Insider]]    | [[11-27 Preview – Todays Rushes + PP Puck Movement, Anderson on Activation, Roster Moves]]                                                             |
 | 2022-11-26 | [[Mayors Manor]]        | [[Rapid Review - Notes and Highlights of Five Kings Scoring vs Sharks in LA Victory]]                                                                  |
 | 2022-11-26 | [[The Forum Report]]    | [[Playmaking Chart - November 25 at San Jose]]                                                                                                         |
 | 2022-11-26 | [[LA Kings Insider]]    | [[Angeles Analysis – Black on Black Friday]]                                                                                                           |

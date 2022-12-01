@@ -36,5 +36,5 @@ status: stable
 ## Notes and Quotes
 - Madden scores the Reign’s lone goal
 - Free Fallin’?
-- [[Brant Clarke]]
+- [[Brandt Clarke]]
 

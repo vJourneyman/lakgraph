@@ -21,6 +21,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                  |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-27 | [[The Forum Report]] | [[Clarke, Andersson, Allard up, but Moverare absence raises questions - quick LAK-OTT preview]] |
 | 2022-11-26 | [[Pro Hockey Rumors]]   | [[Kings Assign Lias Andersson And Jacob Moverare To The AHL]]                                                                                          |
 | 2022-11-26 | [[Kings at NHL.com]]    | [[LA Kings Loan Two Players to Ontario Reign]]                                                                                                         |
 | 2022-11-26 | [[LA Kings Insider]]    | [[Updates - Andersson, Moverare Loaned, Kings Injury Latest, Thomas, Doty headed for surgery]]                                                         |
@@ -75,7 +76,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## Post-Draft Coverage
 | Date       | Site                | Title                                                                                                                                                            |
 | ---------- | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2016-07-05 | [[mayorsmanor.com]] | [[Yannetti on 17-year-old Jacob Moverare, Kings 2016 Draft Pick]](https://mayorsmanor.com/2016/07/yannetti-on-17-year-old-jacob-moverare-kings-2016-draft-pick/) |
+| 2016-07-05 | [[Mayors Manor]] | [[Yannetti on 17-year-old Jacob Moverare, Kings 2016 Draft Pick]](https://mayorsmanor.com/2016/07/yannetti-on-17-year-old-jacob-moverare-kings-2016-draft-pick/) |
 
 
 ## Pre-Draft Coverage

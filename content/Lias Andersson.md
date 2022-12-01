@@ -22,6 +22,11 @@ Lias Andersson | 17 | C | L | 6' 1" | 183 | 1998-10-13 | Smogen, SWE | 2017 NYR,
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                |
 | ---------- | --------------------- | ---------------------------------------------------------------------------------------------------- |
+| 2022-11-27 | [[Pro Hockey Rumors]] | [[Los Angeles Kings Recall Lias Andersson, Brandt Clarke, Frederic Allard]] |
+| 2022-11-27 | [[LA Hockey Now]] | [[Two Kaliyev Goals Earn Kings a Point in Overtime Loss to Senators]] |
+| 2022-11-27 | [[Kings at NHL.com]] | [[LA Kings Recall Two Players from Ontario Reign]] |
+| 2022-11-27 | [[The Forum Report]] | [[Clarke, Andersson, Allard up, but Moverare absence raises questions - quick LAK-OTT preview]] |
+| 2022-11-27 | [[LA Kings Insider]] | [[11-27 Preview – Todays Rushes + PP Puck Movement, Anderson on Activation, Roster Moves]] |
 | 2022-11-26 | [[Pro Hockey Rumors]] | [[Kings Assign Lias Andersson And Jacob Moverare To The AHL]] |
 | 2022-11-26 | [[Kings at NHL.com]] | [[LA Kings Loan Two Players to Ontario Reign]] |
 | 2022-11-26 | [[LA Kings Insider]] | [[Updates - Andersson, Moverare Loaned, Kings Injury Latest, Thomas, Doty headed for surgery]] |

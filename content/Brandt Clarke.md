@@ -21,8 +21,13 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-22 | [[The Athletic]] | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]] |
-| 2022-11-14 | [[Hockey Royalty]] | [[Ontario Reign - Three stars of the week 11-7 to 11-13]] |
+| 2022-11-27 | [[Pro Hockey Rumors]] | [[Los Angeles Kings Recall Lias Andersson, Brandt Clarke, Frederic Allard]] |
+| 2022-11-27 | [[Kings at NHL.com]] | [[LA Kings Recall Two Players from Ontario Reign]] |
+| 2022-11-27 | [[Mayors Manor]]        | [[Upcoming Plan for Kings Rookie D-man Brandt Clarke]]                                                                                              |
+| 2022-11-27 | [[The Forum Report]]    | [[Clarke, Andersson, Allard up, but Moverare absence raises questions - quick LAK-OTT preview]]                                                     |
+| 2022-11-27 | [[LA Kings Insider]]    | [[11-27 Preview – Todays Rushes + PP Puck Movement, Anderson on Activation, Roster Moves]]                                                          |
+| 2022-11-22 | [[The Athletic]]        | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]]                                                                           |
+| 2022-11-14 | [[Hockey Royalty]]      | [[Ontario Reign - Three stars of the week 11-7 to 11-13]]                                                                                           |
 | 2022-11-13 | [[Field Level Media]]   | [[Kings place F Brendan Lemieux (lower body) on IR]]                                                                                                |
 | 2022-11-13 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Place Brendan Lemieux On IR - Recall Jacob Moverare, Lias Andersson]]                                                           |
 | 2022-11-13 | [[Hockey Royalty]]      | [[LA Kings make several roster transactions Sunday]]                                                                                                |
@@ -49,7 +54,7 @@ priority: high
 | 2022-11-01 | [[Defending Big D]]     | [[Questions Face Stars Leading into Matchup with Kings]]                                                                                            |
 | 2022-11-01 | [[Hockey Royalty]]      | [[LA Kings at Dallas Stars projected lineup, betting preview]]                                                                                      |
 | 2022-11-01 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings at Dallas Stars on Tuesday]]                                                                                          |
-| 2022-11-01 | [[LA Kings Insider]]    | [[11-1 Preview - No Morning Skate in Dallas plus McLellan on Fiala, Doughty-Anderson Pairing, The Big 100 - LA Kings Insider]]                         |
+| 2022-11-01 | [[LA Kings Insider]]    | [[11-1 Preview - No Morning Skate in Dallas plus McLellan on Fiala, Doughty-Anderson Pairing, The Big 100 - LA Kings Insider]]                      |
 | 2022-10-31 | [[Hockey Royalty]]      | [[LA Kings at St Louis Blues projected lineup, betting preview]]                                                                                    |
 | 2022-10-31 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings at St Louis Blues, Plus Byfield Update]]                                                                              |
 | 2022-10-29 | [[LA Daily News]]       | [[Kings goalie Cal Petersen starts in victory over Toronto]]                                                                                        |
@@ -130,7 +135,8 @@ priority: high
 ## Minor League Coverage
 | Date       | Site                  | Title                                                                                                                                        |
 | ---------- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-26 | [[Mayors Manor]] | [[Ontario Reign Projected Lineup vs Tucson Roadrunners - Clarkes Last Stand]] |
+| 2022-11-27 | [[Mayors Manor]]      | [[Reign Recap - Ontario Flat Against Tucson, Drop Opener of Weekend Series]]                                                                 |
+| 2022-11-26 | [[Mayors Manor]]      | [[Ontario Reign Projected Lineup vs Tucson Roadrunners - Clarkes Last Stand]]                                                                |
 | 2022-11-26 | [[Mayors Manor]]      | [[One Game Left - Clarke Talks Greene, ODonnell, and Ontario Reign Experience]]                                                              |
 | 2022-11-26 | [[LA Kings Insider]]  | [[REIGN FINAL – Reign 1, Roadrunners 3 – Sturm, Dudas, Clarke]]                                                                              |
 | 2022-11-23 | [[Hockey Royalty]]    | [[Ontario Reign - How are the defensemen prospects doing]]                                                                                   |

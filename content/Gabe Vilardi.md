@@ -22,6 +22,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                  |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-27 | [[The Fourth Period]]   | [[LAK AT 23 - YOU NEVER KNOW ]]                                                                                                                        |
 | 2022-11-25 | [[The Athletic]]        | [[NHL Power Rankings - 32 stats One for every team]]                                                                                                   |
 | 2022-11-23 | [[Hockey Royalty]]      | [[Takeaways - LA Kings 3, NY Rangers 5 – ‘Our game matched our year]]                                                                                  |
 | 2022-11-23 | [[Mayors Manor]]        | [[Rapid Review - Notes and Highlights of Kings Come-From-Ahead Loss to Rangers]]                                                                       |

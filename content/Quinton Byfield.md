@@ -97,6 +97,7 @@ priority: high
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                                                                        |
 | ---------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-27 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 4, Roadrunners 3 – Sturm, Byfield]] |
 | 2022-11-26 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Tucson, 11-26]] |
 | 2022-11-25 | [[Mayors Manor]]     | [[Tyler Madden on Turcotte, Byfield, and the Magic They Create]]                                                                             |
 | 2022-11-24 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 5-1 win against San Jose]]                                                                            |

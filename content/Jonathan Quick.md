@@ -21,6 +21,8 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                 |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-27 | [[LA Hockey Now]] | [[Two Kaliyev Goals Earn Kings a Point in Overtime Loss to Senators]] |
+| 2022-11-27 | [[The Forum Report]] | [[Clarke, Andersson, Allard up, but Moverare absence raises questions - quick LAK-OTT preview]] |
 | 2022-11-26 | [[The Hockey Writers]]  | [[NHL Rumors - Rangers, Kings, Blackhawks, Panthers]]                                                                                                 |
 | 2022-11-26 | [[Pro Hockey Rumors]]   | [[Kings Havent Started Extension Talks With Jonathan Quick]]                                                                                          |
 | 2022-11-25 | [[LA Hockey Now]]       | [[Kings Bounce Back With 5-2 Win Over Sharks]]                                                                                                        |

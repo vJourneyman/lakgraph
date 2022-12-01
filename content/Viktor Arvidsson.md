@@ -19,12 +19,14 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                           |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-26 | [[Hockey Royalty]] | [[Takeaways - LA Kings 5, SJ Sharks 2- ‘Much needed win]] |
-| 2022-11-25 | [[The Athletic]] | [[How LA Kings key second line is complete with healthy Viktor Arvidsson]] |
-| 2022-11-25 | [[LA Kings Insider]] | [[FINAL – Kings 5, Sharks 2 – Arvidsson, Anderson-Dolan, McLellan]] |
-| 2022-11-22 | [[LA Daily News]] | [[Kings home winning streak ends as Rangers rally]] |
-| 2022-11-22 | [[The Athletic]] | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]] |
-| 2022-11-20 | [[Mayors Manor]] | [[Rapid Review - Highlights and Notes from Kings OT Loss to Kraken]] |
+| 2022-11-27 | [[LA Daily News]]       | [[Kings fall in overtime against Senators]]                                                                                                                     |
+| 2022-11-27 | [[LA Kings Insider]]    | [[11-27 Preview – Todays Rushes + PP Puck Movement, Anderson on Activation, Roster Moves]]                                                                      |
+| 2022-11-26 | [[Hockey Royalty]]      | [[Takeaways - LA Kings 5, SJ Sharks 2- ‘Much needed win]]                                                                                                       |
+| 2022-11-25 | [[The Athletic]]        | [[How LA Kings key second line is complete with healthy Viktor Arvidsson]]                                                                                      |
+| 2022-11-25 | [[LA Kings Insider]]    | [[FINAL – Kings 5, Sharks 2 – Arvidsson, Anderson-Dolan, McLellan]]                                                                                             |
+| 2022-11-22 | [[LA Daily News]]       | [[Kings home winning streak ends as Rangers rally]]                                                                                                             |
+| 2022-11-22 | [[The Athletic]]        | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]]                                                                                       |
+| 2022-11-20 | [[Mayors Manor]]        | [[Rapid Review - Highlights and Notes from Kings OT Loss to Kraken]]                                                                                            |
 | 2022-11-18 | [[Puck Prose]]          | [[Trevor Moores hat trick powers a Los Angeles Kings victory]]                                                                                                  |
 | 2022-11-18 | [[LA Kings Insider]]    | [[11-18 Preview – Full-Team Skate in VAN + Playing “Kings Hockey”, Shot Blocking and Edler talks HOF]]                                                          |
 | 2022-11-17 | [[Mayors Manor]]        | [[Rapid Review - Highlights and Notes from Kings Scoring Moore than Oilers]]                                                                                    |

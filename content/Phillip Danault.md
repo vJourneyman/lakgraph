@@ -22,8 +22,9 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                 |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-25 | [[The Athletic]] | [[How LA Kings key second line is complete with healthy Viktor Arvidsson]] |
-| 2022-11-22 | [[The Athletic]] | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]] |
+| 2022-11-27 | [[LA Daily News]]       | [[Kings fall in overtime against Senators]]                                                                                           |
+| 2022-11-25 | [[The Athletic]]        | [[How LA Kings key second line is complete with healthy Viktor Arvidsson]]                                                            |
+| 2022-11-22 | [[The Athletic]]        | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]]                                                             |
 | 2022-11-20 | [[Hockey Royalty]]      | [[Takeaways - Seattle 3, LA Kings 2 OT – A Point Salvaged]]                                                                           |
 | 2022-11-20 | [[The Forum Report]]    | [[Playmaking Chart - November 19 at Seattle]]                                                                                         |
 | 2022-11-19 | [[Kings at NHL.com]]    | [[Eberles OT goal gives Kraken win against Kings]]                                                                                    |
