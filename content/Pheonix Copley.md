@@ -28,6 +28,7 @@ status: stable
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                              |
 | ---------- | -------------------- | ---------------------------------------------------------------------------------- |
+| 2022-11-24 | [[Hockey Royalty]]                | [[Ontario Reign - Three takeaways from 5-1 win against San Jose]]                                                                                                                                                                                                                                                              |
 | 2022-11-22 | [[Hockey Royalty]] | [[Ontario Reign - Three stars of the week – 11-14 to 11-20]] |
 | 2022-11-21 | [[Hockey Royalty]] | [[Takeaways - Ontario Reign 3, Henderson 2 – Finally]] |
 | 2022-11-20 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 3, Silver Knights 2 – Sturm, Copley, Clarke]] |

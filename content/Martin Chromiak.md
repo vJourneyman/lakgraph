@@ -27,6 +27,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## Minor League Coverage
 | Date       | Site                         | Title                                                                                         |
 | ---------- | ---------------------------- | --------------------------------------------------------------------------------------------- |
+| 2022-11-24 | [[Hockey Royalty]]                | [[Ontario Reign - Three takeaways from 5-1 win against San Jose]]                                                                                                                                                                                                                                                              |
 | 2022-11-20 | [[Mayors Manor]]             | [[Reign Recap - Ontario Loses Front End of Home-and-Home Weekend vs Silver Knights]]          |
 | 2022-11-14 | [[Hockey Royalty]]           | [[Ontario Reign - Three stars of the week 11-7 to 11-13]]                                     |
 | 2022-11-13 | [[Mayors Manor]]             | [[Ontario Reign Projected Lineup vs San Diego - Brandt Clarke Debut Among Myriad of Changes]] |

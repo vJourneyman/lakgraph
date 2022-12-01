@@ -22,6 +22,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                                           |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-24 | [[The Forum Report]] | [[Playmaking Chart - November 22 vs New York]] |
 | 2022-11-22 | [[The Athletic]] | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]] |
 | 2022-11-19 | [[The Forum Report]] | [[Playmaking Chart - November 18 at Vancouver]] |
 | 2022-11-10 | [[ESPN]]             | [[They make you feel like you belong - How Drew Doughty and Anze Kopitar have shaped the Kings]]                                |

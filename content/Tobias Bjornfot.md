@@ -34,6 +34,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                               |
 | ---------- | -------------------- | ----------------------------------------------------------------------------------- |
+| 2022-11-24 | [[Hockey Royalty]]                | [[Ontario Reign - Three takeaways from 5-1 win against San Jose]]                                                                                                                                                                                                                                                              |
 | 2022-11-23 | [[Hockey Royalty]] | [[Ontario Reign - How are the defensemen prospects doing]] |
 | 2022-11-11 | [[The AHL]]          | [[Weekend notebook - Reign loaded again with young stars]]                          |
 | 2022-11-05 | [[Mayors Manor]]     | [[Ontario Reign - Projected Lineup for Rematch in Colorado - Plus Bjornfot Update]] |

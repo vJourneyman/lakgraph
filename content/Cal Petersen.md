@@ -20,6 +20,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                           |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-24 | [[Hockey Royalty]] | [[The LA Kings are in need of a change]] |
 | 2022-11-23 | [[Hockey Royalty]]      | [[Takeaways - LA Kings 3, NY Rangers 5 – ‘Our game matched our year]]                                                                                           |
 | 2022-11-23 | [[The Forum Report]]    | [[Waking up with the Kings - November 23]]                                                                                                                      |
 | 2022-11-23 | [[The Forum Report]]    | [[McLellan confident in Petersen, but as team save percentage drops to 31st, concern grows - reunited with Kopitar and Kempe, Fiala erupts]]                    |

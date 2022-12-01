@@ -95,26 +95,28 @@ priority: high
 
 
 ## Minor League Coverage
-| Date       | Site                 | Title                                                                                             |     |
-| ---------- | -------------------- | ------------------------------------------------------------------------------------------------- | --- |
+| Date       | Site                 | Title                                                                                                                                        |
+| ---------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-24 | [[Hockey Royalty]]                | [[Ontario Reign - Three takeaways from 5-1 win against San Jose]]                                                                                                                                                                                                                                                              |
+| 2022-11-24 | [[Mayors Manor]]     | [[Reign Recap - Ontario def San Jose, Pair of Kings Prospects Shine]]                                                                        |
 | 2022-11-22 | [[The Forum Report]] | [[Patience, process emphasized as key prospects gain repetitions in Ontario – including Byfield, who missed time with Covid, per his coach]] |
-| 2022-11-20 | [[Mayors Manor]]     | [[Reign Recap - Clarke and Byfield Score, Get Ontario Back to Their Winning Ways]]                |     |
-| 2022-11-20 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup vs Henderson Silver Knights - Searching For Answers]]            |     |
-| 2022-11-20 | [[Mayors Manor]]     | [[Reign Recap - Ontario Loses Front End of Home-and-Home Weekend vs Silver Knights]]              |     |
-| 2022-11-20 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 3, Silver Knights 2 – Sturm, Copley, Clarke]]                               |     |
-| 2022-11-19 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup at Henderson Silver Knights - More Changes Expected]]            |     |
-| 2022-11-14 | [[Hockey Royalty]]   | [[Ontario Reign - Three stars of the week 11-7 to 11-13]]                                         |     |
-| 2022-11-13 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 3-1 loss to Bakersfield]]                                  |     |
-| 2022-11-13 | [[Mayors Manor]]     | [[Reign Recap - Concerns Mounting as Ontario Drops Fourth Straight]]                              |     |
-| 2022-11-13 | [[Mayors Manor]]     | [[Reign Recap - Byfield Scores, Ontario Comes Up Short in Bakersfield]]                           |     |
-| 2022-11-13 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 1, Gulls 4 – Sturm, Turcotte, Clarke]]                                      |     |
-| 2022-11-13 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs San Diego, 11-13]]                                                   |     |
-| 2022-11-12 | [[Mayors Manor]]     | [[Ontario Reign - Projected Lineup at Bakersfield - Plus Notes on Spence, Turcotte, and Byfield]] |     |
-| 2022-11-12 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 1, Condors 3 – Marco Sturm]]                                                |     |
-| 2022-11-11 | [[The AHL]]          | [[Weekend notebook - Reign loaded again with young stars]]                                        |     |
-| 2022-11-11 | [[Hockey Royalty]]   | [[Takeaways - Ontario Reign 3, San Jose Barracuda 4]]                                             |     |
-| 2022-11-11 | [[Mayors Manor]]     | [[Reign Recap - Revamped Lineup Comes Up Short in Shootout Loss at San Jose]]                     |     |
-| 2022-11-10 | [[Mayors Manor]]   | [[Ontario Reign - Projected Lineup at San Jose - With Trio of Top Kings Prospects Returning]] |     |
+| 2022-11-20 | [[Mayors Manor]]     | [[Reign Recap - Clarke and Byfield Score, Get Ontario Back to Their Winning Ways]]                                                           |
+| 2022-11-20 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup vs Henderson Silver Knights - Searching For Answers]]                                                       |
+| 2022-11-20 | [[Mayors Manor]]     | [[Reign Recap - Ontario Loses Front End of Home-and-Home Weekend vs Silver Knights]]                                                         |
+| 2022-11-20 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 3, Silver Knights 2 – Sturm, Copley, Clarke]]                                                                          |
+| 2022-11-19 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup at Henderson Silver Knights - More Changes Expected]]                                                       |
+| 2022-11-14 | [[Hockey Royalty]]   | [[Ontario Reign - Three stars of the week 11-7 to 11-13]]                                                                                    |
+| 2022-11-13 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 3-1 loss to Bakersfield]]                                                                             |
+| 2022-11-13 | [[Mayors Manor]]     | [[Reign Recap - Concerns Mounting as Ontario Drops Fourth Straight]]                                                                         |
+| 2022-11-13 | [[Mayors Manor]]     | [[Reign Recap - Byfield Scores, Ontario Comes Up Short in Bakersfield]]                                                                      |
+| 2022-11-13 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 1, Gulls 4 – Sturm, Turcotte, Clarke]]                                                                                 |
+| 2022-11-13 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs San Diego, 11-13]]                                                                                              |
+| 2022-11-12 | [[Mayors Manor]]     | [[Ontario Reign - Projected Lineup at Bakersfield - Plus Notes on Spence, Turcotte, and Byfield]]                                            |
+| 2022-11-12 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 1, Condors 3 – Marco Sturm]]                                                                                           |
+| 2022-11-11 | [[The AHL]]          | [[Weekend notebook - Reign loaded again with young stars]]                                                                                   |
+| 2022-11-11 | [[Hockey Royalty]]   | [[Takeaways - Ontario Reign 3, San Jose Barracuda 4]]                                                                                        |
+| 2022-11-11 | [[Mayors Manor]]     | [[Reign Recap - Revamped Lineup Comes Up Short in Shootout Loss at San Jose]]                                                                |
+| 2022-11-10 | [[Mayors Manor]]     | [[Ontario Reign - Projected Lineup at San Jose - With Trio of Top Kings Prospects Returning]]                                                |
 
 
 ## Post-Draft Coverage

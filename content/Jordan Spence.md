@@ -32,9 +32,11 @@ Jordan Spence | 58 | D | R | 5' 10" | 180 | 2001-02-24 | Manly, AUS | -   2019 L
 ## Minor League Coverage
 | Date       | Site                    | Title                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------- |
-| 2022-11-23 | [[Hockey Royalty]] | [[Ontario Reign - How are the defensemen prospects doing]] |
-| 2022-11-23 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 5, Barracuda 1 – Sturm, Spence, Madden]] |
-| 2022-11-23 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs San Jose, 11-23]] |
+| 2022-11-24 | [[Hockey Royalty]]                | [[Ontario Reign - Three takeaways from 5-1 win against San Jose]]                                                                                                                                                                                                                                                              |
+| 2022-11-24 | [[Mayors Manor]]        | [[Reign Recap - Ontario def San Jose, Pair of Kings Prospects Shine]]                               |
+| 2022-11-23 | [[Hockey Royalty]]      | [[Ontario Reign - How are the defensemen prospects doing]]                                          |
+| 2022-11-23 | [[LA Kings Insider]]    | [[REIGN FINAL – Reign 5, Barracuda 1 – Sturm, Spence, Madden]]                                      |
+| 2022-11-23 | [[LA Kings Insider]]    | [[REIGN PREVIEW – Ontario vs San Jose, 11-23]]                                                      |
 | 2022-11-20 | [[Mayors Manor]]        | [[Reign Recap - Clarke and Byfield Score, Get Ontario Back to Their Winning Ways]]                  |
 | 2022-11-20 | [[LA Kings Insider]]    | [[REIGN PREVIEW – Ontario vs Henderson, 11-20]]                                                     |
 | 2022-11-19 | [[LA Kings Insider]]    | [[REIGN PREVIEW – Ontario at Henderson, 11-19]]                                                     |

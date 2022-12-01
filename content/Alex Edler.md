@@ -20,6 +20,8 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-24 | [[Hockey Royalty]] | [[The LA Kings are in need of a change]] |
+| 2022-11-24 | [[The Forum Report]] | [[Playmaking Chart - November 22 vs New York]] |
 | 2022-11-22 | [[The Athletic]] | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]] |
 | 2022-11-22 | [[LA Kings Insider]]    | [[FINAL – Kings 3, Rangers 5 – Fiala, Edler, McLellan]]                                                                                             |
 | 2022-11-21 | [[LA Daily News]]       | [[Kings return home to face star-studded Rangers]]                                                                                                  |
