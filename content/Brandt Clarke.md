@@ -64,7 +64,7 @@ priority: high
 | 2022-10-28 | [[Hockey Royalty]]      | [[LA Kings - 2022-23 prospect rankings, the top five]]                                                                                              |
 | 2022-10-28 | [[The Forum Report]]    | [[Playmaking Chart - 10-27 vs WPG]]                                                                                                                 |
 | 2022-10-28 | [[The Forum Report]]    | [[Byfield out Saturday - Todd on the Clarke decision - can the LA defense play physically enough]]                                                  |
-| 2022-10-28 | [[LA Kings Insider]]    | [[The Lines They Are A-Changing......Kings display new look heading into tomorrows game - LA Kings Insider]]                                        |
+| 2022-10-28 | [[LA Kings Insider]]    | [[The Lines They Are A-Changing - Kings display new look heading into tomorrows game - LA Kings Insider]]                                        |
 | 2022-10-26 | [[Field Level Media]]   | [[Things looking up for Kings ahead of Jets matchup]]                                                                                               |
 | 2022-10-26 | [[LA Daily News]]       | [[Kings host Winnipeg as Brandt Clarke watch continues]]                                                                                            |
 | 2022-10-26 | [[Hockey Royalty]]      | [[LA Kings - Takeaways from the teams 4-2 win against the Lightning]]                                                                               |

@@ -1,5 +1,5 @@
 ---
-title: "The Lines They Are A-Changing......Kings display new look heading into tomorrows game - LA Kings Insider"
+title: "The Lines They Are A-Changing - Kings display new look heading into tomorrows game - LA Kings Insider"
 date-created: 2022-10-31
 day-of-week-created: Mon
 date-updated: 
@@ -8,12 +8,11 @@ tags: [NewsPost]
 status: stable
 ---
 
-# The Lines They Are A-Changing......Kings display new look heading into tomorrows game - LA Kings Insider
+# The Lines They Are A-Changing - Kings display new look heading into tomorrows game - LA Kings Insider
 
-| Date       | Site                 | Link                                                                                                                                                                                                                                |
+| Date       | Site                 | External Link                                                                                                                                                                                                                       |
 | ---------- | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2022-10-28 | [[LA Kings Insider]] | [The Lines They Are A-Changing......Kings display new look heading into tomorrows game - LA Kings Insider](https://lakingsinsider.com/2022/10/28/the-lines-they-are-a-changing-kings-display-new-look-heading-into-tomorrows-game/) |
-| 2022-10-28 | [[LA Kings Insider]] | [[The Lines They Are A-Changing......Kings display new look heading into tomorrows game - LA Kings Insider]]                                                                                                                        |
 
 ## Contributors
 - [[Zach Dooley]]
@@ -23,6 +22,9 @@ status: stable
 > The t̶i̶m̶e̶s̶ lines, they are a-changing, Insiders.
 > If last night’s promotion was Grateful Dead night as the Kings hosted Winnipeg then consider this morning’s practice to be Bob Dylan Day. Changes were certainly alluded during yesterday’s post-game press conference and we certainly got a few this morning as the Kings prepare to host Toronto tomorrow evening.
 
+| Date       | Site                 | Title / Internal Link                                                                                     |
+| ---------- | -------------------- | --------------------------------------------------------------------------------------------------------- |
+| 2022-10-28 | [[LA Kings Insider]] | [[The Lines They Are A-Changing - Kings display new look heading into tomorrows game - LA Kings Insider]] |
 
 ## Players
 - [[Brandt Clarke]]

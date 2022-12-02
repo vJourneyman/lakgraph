@@ -92,7 +92,7 @@ status: stable
 | 2022-10-29 | [[LA Daily News]]       | [[Kings goalie Cal Petersen starts in victory over Toronto]]                                                                                          |
 | 2022-10-28 | [[The Athletic]]        | [[NHL Power Rankings - Bruins climb to the top, Canucks stumble to bottom]]                                                                           |
 | 2022-10-28 | [[The Forum Report]]    | [[Waking up with the Kings - October 28]]                                                                                                             |
-| 2022-10-27 | [[Action Network]]      | [[NHL Odds, Preview, Prediction - Jets vs. Kings (October 27)]]                                                                                       |
+| 2022-10-27 | [[Action Network]]      | [[NHL Odds, Preview, Prediction - Jets vs Kings (October 27)]]                                                                                       |
 | 2022-10-27 | [[Hockey Royalty]]      | [[LA Kings vs Winnipeg Jets projected lineups, betting preview]]                                                                                      |
 | 2022-10-26 | [[The Athletic]]        | [[LA Kings are showing signs of heading back in the right direction]]                                                                                 |
 | 2022-10-25 | [[The Hockey News]]     | [[Los Angeles Kings Goaltending Must Tighten Up To Win A Playoff Round]]                                                                              |

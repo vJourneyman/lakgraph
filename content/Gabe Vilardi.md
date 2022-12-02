@@ -111,7 +111,7 @@ priority: high
 | 2022-10-28 | [[Hockey Royalty]]      | [[LA Kings - Takeaways from the teams 6-4 loss to Winnipeg]]                                                                                           |
 | 2022-10-28 | [[Mayors Manor]]        | [[Rapid Review - Highlights from Kings Roller Coster Ride vs Winnipeg Jets]]                                                                           |
 | 2022-10-28 | [[The Forum Report]]    | [[Byfield out Saturday - Todd on the Clarke decision - can the LA defense play physically enough]]                                                     |
-| 2022-10-28 | [[LA Kings Insider]]    | [[The Lines They Are A-Changing......Kings display new look heading into tomorrows game - LA Kings Insider]]                                           |
+| 2022-10-28 | [[LA Kings Insider]]    | [[The Lines They Are A-Changing - Kings display new look heading into tomorrows game - LA Kings Insider]]                                           |
 | 2022-10-27 | [[Hockey Royalty]]      | [[LA Kings vs Winnipeg Jets projected lineups, betting preview]]                                                                                       |
 | 2022-10-27 | [[The Forum Report]]    | [[Loss a microcosm of early season play - former divisional foe understands McLellans push for structure, discipline]]                                 |
 | 2022-10-27 | [[LA Kings Insider]]    | [[FINAL - Kings 4, Jets 6 - Kopitar, McLellan - LA Kings Insider]]                                                                                     |

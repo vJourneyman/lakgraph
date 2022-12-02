@@ -80,7 +80,7 @@ status: stable
 | 2022-10-28 | [[Field Level Media]]  | [[Kings, Maple Leafs both motivated for bounce-back games]]                                                                                            |
 | 2022-10-28 | [[Hockey Royalty]]     | [[LA Kings - Takeaways from the teams 6-4 loss to Winnipeg]]                                                                                           |
 | 2022-10-28 | [[The Forum Report]]   | [[Waking up with the Kings - October 28]]                                                                                                              |
-| 2022-10-28 | [[LA Kings Insider]]   | [[The Lines They Are A-Changing......Kings display new look heading into tomorrows game - LA Kings Insider]]                                           |
+| 2022-10-28 | [[LA Kings Insider]]   | [[The Lines They Are A-Changing - Kings display new look heading into tomorrows game - LA Kings Insider]]                                           |
 | 2022-10-27 | [[LA Daily News]]      | [[Kings early lead fades away as Winnipeg hands them 3rd loss in 4 games]]                                                                             |
 | 2022-10-27 | [[The Hockey Writers]] | [[Los Angeles Kings Anze Kopitar - Hall of Fame Worthy]]                                                                                               |
 | 2022-10-27 | [[Kings at NHL.com]]   | [[Hellebuyck makes 40 saves, Jets rally past Kings]]                                                                                                   |
