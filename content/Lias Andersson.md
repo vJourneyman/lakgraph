@@ -22,6 +22,7 @@ Lias Andersson | 17 | C | L | 6' 1" | 183 | 1998-10-13 | Smogen, SWE | 2017 NYR,
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                 |
 | ---------- | --------------------- | ----------------------------------------------------------------------------------------------------- |
+| 2022-11-29 | [[LA Kings Insider]]  | [[Roster Moves - Kings recall Fagemo and Spence, assign Andersson to Ontairo]]                        |
 | 2022-11-28 | [[Kings at NHL.com]]  | [[The Week That Was, The Week That Is - 11-28]]                                                       |
 | 2022-11-28 | [[The Forum Report]]  | [[Playmaking Chart - November 27 vs Ottawa]]                                                          |
 | 2022-11-27 | [[Pro Hockey Rumors]] | [[Los Angeles Kings Recall Lias Andersson, Brandt Clarke, Frederic Allard]]                           |

@@ -22,6 +22,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                     |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-29 | [[The Forum Report]]    | [[Data Viz - What the playmaking charts tell us through the quarter(ish) pole]]                                                           |
 | 2022-11-27 | [[LA Hockey Now]]       | [[Kings vs Senators Game 24 - Lines, Notes and How to Watch]]                                                                             |
 | 2022-11-26 | [[The Forum Report]]    | [[Playmaking Chart - November 25 at San Jose]]                                                                                            |
 | 2022-11-25 | [[LA Hockey Now]]       | [[Kings Bounce Back With 5-2 Win Over Sharks]]                                                                                            |

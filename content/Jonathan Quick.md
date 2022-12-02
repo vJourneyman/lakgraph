@@ -21,9 +21,12 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                 |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-28 | [[ESPN]] | [[Grades for all 32 NHL teams at the quarter mark of 2022-23]] |
-| 2022-11-27 | [[LA Hockey Now]] | [[Two Kaliyev Goals Earn Kings a Point in Overtime Loss to Senators]] |
-| 2022-11-27 | [[The Forum Report]] | [[Clarke, Andersson, Allard up, but Moverare absence raises questions - quick LAK-OTT preview]] |
+| 2022-11-29 | [[LA Daily News]]       | [[Kraken edge Kings in highest-scoring NHL game of season]]                                                                                           |
+| 2022-11-29 | [[Kings at NHL.com]]    | [[Kraken recover for high-scoring OT victory against Kings]]                                                                                          |
+| 2022-11-29 | [[The Forum Report]]    | [[After historic, 17-goal overtime loss, McLellan describes “mass confusion right now for all of us” as season hinges on rectifying defensive woes]]  |
+| 2022-11-28 | [[ESPN]]                | [[Grades for all 32 NHL teams at the quarter mark of 2022-23]]                                                                                        |
+| 2022-11-27 | [[LA Hockey Now]]       | [[Two Kaliyev Goals Earn Kings a Point in Overtime Loss to Senators]]                                                                                 |
+| 2022-11-27 | [[The Forum Report]]    | [[Clarke, Andersson, Allard up, but Moverare absence raises questions - quick LAK-OTT preview]]                                                       |
 | 2022-11-26 | [[The Hockey Writers]]  | [[NHL Rumors - Rangers, Kings, Blackhawks, Panthers]]                                                                                                 |
 | 2022-11-26 | [[Pro Hockey Rumors]]   | [[Kings Havent Started Extension Talks With Jonathan Quick]]                                                                                          |
 | 2022-11-25 | [[LA Hockey Now]]       | [[Kings Bounce Back With 5-2 Win Over Sharks]]                                                                                                        |
@@ -92,7 +95,7 @@ status: stable
 | 2022-10-29 | [[LA Daily News]]       | [[Kings goalie Cal Petersen starts in victory over Toronto]]                                                                                          |
 | 2022-10-28 | [[The Athletic]]        | [[NHL Power Rankings - Bruins climb to the top, Canucks stumble to bottom]]                                                                           |
 | 2022-10-28 | [[The Forum Report]]    | [[Waking up with the Kings - October 28]]                                                                                                             |
-| 2022-10-27 | [[Action Network]]      | [[NHL Odds, Preview, Prediction - Jets vs Kings (October 27)]]                                                                                       |
+| 2022-10-27 | [[Action Network]]      | [[NHL Odds, Preview, Prediction - Jets vs Kings (October 27)]]                                                                                        |
 | 2022-10-27 | [[Hockey Royalty]]      | [[LA Kings vs Winnipeg Jets projected lineups, betting preview]]                                                                                      |
 | 2022-10-26 | [[The Athletic]]        | [[LA Kings are showing signs of heading back in the right direction]]                                                                                 |
 | 2022-10-25 | [[The Hockey News]]     | [[Los Angeles Kings Goaltending Must Tighten Up To Win A Playoff Round]]                                                                              |

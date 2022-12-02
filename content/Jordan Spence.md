@@ -20,12 +20,13 @@ Jordan Spence | 58 | D | R | 5' 10" | 180 | 2001-02-24 | Manly, AUS | -   2019 L
 
 
 ## NHL  Coverage
-| Date | Site | Title |
-| ---- | ---- | ----- |
-| 2022-10-23 | [[The Forum Report]] | [[Waking up with the Kings - October 23]]                                                                |
-| 2022-10-10 | [[LA Kings Insider]] | [[Kings Announce Opening-Night Roster and Roster Moves - LA Kings Insider]]
-| 2022-10-07 | [[LA Kings Insider]] | [[Day 15 Primer – The Finale + Roster Moves]]
-| 2022-09-26 | [[LA Kings Insider]] | [[9-26 Preview – Projected Lineup + Back-To-Back Thoughts, JADs Focus, Spence, Moverare debuts]]
+| Date       | Site                 | Title                                                                                            |
+| ---------- | -------------------- | ------------------------------------------------------------------------------------------------ |
+| 2022-11-29 | [[LA Kings Insider]] | [[Roster Moves - Kings recall Fagemo and Spence, assign Andersson to Ontairo]]                   |
+| 2022-10-23 | [[The Forum Report]] | [[Waking up with the Kings - October 23]]                                                        |
+| 2022-10-10 | [[LA Kings Insider]] | [[Kings Announce Opening-Night Roster and Roster Moves - LA Kings Insider]]                      |
+| 2022-10-07 | [[LA Kings Insider]] | [[Day 15 Primer – The Finale + Roster Moves]]                                                    |
+| 2022-09-26 | [[LA Kings Insider]] | [[9-26 Preview – Projected Lineup + Back-To-Back Thoughts, JADs Focus, Spence, Moverare debuts]] |
 
 
 

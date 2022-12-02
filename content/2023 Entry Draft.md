@@ -18,6 +18,7 @@ status: unstarted
 ## Unprocessed Coverage
 | Date | Site | Title |
 | ---- | ---- | ----- |
+| 2022-11-29 | [[The Hockey News]] | [[GAME TAPE WITH TONY: JAYDEN PERRON]](https://thehockeynews.com/video/game-tape-with-tony-featuring-jayden-perron) |
 | 2022-11-27 | [[The Hockey News]] | [[2023 NHL DRAFT STOCK WATCH - EARLY-SEASON RISERS AND FALLERS]](https://thehockeynews.com/news/2023-nhl-draft-stock-watch-early-season-risers-and-fallers) |
 | 2022-11-23 | [[The Hockey News]] | [[GAME TAPE WITH TONY - CONNOR BEDARD]](https://thehockeynews.com/video/game-tape-with-tony-featuring-connor-bedard) |
 | 2022-11-20 | [[The Hockey News]] | [[NHL 2023 DRAFT TEAM OF THE MONTH - ALL-SLEEPER SQUAD]](https://thehockeynews.com/news/nhl-2023-draft-team-of-the-month-all-sleeper-squad) |

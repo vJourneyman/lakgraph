@@ -20,8 +20,10 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                                  |
 | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-11-28 | [[LA Daily News]] | [[Kings welcome a shot at red-hot Kraken]] |
-| 2022-11-28 | [[The Forum Report]] | [[Playmaking Chart - November 27 vs Ottawa]] |
+| 2022-11-29 | [[The Forum Report]]   | [[After historic, 17-goal overtime loss, McLellan describes “mass confusion right now for all of us” as season hinges on rectifying defensive woes]]   |
+| 2022-11-29 | [[LA Kings Insider]]   | [[11-29 Preview – Vilardi “should be good to go” + Whats Kraken, Lizottes Impact, Holiday Ice]]                                                        |
+| 2022-11-28 | [[LA Daily News]]      | [[Kings welcome a shot at red-hot Kraken]]                                                                                                             |
+| 2022-11-28 | [[The Forum Report]]   | [[Playmaking Chart - November 27 vs Ottawa]]                                                                                                           |
 | 2022-11-28 | [[The Forum Report]]   | [[Waking Up with the Kings - November 28]]                                                                                                             |
 | 2022-11-24 | [[The Forum Report]]   | [[Playmaking Chart - November 22 vs New York]]                                                                                                         |
 | 2022-11-23 | [[LA Kings Insider]]   | [[11-23 Practice – Todays Alignment + Walkers Goal and Metrics, Top Line Produces, McLellan on SV%]]                                                   |
@@ -80,7 +82,7 @@ status: stable
 | 2022-10-28 | [[Field Level Media]]  | [[Kings, Maple Leafs both motivated for bounce-back games]]                                                                                            |
 | 2022-10-28 | [[Hockey Royalty]]     | [[LA Kings - Takeaways from the teams 6-4 loss to Winnipeg]]                                                                                           |
 | 2022-10-28 | [[The Forum Report]]   | [[Waking up with the Kings - October 28]]                                                                                                              |
-| 2022-10-28 | [[LA Kings Insider]]   | [[The Lines They Are A-Changing - Kings display new look heading into tomorrows game - LA Kings Insider]]                                           |
+| 2022-10-28 | [[LA Kings Insider]]   | [[The Lines They Are A-Changing - Kings display new look heading into tomorrows game - LA Kings Insider]]                                              |
 | 2022-10-27 | [[LA Daily News]]      | [[Kings early lead fades away as Winnipeg hands them 3rd loss in 4 games]]                                                                             |
 | 2022-10-27 | [[The Hockey Writers]] | [[Los Angeles Kings Anze Kopitar - Hall of Fame Worthy]]                                                                                               |
 | 2022-10-27 | [[Kings at NHL.com]]   | [[Hellebuyck makes 40 saves, Jets rally past Kings]]                                                                                                   |

@@ -22,8 +22,10 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                      |
 | ---------- | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-28 | [[The Forum Report]] | [[Playmaking Chart - November 27 vs Ottawa]] |
-| 2022-11-25 | [[The Athletic]] | [[How LA Kings key second line is complete with healthy Viktor Arvidsson]] |
+| 2022-11-29 | [[The Forum Report]] | [[After historic, 17-goal overtime loss, McLellan describes “mass confusion right now for all of us” as season hinges on rectifying defensive woes]] |
+| 2022-11-29 | [[LA Kings Insider]]    | [[FINAL – Kings 8, Kraken 9 (OT) – Danault, Kempe, McLellan]]                                                                                              |
+| 2022-11-28 | [[The Forum Report]]    | [[Playmaking Chart - November 27 vs Ottawa]]                                                                                                               |
+| 2022-11-25 | [[The Athletic]]        | [[How LA Kings key second line is complete with healthy Viktor Arvidsson]]                                                                                 |
 | 2022-11-22 | [[The Athletic]]        | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]]                                                                                  |
 | 2022-11-22 | [[LA Kings Insider]]    | [[11-22 Preview – Potential Alignment + Fiala talks comfort level, Penalties and Kill, Rushing Rangers]]                                                   |
 | 2022-11-21 | [[LA Kings Insider]]    | [[11-21 Practice – Todays Alignment + Fiala/Kopitar/Kempe reunited, Moverare on Debut, Roster Moves]]                                                      |

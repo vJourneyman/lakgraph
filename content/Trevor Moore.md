@@ -21,10 +21,11 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                                                           |
 | ---------- | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-28 | [[The Athletic]] | [[Kopitar and Doughty No, the Kings power play is being led by unusual suspects]] |
-| 2022-11-25 | [[The Athletic]] | [[How LA Kings key second line is complete with healthy Viktor Arvidsson]] |
-| 2022-11-25 | [[LA Kings Insider]] | [[11-25 Preview – Full Skate Today + Kings on Special Teams, Durzi on Return, McLellan on Holiday]] |
-| 2022-11-22 | [[The Athletic]] | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]] |
+| 2022-11-29 | [[The Forum Report]]  | [[Data Viz - What the playmaking charts tell us through the quarter(ish) pole]]                                                                                 |
+| 2022-11-28 | [[The Athletic]]      | [[Kopitar and Doughty No, the Kings power play is being led by unusual suspects]]                                                                               |
+| 2022-11-25 | [[The Athletic]]      | [[How LA Kings key second line is complete with healthy Viktor Arvidsson]]                                                                                      |
+| 2022-11-25 | [[LA Kings Insider]]  | [[11-25 Preview – Full Skate Today + Kings on Special Teams, Durzi on Return, McLellan on Holiday]]                                                             |
+| 2022-11-22 | [[The Athletic]]      | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]]                                                                                       |
 | 2022-11-21 | [[Hockey Royalty]]    | [[Week 7 Pacific Division Power Rankings]]                                                                                                                      |
 | 2022-11-20 | [[Hockey Royalty]]    | [[Takeaways - Seattle 3, LA Kings 2 OT – A Point Salvaged]]                                                                                                     |
 | 2022-11-20 | [[Mayors Manor]]      | [[Rapid Review - Highlights and Notes from Kings OT Loss to Kraken]]                                                                                            |
