@@ -20,6 +20,9 @@ status: UnprocessedContent
 ## NHL  Coverage
 | Date       | Site                            | Title                                                                                                                                                      |
 | ---------- | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-28 | [[LA Daily News]] | [[Kings welcome a shot at red-hot Kraken]] |
+| 2022-11-28 | [[Kings at NHL.com]]            | [[The Week That Was, The Week That Is - 11-28]]                                                                                                            |
+| 2022-11-28 | [[The Forum Report]]            | [[Playmaking Chart - November 27 vs Ottawa]]                                                                                                               |
 | 2022-11-27 | [[The Fourth Period]]           | [[LAK AT 23 - YOU NEVER KNOW ]]                                                                                                                            |
 | 2022-11-26 | [[The Athletic]]                | [[NHL style power rankings - ‘Gomez Addams, David Pastrnaks hat and the Bruins dominate]]                                                                  |
 | 2022-11-26 | [[The Forum Report]]            | [[Playmaking Chart - November 25 at San Jose]]                                                                                                             |

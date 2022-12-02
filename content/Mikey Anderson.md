@@ -22,6 +22,8 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                                           |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-28 | [[ESPN]] | [[Grades for all 32 NHL teams at the quarter mark of 2022-23]] |
+| 2022-11-28 | [[The Forum Report]] | [[Playmaking Chart - November 27 vs Ottawa]] |
 | 2022-11-27 | [[LA Kings Insider]] | [[11-27 Preview – Todays Rushes + PP Puck Movement, Anderson on Activation, Roster Moves]]                                      |
 | 2022-11-25 | [[LA Hockey Now]]    | [[Kings Bounce Back With 5-2 Win Over Sharks]]                                                                                  |
 | 2022-11-24 | [[The Forum Report]] | [[Playmaking Chart - November 22 vs New York]]                                                                                  |

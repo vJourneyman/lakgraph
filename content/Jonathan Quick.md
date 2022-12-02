@@ -21,6 +21,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                 |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-28 | [[ESPN]] | [[Grades for all 32 NHL teams at the quarter mark of 2022-23]] |
 | 2022-11-27 | [[LA Hockey Now]] | [[Two Kaliyev Goals Earn Kings a Point in Overtime Loss to Senators]] |
 | 2022-11-27 | [[The Forum Report]] | [[Clarke, Andersson, Allard up, but Moverare absence raises questions - quick LAK-OTT preview]] |
 | 2022-11-26 | [[The Hockey Writers]]  | [[NHL Rumors - Rangers, Kings, Blackhawks, Panthers]]                                                                                                 |

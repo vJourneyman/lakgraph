@@ -22,6 +22,12 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                  |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-28 | [[ESPN]] | [[Grades for all 32 NHL teams at the quarter mark of 2022-23]] |
+| 2022-11-28 | [[LA Daily News]] | [[Kings welcome a shot at red-hot Kraken]] |
+| 2022-11-28 | [[Hockey Royalty]]      | [[Week 8 Pacific Division Power Rankings]]                                                                                                             |
+| 2022-11-28 | [[The Forum Report]]    | [[Iafallo practices in noncontact jersey - Vilardi practices, but Tuesday availability unclear - Byfield update]]                                      |
+| 2022-11-28 | [[The Forum Report]]    | [[Dinged up since the Seattle game, Vilardi sits - despite scoring slump, Kempe likes what his line is generating - Kaliyev gains a step]]             |
+| 2022-11-28 | [[LA Kings Insider]]    | [[11-28 Practice – Vilardi and Iafallo Skate + Todays Alignment, Second Thoughts, Pinch Hitting]]                                                      |
 | 2022-11-27 | [[The Fourth Period]]   | [[LAK AT 23 - YOU NEVER KNOW ]]                                                                                                                        |
 | 2022-11-25 | [[The Athletic]]        | [[NHL Power Rankings - 32 stats One for every team]]                                                                                                   |
 | 2022-11-23 | [[Hockey Royalty]]      | [[Takeaways - LA Kings 3, NY Rangers 5 – ‘Our game matched our year]]                                                                                  |

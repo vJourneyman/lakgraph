@@ -21,6 +21,8 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                                                                      |
 | ---------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-28 | [[Kings at NHL.com]] | [[The Week That Was, The Week That Is - 11-28]]                                                                                                            |
+| 2022-11-28 | [[LA Kings Insider]] | [[11-28 Practice – Vilardi and Iafallo Skate + Todays Alignment, Second Thoughts, Pinch Hitting]]                                                          |
 | 2022-11-26 | [[LA Daily News]]    | [[Kings seek power surge with 4-game homestand]]                                                                                                           |
 | 2022-11-26 | [[Hockey Royalty]]   | [[Takeaways - LA Kings 5, SJ Sharks 2- ‘Much needed win]]                                                                                                  |
 | 2022-11-26 | [[Mayors Manor]]     | [[Rapid Review - Notes and Highlights of Five Kings Scoring vs Sharks in LA Victory]]                                                                      |

@@ -21,6 +21,8 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                                |
 | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-11-28 | [[The Forum Report]] | [[Iafallo practices in noncontact jersey - Vilardi practices, but Tuesday availability unclear - Byfield update]] |
+| 2022-11-28 | [[LA Kings Insider]]  | [[11-28 Practice – Vilardi and Iafallo Skate + Todays Alignment, Second Thoughts, Pinch Hitting]]                                    |
 | 2022-11-26 | [[Pro Hockey Rumors]] | [[Forward Notes - Iafallo, Howden, Balcers]]                                                                                         |
 | 2022-11-26 | [[LA Kings Insider]]  | [[Updates - Andersson, Moverare Loaned, Kings Injury Latest, Thomas, Doty headed for surgery]]                                       |
 | 2022-11-23 | [[The Forum Report]]  | [[Iafallo skating lightly - Durzi rejoins practice - how McLellan chooses road starting lineups]]                                    |

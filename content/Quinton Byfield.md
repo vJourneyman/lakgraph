@@ -22,7 +22,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-11-23 | [[Mayors Manor]] | [[Ontario Reign Projected Lineup vs San Jose Barracuda - Looking to Build Momentum]] |
+| 2022-11-23 | [[Mayors Manor]]        | [[Ontario Reign Projected Lineup vs San Jose Barracuda - Looking to Build Momentum]]                                                 |
 | 2022-11-23 | [[LA Kings Insider]]    | [[REIGN FINAL – Reign 5, Barracuda 1 – Sturm, Spence, Madden]]                                                                       |
 | 2022-11-22 | [[The Athletic]]        | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]]                                                            |
 | 2022-11-12 | [[The Forum Report]]    | [[Effective in a role not easily replicated, Lemieux “probably going to be out for a little while”]]                                 |
@@ -97,8 +97,11 @@ priority: high
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                                                                        |
 | ---------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-27 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 4, Roadrunners 3 – Sturm, Byfield]] |
-| 2022-11-26 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Tucson, 11-26]] |
+| 2022-11-28 | [[Hockey Royalty]]   | [[Takeaways from a 4-3 Ontario Reign win over the Roadrunners]]                                                                              |
+| 2022-11-28 | [[Mayors Manor]]     | [[Reign Recap - Byfield, Fagemo, Turcotte Lead Ontario to Sunday Victory]]                                                                   |
+| 2022-11-28 | [[The Forum Report]] | [[Iafallo practices in noncontact jersey - Vilardi practices, but Tuesday availability unclear - Byfield update]]                            |
+| 2022-11-27 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 4, Roadrunners 3 – Sturm, Byfield]]                                                                                    |
+| 2022-11-26 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Tucson, 11-26]]                                                                                                 |
 | 2022-11-25 | [[Mayors Manor]]     | [[Tyler Madden on Turcotte, Byfield, and the Magic They Create]]                                                                             |
 | 2022-11-24 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 5-1 win against San Jose]]                                                                            |
 | 2022-11-24 | [[Mayors Manor]]     | [[Reign Recap - Ontario def San Jose, Pair of Kings Prospects Shine]]                                                                        |

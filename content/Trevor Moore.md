@@ -21,6 +21,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                                                           |
 | ---------- | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-28 | [[The Athletic]] | [[Kopitar and Doughty No, the Kings power play is being led by unusual suspects]] |
 | 2022-11-25 | [[The Athletic]] | [[How LA Kings key second line is complete with healthy Viktor Arvidsson]] |
 | 2022-11-25 | [[LA Kings Insider]] | [[11-25 Preview – Full Skate Today + Kings on Special Teams, Durzi on Return, McLellan on Holiday]] |
 | 2022-11-22 | [[The Athletic]] | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]] |

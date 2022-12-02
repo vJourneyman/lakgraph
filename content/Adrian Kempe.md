@@ -23,6 +23,9 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-28 | [[The Forum Report]] | [[Playmaking Chart - November 27 vs Ottawa]] |
+| 2022-11-28 | [[The Forum Report]] | [[Iafallo practices in noncontact jersey - Vilardi practices, but Tuesday availability unclear - Byfield update]] |
+| 2022-11-28 | [[The Forum Report]] | [[Dinged up since the Seattle game, Vilardi sits - despite scoring slump, Kempe likes what his line is generating - Kaliyev gains a step]] |
 | 2022-11-26 | [[LA Kings Insider]] | [[Angeles Analysis – Black on Black Friday]] |
 | 2022-11-24 | [[The Forum Report]] | [[Playmaking Chart - November 22 vs New York]] |
 | 2022-11-23 | [[LA Kings Insider]] | [[11-23 Practice – Todays Alignment + Walkers Goal and Metrics, Top Line Produces, McLellan on SV%]] |

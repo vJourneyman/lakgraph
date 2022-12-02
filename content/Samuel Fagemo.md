@@ -31,6 +31,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                         |
 | ---------- | -------------------- | --------------------------------------------------------------------------------------------- |
+| 2022-11-28 | [[Mayors Manor]] | [[Reign Recap - Byfield, Fagemo, Turcotte Lead Ontario to Sunday Victory]] |
 | 2022-11-21 | [[Hockey Royalty]] | [[Takeaways - Ontario Reign 3, Henderson 2 – Finally]] |
 | 2022-11-20 | [[Mayors Manor]]     | [[Reign Recap - Clarke and Byfield Score, Get Ontario Back to Their Winning Ways]]            |
 | 2022-11-11 | [[The AHL]]          | [[Weekend notebook - Reign loaded again with young stars]]                                    |

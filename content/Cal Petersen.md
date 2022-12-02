@@ -20,6 +20,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                           |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-28 | [[ESPN]] | [[Grades for all 32 NHL teams at the quarter mark of 2022-23]] |
 | 2022-11-27 | [[The Fourth Period]]   | [[LAK AT 23 - YOU NEVER KNOW ]]                                                                                                                                 |
 | 2022-11-24 | [[Hockey Royalty]]      | [[The LA Kings are in need of a change]]                                                                                                                        |
 | 2022-11-23 | [[Hockey Royalty]]      | [[Takeaways - LA Kings 3, NY Rangers 5 – ‘Our game matched our year]]                                                                                           |

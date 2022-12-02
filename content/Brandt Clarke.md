@@ -21,8 +21,10 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-27 | [[Pro Hockey Rumors]] | [[Los Angeles Kings Recall Lias Andersson, Brandt Clarke, Frederic Allard]] |
-| 2022-11-27 | [[Kings at NHL.com]] | [[LA Kings Recall Two Players from Ontario Reign]] |
+| 2022-11-28 | [[Kings at NHL.com]]    | [[The Week That Was, The Week That Is - 11-28]]                                                                                                     |
+| 2022-11-28 | [[LA Kings Insider]]    | [[Recapping Brandt Clarkes AHL conditioning loan as he re-joins the Kings]]                                                                         |
+| 2022-11-27 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Recall Lias Andersson, Brandt Clarke, Frederic Allard]]                                                                         |
+| 2022-11-27 | [[Kings at NHL.com]]    | [[LA Kings Recall Two Players from Ontario Reign]]                                                                                                  |
 | 2022-11-27 | [[Mayors Manor]]        | [[Upcoming Plan for Kings Rookie D-man Brandt Clarke]]                                                                                              |
 | 2022-11-27 | [[The Forum Report]]    | [[Clarke, Andersson, Allard up, but Moverare absence raises questions - quick LAK-OTT preview]]                                                     |
 | 2022-11-27 | [[LA Kings Insider]]    | [[11-27 Preview – Todays Rushes + PP Puck Movement, Anderson on Activation, Roster Moves]]                                                          |
