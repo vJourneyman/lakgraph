@@ -22,6 +22,9 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                              | Title                                                                                                                                                  |
 | ---------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-01 | [[Triple Crown Blog]]             | [[Focus On The Positives]]                                                                                                                             |
+| 2022-12-01 | [[Kings at NHL.com]]              | [[LA Kings vs Arizona Coyotes - How to Watch]]                                                                                                         |
+| 2022-12-01 | [[Hockey Royalty]]                | [[LA Kings Shot Contribution Leaders]]                                                                                                                 |
 | 2022-11-29 | [[The Hockey Tactics Newsletter]] | [[First Touch Makes the Play (2)]]                                                                                                                     |
 | 2022-11-29 | [[LA Hockey Now]]                 | [[Kings vs Kraken Game 25 - Lines, Notes and How to Watch]]                                                                                            |
 | 2022-11-29 | [[LA Daily News]]                 | [[Kraken edge Kings in highest-scoring NHL game of season]]                                                                                            |

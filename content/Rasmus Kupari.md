@@ -22,6 +22,11 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                     |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-01 | [[Hockey Royalty]]      | [[LA Kings make transaction moves ahead of Thursdays game]]                                                                               |
+| 2022-12-01 | [[Mayors Manor]]        | [[Projected Lineups - LA Kings vs AZ Coyotes, Here Come the Kids]]                                                                        |
+| 2022-12-01 | [[The Forum Report]]    | [[Playmaking Chart - 11-29 vs Seattle]]                                                                                                   |
+| 2022-12-01 | [[LA Kings Insider]]    | [[Blake and McLellan Talk Roster Moves – Bjornfot/Fagemo/Copley to LAK, Spence, Kupari, Petersen to ONT]]                                 |
+| 2022-11-30 | [[LA Daily News]]       | [[Anze Kopitar scores twice as Kings rally to beat Coyotes]]                                                                              |
 | 2022-11-29 | [[The Forum Report]]    | [[Data Viz - What the playmaking charts tell us through the quarter(ish) pole]]                                                           |
 | 2022-11-27 | [[LA Hockey Now]]       | [[Kings vs Senators Game 24 - Lines, Notes and How to Watch]]                                                                             |
 | 2022-11-26 | [[The Forum Report]]    | [[Playmaking Chart - November 25 at San Jose]]                                                                                            |

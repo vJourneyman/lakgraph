@@ -21,6 +21,8 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-01 | [[Mayors Manor]]        | [[LA Kings GM Rob Blake Gives His State of the Season After 25 Games]]                                                                              |
+| 2022-12-01 | [[The Forum Report]]    | [[Blakes press conference elicits more questions than answers]]                                                                                     |
 | 2022-11-28 | [[Kings at NHL.com]]    | [[The Week That Was, The Week That Is - 11-28]]                                                                                                     |
 | 2022-11-28 | [[LA Kings Insider]]    | [[Recapping Brandt Clarkes AHL conditioning loan as he re-joins the Kings]]                                                                         |
 | 2022-11-27 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Recall Lias Andersson, Brandt Clarke, Frederic Allard]]                                                                         |
@@ -64,7 +66,7 @@ priority: high
 | 2022-10-28 | [[Hockey Royalty]]      | [[LA Kings - 2022-23 prospect rankings, the top five]]                                                                                              |
 | 2022-10-28 | [[The Forum Report]]    | [[Playmaking Chart - 10-27 vs WPG]]                                                                                                                 |
 | 2022-10-28 | [[The Forum Report]]    | [[Byfield out Saturday - Todd on the Clarke decision - can the LA defense play physically enough]]                                                  |
-| 2022-10-28 | [[LA Kings Insider]]    | [[The Lines They Are A-Changing - Kings display new look heading into tomorrows game - LA Kings Insider]]                                        |
+| 2022-10-28 | [[LA Kings Insider]]    | [[The Lines They Are A-Changing - Kings display new look heading into tomorrows game - LA Kings Insider]]                                           |
 | 2022-10-26 | [[Field Level Media]]   | [[Things looking up for Kings ahead of Jets matchup]]                                                                                               |
 | 2022-10-26 | [[LA Daily News]]       | [[Kings host Winnipeg as Brandt Clarke watch continues]]                                                                                            |
 | 2022-10-26 | [[Hockey Royalty]]      | [[LA Kings - Takeaways from the teams 4-2 win against the Lightning]]                                                                               |

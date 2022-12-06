@@ -22,9 +22,10 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                                      |
 | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-11-28 | [[ESPN]] | [[Grades for all 32 NHL teams at the quarter mark of 2022-23]] |
-| 2022-11-28 | [[LA Daily News]] | [[Kings welcome a shot at red-hot Kraken]] |
-| 2022-11-28 | [[Kings at NHL.com]] | [[The Week That Was, The Week That Is - 11-28]] |
+| 2022-12-01 | [[LA Kings Insider]]  | [[12-1 Preview – Changes Expected + Internal Meeting, Commitment To Change, Madden Recalled]]                                              |
+| 2022-11-28 | [[ESPN]]              | [[Grades for all 32 NHL teams at the quarter mark of 2022-23]]                                                                             |
+| 2022-11-28 | [[LA Daily News]]     | [[Kings welcome a shot at red-hot Kraken]]                                                                                                 |
+| 2022-11-28 | [[Kings at NHL.com]]  | [[The Week That Was, The Week That Is - 11-28]]                                                                                            |
 | 2022-11-28 | [[Hockey Royalty]]    | [[Week 8 Pacific Division Power Rankings]]                                                                                                 |
 | 2022-11-28 | [[Hockey Royalty]]    | [[Takeaways - LA Kings 2, Senators 3 (OT) – Kaliyev Shines In Loss]]                                                                       |
 | 2022-11-28 | [[Mayors Manor]]      | [[Rapid Review - Notes and Highlights from ‘Other Kings Loss to Senators]]                                                                 |

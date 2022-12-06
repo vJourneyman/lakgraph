@@ -22,6 +22,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-01 | [[LA Hockey Now]]       | [[Kopitar Leads Kings Past Coyotes 5-3]]                                                                                             |
 | 2022-11-23 | [[Mayors Manor]]        | [[Ontario Reign Projected Lineup vs San Jose Barracuda - Looking to Build Momentum]]                                                 |
 | 2022-11-23 | [[LA Kings Insider]]    | [[REIGN FINAL – Reign 5, Barracuda 1 – Sturm, Spence, Madden]]                                                                       |
 | 2022-11-22 | [[The Athletic]]        | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]]                                                            |
@@ -61,7 +62,7 @@ priority: high
 | 2022-10-29 | [[The Forum Report]]    | [[Legacy of 2007 class not lost on Simmonds - Clarke sits but has “done a really good job of adapting to the NHL”]]                  |
 | 2022-10-28 | [[Mayors Manor]]        | [[Rapid Review - Highlights from Kings Roller Coster Ride vs Winnipeg Jets]]                                                         |
 | 2022-10-28 | [[The Forum Report]]    | [[Byfield out Saturday - Todd on the Clarke decision - can the LA defense play physically enough]]                                   |
-| 2022-10-28 | [[LA Kings Insider]]    | [[The Lines They Are A-Changing - Kings display new look heading into tomorrows game - LA Kings Insider]]                         |
+| 2022-10-28 | [[LA Kings Insider]]    | [[The Lines They Are A-Changing - Kings display new look heading into tomorrows game - LA Kings Insider]]                            |
 | 2022-10-27 | [[LA Daily News]]       | [[Kings early lead fades away as Winnipeg hands them 3rd loss in 4 games]]                                                           |
 | 2022-10-25 | [[The Forum Report]]    | [[“Going in the right direction, but inconsistently,” forwards chemistry, identity become key - Quick starts]]                       |
 | 2022-10-24 | [[The Forum Report]]    | [[Playmaking Chart - 10-22 at WSH]]                                                                                                  |
@@ -97,6 +98,8 @@ priority: high
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                                                                        |
 | ---------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-01 | [[Mayors Manor]]     | [[LA Kings GM Rob Blake Gives His State of the Season After 25 Games]]                                                                       |
+| 2022-12-01 | [[The Forum Report]] | [[Blakes press conference elicits more questions than answers]]                                                                              |
 | 2022-11-29 | [[Hockey Royalty]]   | [[Ontario Reign - Three stars of the week – 11-21 to 11-27]]                                                                                 |
 | 2022-11-29 | [[Hockey Royalty]]   | [[LA Kings - Digging into Quinton Byfields play while in the AHL]]                                                                           |
 | 2022-11-28 | [[Hockey Royalty]]   | [[Takeaways from a 4-3 Ontario Reign win over the Roadrunners]]                                                                              |

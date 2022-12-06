@@ -22,7 +22,13 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                      |
 | ---------- | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-29 | [[The Forum Report]] | [[After historic, 17-goal overtime loss, McLellan describes “mass confusion right now for all of us” as season hinges on rectifying defensive woes]] |
+| 2022-12-01 | [[The Forum Report]]    | [[Playmaking Chart - 11-29 vs Seattle]]                                                                                                                    |
+| 2022-12-01 | [[LA Kings Insider]]    | [[FINAL – Kings 5, Coyotes 3 – Doughty, Kopitar, McLellan]]                                                                                                |
+| 2022-12-01 | [[LA Kings Insider]]    | [[12-1 Preview – Changes Expected + Internal Meeting, Commitment To Change, Madden Recalled]]                                                              |
+| 2022-11-30 | [[LA Times]]            | [[Cal Petersen situation sends message Kings cannot ignore]]                                                                                               |
+| 2022-11-30 | [[LA Daily News]]       | [[Anze Kopitar scores twice as Kings rally to beat Coyotes]]                                                                                               |
+| 2022-11-30 | [[The Athletic]]        | [[LA Kings Cal Petersen on waivers — How did it get this bad, and whats next]]                                                                             |
+| 2022-11-29 | [[The Forum Report]]    | [[After historic, 17-goal overtime loss, McLellan describes “mass confusion right now for all of us” as season hinges on rectifying defensive woes]]       |
 | 2022-11-29 | [[LA Kings Insider]]    | [[FINAL – Kings 8, Kraken 9 (OT) – Danault, Kempe, McLellan]]                                                                                              |
 | 2022-11-28 | [[The Forum Report]]    | [[Playmaking Chart - November 27 vs Ottawa]]                                                                                                               |
 | 2022-11-25 | [[The Athletic]]        | [[How LA Kings key second line is complete with healthy Viktor Arvidsson]]                                                                                 |

@@ -22,7 +22,10 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                 |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-29 | [[LA Hockey Now]] | [[McLellan - Kings 9-8 Loss Very, Very Confusing]] |
+| 2022-12-01 | [[Triple Crown Blog]]   | [[Focus On The Positives]]                                                                                                            |
+| 2022-11-30 | [[LA Daily News]]       | [[Kings place goalie Cal Petersen on waivers]]                                                                                        |
+| 2022-11-30 | [[The Athletic]]        | [[LA Kings Cal Petersen on waivers — How did it get this bad, and whats next]]                                                        |
+| 2022-11-29 | [[LA Hockey Now]]       | [[McLellan - Kings 9-8 Loss Very, Very Confusing]]                                                                                    |
 | 2022-11-29 | [[The Forum Report]]    | [[Data Viz - What the playmaking charts tell us through the quarter(ish) pole]]                                                       |
 | 2022-11-29 | [[LA Kings Insider]]    | [[FINAL – Kings 8, Kraken 9 (OT) – Danault, Kempe, McLellan]]                                                                         |
 | 2022-11-28 | [[LA Daily News]]       | [[Kings welcome a shot at red-hot Kraken]]                                                                                            |

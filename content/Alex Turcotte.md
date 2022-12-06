@@ -33,6 +33,7 @@ Alex Turcotte | | C | L | 5' 11" | 185 | 2001-02-26 | Elk Grove, IL, USA | 2019 
 ## Minor League Coverage
 | Date       | Site                  | Title                                                                                                                                        |
 | ---------- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-30 | [[The Forum Report]] | [[Waking up with the Kings - November 30]] |
 | 2022-11-29 | [[Hockey Royalty]]    | [[Ontario Reign - Three stars of the week – 11-21 to 11-27]]                                                                                 |
 | 2022-11-28 | [[Hockey Royalty]]    | [[Takeaways from a 4-3 Ontario Reign win over the Roadrunners]]                                                                              |
 | 2022-11-28 | [[Mayors Manor]]      | [[Reign Recap - Byfield, Fagemo, Turcotte Lead Ontario to Sunday Victory]]                                                                   |

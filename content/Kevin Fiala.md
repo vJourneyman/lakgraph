@@ -20,6 +20,9 @@ status: UnprocessedContent
 ## NHL  Coverage
 | Date       | Site                              | Title                                                                                                                                                      |
 | ---------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-01 | [[The Fourth Period]]             | [[Whats wrong with the Kings and Panthers]]                                                                                                                |
+| 2022-12-01 | [[Triple Crown Blog]]             | [[Focus On The Positives]]                                                                                                                                 |
+| 2022-12-01 | [[Hockey Royalty]]                | [[LA Kings Shot Contribution Leaders]]                                                                                                                     |
 | 2022-11-29 | [[The Hockey Tactics Newsletter]] | [[First Touch Makes the Play (2)]]                                                                                                                         |
 | 2022-11-29 | [[Kings at NHL.com]]              | [[Kraken recover for high-scoring OT victory against Kings]]                                                                                               |
 | 2022-11-29 | [[The Forum Report]]              | [[After historic, 17-goal overtime loss, McLellan describes “mass confusion right now for all of us” as season hinges on rectifying defensive woes]]       |

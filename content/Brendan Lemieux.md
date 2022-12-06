@@ -22,6 +22,8 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                     |
 | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-01 | [[Mayors Manor]]       | [[LA Kings GM Rob Blake Gives His State of the Season After 25 Games]]                                                    |
+| 2022-12-01 | [[The Forum Report]]   | [[Blakes press conference elicits more questions than answers]]                                                           |
 | 2022-11-22 | [[The Athletic]]       | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]]                                                 |
 | 2022-11-17 | [[Kings at NHL.com]]   | [[Super 16 - Devils rise to No 2 - Kings, Flames join rankings]]                                                          |
 | 2022-11-15 | [[The Forum Report]]   | [[Waking Up with the Kings - November 15]]                                                                                |

@@ -20,12 +20,21 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 
 
 ## NHL  Coverage
-| Date       | Site                 | Title                                                                                         |
-| ---------- | -------------------- | --------------------------------------------------------------------------------------------- |
-| 2022-11-29 | [[LA Kings Insider]] | [[Roster Moves - Kings recall Fagemo and Spence, assign Andersson to Ontairo]] |
-| 2022-10-07 | [[LA Kings Insider]] | [[Day 15 Primer – The Finale + Roster Moves]]                                                 |
-| 2022-10-02 | [[Mayors Manor]]     | [[Kings and Reign Rosters Almost Finished - Answering The Final Six Questions]]               |
-| 2022-09-29 | [[LA Kings Insider]] | [[Angeles Analysis – Thoughts From The First Week Of Training Camp]]                          |
+| Date       | Site                  | Title                                                                                                          |
+| ---------- | --------------------- | -------------------------------------------------------------------------------------------------------------- |
+| 2022-12-01 | [[LA Hockey Now]]     | [[Kopitar Leads Kings Past Coyotes 5-3]]                                                                       |
+| 2022-12-01 | [[LA Hockey Now]]     | [[Kings vs Coyotes Game 26 - Lines, Notes and How to Watch]]                                                   |
+| 2022-12-01 | [[Hockey Royalty]]    | [[LA Kings make transaction moves ahead of Thursdays game]]                                                    |
+| 2022-12-01 | [[Mayors Manor]]      | [[Projected Lineups - LA Kings vs AZ Coyotes, Here Come the Kids]]                                             |
+| 2022-12-01 | [[The Forum Report]]  | [[McLellan downplays Petersen drama, praises call-ups Fagemo and Bjornfot, and hints at Madden, Copley plans]] |
+| 2022-12-01 | [[LA Kings Insider]]  | [[12-1 Preview – Changes Expected + Internal Meeting, Commitment To Change, Madden Recalled]]                  |
+| 2022-12-01 | [[LA Kings Insider]]  | [[Blake and McLellan Talk Roster Moves – Bjornfot/Fagemo/Copley to LAK, Spence, Kupari, Petersen to ONT]]      |
+| 2022-11-30 | [[Pro Hockey Rumors]] | [[Los Angeles Kings Make Several Roster Moves]]                                                                |
+| 2022-11-30 | [[LA Daily News]]     | [[Anze Kopitar scores twice as Kings rally to beat Coyotes]]                                                   |
+| 2022-11-29 | [[LA Kings Insider]]  | [[Roster Moves - Kings recall Fagemo and Spence, assign Andersson to Ontairo]]                                 |
+| 2022-10-07 | [[LA Kings Insider]]  | [[Day 15 Primer – The Finale + Roster Moves]]                                                                  |
+| 2022-10-02 | [[Mayors Manor]]      | [[Kings and Reign Rosters Almost Finished - Answering The Final Six Questions]]                                |
+| 2022-09-29 | [[LA Kings Insider]]  | [[Angeles Analysis – Thoughts From The First Week Of Training Camp]]                                           |
 | 2022-09-10 | [[The Hockey Writers]] | [[Kings Prospect Preview - Samuel Fagemo]]                                     |
 
 

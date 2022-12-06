@@ -20,8 +20,10 @@ Tyler Madden | 10 | F | R | 5' 11" | 170 | 1999-11-09 | Deerfield Beach, FL | VA
 
 
 ## NHL  Coverage
-| Date | Site | Title |
-| ---- | ---- | ----- |
+| Date       | Site                 | Title                                                                                         |
+| ---------- | -------------------- | --------------------------------------------------------------------------------------------- |
+| 2022-12-01 | [[The Forum Report]] | [[McLellan downplays Petersen drama, praises call-ups Fagemo and Bjornfot, and hints at Madden, Copley plans]] |
+| 2022-12-01 | [[LA Kings Insider]] | [[12-1 Preview – Changes Expected + Internal Meeting, Commitment To Change, Madden Recalled]] |
 
 
 

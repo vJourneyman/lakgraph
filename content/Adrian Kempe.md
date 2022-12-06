@@ -23,6 +23,8 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                              | Title                                                                                                                                                |
 | ---------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-01 | [[The Fourth Period]]             | [[Whats wrong with the Kings and Panthers]]                                                                                                          |
+| 2022-12-01 | [[Hockey Royalty]]                | [[LA Kings Shot Contribution Leaders]]                                                                                                               |
 | 2022-11-29 | [[The Hockey Tactics Newsletter]] | [[First Touch Makes the Play (2)]]                                                                                                                   |
 | 2022-11-29 | [[The Hockey Writers]]            | [[Kings Kempe Failing to Match Last Seasons Production]]                                                                                             |
 | 2022-11-29 | [[LA Hockey Now]]                 | [[McLellan - Kings 9-8 Loss Very, Very Confusing]]                                                                                                   |

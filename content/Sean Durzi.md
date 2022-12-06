@@ -21,10 +21,13 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                  |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-11-28 | [[ESPN]] | [[Grades for all 32 NHL teams at the quarter mark of 2022-23]] |
-| 2022-11-28 | [[LA Daily News]] | [[Kings welcome a shot at red-hot Kraken]] |
-| 2022-11-28 | [[The Athletic]] | [[Kopitar and Doughty No, the Kings power play is being led by unusual suspects]] |
-| 2022-11-28 | [[The Forum Report]] | [[Playmaking Chart - November 27 vs Ottawa]] |
+| 2022-12-01 | [[Hockey Royalty]]      | [[LA Kings Shot Contribution Leaders]]                                                                                                                 |
+| 2022-12-01 | [[The Forum Report]]    | [[Playmaking Chart - 11-29 vs Seattle]]                                                                                                                |
+| 2022-11-30 | [[The Athletic]]        | [[LA Kings Cal Petersen on waivers — How did it get this bad, and whats next]]                                                                         |
+| 2022-11-28 | [[ESPN]]                | [[Grades for all 32 NHL teams at the quarter mark of 2022-23]]                                                                                         |
+| 2022-11-28 | [[LA Daily News]]       | [[Kings welcome a shot at red-hot Kraken]]                                                                                                             |
+| 2022-11-28 | [[The Athletic]]        | [[Kopitar and Doughty No, the Kings power play is being led by unusual suspects]]                                                                      |
+| 2022-11-28 | [[The Forum Report]]    | [[Playmaking Chart - November 27 vs Ottawa]]                                                                                                           |
 | 2022-11-28 | [[The Forum Report]]    | [[Waking Up with the Kings - November 28]]                                                                                                             |
 | 2022-11-27 | [[LA Kings Insider]]    | [[11-27 Preview – Todays Rushes + PP Puck Movement, Anderson on Activation, Roster Moves]]                                                             |
 | 2022-11-26 | [[Mayors Manor]]        | [[Rapid Review - Notes and Highlights of Five Kings Scoring vs Sharks in LA Victory]]                                                                  |

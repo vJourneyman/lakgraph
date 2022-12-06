@@ -20,6 +20,12 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                                  |
 | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-01 | [[LA Hockey Now]]      | [[Kopitar Leads Kings Past Coyotes 5-3]]                                                                                                               |
+| 2022-12-01 | [[Kings at NHL.com]]   | [[LA Kings vs Arizona Coyotes - How to Watch]]                                                                                                         |
+| 2022-12-01 | [[Hockey Royalty]]     | [[LA Kings Shot Contribution Leaders]]                                                                                                                 |
+| 2022-12-01 | [[LA Kings Insider]]   | [[FINAL – Kings 5, Coyotes 3 – Doughty, Kopitar, McLellan]]                                                                                            |
+| 2022-12-01 | [[LA Kings Insider]]   | [[12-1 Preview – Changes Expected + Internal Meeting, Commitment To Change, Madden Recalled]]                                                          |
+| 2022-11-30 | [[LA Daily News]]      | [[Anze Kopitar scores twice as Kings rally to beat Coyotes]]                                                                                           |
 | 2022-11-29 | [[The Forum Report]]   | [[After historic, 17-goal overtime loss, McLellan describes “mass confusion right now for all of us” as season hinges on rectifying defensive woes]]   |
 | 2022-11-29 | [[LA Kings Insider]]   | [[11-29 Preview – Vilardi “should be good to go” + Whats Kraken, Lizottes Impact, Holiday Ice]]                                                        |
 | 2022-11-28 | [[LA Daily News]]      | [[Kings welcome a shot at red-hot Kraken]]                                                                                                             |

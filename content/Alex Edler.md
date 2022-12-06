@@ -20,6 +20,8 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                |
 | ---------- | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-11-30 | [[The Athletic]]        | [[LA Kings Cal Petersen on waivers — How did it get this bad, and whats next]]                                                                       |
+| 2022-11-30 | [[The Forum Report]]    | [[Waking up with the Kings - November 30]]                                                                                                           |
 | 2022-11-29 | [[The Forum Report]]    | [[After historic, 17-goal overtime loss, McLellan describes “mass confusion right now for all of us” as season hinges on rectifying defensive woes]] |
 | 2022-11-24 | [[Hockey Royalty]]      | [[The LA Kings are in need of a change]]                                                                                                             |
 | 2022-11-24 | [[The Forum Report]]    | [[Playmaking Chart - November 22 vs New York]]                                                                                                       |

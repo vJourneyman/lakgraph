@@ -20,9 +20,10 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                           |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-28 | [[ESPN]] | [[Grades for all 32 NHL teams at the quarter mark of 2022-23]] |
-| 2022-11-22 | [[The Athletic]] | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]] |
-| 2022-11-19 | [[LA Kings Insider]] | [[FINAL – Kings 2, Kraken 3 (OT) – Petersen, Edler, McLellan]] |
+| 2022-12-01 | [[Hockey Royalty]]      | [[LA Kings Shot Contribution Leaders]]                                                                                                                          |
+| 2022-11-28 | [[ESPN]]                | [[Grades for all 32 NHL teams at the quarter mark of 2022-23]]                                                                                                  |
+| 2022-11-22 | [[The Athletic]]        | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]]                                                                                       |
+| 2022-11-19 | [[LA Kings Insider]]    | [[FINAL – Kings 2, Kraken 3 (OT) – Petersen, Edler, McLellan]]                                                                                                  |
 | 2022-11-18 | [[The Fourth Period]]   | [[KINGS WEIGHING THEIR BLUELINE OPTIONS]]                                                                                                                       |
 | 2022-11-16 | [[The Forum Report]]    | [[Moore hat trick, 29 blocks lead character win as Petersen finds groove “These guys ended our season last year, so there is a little bit of payback in that”]] |
 | 2022-11-12 | [[LA Kings Insider]]    | [[11-12 Preview – Petersen in Net + Finding Consistency, PP Zone Entries, Pushing Purple]]                                                                      |

@@ -20,6 +20,25 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                           |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-01 | [[The Fourth Period]]   | [[Whats wrong with the Kings and Panthers]]                                                                                                                     |
+| 2022-12-01 | [[LA Hockey Now]]       | [[Petersen Clears Waivers, Kings Still Confident in His Abilities]]                                                                                             |
+| 2022-12-01 | [[LA Hockey Now]]       | [[Kings vs Coyotes Game 26 - Lines, Notes and How to Watch]]                                                                                                    |
+| 2022-12-01 | [[Mayors Manor]]        | [[LA Kings GM Rob Blake Gives His State of the Season After 25 Games]]                                                                                          |
+| 2022-12-01 | [[The Forum Report]]    | [[McLellan downplays Petersen drama, praises call-ups Fagemo and Bjornfot, and hints at Madden, Copley plans]]                                                  |
+| 2022-12-01 | [[LA Kings Insider]]    | [[Blake and McLellan Talk Roster Moves – Bjornfot/Fagemo/Copley to LAK, Spence, Kupari, Petersen to ONT]]                                                       |
+| 2022-11-30 | [[Last Word On Sports]] | [[Cal Petersen on Waivers]]                                                                                                                                     |
+| 2022-11-30 | [[LA Times]]            | [[Cal Petersen situation sends message Kings cannot ignore]]                                                                                                    |
+| 2022-11-30 | [[The Hockey Writers]]  | [[NHL Goalie Report - Red Wings, Capitals, Stars, Blues, Kings, More]]                                                                                          |
+| 2022-11-30 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Place Cal Petersen On Waivers]]                                                                                                             |
+| 2022-11-30 | [[LA Daily News]]       | [[Anze Kopitar scores twice as Kings rally to beat Coyotes]]                                                                                                    |
+| 2022-11-30 | [[LA Daily News]]       | [[Kings place goalie Cal Petersen on waivers]]                                                                                                                  |
+| 2022-11-30 | [[Hockey Royalty]]      | [[LA Kings place Cal Petersen on waivers]]                                                                                                                      |
+| 2022-11-30 | [[Mayors Manor]]        | [[Thoughts on Kings Placing Goaltender Cal Petersen on Waivers]]                                                                                                |
+| 2022-11-30 | [[The Athletic]]        | [[LA Kings Cal Petersen on waivers — How did it get this bad, and whats next]]                                                                                  |
+| 2022-11-30 | [[The Athletic]]        | [[Kings place Cal Petersen on waivers - What went wrong for the goalie and whats next]]                                                                         |
+| 2022-11-30 | [[The Forum Report]]    | [[Kings outlook loses focus as Petersen placed on waivers, highlighting difficult decisions ahead]]                                                             |
+| 2022-11-30 | [[The Forum Report]]    | [[Waking up with the Kings - November 30]]                                                                                                                      |
+| 2022-11-30 | [[LA Kings Insider]]    | [[Reports - Petersen placed on waivers + Kings cancel todays on-ice practice]]                                                                                  |
 | 2022-11-29 | [[LA Daily News]]       | [[Kraken edge Kings in highest-scoring NHL game of season]]                                                                                                     |
 | 2022-11-29 | [[Kings at NHL.com]]    | [[Kraken recover for high-scoring OT victory against Kings]]                                                                                                    |
 | 2022-11-29 | [[The Forum Report]]    | [[After historic, 17-goal overtime loss, McLellan describes “mass confusion right now for all of us” as season hinges on rectifying defensive woes]]            |
