@@ -20,6 +20,7 @@ status: UnprocessedContent
 ## NHL  Coverage
 | Date       | Site                              | Title                                                                                                                                                      |
 | ---------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-03 | [[The Hockey News]]               | [[WHY LOS ANGELES WON THE KEVIN FIALA TRADE WITH MINNESOTA]]                                                                                               |
 | 2022-12-02 | [[Pro Hockey Rumors]]             | [[What Your Team Is Thankful For - Los Angeles Kings]]                                                                                                     |
 | 2022-12-02 | [[LA Daily News]]                 | [[Kings wrap up hectic homestand vs Eastern power Carolina]]                                                                                               |
 | 2022-12-01 | [[The Fourth Period]]             | [[Whats wrong with the Kings and Panthers]]                                                                                                                |

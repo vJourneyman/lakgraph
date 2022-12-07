@@ -23,6 +23,9 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                          |
 | ---------- | -------------------- | -------------------------------------------------------------------------------------------------------------- |
+| 2022-12-03 | [[LA Hockey Now]] | [[Kings vs Hurricanes Game 27 - Lines, Notes and How to Watch]] |
+| 2022-12-03 | [[Mayors Manor]] | [[Projected Lineups - LA Kings vs Carolina Hurricanes, Looking to Calm the Storm]] |
+| 2022-12-03 | [[The Forum Report]] | [[Playmaking Chart - December 1 vs Arizona]] |
 | 2022-12-02 | [[The Forum Report]] | [[Waking up with the Kings - December 2]]                                                                      |
 | 2022-12-02 | [[LA Kings Insider]] | [[Rob Blakes Media Availability – Full Video + Notes on Defense, Trades, Clarke, Byfield, Schedule]]           |
 | 2022-12-02 | [[LA Kings Insider]] | [[McLellan talks Bjornfot, Fagemo after 2022-23 Kings debut + Madden to ONT]]                                  |

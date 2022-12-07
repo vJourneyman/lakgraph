@@ -19,6 +19,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                                |
 | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-03 | [[LA Kings Insider]]  | [[12-3 Preview – Todays Vitals + Scouting Carolina, Third Line Thoughts, Kings Recall Dudas]]                                        |
 | 2022-12-01 | [[Hockey Royalty]]    | [[LA Kings Shot Contribution Leaders]]                                                                                               |
 | 2022-11-29 | [[The Forum Report]]  | [[The Kings were wary of losing Lizotte to the expansion Kraken They didnt, and all parties are happy]]                              |
 | 2022-11-29 | [[LA Kings Insider]]  | [[11-29 Preview – Vilardi “should be good to go” + Whats Kraken, Lizottes Impact, Holiday Ice]]                                      |

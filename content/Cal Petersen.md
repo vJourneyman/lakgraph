@@ -162,6 +162,7 @@ status: stable
 ## Minor League Coverage
 | Date       | Site                  | Title                                                                   |
 | ---------- | --------------------- | ----------------------------------------------------------------------- |
+| 2022-12-03 | [[Mayors Manor]] | [[INTERVIEW - Cal Petersen on His Past, Present, and Future]] |
 | 2022-12-02 | [[Pro Hockey Rumors]] | [[What Your Team Is Thankful For - Los Angeles Kings]]                  |
 | 2022-12-02 | [[LA Daily News]]     | [[Kings wrap up hectic homestand vs Eastern power Carolina]]            |
 | 2022-12-02 | [[Mayors Manor]]      | [[Reign Recap - Petersen Soars to 3-1 Victory in Return vs Eagles]]     |

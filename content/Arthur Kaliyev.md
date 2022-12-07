@@ -22,6 +22,9 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                                      |
 | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-03 | [[LA Daily News]] | [[Kings struggle to score early in loss to Hurricanes]] |
+| 2022-12-03 | [[LA Kings Insider]] | [[FINAL – Kings 2, Hurricanes 4 – Fagemo, Durzi, McLellan]] |
+| 2022-12-03 | [[LA Kings Insider]]  | [[12-3 Preview – Todays Vitals + Scouting Carolina, Third Line Thoughts, Kings Recall Dudas]]                                              |
 | 2022-12-01 | [[LA Kings Insider]]  | [[12-1 Preview – Changes Expected + Internal Meeting, Commitment To Change, Madden Recalled]]                                              |
 | 2022-11-28 | [[ESPN]]              | [[Grades for all 32 NHL teams at the quarter mark of 2022-23]]                                                                             |
 | 2022-11-28 | [[LA Daily News]]     | [[Kings welcome a shot at red-hot Kraken]]                                                                                                 |

@@ -21,6 +21,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                  |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-03 | [[LA Kings Insider]] | [[FINAL – Kings 2, Hurricanes 4 – Fagemo, Durzi, McLellan]] |
 | 2022-12-01 | [[Hockey Royalty]]      | [[LA Kings Shot Contribution Leaders]]                                                                                                                 |
 | 2022-12-01 | [[The Forum Report]]    | [[Playmaking Chart - 11-29 vs Seattle]]                                                                                                                |
 | 2022-11-30 | [[The Athletic]]        | [[LA Kings Cal Petersen on waivers — How did it get this bad, and whats next]]                                                                         |

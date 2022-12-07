@@ -22,6 +22,7 @@ Aidan Dudas | 47 | F | R | 5' 7" | 164 | 2000-06-15 | Parry Sound, ON, CAN | LAK
 ## NHL  Coverage
 | Date | Site | Title |
 | ---- | ---- | ----- |
+| 2022-12-03 | [[LA Kings Insider]] | [[12-3 Preview – Todays Vitals + Scouting Carolina, Third Line Thoughts, Kings Recall Dudas]] |
 
 
 
