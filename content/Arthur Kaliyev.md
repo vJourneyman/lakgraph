@@ -22,8 +22,13 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                                      |
 | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-12-03 | [[LA Daily News]] | [[Kings struggle to score early in loss to Hurricanes]] |
-| 2022-12-03 | [[LA Kings Insider]] | [[FINAL – Kings 2, Hurricanes 4 – Fagemo, Durzi, McLellan]] |
+| 2022-12-04 | [[Kings at NHL.com]]  | [[12-3 FINAL - Kings 2, Hurricanes 4]]                                                                                                     |
+| 2022-12-04 | [[Hockey Royalty]]    | [[Takeaways - LA Kings 2, Hurricanes 4 – Size matters]]                                                                                    |
+| 2022-12-04 | [[Mayors Manor]]      | [[Rapid Review - Notes and Highlights from Kings 4-2 Loss to Hurricanes]]                                                                  |
+| 2022-12-04 | [[The Forum Report]]  | [[Edler will sit the occasional game for rest - Waking up with the Kings - December 3]]                                                    |
+| 2022-12-04 | [[LA Kings Insider]]  | [[Practice 12-4 – Iafallo “available” on trip + Todays Alignment, Edlers Character, Goaltending Overview]]                                 |
+| 2022-12-03 | [[LA Daily News]]     | [[Kings struggle to score early in loss to Hurricanes]]                                                                                    |
+| 2022-12-03 | [[LA Kings Insider]]  | [[FINAL – Kings 2, Hurricanes 4 – Fagemo, Durzi, McLellan]]                                                                                |
 | 2022-12-03 | [[LA Kings Insider]]  | [[12-3 Preview – Todays Vitals + Scouting Carolina, Third Line Thoughts, Kings Recall Dudas]]                                              |
 | 2022-12-01 | [[LA Kings Insider]]  | [[12-1 Preview – Changes Expected + Internal Meeting, Commitment To Change, Madden Recalled]]                                              |
 | 2022-11-28 | [[ESPN]]              | [[Grades for all 32 NHL teams at the quarter mark of 2022-23]]                                                                             |

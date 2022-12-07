@@ -22,6 +22,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                      |
 | ---------- | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-04 | [[The Forum Report]]    | [[Playmaking Chart - December 3 vs Carolina]]                                                                                                              |
 | 2022-12-01 | [[The Forum Report]]    | [[Playmaking Chart - 11-29 vs Seattle]]                                                                                                                    |
 | 2022-12-01 | [[LA Kings Insider]]    | [[FINAL – Kings 5, Coyotes 3 – Doughty, Kopitar, McLellan]]                                                                                                |
 | 2022-12-01 | [[LA Kings Insider]]    | [[12-1 Preview – Changes Expected + Internal Meeting, Commitment To Change, Madden Recalled]]                                                              |

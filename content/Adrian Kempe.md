@@ -23,6 +23,8 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                              | Title                                                                                                                                                |
 | ---------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-04 | [[The Forum Report]]              | [[Playmaking Chart - December 3 vs Carolina]]                                                                                                        |
+| 2022-12-04 | [[LA Kings Insider]]              | [[Practice 12-4 – Iafallo “available” on trip + Todays Alignment, Edlers Character, Goaltending Overview]]                                           |
 | 2022-12-01 | [[The Fourth Period]]             | [[Whats wrong with the Kings and Panthers]]                                                                                                          |
 | 2022-12-01 | [[Hockey Royalty]]                | [[LA Kings Shot Contribution Leaders]]                                                                                                               |
 | 2022-11-29 | [[The Hockey Tactics Newsletter]] | [[First Touch Makes the Play (2)]]                                                                                                                   |

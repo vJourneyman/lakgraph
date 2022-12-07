@@ -98,10 +98,12 @@ priority: high
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                                                                        |
 | ---------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-12-02 | [[Kings at NHL.com]] | [[LA Kings Prospect Report, 12-2]] |
-| 2022-12-02 | [[Mayors Manor]] | [[Reign Recap - Petersen Soars to 3-1 Victory in Return vs Eagles]] |
-| 2022-12-02 | [[LA Kings Insider]] | [[Rob Blakes Media Availability – Full Video + Notes on Defense, Trades, Clarke, Byfield, Schedule]] |
-| 2022-12-02 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Colorado, 12-2]] |
+| 2022-12-04 | [[Mayors Manor]] | [[Ontario Reign Projected Lineup vs Bakersfield Condors - Plus Latest on Turcotte]] |
+| 2022-12-04 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 5, Condors 2 – Sturm, Allard, Gaunce]]                                                                                 |
+| 2022-12-02 | [[Kings at NHL.com]] | [[LA Kings Prospect Report, 12-2]]                                                                                                           |
+| 2022-12-02 | [[Mayors Manor]]     | [[Reign Recap - Petersen Soars to 3-1 Victory in Return vs Eagles]]                                                                          |
+| 2022-12-02 | [[LA Kings Insider]] | [[Rob Blakes Media Availability – Full Video + Notes on Defense, Trades, Clarke, Byfield, Schedule]]                                         |
+| 2022-12-02 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Colorado, 12-2]]                                                                                                |
 | 2022-12-01 | [[Mayors Manor]]     | [[LA Kings GM Rob Blake Gives His State of the Season After 25 Games]]                                                                       |
 | 2022-12-01 | [[The Forum Report]] | [[Blakes press conference elicits more questions than answers]]                                                                              |
 | 2022-11-29 | [[Hockey Royalty]]   | [[Ontario Reign - Three stars of the week – 11-21 to 11-27]]                                                                                 |

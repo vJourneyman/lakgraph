@@ -20,17 +20,19 @@ Aidan Dudas | 47 | F | R | 5' 7" | 164 | 2000-06-15 | Parry Sound, ON, CAN | LAK
 
 
 ## NHL  Coverage
-| Date | Site | Title |
-| ---- | ---- | ----- |
-| 2022-12-03 | [[LA Kings Insider]] | [[12-3 Preview – Todays Vitals + Scouting Carolina, Third Line Thoughts, Kings Recall Dudas]] |
+| Date       | Site                  | Title                                                                                         |
+| ---------- | --------------------- | --------------------------------------------------------------------------------------------- |
+| 2022-12-04 | [[Pro Hockey Rumors]] | [[Kings Loan Aidan Dudas To AHL]]                                                             |
+| 2022-12-03 | [[LA Kings Insider]]  | [[12-3 Preview – Todays Vitals + Scouting Carolina, Third Line Thoughts, Kings Recall Dudas]] |
 
 
 
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                           |
 | ---------- | -------------------- | ----------------------------------------------------------------------------------------------- |
-| 2022-12-02 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Colorado, 12-2]] |
-| 2022-11-27 | [[Hockey Royalty]] | [[Three Takeaways from the Ontario Reigns 3-1 loss to the Tucson Roadrunners]] |
+| 2022-12-04 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Bakersfield, 12-4]]                                                |
+| 2022-12-02 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Colorado, 12-2]]                                                   |
+| 2022-11-27 | [[Hockey Royalty]]   | [[Three Takeaways from the Ontario Reigns 3-1 loss to the Tucson Roadrunners]]                  |
 | 2022-11-27 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup vs Tucson Roadrunners - Sunday Matinee Rematch]]               |
 | 2022-11-27 | [[Mayors Manor]]     | [[Reign Recap - Ontario Flat Against Tucson, Drop Opener of Weekend Series]]                    |
 | 2022-11-27 | [[The Forum Report]] | [[Clarke, Andersson, Allard up, but Moverare absence raises questions - quick LAK-OTT preview]] |

@@ -37,6 +37,7 @@ Jordan Spence | 58 | D | R | 5' 10" | 180 | 2001-02-24 | Manly, AUS | -   2019 L
 ## Minor League Coverage
 | Date       | Site                    | Title                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------- |
+| 2022-12-04 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Bakersfield, 12-4]] |
 | 2022-12-02 | [[Mayors Manor]] | [[Reign Recap - Petersen Soars to 3-1 Victory in Return vs Eagles]] |
 | 2022-12-02 | [[LA Kings Insider]]    | [[REIGN FINAL – Reign 3, Eagles 1 – Sturm, Petersen, Spence]]                                       |
 | 2022-11-27 | [[LA Kings Insider]]    | [[REIGN PREVIEW – Ontario vs Tucson, 11-27]]                                                        |

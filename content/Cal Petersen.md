@@ -20,6 +20,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                           |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-04 | [[LA Kings Insider]] | [[Practice 12-4 – Iafallo “available” on trip + Todays Alignment, Edlers Character, Goaltending Overview]] |
 | 2022-12-02 | [[The Forum Report]]    | [[Waking up with the Kings - December 2]]                                                                                                                       |
 | 2022-12-02 | [[LA Kings Insider]]    | [[Rob Blakes Media Availability – Full Video + Notes on Defense, Trades, Clarke, Byfield, Schedule]]                                                            |
 | 2022-12-01 | [[The Fourth Period]]   | [[Whats wrong with the Kings and Panthers]]                                                                                                                     |

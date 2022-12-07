@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site      | External Link                                                                                                    |
 | ---------- | --------- | ---------------------------------------------------------------------------------------------------------------- |
-| 2022-12-01 | [[yroy\]] | [*LA Kings Shot Contribution Leaders*](https://hockeyroyalty.com/2022/12/01/la-kings-shot-contribution-leaders/) |
+| 2022-12-01 | [[Hockey Royalty]] | [*LA Kings Shot Contribution Leaders*](https://hockeyroyalty.com/2022/12/01/la-kings-shot-contribution-leaders/) |
 
 ## Contributors
 - [[Joe Patarino]]

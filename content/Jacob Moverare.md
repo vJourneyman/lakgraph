@@ -69,6 +69,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## Minor League Coverage
 | Date       | Site                    | Title                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------- |
+| 2022-12-04 | [[Mayors Manor]] | [[Ontario Reign Projected Lineup vs Bakersfield Condors - Plus Latest on Turcotte]] |
 | 2022-11-26 | [[Mayors Manor]] | [[Ontario Reign Projected Lineup vs Tucson Roadrunners - Clarkes Last Stand]] |
 | 2022-11-26 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 1, Roadrunners 3 – Sturm, Dudas, Clarke]] |
 | 2022-10-26 | [[Mayors Manor]] | [[Ontario Reign - Projected Lineup at San Jose Barracuda on Wednesday]]                                                                                                   |

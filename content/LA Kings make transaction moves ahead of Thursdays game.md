@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site     | External Link                                                                                                                                              |
 | ---------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-12-01 | [[yroy]] | [*LA Kings make transaction moves ahead of Thursdays game*](https://hockeyroyalty.com/2022/12/01/la-kings-make-transaction-moves-ahead-of-thursdays-game/) |
+| 2022-12-01 | [[Hockey Royalty]] | [*LA Kings make transaction moves ahead of Thursdays game*](https://hockeyroyalty.com/2022/12/01/la-kings-make-transaction-moves-ahead-of-thursdays-game/) |
 
 ## Contributors
 - [[Kyle Garcia]]

@@ -20,6 +20,8 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                |
 | ---------- | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-04 | [[The Forum Report]] | [[Edler will sit the occasional game for rest - Waking up with the Kings - December 3]] |
+| 2022-12-04 | [[LA Kings Insider]] | [[Practice 12-4 – Iafallo “available” on trip + Todays Alignment, Edlers Character, Goaltending Overview]] |
 | 2022-11-30 | [[The Athletic]]        | [[LA Kings Cal Petersen on waivers — How did it get this bad, and whats next]]                                                                       |
 | 2022-11-30 | [[The Forum Report]]    | [[Waking up with the Kings - November 30]]                                                                                                           |
 | 2022-11-29 | [[The Forum Report]]    | [[After historic, 17-goal overtime loss, McLellan describes “mass confusion right now for all of us” as season hinges on rectifying defensive woes]] |

@@ -21,6 +21,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                          |
 | ---------- | -------------------- | -------------------------------------------------------------------------------------------------------------- |
+| 2022-12-04 | [[LA Kings Insider]] | [[Practice 12-4 – Iafallo “available” on trip + Todays Alignment, Edlers Character, Goaltending Overview]] |
 | 2022-12-01 | [[Hockey Royalty]]   | [[LA Kings make transaction moves ahead of Thursdays game]]                                                    |
 | 2022-12-01 | [[The Forum Report]] | [[McLellan downplays Petersen drama, praises call-ups Fagemo and Bjornfot, and hints at Madden, Copley plans]] |
 | 2022-11-30 | [[The Athletic]]     | [[Kings place Cal Petersen on waivers - What went wrong for the goalie and whats next]]                        |

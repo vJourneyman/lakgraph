@@ -21,6 +21,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                 |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-04 | [[LA Kings Insider]] | [[Practice 12-4 – Iafallo “available” on trip + Todays Alignment, Edlers Character, Goaltending Overview]] |
 | 2022-12-02 | [[Pro Hockey Rumors]]   | [[What Your Team Is Thankful For - Los Angeles Kings]]                                                                                                |
 | 2022-12-02 | [[LA Daily News]]       | [[Kings wrap up hectic homestand vs Eastern power Carolina]]                                                                                          |
 | 2022-12-01 | [[The Fourth Period]]   | [[Whats wrong with the Kings and Panthers]]                                                                                                           |
