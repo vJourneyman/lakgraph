@@ -22,6 +22,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                 |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-02 | [[Pro Hockey Rumors]]   | [[What Your Team Is Thankful For - Los Angeles Kings]]                                                                                |
 | 2022-12-01 | [[Triple Crown Blog]]   | [[Focus On The Positives]]                                                                                                            |
 | 2022-11-30 | [[LA Daily News]]       | [[Kings place goalie Cal Petersen on waivers]]                                                                                        |
 | 2022-11-30 | [[The Athletic]]        | [[LA Kings Cal Petersen on waivers — How did it get this bad, and whats next]]                                                        |

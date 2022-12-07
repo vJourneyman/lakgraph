@@ -19,8 +19,10 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                           |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-28 | [[LA Daily News]] | [[Kings welcome a shot at red-hot Kraken]] |
-| 2022-11-28 | [[The Athletic]] | [[Kopitar and Doughty No, the Kings power play is being led by unusual suspects]] |
+| 2022-12-02 | [[Pro Hockey Rumors]]   | [[What Your Team Is Thankful For - Los Angeles Kings]]                                                                                                          |
+| 2022-12-02 | [[LA Daily News]]       | [[Kings wrap up hectic homestand vs Eastern power Carolina]]                                                                                                    |
+| 2022-11-28 | [[LA Daily News]]       | [[Kings welcome a shot at red-hot Kraken]]                                                                                                                      |
+| 2022-11-28 | [[The Athletic]]        | [[Kopitar and Doughty No, the Kings power play is being led by unusual suspects]]                                                                               |
 | 2022-11-27 | [[LA Daily News]]       | [[Kings fall in overtime against Senators]]                                                                                                                     |
 | 2022-11-27 | [[LA Kings Insider]]    | [[11-27 Preview – Todays Rushes + PP Puck Movement, Anderson on Activation, Roster Moves]]                                                                      |
 | 2022-11-26 | [[Hockey Royalty]]      | [[Takeaways - LA Kings 5, SJ Sharks 2- ‘Much needed win]]                                                                                                       |

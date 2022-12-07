@@ -22,6 +22,7 @@ Jordan Spence | 58 | D | R | 5' 10" | 180 | 2001-02-24 | Manly, AUS | -   2019 L
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                     |
 | ---------- | -------------------- | --------------------------------------------------------------------------------------------------------- |
+| 2022-12-02 | [[LA Kings Insider]] | [[Rob Blakes Media Availability – Full Video + Notes on Defense, Trades, Clarke, Byfield, Schedule]]      |
 | 2022-12-01 | [[Hockey Royalty]]   | [[LA Kings make transaction moves ahead of Thursdays game]]                                               |
 | 2022-12-01 | [[LA Kings Insider]] | [[Blake and McLellan Talk Roster Moves – Bjornfot/Fagemo/Copley to LAK, Spence, Kupari, Petersen to ONT]] |
 | 2022-11-30 | [[LA Daily News]]    | [[Anze Kopitar scores twice as Kings rally to beat Coyotes]]                                              |
@@ -36,6 +37,8 @@ Jordan Spence | 58 | D | R | 5' 10" | 180 | 2001-02-24 | Manly, AUS | -   2019 L
 ## Minor League Coverage
 | Date       | Site                    | Title                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------- |
+| 2022-12-02 | [[Mayors Manor]] | [[Reign Recap - Petersen Soars to 3-1 Victory in Return vs Eagles]] |
+| 2022-12-02 | [[LA Kings Insider]]    | [[REIGN FINAL – Reign 3, Eagles 1 – Sturm, Petersen, Spence]]                                       |
 | 2022-11-27 | [[LA Kings Insider]]    | [[REIGN PREVIEW – Ontario vs Tucson, 11-27]]                                                        |
 | 2022-11-26 | [[LA Kings Insider]]    | [[REIGN PREVIEW – Ontario vs Tucson, 11-26]]                                                        |
 | 2022-11-24 | [[Hockey Royalty]]      | [[Ontario Reign - Three takeaways from 5-1 win against San Jose]]                                   |

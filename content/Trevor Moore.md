@@ -21,6 +21,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                                                           |
 | ---------- | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-02 | [[Pro Hockey Rumors]] | [[What Your Team Is Thankful For - Los Angeles Kings]]                                                                                                          |
 | 2022-11-29 | [[The Forum Report]]  | [[Data Viz - What the playmaking charts tell us through the quarter(ish) pole]]                                                                                 |
 | 2022-11-28 | [[The Athletic]]      | [[Kopitar and Doughty No, the Kings power play is being led by unusual suspects]]                                                                               |
 | 2022-11-25 | [[The Athletic]]      | [[How LA Kings key second line is complete with healthy Viktor Arvidsson]]                                                                                      |

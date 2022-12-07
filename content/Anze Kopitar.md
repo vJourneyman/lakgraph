@@ -20,6 +20,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                                  |
 | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-02 | [[Mayors Manor]]       | [[Rapid Review - Notes and Highlights from Kings 5-3 Win Over Coyotes]]                                                                                |
 | 2022-12-01 | [[LA Hockey Now]]      | [[Kopitar Leads Kings Past Coyotes 5-3]]                                                                                                               |
 | 2022-12-01 | [[Kings at NHL.com]]   | [[LA Kings vs Arizona Coyotes - How to Watch]]                                                                                                         |
 | 2022-12-01 | [[Hockey Royalty]]     | [[LA Kings Shot Contribution Leaders]]                                                                                                                 |

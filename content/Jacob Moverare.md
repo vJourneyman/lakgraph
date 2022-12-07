@@ -21,6 +21,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                  |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-02 | [[LA Kings Insider]] | [[Rob Blakes Media Availability – Full Video + Notes on Defense, Trades, Clarke, Byfield, Schedule]] |
 | 2022-11-28 | [[The Forum Report]] | [[Dinged up since the Seattle game, Vilardi sits - despite scoring slump, Kempe likes what his line is generating - Kaliyev gains a step]] |
 | 2022-11-28 | [[LA Kings Insider]]    | [[11-28 Practice – Vilardi and Iafallo Skate + Todays Alignment, Second Thoughts, Pinch Hitting]]                                                      |
 | 2022-11-27 | [[The Forum Report]]    | [[Clarke, Andersson, Allard up, but Moverare absence raises questions - quick LAK-OTT preview]]                                                        |

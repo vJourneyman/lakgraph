@@ -20,6 +20,8 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                           |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-02 | [[The Forum Report]]    | [[Waking up with the Kings - December 2]]                                                                                                                       |
+| 2022-12-02 | [[LA Kings Insider]]    | [[Rob Blakes Media Availability – Full Video + Notes on Defense, Trades, Clarke, Byfield, Schedule]]                                                            |
 | 2022-12-01 | [[The Fourth Period]]   | [[Whats wrong with the Kings and Panthers]]                                                                                                                     |
 | 2022-12-01 | [[LA Hockey Now]]       | [[Petersen Clears Waivers, Kings Still Confident in His Abilities]]                                                                                             |
 | 2022-12-01 | [[LA Hockey Now]]       | [[Kings vs Coyotes Game 26 - Lines, Notes and How to Watch]]                                                                                                    |
@@ -158,20 +160,26 @@ status: stable
 
 
 ## Minor League Coverage
-Date | Site |  Title
----|---|---
+| Date       | Site                  | Title                                                                   |
+| ---------- | --------------------- | ----------------------------------------------------------------------- |
+| 2022-12-02 | [[Pro Hockey Rumors]] | [[What Your Team Is Thankful For - Los Angeles Kings]]                  |
+| 2022-12-02 | [[LA Daily News]]     | [[Kings wrap up hectic homestand vs Eastern power Carolina]]            |
+| 2022-12-02 | [[Mayors Manor]]      | [[Reign Recap - Petersen Soars to 3-1 Victory in Return vs Eagles]]     |
+| 2022-12-02 | [[Mayors Manor]]      | [[Ontario Reign Projected Lineup vs Colorado Eagles - Come See Cal]]    |
+| 2022-12-02 | [[Mayors Manor]]      | [[Rapid Review - Notes and Highlights from Kings 5-3 Win Over Coyotes]] |
+| 2022-12-02 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 3, Eagles 1 – Sturm, Petersen, Spence]] |
 
 
 
 ## Post-Draft Coverage
-Date | Site |  Title
----|---|---
+| Date | Site | Title |
+| ---- | ---- | ----- |
 
 
 
 ## Pre-Draft Coverage
-Date | Site |  Title
----|---|---
+| Date | Site | Title |
+| ---- | ---- | ----- |
 
 
 ## Unprocessed Coverage

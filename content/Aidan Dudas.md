@@ -28,6 +28,7 @@ Aidan Dudas | 47 | F | R | 5' 7" | 164 | 2000-06-15 | Parry Sound, ON, CAN | LAK
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                           |
 | ---------- | -------------------- | ----------------------------------------------------------------------------------------------- |
+| 2022-12-02 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Colorado, 12-2]] |
 | 2022-11-27 | [[Hockey Royalty]] | [[Three Takeaways from the Ontario Reigns 3-1 loss to the Tucson Roadrunners]] |
 | 2022-11-27 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup vs Tucson Roadrunners - Sunday Matinee Rematch]]               |
 | 2022-11-27 | [[Mayors Manor]]     | [[Reign Recap - Ontario Flat Against Tucson, Drop Opener of Weekend Series]]                    |

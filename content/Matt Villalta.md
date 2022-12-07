@@ -27,6 +27,7 @@ status: stable
 ## Minor League Coverage
 | Date       | Site                    | Title                                                                                             |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------- |
+| 2022-12-02 | [[LA Kings Insider]]    | [[REIGN FINAL – Reign 3, Eagles 1 – Sturm, Petersen, Spence]]                                     |
 | 2022-11-30 | [[Last Word On Sports]] | [[Cal Petersen on Waivers]]                                                                       |
 | 2022-11-29 | [[Hockey Royalty]]      | [[Ontario Reign - Three stars of the week – 11-21 to 11-27]]                                      |
 | 2022-11-26 | [[LA Kings Insider]]    | [[REIGN PREVIEW – Ontario vs Tucson, 11-26]]                                                      |

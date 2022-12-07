@@ -34,6 +34,7 @@ status: stable
 ## Post-Draft Coverage
 | Date       | Site                 | Title                                                                                       |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------- |
+| 2022-12-02 | [[Kings at NHL.com]] | [[LA Kings Prospect Report, 12-2]] |
 | 2022-11-28 | [[Hockey Royalty]]   | [[LA Kings Prospect Update – Week of 11-21]]                                                |
 | 2022-11-21 | [[Hockey Royalty]]   | [[Francesco Pinelli Highlights LA Kings Prospects Update – Week of 11-14]]                  |
 | 2022-11-19 | [[The Athletic]]     | [[NHL future watch - Whos the hottest player in each teams prospect pipeline]]              |

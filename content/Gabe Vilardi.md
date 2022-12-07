@@ -22,6 +22,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                              | Title                                                                                                                                                  |
 | ---------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-02 | [[Pro Hockey Rumors]]             | [[What Your Team Is Thankful For - Los Angeles Kings]]                                                                                                 |
 | 2022-12-01 | [[Triple Crown Blog]]             | [[Focus On The Positives]]                                                                                                                             |
 | 2022-12-01 | [[Kings at NHL.com]]              | [[LA Kings vs Arizona Coyotes - How to Watch]]                                                                                                         |
 | 2022-12-01 | [[Hockey Royalty]]                | [[LA Kings Shot Contribution Leaders]]                                                                                                                 |

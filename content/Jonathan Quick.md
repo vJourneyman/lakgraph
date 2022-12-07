@@ -21,6 +21,8 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                 |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-02 | [[Pro Hockey Rumors]]   | [[What Your Team Is Thankful For - Los Angeles Kings]]                                                                                                |
+| 2022-12-02 | [[LA Daily News]]       | [[Kings wrap up hectic homestand vs Eastern power Carolina]]                                                                                          |
 | 2022-12-01 | [[The Fourth Period]]   | [[Whats wrong with the Kings and Panthers]]                                                                                                           |
 | 2022-12-01 | [[LA Kings Insider]]    | [[FINAL – Kings 5, Coyotes 3 – Doughty, Kopitar, McLellan]]                                                                                           |
 | 2022-11-30 | [[Last Word On Sports]] | [[Cal Petersen on Waivers]]                                                                                                                           |

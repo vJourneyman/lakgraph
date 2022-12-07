@@ -32,9 +32,10 @@ status: stable
 
 
 ## Post-Draft Coverage
-| Date | Site | Title |
-| ---- | ---- | ----- |
-| 2022-10-22 | [[Mayors Manor]] | [[And So It Begins – Kings On Kings Crime On TV Today]]                                                                                   |
+| Date       | Site                 | Title                                                   |
+| ---------- | -------------------- | ------------------------------------------------------- |
+| 2022-12-02 | [[Kings at NHL.com]] | [[LA Kings Prospect Report, 12-2]]                      |
+| 2022-10-22 | [[Mayors Manor]]     | [[And So It Begins – Kings On Kings Crime On TV Today]] |
 
 
 

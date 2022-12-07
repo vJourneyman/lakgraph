@@ -22,6 +22,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                          |
 | ---------- | --------------------- | -------------------------------------------------------------------------------------------------------------- |
+| 2022-12-02 | [[LA Kings Insider]]  | [[McLellan talks Bjornfot, Fagemo after 2022-23 Kings debut + Madden to ONT]]                                  |
 | 2022-12-01 | [[LA Hockey Now]]     | [[Kopitar Leads Kings Past Coyotes 5-3]]                                                                       |
 | 2022-12-01 | [[LA Hockey Now]]     | [[Kings vs Coyotes Game 26 - Lines, Notes and How to Watch]]                                                   |
 | 2022-12-01 | [[Hockey Royalty]]    | [[LA Kings make transaction moves ahead of Thursdays game]]                                                    |
