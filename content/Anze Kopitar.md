@@ -20,6 +20,8 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                                  |
 | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-06 | [[Kings at NHL.com]]   | [[Arvidsson scores twice in Kings win against Senators]]                                                                                               |
+| 2022-12-06 | [[LA Kings Insider]]   | [[FINAL – Kings 5, Senators 2 – Copley, Arvidsson, McLellan]]                                                                                          |
 | 2022-12-05 | [[Kings at NHL.com]]   | [[The Week That Was, The Week That Is - 12-5]]                                                                                                         |
 | 2022-12-04 | [[The Forum Report]]   | [[Playmaking Chart - December 3 vs Carolina]]                                                                                                          |
 | 2022-12-03 | [[LA Hockey Now]]      | [[Kings vs Hurricanes Game 27 - Lines, Notes and How to Watch]]                                                                                        |

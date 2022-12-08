@@ -21,6 +21,11 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                          |
 | ---------- | -------------------- | -------------------------------------------------------------------------------------------------------------- |
+| 2022-12-06 | [[LA Hockey Now]]    | [[Hot Start Leads Kings Past Senators 5-2]]                                                                    |
+| 2022-12-06 | [[LA Hockey Now]]    | [[Kings vs Senators Game 28 - Lines, Notes, and How to Watch]]                                                 |
+| 2022-12-06 | [[Kings at NHL.com]] | [[Arvidsson scores twice in Kings win against Senators]]                                                       |
+| 2022-12-06 | [[The Forum Report]] | [[Iafallo in, Kempe to center - AJ Jakubec checks in from the World Cup]]                                      |
+| 2022-12-06 | [[LA Kings Insider]] | [[FINAL – Kings 5, Senators 2 – Copley, Arvidsson, McLellan]]                                                  |
 | 2022-12-05 | [[LA Daily News]]    | [[With Alex Iafallo returning, Kings are not done tinkering with lineup]]                                      |
 | 2022-12-04 | [[LA Kings Insider]] | [[Practice 12-4 – Iafallo “available” on trip + Todays Alignment, Edlers Character, Goaltending Overview]]     |
 | 2022-12-01 | [[Hockey Royalty]]   | [[LA Kings make transaction moves ahead of Thursdays game]]                                                    |

@@ -20,7 +20,8 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                           |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-12-04 | [[LA Kings Insider]] | [[Practice 12-4 – Iafallo “available” on trip + Todays Alignment, Edlers Character, Goaltending Overview]] |
+| 2022-12-06 | [[The Hockey Writers]]  | [[Los Angeles Kings - 3 Trade Targets to Shake Up Goaltending Depth]]                                                                                           |
+| 2022-12-04 | [[LA Kings Insider]]    | [[Practice 12-4 – Iafallo “available” on trip + Todays Alignment, Edlers Character, Goaltending Overview]]                                                      |
 | 2022-12-02 | [[The Forum Report]]    | [[Waking up with the Kings - December 2]]                                                                                                                       |
 | 2022-12-02 | [[LA Kings Insider]]    | [[Rob Blakes Media Availability – Full Video + Notes on Defense, Trades, Clarke, Byfield, Schedule]]                                                            |
 | 2022-12-01 | [[The Fourth Period]]   | [[Whats wrong with the Kings and Panthers]]                                                                                                                     |
@@ -163,6 +164,7 @@ status: stable
 ## Minor League Coverage
 | Date       | Site                    | Title                                                                     |
 | ---------- | ----------------------- | ------------------------------------------------------------------------- |
+| 2022-12-06 | [[Hockey Royalty]]      | [[Ontario Reign three stars of the week – 11-28 – 12-4]]                  |
 | 2022-12-05 | [[Last Word On Sports]] | [[NHL First Quarter Analysis - Pacific Division Part One]]                |
 | 2022-12-05 | [[LA Daily News]]       | [[With Alex Iafallo returning, Kings are not done tinkering with lineup]] |
 | 2022-12-05 | [[Hockey Royalty]]      | [[Ontario Reign - Three takeaways from 5-2 win against Bakersfield]]      |

@@ -21,6 +21,13 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                                |
 | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-06 | [[Pro Hockey Rumors]] | [[Los Angeles Kings Activate Alex Iafallo]]                                                                                          |
+| 2022-12-06 | [[LA Hockey Now]]     | [[Hot Start Leads Kings Past Senators 5-2]]                                                                                          |
+| 2022-12-06 | [[LA Hockey Now]]     | [[Kings vs Senators Game 28 - Lines, Notes, and How to Watch]]                                                                       |
+| 2022-12-06 | [[Kings at NHL.com]]  | [[Arvidsson scores twice in Kings win against Senators]]                                                                             |
+| 2022-12-06 | [[Mayors Manor]]      | [[Projected Lineups - LA Kings at Ottawa Senators , Ready for First Stop of Roadie]]                                                 |
+| 2022-12-06 | [[The Forum Report]]  | [[Iafallo in, Kempe to center - AJ Jakubec checks in from the World Cup]]                                                            |
+| 2022-12-06 | [[LA Kings Insider]]  | [[12-6 Preview – Iafallo Activated, Will Play Tonight + New Lines, Copley To Start, Kempe at Center]]                                |
 | 2022-12-05 | [[LA Daily News]]     | [[With Alex Iafallo returning, Kings are not done tinkering with lineup]]                                                            |
 | 2022-12-04 | [[Pro Hockey Rumors]] | [[Alex Iafallo To Return During The Upcoming Road Trip]]                                                                             |
 | 2022-12-04 | [[LA Kings Insider]]  | [[Practice 12-4 – Iafallo “available” on trip + Todays Alignment, Edlers Character, Goaltending Overview]]                           |

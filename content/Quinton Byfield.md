@@ -22,6 +22,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-06 | [[Mayors Manor]] | [[Projected Lineups - LA Kings at Ottawa Senators , Ready for First Stop of Roadie]] |
 | 2022-12-01 | [[LA Hockey Now]]       | [[Kopitar Leads Kings Past Coyotes 5-3]]                                                                                             |
 | 2022-11-23 | [[Mayors Manor]]        | [[Ontario Reign Projected Lineup vs San Jose Barracuda - Looking to Build Momentum]]                                                 |
 | 2022-11-23 | [[LA Kings Insider]]    | [[REIGN FINAL – Reign 5, Barracuda 1 – Sturm, Spence, Madden]]                                                                       |
@@ -98,6 +99,7 @@ priority: high
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                                                                        |
 | ---------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-06 | [[Hockey Royalty]]   | [[Ontario Reign three stars of the week – 11-28 – 12-4]]                                                                                     |
 | 2022-12-05 | [[Hockey Royalty]]   | [[LA Kings prospect update – Week of 11-28]]                                                                                                 |
 | 2022-12-05 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 5-2 win against Bakersfield]]                                                                         |
 | 2022-12-05 | [[Mayors Manor]]     | [[Reign Recap - Byfield, Petersen Help Reign Top Condors 5-2]]                                                                               |

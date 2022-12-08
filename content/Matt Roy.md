@@ -20,6 +20,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                           |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-06 | [[LA Hockey Now]]       | [[Hot Start Leads Kings Past Senators 5-2]]                                                                                                                     |
 | 2022-12-01 | [[Hockey Royalty]]      | [[LA Kings Shot Contribution Leaders]]                                                                                                                          |
 | 2022-11-28 | [[ESPN]]                | [[Grades for all 32 NHL teams at the quarter mark of 2022-23]]                                                                                                  |
 | 2022-11-22 | [[The Athletic]]        | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]]                                                                                       |

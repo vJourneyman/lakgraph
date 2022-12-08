@@ -23,6 +23,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                          |
 | ---------- | -------------------- | -------------------------------------------------------------------------------------------------------------- |
+| 2022-12-06 | [[Hockey Royalty]]   | [[LA Kings at Ottawa Senators projected lineup, betting preview]]                                              |
 | 2022-12-05 | [[LA Daily News]]    | [[With Alex Iafallo returning, Kings are not done tinkering with lineup]]                                      |
 | 2022-12-03 | [[LA Hockey Now]]    | [[Kings vs Hurricanes Game 27 - Lines, Notes and How to Watch]]                                                |
 | 2022-12-03 | [[Mayors Manor]]     | [[Projected Lineups - LA Kings vs Carolina Hurricanes, Looking to Calm the Storm]]                             |

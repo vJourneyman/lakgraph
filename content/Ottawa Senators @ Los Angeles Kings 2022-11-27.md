@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site                    | External Link                                                                                                            |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 2022-11-27 | [[[Natural Stattrick]] | [*Ottawa Senators @ Los Angeles Kings 2022-11-27*](https://www.naturalstattrick.com/game.php?season=20222023&game=20345) |
+| 2022-11-27 | [[Natural Stattrick]] | [*Ottawa Senators @ Los Angeles Kings 2022-11-27*](https://www.naturalstattrick.com/game.php?season=20222023&game=20345) |
 
 ## Contributors
 - 

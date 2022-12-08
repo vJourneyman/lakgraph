@@ -22,6 +22,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                              | Title                                                                                                                                                  |
 | ---------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-06 | [[Hockey Royalty]]                | [[LA Kings at Ottawa Senators projected lineup, betting preview]]                                                                                      |
 | 2022-12-04 | [[LA Kings Insider]]              | [[Practice 12-4 – Iafallo “available” on trip + Todays Alignment, Edlers Character, Goaltending Overview]]                                             |
 | 2022-12-02 | [[Pro Hockey Rumors]]             | [[What Your Team Is Thankful For - Los Angeles Kings]]                                                                                                 |
 | 2022-12-01 | [[Triple Crown Blog]]             | [[Focus On The Positives]]                                                                                                                             |

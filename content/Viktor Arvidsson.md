@@ -19,6 +19,9 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                           |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-06 | [[LA Hockey Now]]       | [[Hot Start Leads Kings Past Senators 5-2]]                                                                                                                     |
+| 2022-12-06 | [[Kings at NHL.com]]    | [[Arvidsson scores twice in Kings win against Senators]]                                                                                                        |
+| 2022-12-06 | [[LA Kings Insider]]    | [[FINAL – Kings 5, Senators 2 – Copley, Arvidsson, McLellan]]                                                                                                   |
 | 2022-12-02 | [[Pro Hockey Rumors]]   | [[What Your Team Is Thankful For - Los Angeles Kings]]                                                                                                          |
 | 2022-12-02 | [[LA Daily News]]       | [[Kings wrap up hectic homestand vs Eastern power Carolina]]                                                                                                    |
 | 2022-11-28 | [[LA Daily News]]       | [[Kings welcome a shot at red-hot Kraken]]                                                                                                                      |

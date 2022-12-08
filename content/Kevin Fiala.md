@@ -20,6 +20,7 @@ status: UnprocessedContent
 ## NHL  Coverage
 | Date       | Site                              | Title                                                                                                                                                      |
 | ---------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-06 | [[Kings at NHL.com]]              | [[Arvidsson scores twice in Kings win against Senators]]                                                                                                   |
 | 2022-12-05 | [[Last Word On Sports]]           | [[NHL First Quarter Analysis - Pacific Division Part One]]                                                                                                 |
 | 2022-12-05 | [[Kings at NHL.com]]              | [[The Week That Was, The Week That Is - 12-5]]                                                                                                             |
 | 2022-12-03 | [[The Hockey News]]               | [[WHY LOS ANGELES WON THE KEVIN FIALA TRADE WITH MINNESOTA]]                                                                                               |

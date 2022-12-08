@@ -21,6 +21,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-06 | [[Mayors Manor]]        | [[Projected Lineups - LA Kings at Ottawa Senators , Ready for First Stop of Roadie]]                                                                |
 | 2022-12-05 | [[The Hockey News]]     | [[REACTING TO TEAM CANADAS 2023 WORLD JUNIOR CAMP ROSTER]]                                                                                          |
 | 2022-12-05 | [[LA Daily News]]       | [[With Alex Iafallo returning, Kings are not done tinkering with lineup]]                                                                           |
 | 2022-12-05 | [[Mayors Manor]]        | [[Updated - Brandt Clarke Still a Possibility for Team Canada World Juniors Camp]]                                                                  |

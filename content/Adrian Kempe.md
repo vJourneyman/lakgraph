@@ -18,12 +18,14 @@ priority: high
 | [[Adrian Kempe]] | 9   | C        | L      | 6' 2"  | 200    | 1996-09-13 | Kramfors, SWE | 2014 LAK, 1st rd, 29th pk (29th overall) |
 
 
-
-
 ## NHL  Coverage
 | Date       | Site                              | Title                                                                                                                                                |
 | ---------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-12-05 | [[LA Daily News]] | [[With Alex Iafallo returning, Kings are not done tinkering with lineup]] |
+| 2022-12-06 | [[LA Hockey Now]]                 | [[Kings vs Senators Game 28 - Lines, Notes, and How to Watch]]                                                                                       |
+| 2022-12-06 | [[Hockey Royalty]]                | [[LA Kings at Ottawa Senators projected lineup, betting preview]]                                                                                    |
+| 2022-12-06 | [[The Forum Report]]              | [[Iafallo in, Kempe to center - AJ Jakubec checks in from the World Cup]]                                                                            |
+| 2022-12-06 | [[LA Kings Insider]]              | [[12-6 Preview – Iafallo Activated, Will Play Tonight + New Lines, Copley To Start, Kempe at Center]]                                                |
+| 2022-12-05 | [[LA Daily News]]                 | [[With Alex Iafallo returning, Kings are not done tinkering with lineup]]                                                                            |
 | 2022-12-04 | [[The Forum Report]]              | [[Playmaking Chart - December 3 vs Carolina]]                                                                                                        |
 | 2022-12-04 | [[LA Kings Insider]]              | [[Practice 12-4 – Iafallo “available” on trip + Todays Alignment, Edlers Character, Goaltending Overview]]                                           |
 | 2022-12-01 | [[The Fourth Period]]             | [[Whats wrong with the Kings and Panthers]]                                                                                                          |

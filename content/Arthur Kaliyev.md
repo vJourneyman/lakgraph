@@ -22,6 +22,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                                      |
 | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-06 | [[Hockey Royalty]] | [[LA Kings at Ottawa Senators projected lineup, betting preview]] |
 | 2022-12-05 | [[LA Daily News]]     | [[With Alex Iafallo returning, Kings are not done tinkering with lineup]]                                                                  |
 | 2022-12-05 | [[Kings at NHL.com]]  | [[The Week That Was, The Week That Is - 12-5]]                                                                                             |
 | 2022-12-05 | [[LA Kings Insider]]  | [[With an elevated role as of late, Arthur Kaliyev is trending up and delivering for the LA Kings]]                                        |

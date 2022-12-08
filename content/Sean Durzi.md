@@ -21,6 +21,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                  |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-06 | [[LA Kings Insider]] | [[FINAL – Kings 5, Senators 2 – Copley, Arvidsson, McLellan]] |
 | 2022-12-05 | [[LA Daily News]]       | [[With Alex Iafallo returning, Kings are not done tinkering with lineup]]                                                                              |
 | 2022-12-03 | [[LA Kings Insider]]    | [[FINAL – Kings 2, Hurricanes 4 – Fagemo, Durzi, McLellan]]                                                                                            |
 | 2022-12-01 | [[Hockey Royalty]]      | [[LA Kings Shot Contribution Leaders]]                                                                                                                 |
