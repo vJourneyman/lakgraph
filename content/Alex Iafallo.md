@@ -21,6 +21,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                                |
 | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-05 | [[LA Daily News]]     | [[With Alex Iafallo returning, Kings are not done tinkering with lineup]]                                                            |
 | 2022-12-04 | [[Pro Hockey Rumors]] | [[Alex Iafallo To Return During The Upcoming Road Trip]]                                                                             |
 | 2022-12-04 | [[LA Kings Insider]]  | [[Practice 12-4 – Iafallo “available” on trip + Todays Alignment, Edlers Character, Goaltending Overview]]                           |
 | 2022-12-01 | [[Mayors Manor]]      | [[LA Kings GM Rob Blake Gives His State of the Season After 25 Games]]                                                               |

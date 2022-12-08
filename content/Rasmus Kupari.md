@@ -89,6 +89,7 @@ priority: high
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                |
 | ---------- | -------------------- | -------------------------------------------------------------------- |
+| 2022-12-05 | [[Mayors Manor]] | [[Reign Recap - Byfield, Petersen Help Reign Top Condors 5-2]] |
 | 2022-12-02 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup vs Colorado Eagles - Come See Cal]] |
 | 2022-10-29 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Bakersfield, 10-29 - LA Kings Insider]] |
 | 2022-10-27 | [[Mayors Manor]]     | [[Reign Recap - Ontario Surge in Standings with Win Over San Jose]]  |

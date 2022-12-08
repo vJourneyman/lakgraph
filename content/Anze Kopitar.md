@@ -20,6 +20,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                                  |
 | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-05 | [[Kings at NHL.com]]   | [[The Week That Was, The Week That Is - 12-5]]                                                                                                         |
 | 2022-12-04 | [[The Forum Report]]   | [[Playmaking Chart - December 3 vs Carolina]]                                                                                                          |
 | 2022-12-03 | [[LA Hockey Now]]      | [[Kings vs Hurricanes Game 27 - Lines, Notes and How to Watch]]                                                                                        |
 | 2022-12-02 | [[Mayors Manor]]       | [[Rapid Review - Notes and Highlights from Kings 5-3 Win Over Coyotes]]                                                                                |

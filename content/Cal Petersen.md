@@ -161,14 +161,18 @@ status: stable
 
 
 ## Minor League Coverage
-| Date       | Site                  | Title                                                                   |
-| ---------- | --------------------- | ----------------------------------------------------------------------- |
-| 2022-12-03 | [[Mayors Manor]] | [[INTERVIEW - Cal Petersen on His Past, Present, and Future]] |
-| 2022-12-02 | [[Pro Hockey Rumors]] | [[What Your Team Is Thankful For - Los Angeles Kings]]                  |
-| 2022-12-02 | [[LA Daily News]]     | [[Kings wrap up hectic homestand vs Eastern power Carolina]]            |
-| 2022-12-02 | [[Mayors Manor]]      | [[Reign Recap - Petersen Soars to 3-1 Victory in Return vs Eagles]]     |
-| 2022-12-02 | [[Mayors Manor]]      | [[Ontario Reign Projected Lineup vs Colorado Eagles - Come See Cal]]    |
-| 2022-12-02 | [[Mayors Manor]]      | [[Rapid Review - Notes and Highlights from Kings 5-3 Win Over Coyotes]] |
+| Date       | Site                    | Title                                                                     |
+| ---------- | ----------------------- | ------------------------------------------------------------------------- |
+| 2022-12-05 | [[Last Word On Sports]] | [[NHL First Quarter Analysis - Pacific Division Part One]]                |
+| 2022-12-05 | [[LA Daily News]]       | [[With Alex Iafallo returning, Kings are not done tinkering with lineup]] |
+| 2022-12-05 | [[Hockey Royalty]]      | [[Ontario Reign - Three takeaways from 5-2 win against Bakersfield]]      |
+| 2022-12-05 | [[Hockey Royalty]]      | [[Week 9 Pacific Division Power Rankings]]                                |
+| 2022-12-03 | [[Mayors Manor]]        | [[INTERVIEW - Cal Petersen on His Past, Present, and Future]]             |
+| 2022-12-02 | [[Pro Hockey Rumors]]   | [[What Your Team Is Thankful For - Los Angeles Kings]]                    |
+| 2022-12-02 | [[LA Daily News]]       | [[Kings wrap up hectic homestand vs Eastern power Carolina]]              |
+| 2022-12-02 | [[Mayors Manor]]        | [[Reign Recap - Petersen Soars to 3-1 Victory in Return vs Eagles]]       |
+| 2022-12-02 | [[Mayors Manor]]        | [[Ontario Reign Projected Lineup vs Colorado Eagles - Come See Cal]]      |
+| 2022-12-02 | [[Mayors Manor]]        | [[Rapid Review - Notes and Highlights from Kings 5-3 Win Over Coyotes]]   |
 | 2022-12-02 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 3, Eagles 1 – Sturm, Petersen, Spence]] |
 
 

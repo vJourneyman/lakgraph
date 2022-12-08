@@ -22,6 +22,8 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                          |
 | ---------- | --------------------- | -------------------------------------------------------------------------------------------------------------- |
+| 2022-12-05 | [[Kings at NHL.com]]  | [[The Week That Was, The Week That Is - 12-5]]                                                                 |
+| 2022-12-05 | [[Hockey Royalty]]    | [[Week 9 Pacific Division Power Rankings]]                                                                     |
 | 2022-12-04 | [[Kings at NHL.com]]  | [[12-3 FINAL - Kings 2, Hurricanes 4]]                                                                         |
 | 2022-12-04 | [[The Forum Report]]  | [[Playmaking Chart - December 3 vs Carolina]]                                                                  |
 | 2022-12-03 | [[LA Hockey Now]]     | [[Kings Outclassed In 4-2 Loss Against Hurricanes]]                                                            |

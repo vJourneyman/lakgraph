@@ -21,6 +21,10 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-05 | [[The Hockey News]]     | [[REACTING TO TEAM CANADAS 2023 WORLD JUNIOR CAMP ROSTER]]                                                                                          |
+| 2022-12-05 | [[LA Daily News]]       | [[With Alex Iafallo returning, Kings are not done tinkering with lineup]]                                                                           |
+| 2022-12-05 | [[Mayors Manor]]        | [[Updated - Brandt Clarke Still a Possibility for Team Canada World Juniors Camp]]                                                                  |
+| 2022-12-05 | [[LA Kings Insider]]    | [[Kenny Connors selected to USA WJC Preliminary Roster + Status of Additional Eligible Players]]                                                    |
 | 2022-12-04 | [[Pro Hockey Rumors]]   | [[Decision Time Is Coming For Kings And Brandt Clarke]]                                                                                             |
 | 2022-12-02 | [[LA Kings Insider]]    | [[Rob Blakes Media Availability – Full Video + Notes on Defense, Trades, Clarke, Byfield, Schedule]]                                                |
 | 2022-12-01 | [[Mayors Manor]]        | [[LA Kings GM Rob Blake Gives His State of the Season After 25 Games]]                                                                              |

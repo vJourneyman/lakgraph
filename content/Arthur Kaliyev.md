@@ -22,6 +22,9 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                                      |
 | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-05 | [[LA Daily News]]     | [[With Alex Iafallo returning, Kings are not done tinkering with lineup]]                                                                  |
+| 2022-12-05 | [[Kings at NHL.com]]  | [[The Week That Was, The Week That Is - 12-5]]                                                                                             |
+| 2022-12-05 | [[LA Kings Insider]]  | [[With an elevated role as of late, Arthur Kaliyev is trending up and delivering for the LA Kings]]                                        |
 | 2022-12-04 | [[Kings at NHL.com]]  | [[12-3 FINAL - Kings 2, Hurricanes 4]]                                                                                                     |
 | 2022-12-04 | [[Hockey Royalty]]    | [[Takeaways - LA Kings 2, Hurricanes 4 – Size matters]]                                                                                    |
 | 2022-12-04 | [[Mayors Manor]]      | [[Rapid Review - Notes and Highlights from Kings 4-2 Loss to Hurricanes]]                                                                  |

@@ -34,9 +34,10 @@ status: needs-draft-content
 
 
 ## Post-Draft Coverage
-| Date | Site | Title |
-| ---- | ---- | ----- |
-| 2022-10-22 | [[Mayors Manor]] | [[And So It Begins – Kings On Kings Crime On TV Today]]                                                                                   |
+| Date       | Site             | Title                                                                  |
+| ---------- | ---------------- | ---------------------------------------------------------------------- |
+| 2022-12-05 | [[Mayors Manor]] | [[Kings 2022 Draftee Kenny Connors Invited to USA World Juniors Camp]] |
+| 2022-10-22 | [[Mayors Manor]] | [[And So It Begins – Kings On Kings Crime On TV Today]]                |
 
 
 

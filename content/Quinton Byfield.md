@@ -98,7 +98,10 @@ priority: high
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                                                                        |
 | ---------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-12-04 | [[Mayors Manor]] | [[Ontario Reign Projected Lineup vs Bakersfield Condors - Plus Latest on Turcotte]] |
+| 2022-12-05 | [[Hockey Royalty]]   | [[LA Kings prospect update – Week of 11-28]]                                                                                                 |
+| 2022-12-05 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 5-2 win against Bakersfield]]                                                                         |
+| 2022-12-05 | [[Mayors Manor]]     | [[Reign Recap - Byfield, Petersen Help Reign Top Condors 5-2]]                                                                               |
+| 2022-12-04 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup vs Bakersfield Condors - Plus Latest on Turcotte]]                                                          |
 | 2022-12-04 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 5, Condors 2 – Sturm, Allard, Gaunce]]                                                                                 |
 | 2022-12-02 | [[Kings at NHL.com]] | [[LA Kings Prospect Report, 12-2]]                                                                                                           |
 | 2022-12-02 | [[Mayors Manor]]     | [[Reign Recap - Petersen Soars to 3-1 Victory in Return vs Eagles]]                                                                          |

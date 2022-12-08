@@ -23,6 +23,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                              | Title                                                                                                                                                |
 | ---------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-05 | [[LA Daily News]] | [[With Alex Iafallo returning, Kings are not done tinkering with lineup]] |
 | 2022-12-04 | [[The Forum Report]]              | [[Playmaking Chart - December 3 vs Carolina]]                                                                                                        |
 | 2022-12-04 | [[LA Kings Insider]]              | [[Practice 12-4 – Iafallo “available” on trip + Todays Alignment, Edlers Character, Goaltending Overview]]                                           |
 | 2022-12-01 | [[The Fourth Period]]             | [[Whats wrong with the Kings and Panthers]]                                                                                                          |
