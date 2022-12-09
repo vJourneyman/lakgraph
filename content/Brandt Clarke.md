@@ -21,6 +21,8 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-08 | [[The Hockey News]]     | [[CLARKE, GUENTHER, WRIGHT LOANED TO CANADAS WORLD JUNIOR CAMP]]                                                                                    |
+| 2022-12-08 | [[LA Hockey Now]]       | [[Kings vs Maple Leafs Game 29 - Lines, Notes and How to Watch]]                                                                                    |
 | 2022-12-07 | [[Last Word On Sports]] | [[Two Players Get Loaned To Team Canada For World Juniors]]                                                                                         |
 | 2022-12-07 | [[TSN.ca]]              | [[Kings loan Clarke to Canada for WJHC]]                                                                                                            |
 | 2022-12-07 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Loan Brandt Clarke To Team Canada]]                                                                                             |

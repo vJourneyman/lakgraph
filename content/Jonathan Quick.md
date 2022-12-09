@@ -21,6 +21,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                 |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-08 | [[Kings at NHL.com]]    | [[Marner pushes point streak to 21, Maple Leafs blank Kings]]                                                                                         |
 | 2022-12-07 | [[The Hockey Writers]]  | [[NHL Goalie Report - Maple Leafs, Islanders, Blues, Kings, More]]                                                                                    |
 | 2022-12-05 | [[Last Word On Sports]] | [[NHL First Quarter Analysis - Pacific Division Part One]]                                                                                            |
 | 2022-12-04 | [[LA Kings Insider]]    | [[Practice 12-4 – Iafallo “available” on trip + Todays Alignment, Edlers Character, Goaltending Overview]]                                            |

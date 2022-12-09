@@ -22,6 +22,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                                      |
 | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-08 | [[The Forum Report]]  | [[Playmaking Chart - December 8 at Toronto]]                                                                                               |
 | 2022-12-07 | [[The Forum Report]]  | [[Playmaking Chart - 12-6 vs Ottawa]]                                                                                                      |
 | 2022-12-06 | [[Hockey Royalty]]    | [[LA Kings at Ottawa Senators projected lineup, betting preview]]                                                                          |
 | 2022-12-05 | [[LA Daily News]]     | [[With Alex Iafallo returning, Kings are not done tinkering with lineup]]                                                                  |

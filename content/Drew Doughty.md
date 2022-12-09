@@ -22,6 +22,8 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                      |
 | ---------- | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-08 | [[Mayors Manor]]        | [[Projected Lineups - LA Kings at Toronto Maple Leafs, Welcome Home Doughty]]                                                                              |
+| 2022-12-08 | [[The Athletic]]        | [[LeBrun - The NHLs scoring boom has gone supersonic, with wacky scores and no safe leads]]                                                                |
 | 2022-12-07 | [[LA Daily News]]       | [[Kings hope to continue road success in Toronto]]                                                                                                         |
 | 2022-12-07 | [[LA Kings Insider]]    | [[Practice 12-7 – Quick Twirl in Toronto + Nice Line, Nice Play, Doughty on Activation, Photos, Mammoth Rink]]                                             |
 | 2022-12-04 | [[The Forum Report]]    | [[Playmaking Chart - December 3 vs Carolina]]                                                                                                              |

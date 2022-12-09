@@ -21,6 +21,8 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                                |
 | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-08 | [[LA Hockey Now]]     | [[Kings vs Maple Leafs Game 29 - Lines, Notes and How to Watch]]                                                                     |
+| 2022-12-08 | [[LA Kings Insider]]  | [[12-8 Preview – Optional Morning Skate + Durzis Homecoming, Third Line Assessment, Facing The Leafs]]                               |
 | 2022-12-07 | [[LA Daily News]]     | [[Kings hope to continue road success in Toronto]]                                                                                   |
 | 2022-12-07 | [[The Forum Report]]  | [[Clarke loaned to Canada for world juniors - Durzi “a great find for our hockey club,” and more on a Wednesday practice day]]       |
 | 2022-12-07 | [[LA Kings Insider]]  | [[Alex Iafallo Talks Return To Lineup + Quick Hitters From The Road Trip Opener]]                                                    |

@@ -100,6 +100,7 @@ priority: high
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                                                                        |
 | ---------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-08 | [[Hockey Royalty]]   | [[Ontario Reign - Takeaways from 3-1 loss to Henderson]]                                                                                     |
 | 2022-12-06 | [[Hockey Royalty]]   | [[Ontario Reign three stars of the week – 11-28 – 12-4]]                                                                                     |
 | 2022-12-05 | [[Hockey Royalty]]   | [[LA Kings prospect update – Week of 11-28]]                                                                                                 |
 | 2022-12-05 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 5-2 win against Bakersfield]]                                                                         |

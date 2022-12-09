@@ -21,6 +21,9 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                              | Title                                                                                                                                                |
 | ---------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-08 | [[LA Hockey Now]]                 | [[Kings vs Maple Leafs Game 29 - Lines, Notes and How to Watch]]                                                                                     |
+| 2022-12-08 | [[LA Kings Insider]]              | [[FINAL – Kings 0, Maple Leafs 5 – Kopitar, McLellan]]                                                                                               |
+| 2022-12-08 | [[LA Kings Insider]]              | [[12-8 Preview – Optional Morning Skate + Durzis Homecoming, Third Line Assessment, Facing The Leafs]]                                               |
 | 2022-12-07 | [[The Forum Report]]              | [[Playmaking Chart - 12-6 vs Ottawa]]                                                                                                                |
 | 2022-12-06 | [[LA Hockey Now]]                 | [[Kings vs Senators Game 28 - Lines, Notes, and How to Watch]]                                                                                       |
 | 2022-12-06 | [[Hockey Royalty]]                | [[LA Kings at Ottawa Senators projected lineup, betting preview]]                                                                                    |

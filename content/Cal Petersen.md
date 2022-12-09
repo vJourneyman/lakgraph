@@ -166,6 +166,9 @@ status: stable
 ## Minor League Coverage
 | Date       | Site                    | Title                                                                                      |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------ |
+| 2022-12-02 | [[Daily Faceoff]]       | [[Saving Cal Petersen - The Kings goalie needs a complete technical overhaul]]             |
+| 2022-12-08 | [[Hockey Royalty]]      | [[Ontario Reign - Takeaways from 3-1 loss to Henderson]]                                   |
+| 2022-12-08 | [[Mayors Manor]]        | [[Reign Recap - Ontario Falls To Henderson 3-1]]                                           |
 | 2022-12-07 | [[LA Sports Nation]]    | [[With Demotion, Could Kings Petersen Be on Trading Block]]                                |
 | 2022-12-07 | [[The Hockey Writers]]  | [[Kings in a Dilemma After Placing Cal Petersen on Waivers]]                               |
 | 2022-12-07 | [[Mayors Manor]]        | [[Ontario Reign Projected Lineup vs Henderson Silver Knights - Including Turcotte Update]] |
