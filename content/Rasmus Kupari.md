@@ -87,18 +87,19 @@ priority: high
 
 
 ## Minor League Coverage
-| Date       | Site                 | Title                                                                |
-| ---------- | -------------------- | -------------------------------------------------------------------- |
-| 2022-12-05 | [[Mayors Manor]] | [[Reign Recap - Byfield, Petersen Help Reign Top Condors 5-2]] |
-| 2022-12-02 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup vs Colorado Eagles - Come See Cal]] |
-| 2022-10-29 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Bakersfield, 10-29 - LA Kings Insider]] |
-| 2022-10-27 | [[Mayors Manor]]     | [[Reign Recap - Ontario Surge in Standings with Win Over San Jose]]  |
-| 2022-10-26 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at San Jose, 10-26 - LA Kings Insider]]    |
-| 2022-10-25 | [[Mayors Manor]]     | [[LAK Prospects - Weekly Reign Report – October 24, 2022]]           |
-| 2022-10-24 | [[Hockey Royalty]]   | [[Ontario Reign - Three stars of the week from 10-17 to 10-23]]      |
-| 2022-10-23 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 5-1 win against San Diego]]   |
-| 2022-10-21 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at San Diego, 10-21 - LA Kings Insider]]   |
-| 2022-10-19 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 5-3 win against Henderson]]   |
+| Date       | Site                 | Title                                                                                      |
+| ---------- | -------------------- | ------------------------------------------------------------------------------------------ |
+| 2022-12-07 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup vs Henderson Silver Knights - Including Turcotte Update]] |
+| 2022-12-05 | [[Mayors Manor]]     | [[Reign Recap - Byfield, Petersen Help Reign Top Condors 5-2]]                             |
+| 2022-12-02 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup vs Colorado Eagles - Come See Cal]]                       |
+| 2022-10-29 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Bakersfield, 10-29 - LA Kings Insider]]                       |
+| 2022-10-27 | [[Mayors Manor]]     | [[Reign Recap - Ontario Surge in Standings with Win Over San Jose]]                        |
+| 2022-10-26 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at San Jose, 10-26 - LA Kings Insider]]                          |
+| 2022-10-25 | [[Mayors Manor]]     | [[LAK Prospects - Weekly Reign Report – October 24, 2022]]                                 |
+| 2022-10-24 | [[Hockey Royalty]]   | [[Ontario Reign - Three stars of the week from 10-17 to 10-23]]                            |
+| 2022-10-23 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 5-1 win against San Diego]]                         |
+| 2022-10-21 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at San Diego, 10-21 - LA Kings Insider]]                         |
+| 2022-10-19 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 5-3 win against Henderson]]                         |
 | 2022-10-19 | [[LA Kings Insider]] | [[High scoring forwards have Ontario Reign off to hot start - LA Kings Insider]] |
 
 

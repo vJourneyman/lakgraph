@@ -21,12 +21,21 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-07 | [[Last Word On Sports]] | [[Two Players Get Loaned To Team Canada For World Juniors]]                                                                                         |
+| 2022-12-07 | [[TSN.ca]]              | [[Kings loan Clarke to Canada for WJHC]]                                                                                                            |
+| 2022-12-07 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Loan Brandt Clarke To Team Canada]]                                                                                             |
+| 2022-12-07 | [[LA Daily News]]       | [[Kings hope to continue road success in Toronto]]                                                                                                  |
+| 2022-12-07 | [[Hockey Royalty]]      | [[LA Kings - Brandt Clarke loaned to team Canada]]                                                                                                  |
+| 2022-12-07 | [[Mayors Manor]]        | [[Brandt Clarke Officially Off to Join Team Canada for World Juniors]]                                                                              |
+| 2022-12-07 | [[The Forum Report]]    | [[Clarke loaned to Canada for world juniors - Durzi “a great find for our hockey club,” and more on a Wednesday practice day]]                      |
+| 2022-12-07 | [[LA Kings Insider]]    | [[LA Kings loan Brandt Clarke to Team Canadas National Junior Team]]                                                                                |
 | 2022-12-06 | [[Mayors Manor]]        | [[Projected Lineups - LA Kings at Ottawa Senators , Ready for First Stop of Roadie]]                                                                |
 | 2022-12-05 | [[The Hockey News]]     | [[REACTING TO TEAM CANADAS 2023 WORLD JUNIOR CAMP ROSTER]]                                                                                          |
 | 2022-12-05 | [[LA Daily News]]       | [[With Alex Iafallo returning, Kings are not done tinkering with lineup]]                                                                           |
 | 2022-12-05 | [[Mayors Manor]]        | [[Updated - Brandt Clarke Still a Possibility for Team Canada World Juniors Camp]]                                                                  |
 | 2022-12-05 | [[LA Kings Insider]]    | [[Kenny Connors selected to USA WJC Preliminary Roster + Status of Additional Eligible Players]]                                                    |
 | 2022-12-04 | [[Pro Hockey Rumors]]   | [[Decision Time Is Coming For Kings And Brandt Clarke]]                                                                                             |
+| 2022-12-02 | [[Hockey Royalty]]      | [[LA Kings - Time to start trusting the prospects]]                                                                                                 |
 | 2022-12-02 | [[LA Kings Insider]]    | [[Rob Blakes Media Availability – Full Video + Notes on Defense, Trades, Clarke, Byfield, Schedule]]                                                |
 | 2022-12-01 | [[Mayors Manor]]        | [[LA Kings GM Rob Blake Gives His State of the Season After 25 Games]]                                                                              |
 | 2022-12-01 | [[The Forum Report]]    | [[Blakes press conference elicits more questions than answers]]                                                                                     |

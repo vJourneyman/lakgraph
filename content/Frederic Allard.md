@@ -32,8 +32,9 @@ status: unstarted
 
 
 ## Minor League Coverage
-| Date | Site | Title |
-| ---- | ---- | ----- |
+| Date       | Site                 | Title                                                        |
+| ---------- | -------------------- | ------------------------------------------------------------ |
+| 2022-12-07 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Henderson, 12-7]]               |
 | 2022-12-04 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 5, Condors 2 – Sturm, Allard, Gaunce]] |
 
 

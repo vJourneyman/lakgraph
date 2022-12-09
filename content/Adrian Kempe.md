@@ -21,6 +21,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                              | Title                                                                                                                                                |
 | ---------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-07 | [[The Forum Report]]              | [[Playmaking Chart - 12-6 vs Ottawa]]                                                                                                                |
 | 2022-12-06 | [[LA Hockey Now]]                 | [[Kings vs Senators Game 28 - Lines, Notes, and How to Watch]]                                                                                       |
 | 2022-12-06 | [[Hockey Royalty]]                | [[LA Kings at Ottawa Senators projected lineup, betting preview]]                                                                                    |
 | 2022-12-06 | [[The Forum Report]]              | [[Iafallo in, Kempe to center - AJ Jakubec checks in from the World Cup]]                                                                            |

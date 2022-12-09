@@ -19,6 +19,10 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                           |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-07 | [[LA Daily News]]       | [[Kings hope to continue road success in Toronto]]                                                                                                              |
+| 2022-12-07 | [[Mayors Manor]]        | [[Rapid Review - Notes and Highlights from Kings 5-2 Victory in Ottawa]]                                                                                        |
+| 2022-12-07 | [[The Forum Report]]    | [[Playmaking Chart - 12-6 vs Ottawa]]                                                                                                                           |
+| 2022-12-07 | [[LA Kings Insider]]    | [[Practice 12-7 – Quick Twirl in Toronto + Nice Line, Nice Play, Doughty on Activation, Photos, Mammoth Rink]]                                                  |
 | 2022-12-06 | [[LA Hockey Now]]       | [[Hot Start Leads Kings Past Senators 5-2]]                                                                                                                     |
 | 2022-12-06 | [[Kings at NHL.com]]    | [[Arvidsson scores twice in Kings win against Senators]]                                                                                                        |
 | 2022-12-06 | [[LA Kings Insider]]    | [[FINAL – Kings 5, Senators 2 – Copley, Arvidsson, McLellan]]                                                                                                   |

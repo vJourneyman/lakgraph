@@ -21,7 +21,11 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                  |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-12-06 | [[LA Kings Insider]] | [[FINAL – Kings 5, Senators 2 – Copley, Arvidsson, McLellan]] |
+| 2022-12-07 | [[LA Daily News]]       | [[Kings hope to continue road success in Toronto]]                                                                                                     |
+| 2022-12-07 | [[Mayors Manor]]        | [[Rapid Review - Notes and Highlights from Kings 5-2 Victory in Ottawa]]                                                                               |
+| 2022-12-07 | [[The Forum Report]]    | [[Clarke loaned to Canada for world juniors - Durzi “a great find for our hockey club,” and more on a Wednesday practice day]]                         |
+| 2022-12-07 | [[The Forum Report]]    | [[Playmaking Chart - 12-6 vs Ottawa]]                                                                                                                  |
+| 2022-12-06 | [[LA Kings Insider]]    | [[FINAL – Kings 5, Senators 2 – Copley, Arvidsson, McLellan]]                                                                                          |
 | 2022-12-05 | [[LA Daily News]]       | [[With Alex Iafallo returning, Kings are not done tinkering with lineup]]                                                                              |
 | 2022-12-03 | [[LA Kings Insider]]    | [[FINAL – Kings 2, Hurricanes 4 – Fagemo, Durzi, McLellan]]                                                                                            |
 | 2022-12-01 | [[Hockey Royalty]]      | [[LA Kings Shot Contribution Leaders]]                                                                                                                 |

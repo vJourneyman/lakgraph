@@ -22,6 +22,7 @@ status: stable
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2022-12-06 | [[The Hockey Writers]]  | [[Los Angeles Kings - 3 Trade Targets to Shake Up Goaltending Depth]]                                                                                           |
 | 2022-12-04 | [[LA Kings Insider]]    | [[Practice 12-4 – Iafallo “available” on trip + Todays Alignment, Edlers Character, Goaltending Overview]]                                                      |
+| 2022-12-02 | [[The Athletic]]        | [[Kings get a ‘wake-up call’ in Cal Petersen demotion, and a win over Arizona]]                                                                                 |
 | 2022-12-02 | [[The Forum Report]]    | [[Waking up with the Kings - December 2]]                                                                                                                       |
 | 2022-12-02 | [[LA Kings Insider]]    | [[Rob Blakes Media Availability – Full Video + Notes on Defense, Trades, Clarke, Byfield, Schedule]]                                                            |
 | 2022-12-01 | [[The Fourth Period]]   | [[Whats wrong with the Kings and Panthers]]                                                                                                                     |
@@ -30,6 +31,7 @@ status: stable
 | 2022-12-01 | [[Mayors Manor]]        | [[LA Kings GM Rob Blake Gives His State of the Season After 25 Games]]                                                                                          |
 | 2022-12-01 | [[The Forum Report]]    | [[McLellan downplays Petersen drama, praises call-ups Fagemo and Bjornfot, and hints at Madden, Copley plans]]                                                  |
 | 2022-12-01 | [[LA Kings Insider]]    | [[Blake and McLellan Talk Roster Moves – Bjornfot/Fagemo/Copley to LAK, Spence, Kupari, Petersen to ONT]]                                                       |
+| 2022-11-30 | [[Hockey Feed]]         | [[Kings pull stunning waiver move after last nights game-changer!]]                                                                                             |
 | 2022-11-30 | [[Last Word On Sports]] | [[Cal Petersen on Waivers]]                                                                                                                                     |
 | 2022-11-30 | [[LA Times]]            | [[Cal Petersen situation sends message Kings cannot ignore]]                                                                                                    |
 | 2022-11-30 | [[The Hockey Writers]]  | [[NHL Goalie Report - Red Wings, Capitals, Stars, Blues, Kings, More]]                                                                                          |
@@ -162,19 +164,24 @@ status: stable
 
 
 ## Minor League Coverage
-| Date       | Site                    | Title                                                                     |
-| ---------- | ----------------------- | ------------------------------------------------------------------------- |
-| 2022-12-06 | [[Hockey Royalty]]      | [[Ontario Reign three stars of the week – 11-28 – 12-4]]                  |
-| 2022-12-05 | [[Last Word On Sports]] | [[NHL First Quarter Analysis - Pacific Division Part One]]                |
-| 2022-12-05 | [[LA Daily News]]       | [[With Alex Iafallo returning, Kings are not done tinkering with lineup]] |
-| 2022-12-05 | [[Hockey Royalty]]      | [[Ontario Reign - Three takeaways from 5-2 win against Bakersfield]]      |
-| 2022-12-05 | [[Hockey Royalty]]      | [[Week 9 Pacific Division Power Rankings]]                                |
-| 2022-12-03 | [[Mayors Manor]]        | [[INTERVIEW - Cal Petersen on His Past, Present, and Future]]             |
-| 2022-12-02 | [[Pro Hockey Rumors]]   | [[What Your Team Is Thankful For - Los Angeles Kings]]                    |
-| 2022-12-02 | [[LA Daily News]]       | [[Kings wrap up hectic homestand vs Eastern power Carolina]]              |
-| 2022-12-02 | [[Mayors Manor]]        | [[Reign Recap - Petersen Soars to 3-1 Victory in Return vs Eagles]]       |
-| 2022-12-02 | [[Mayors Manor]]        | [[Ontario Reign Projected Lineup vs Colorado Eagles - Come See Cal]]      |
-| 2022-12-02 | [[Mayors Manor]]        | [[Rapid Review - Notes and Highlights from Kings 5-3 Win Over Coyotes]]   |
+| Date       | Site                    | Title                                                                                      |
+| ---------- | ----------------------- | ------------------------------------------------------------------------------------------ |
+| 2022-12-07 | [[LA Sports Nation]]    | [[With Demotion, Could Kings Petersen Be on Trading Block]]                                |
+| 2022-12-07 | [[The Hockey Writers]]  | [[Kings in a Dilemma After Placing Cal Petersen on Waivers]]                               |
+| 2022-12-07 | [[Mayors Manor]]        | [[Ontario Reign Projected Lineup vs Henderson Silver Knights - Including Turcotte Update]] |
+| 2022-12-07 | [[LA Kings Insider]]    | [[REIGN PREVIEW – Ontario vs Henderson, 12-7]]                                             |
+| 2022-12-06 | [[Hockey Royalty]]      | [[Ontario Reign three stars of the week – 11-28 – 12-4]]                                   |
+| 2022-12-05 | [[Last Word On Sports]] | [[NHL First Quarter Analysis - Pacific Division Part One]]                                 |
+| 2022-12-05 | [[LA Daily News]]       | [[With Alex Iafallo returning, Kings are not done tinkering with lineup]]                  |
+| 2022-12-05 | [[Hockey Royalty]]      | [[Ontario Reign - Three takeaways from 5-2 win against Bakersfield]]                       |
+| 2022-12-05 | [[Hockey Royalty]]      | [[Week 9 Pacific Division Power Rankings]]                                                 |
+| 2022-12-04 | [[SportsNet]]           | [[20 Fantasy Thoughts - Kadri still searching for offence with Flames]]                    |
+| 2022-12-03 | [[Mayors Manor]]        | [[INTERVIEW - Cal Petersen on His Past, Present, and Future]]                              |
+| 2022-12-02 | [[Pro Hockey Rumors]]   | [[What Your Team Is Thankful For - Los Angeles Kings]]                                     |
+| 2022-12-02 | [[LA Daily News]]       | [[Kings wrap up hectic homestand vs Eastern power Carolina]]                               |
+| 2022-12-02 | [[Mayors Manor]]        | [[Reign Recap - Petersen Soars to 3-1 Victory in Return vs Eagles]]                        |
+| 2022-12-02 | [[Mayors Manor]]        | [[Ontario Reign Projected Lineup vs Colorado Eagles - Come See Cal]]                       |
+| 2022-12-02 | [[Mayors Manor]]        | [[Rapid Review - Notes and Highlights from Kings 5-3 Win Over Coyotes]]                    |
 | 2022-12-02 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 3, Eagles 1 – Sturm, Petersen, Spence]] |
 
 

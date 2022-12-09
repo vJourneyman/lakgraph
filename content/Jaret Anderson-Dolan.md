@@ -21,6 +21,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                                                                      |
 | ---------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-07 | [[The Forum Report]] | [[Playmaking Chart - 12-6 vs Ottawa]]                                                                                                                      |
 | 2022-11-28 | [[Kings at NHL.com]] | [[The Week That Was, The Week That Is - 11-28]]                                                                                                            |
 | 2022-11-28 | [[LA Kings Insider]] | [[11-28 Practice – Vilardi and Iafallo Skate + Todays Alignment, Second Thoughts, Pinch Hitting]]                                                          |
 | 2022-11-26 | [[LA Daily News]]    | [[Kings seek power surge with 4-game homestand]]                                                                                                           |
@@ -50,7 +51,7 @@ status: stable
 | 2022-11-01 | [[LA Kings Insider]] | [[11-1 Preview - No Morning Skate in Dallas plus McLellan on Fiala, Doughty-Anderson Pairing, The Big 100 - LA Kings Insider]]                             |
 | 2022-10-30 | [[The Forum Report]] | [[Waking up with the Kings - October 30]]                                                                                                                  |
 | 2022-10-29 | [[Hockey Royalty]]   | [[LA Kings vs Toronto Maple Leafs projected lineup, betting preview]]                                                                                      |
-| 2022-10-28 | [[LA Kings Insider]] | [[The Lines They Are A-Changing - Kings display new look heading into tomorrows game - LA Kings Insider]]                                               |
+| 2022-10-28 | [[LA Kings Insider]] | [[The Lines They Are A-Changing - Kings display new look heading into tomorrows game - LA Kings Insider]]                                                  |
 | 2022-10-27 | [[LA Daily News]]    | [[Kings early lead fades away as Winnipeg hands them 3rd loss in 4 games]]                                                                                 |
 | 2022-10-27 | [[Hockey Royalty]]   | [[LA Kings vs Winnipeg Jets projected lineups, betting preview]]                                                                                           |
 | 2022-10-26 | [[The Forum Report]] | [[Playmaking Chart - 10-25 vs TBL]]                                                                                                                        |

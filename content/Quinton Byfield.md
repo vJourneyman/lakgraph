@@ -22,7 +22,8 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-12-06 | [[Mayors Manor]] | [[Projected Lineups - LA Kings at Ottawa Senators , Ready for First Stop of Roadie]] |
+| 2022-12-07 | [[LA Kings Insider]]    | [[REIGN PREVIEW – Ontario vs Henderson, 12-7]]                                                                                       |
+| 2022-12-06 | [[Mayors Manor]]        | [[Projected Lineups - LA Kings at Ottawa Senators , Ready for First Stop of Roadie]]                                                 |
 | 2022-12-01 | [[LA Hockey Now]]       | [[Kopitar Leads Kings Past Coyotes 5-3]]                                                                                             |
 | 2022-11-23 | [[Mayors Manor]]        | [[Ontario Reign Projected Lineup vs San Jose Barracuda - Looking to Build Momentum]]                                                 |
 | 2022-11-23 | [[LA Kings Insider]]    | [[REIGN FINAL – Reign 5, Barracuda 1 – Sturm, Spence, Madden]]                                                                       |
@@ -106,6 +107,7 @@ priority: high
 | 2022-12-04 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup vs Bakersfield Condors - Plus Latest on Turcotte]]                                                          |
 | 2022-12-04 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 5, Condors 2 – Sturm, Allard, Gaunce]]                                                                                 |
 | 2022-12-02 | [[Kings at NHL.com]] | [[LA Kings Prospect Report, 12-2]]                                                                                                           |
+| 2022-12-02 | [[Hockey Royalty]]   | [[LA Kings - Time to start trusting the prospects]]                                                                                          |
 | 2022-12-02 | [[Mayors Manor]]     | [[Reign Recap - Petersen Soars to 3-1 Victory in Return vs Eagles]]                                                                          |
 | 2022-12-02 | [[LA Kings Insider]] | [[Rob Blakes Media Availability – Full Video + Notes on Defense, Trades, Clarke, Byfield, Schedule]]                                         |
 | 2022-12-02 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Colorado, 12-2]]                                                                                                |

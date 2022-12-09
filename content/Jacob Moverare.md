@@ -21,8 +21,8 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                  |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-12-02 | [[LA Kings Insider]] | [[Rob Blakes Media Availability – Full Video + Notes on Defense, Trades, Clarke, Byfield, Schedule]] |
-| 2022-11-28 | [[The Forum Report]] | [[Dinged up since the Seattle game, Vilardi sits - despite scoring slump, Kempe likes what his line is generating - Kaliyev gains a step]] |
+| 2022-12-02 | [[LA Kings Insider]]    | [[Rob Blakes Media Availability – Full Video + Notes on Defense, Trades, Clarke, Byfield, Schedule]]                                                   |
+| 2022-11-28 | [[The Forum Report]]    | [[Dinged up since the Seattle game, Vilardi sits - despite scoring slump, Kempe likes what his line is generating - Kaliyev gains a step]]             |
 | 2022-11-28 | [[LA Kings Insider]]    | [[11-28 Practice – Vilardi and Iafallo Skate + Todays Alignment, Second Thoughts, Pinch Hitting]]                                                      |
 | 2022-11-27 | [[The Forum Report]]    | [[Clarke, Andersson, Allard up, but Moverare absence raises questions - quick LAK-OTT preview]]                                                        |
 | 2022-11-26 | [[Pro Hockey Rumors]]   | [[Kings Assign Lias Andersson And Jacob Moverare To The AHL]]                                                                                          |
@@ -62,18 +62,20 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 | 2022-10-10 | [[LA Kings on YouTube]] | [[GM Rob Blake speaks to the media before the 2022-23 Regular Season]]                                                                                 |
 | 2022-10-08 | [[Mayors Manor]]        | [[Kings Opening Night Final Roster Decisions Set – And, There Are Some Swerves]]                                                                       |
 | 2022-10-06 | [[LA Kings Insider]]    | [[10-6 Preview – Projected Game Group + Durzi On Return, Moverare on Opportunity, Utes]]                                                               |
-| 2022-09-26 | [[LA Kings Insider]]    | [[9-26 Preview – Projected Lineup + Back-To-Back Thoughts, JADs Focus, Spence, Moverare debuts]]    |
+| 2022-09-26 | [[LA Kings Insider]]    | [[9-26 Preview – Projected Lineup + Back-To-Back Thoughts, JADs Focus, Spence, Moverare debuts]]                                                       |
 
 
 
 ## Minor League Coverage
-| Date       | Site                    | Title                                                                                               |
-| ---------- | ----------------------- | --------------------------------------------------------------------------------------------------- |
-| 2022-12-04 | [[Mayors Manor]] | [[Ontario Reign Projected Lineup vs Bakersfield Condors - Plus Latest on Turcotte]] |
-| 2022-11-26 | [[Mayors Manor]] | [[Ontario Reign Projected Lineup vs Tucson Roadrunners - Clarkes Last Stand]] |
-| 2022-11-26 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 1, Roadrunners 3 – Sturm, Dudas, Clarke]] |
-| 2022-10-26 | [[Mayors Manor]] | [[Ontario Reign - Projected Lineup at San Jose Barracuda on Wednesday]]                                                                                                   |
-| 2022-10-18 | [[Mayors Manor]] | [[Ontario Reign - Projected Lineup vs Henderson Silver Knights on Tuesday]]                                                                                                       |
+| Date       | Site                 | Title                                                                                      |
+| ---------- | -------------------- | ------------------------------------------------------------------------------------------ |
+| 2022-12-07 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup vs Henderson Silver Knights - Including Turcotte Update]] |
+| 2022-12-07 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 1, Silver Knights 3 – Sturm, Moverare]]                              |
+| 2022-12-04 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup vs Bakersfield Condors - Plus Latest on Turcotte]]        |
+| 2022-11-26 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup vs Tucson Roadrunners - Clarkes Last Stand]]              |
+| 2022-11-26 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 1, Roadrunners 3 – Sturm, Dudas, Clarke]]                            |
+| 2022-10-26 | [[Mayors Manor]]     | [[Ontario Reign - Projected Lineup at San Jose Barracuda on Wednesday]]                    |
+| 2022-10-18 | [[Mayors Manor]]     | [[Ontario Reign - Projected Lineup vs Henderson Silver Knights on Tuesday]]                |
 
 
 

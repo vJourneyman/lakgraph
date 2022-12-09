@@ -33,6 +33,7 @@ Alex Turcotte | | C | L | 5' 11" | 185 | 2001-02-26 | Elk Grove, IL, USA | 2019 
 ## Minor League Coverage
 | Date       | Site                  | Title                                                                                                                                        |
 | ---------- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-07 | [[Mayors Manor]]      | [[Ontario Reign Projected Lineup vs Henderson Silver Knights - Including Turcotte Update]]                                                   |
 | 2022-12-04 | [[Mayors Manor]]      | [[Ontario Reign Projected Lineup vs Bakersfield Condors - Plus Latest on Turcotte]]                                                          |
 | 2022-12-02 | [[Kings at NHL.com]]  | [[LA Kings Prospect Report, 12-2]]                                                                                                           |
 | 2022-12-02 | [[LA Kings Insider]]  | [[REIGN PREVIEW – Ontario vs Colorado, 12-2]]                                                                                                |

@@ -22,7 +22,10 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                      |
 | ---------- | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-07 | [[LA Daily News]]       | [[Kings hope to continue road success in Toronto]]                                                                                                         |
+| 2022-12-07 | [[LA Kings Insider]]    | [[Practice 12-7 – Quick Twirl in Toronto + Nice Line, Nice Play, Doughty on Activation, Photos, Mammoth Rink]]                                             |
 | 2022-12-04 | [[The Forum Report]]    | [[Playmaking Chart - December 3 vs Carolina]]                                                                                                              |
+| 2022-12-02 | [[The Athletic]]        | [[Kings get a ‘wake-up call’ in Cal Petersen demotion, and a win over Arizona]]                                                                            |
 | 2022-12-01 | [[The Forum Report]]    | [[Playmaking Chart - 11-29 vs Seattle]]                                                                                                                    |
 | 2022-12-01 | [[LA Kings Insider]]    | [[FINAL – Kings 5, Coyotes 3 – Doughty, Kopitar, McLellan]]                                                                                                |
 | 2022-12-01 | [[LA Kings Insider]]    | [[12-1 Preview – Changes Expected + Internal Meeting, Commitment To Change, Madden Recalled]]                                                              |
@@ -89,7 +92,7 @@ status: stable
 | 2022-10-09 | [[LA Daily News]]       | [[Kings need faster start to meet higher expectations]]                                                                                                    |
 | 2022-10-08 | [[LA Kings Insider]]    | [[10-8 Preview – Gameday Thoughts + Byfield Update, Net Play, Versatility At The Bottom]]                                                                  |
 | 2022-10-03 | [[LA Times]]            | [[Younger Kings players must beat Anze Kopitar for scoring title - Los Angeles Times]]                                                                     |
-| 2022-09-28 | [[LA Kings Insider]]    | [[PRESEASON FINAL – Kings 1, Sharks 3 – Doughty, Villalta, McLellan]]                                                                                 |
+| 2022-09-28 | [[LA Kings Insider]]    | [[PRESEASON FINAL – Kings 1, Sharks 3 – Doughty, Villalta, McLellan]]                                                                                      |
 
 
 ## Minor League Coverage

@@ -21,6 +21,9 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                                |
 | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-07 | [[LA Daily News]]     | [[Kings hope to continue road success in Toronto]]                                                                                   |
+| 2022-12-07 | [[The Forum Report]]  | [[Clarke loaned to Canada for world juniors - Durzi “a great find for our hockey club,” and more on a Wednesday practice day]]       |
+| 2022-12-07 | [[LA Kings Insider]]  | [[Alex Iafallo Talks Return To Lineup + Quick Hitters From The Road Trip Opener]]                                                    |
 | 2022-12-06 | [[Pro Hockey Rumors]] | [[Los Angeles Kings Activate Alex Iafallo]]                                                                                          |
 | 2022-12-06 | [[LA Hockey Now]]     | [[Hot Start Leads Kings Past Senators 5-2]]                                                                                          |
 | 2022-12-06 | [[LA Hockey Now]]     | [[Kings vs Senators Game 28 - Lines, Notes, and How to Watch]]                                                                       |

@@ -21,6 +21,8 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                                                           |
 | ---------- | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-07 | [[The Forum Report]]  | [[Clarke loaned to Canada for world juniors - Durzi “a great find for our hockey club,” and more on a Wednesday practice day]]                                  |
+| 2022-12-07 | [[LA Kings Insider]]  | [[Practice 12-7 – Quick Twirl in Toronto + Nice Line, Nice Play, Doughty on Activation, Photos, Mammoth Rink]]                                                  |
 | 2022-12-02 | [[Pro Hockey Rumors]] | [[What Your Team Is Thankful For - Los Angeles Kings]]                                                                                                          |
 | 2022-11-29 | [[The Forum Report]]  | [[Data Viz - What the playmaking charts tell us through the quarter(ish) pole]]                                                                                 |
 | 2022-11-28 | [[The Athletic]]      | [[Kopitar and Doughty No, the Kings power play is being led by unusual suspects]]                                                                               |

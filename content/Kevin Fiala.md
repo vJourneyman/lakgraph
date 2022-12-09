@@ -26,6 +26,7 @@ status: UnprocessedContent
 | 2022-12-03 | [[The Hockey News]]               | [[WHY LOS ANGELES WON THE KEVIN FIALA TRADE WITH MINNESOTA]]                                                                                               |
 | 2022-12-02 | [[Pro Hockey Rumors]]             | [[What Your Team Is Thankful For - Los Angeles Kings]]                                                                                                     |
 | 2022-12-02 | [[LA Daily News]]                 | [[Kings wrap up hectic homestand vs Eastern power Carolina]]                                                                                               |
+| 2022-12-02 | [[The Athletic]]                  | [[Kings get a ‘wake-up call’ in Cal Petersen demotion, and a win over Arizona]]                                                                            |
 | 2022-12-01 | [[The Fourth Period]]             | [[Whats wrong with the Kings and Panthers]]                                                                                                                |
 | 2022-12-01 | [[Triple Crown Blog]]             | [[Focus On The Positives]]                                                                                                                                 |
 | 2022-12-01 | [[Hockey Royalty]]                | [[LA Kings Shot Contribution Leaders]]                                                                                                                     |
