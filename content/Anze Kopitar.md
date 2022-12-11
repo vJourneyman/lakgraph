@@ -20,8 +20,9 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                                  |
 | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-12-08 | [[LA Hockey Now]] | [[Kings Consistency Issues Continue in 5-0 Loss to Maple Leafs]] |
+| 2022-12-08 | [[LA Hockey Now]]      | [[Kings Consistency Issues Continue in 5-0 Loss to Maple Leafs]]                                                                                       |
 | 2022-12-08 | [[Kings at NHL.com]]   | [[Marner pushes point streak to 21, Maple Leafs blank Kings]]                                                                                          |
+| 2022-12-08 | [[Mayors Manor]]       | [[Rapid Review - Notes and Highlights from Kings 5-0 Loss to Maple Leafs]]                                                    ~                        |
 | 2022-12-08 | [[The Forum Report]]   | [[Playmaking Chart - December 8 at Toronto]]                                                                                                           |
 | 2022-12-08 | [[LA Kings Insider]]   | [[FINAL – Kings 0, Maple Leafs 5 – Kopitar, McLellan]]                                                                                                 |
 | 2022-12-07 | [[Mayors Manor]]       | [[Rapid Review - Notes and Highlights from Kings 5-2 Victory in Ottawa]]                                                                               |
