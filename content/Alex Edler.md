@@ -20,6 +20,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                |
 | ---------- | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-09 | [[The Athletic]]        | [[Kings Brandt Clarke heads to world juniors camp, but when might he return]]                                                                        |
 | 2022-12-06 | [[LA Kings Insider]]    | [[12-6 Preview – Iafallo Activated, Will Play Tonight + New Lines, Copley To Start, Kempe at Center]]                                                |
 | 2022-12-04 | [[The Forum Report]]    | [[Edler will sit the occasional game for rest - Waking up with the Kings - December 3]]                                                              |
 | 2022-12-04 | [[LA Kings Insider]]    | [[Practice 12-4 – Iafallo “available” on trip + Todays Alignment, Edlers Character, Goaltending Overview]]                                           |

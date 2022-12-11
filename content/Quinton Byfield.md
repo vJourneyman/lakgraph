@@ -100,6 +100,8 @@ priority: high
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                                                                        |
 | ---------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-09 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 4, Roadrunners 3 (OT) – Sturm, Lee]] |
+| 2022-12-09 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at Tucson, 12-9]] |
 | 2022-12-08 | [[Hockey Royalty]]   | [[Ontario Reign - Takeaways from 3-1 loss to Henderson]]                                                                                     |
 | 2022-12-06 | [[Hockey Royalty]]   | [[Ontario Reign three stars of the week – 11-28 – 12-4]]                                                                                     |
 | 2022-12-05 | [[Hockey Royalty]]   | [[LA Kings prospect update – Week of 11-28]]                                                                                                 |

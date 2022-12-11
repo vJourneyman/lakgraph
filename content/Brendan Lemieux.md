@@ -22,6 +22,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                     |
 | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-09 | [[LA Hockey Now]]      | [[Kings Issues - Team Needs to Address Lack of Size and Physicality]]                                                     |
 | 2022-12-01 | [[Mayors Manor]]       | [[LA Kings GM Rob Blake Gives His State of the Season After 25 Games]]                                                    |
 | 2022-12-01 | [[The Forum Report]]   | [[Blakes press conference elicits more questions than answers]]                                                           |
 | 2022-11-22 | [[The Athletic]]       | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]]                                                 |

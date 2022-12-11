@@ -26,13 +26,14 @@ status: needs-draft-content
 
 
 ## Minor League Coverage
-| Date       | Site             | Title                                                                                  |
-| ---------- | ---------------- | -------------------------------------------------------------------------------------- |
-| 2022-11-20 | [[Mayors Manor]] | [[Ontario Reign Projected Lineup vs Henderson Silver Knights - Searching For Answers]] |
-| 2022-10-29 | [[Mayors Manor]] | [[Ontario Reign - Projected Lineup vs Bakersfield Condors - Several Changes Included]] |
-| 2022-10-27 | [[Mayors Manor]] | [[Reign Recap - Ontario Surge in Standings with Win Over San Jose]]                    |
-| 2022-10-26 | [[Mayors Manor]] | [[Ontario Reign - Projected Lineup at San Jose Barracuda on Wednesday]]                |
-| 2022-10-22 | [[Mayors Manor]] | [[Ontario Reign - Projected Lineup vs San Diego Gulls on Saturday]]                    |
+| Date       | Site                 | Title                                                                                  |
+| ---------- | -------------------- | -------------------------------------------------------------------------------------- |
+| 2022-12-09 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 4, Roadrunners 3 (OT) – Sturm, Lee]]                             |
+| 2022-11-20 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup vs Henderson Silver Knights - Searching For Answers]] |
+| 2022-10-29 | [[Mayors Manor]]     | [[Ontario Reign - Projected Lineup vs Bakersfield Condors - Several Changes Included]] |
+| 2022-10-27 | [[Mayors Manor]]     | [[Reign Recap - Ontario Surge in Standings with Win Over San Jose]]                    |
+| 2022-10-26 | [[Mayors Manor]]     | [[Ontario Reign - Projected Lineup at San Jose Barracuda on Wednesday]]                |
+| 2022-10-22 | [[Mayors Manor]]     | [[Ontario Reign - Projected Lineup vs San Diego Gulls on Saturday]]                    |
 | 2022-10-21 | [[Mayors Manor]] | [[Ontario Reign - Projected Lineup at San Diego on Friday]]                            |
 
 

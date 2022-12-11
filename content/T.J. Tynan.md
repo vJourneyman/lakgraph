@@ -28,8 +28,9 @@ Date | Site |  Title
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                               |
 | ---------- | -------------------- | ----------------------------------------------------------------------------------- |
-| 2022-12-06 | [[Hockey Royalty]] | [[Ontario Reign three stars of the week – 11-28 – 12-4]] |
-| 2022-11-12 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at Bakersfield, 11-12]] |
+| 2022-12-09 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at Tucson, 12-9]] |
+| 2022-12-06 | [[Hockey Royalty]]   | [[Ontario Reign three stars of the week – 11-28 – 12-4]]                            |
+| 2022-11-12 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at Bakersfield, 11-12]]                                   |
 | 2022-11-11 | [[Hockey Royalty]]   | [[Takeaways - Ontario Reign 3, San Jose Barracuda 4]]                               |
 | 2022-11-10 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at San Jose, 11-10]]                                      |
 | 2022-11-07 | [[Hockey Royalty]]   | [[Ontario Reign - Three stars of the week from 10-31 to 11-6]]                      |

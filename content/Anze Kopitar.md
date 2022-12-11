@@ -20,6 +20,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                                  |
 | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-09 | [[LA Daily News]]      | [[Kings faced with back-to-back road games after ‘disappointing loss]]                                                                                 |
 | 2022-12-08 | [[LA Hockey Now]]      | [[Kings Consistency Issues Continue in 5-0 Loss to Maple Leafs]]                                                                                       |
 | 2022-12-08 | [[Kings at NHL.com]]   | [[Marner pushes point streak to 21, Maple Leafs blank Kings]]                                                                                          |
 | 2022-12-08 | [[Mayors Manor]]       | [[Rapid Review - Notes and Highlights from Kings 5-0 Loss to Maple Leafs]]                                                    ~                        |
