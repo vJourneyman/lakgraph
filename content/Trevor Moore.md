@@ -21,6 +21,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                                           |
 | ---------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-10 | [[LA Kings Insider]]   | [[12-10 Preview – Copley In Net + Same Alignment Expected, Clears on the PK, Durzi and Suzuki]]                                                                 |
 | 2022-12-08 | [[The Fourth Period]]  | [[KINGS, MOORE WORKING ON EXTENSION]]                                                                                                                           |
 | 2022-12-08 | [[The Hockey Writers]] | [[NHL Rumors - Oilers, Canucks, Capitals, Blues, Kings, Maple Leafs]]                                                                                           |
 | 2022-12-08 | [[Pro Hockey Rumors]]  | [[Los Angeles Kings Working On Trevor Moore Extension]]                                                                                                         |

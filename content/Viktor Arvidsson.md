@@ -19,6 +19,9 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                           |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-10 | [[LA Hockey Now]]       | [[Kings Bounce Back With 4-2 Victory Over Canadiens]]                                                                                                           |
+| 2022-12-10 | [[Kings at NHL.com]]    | [[Copley makes 20 saves, Kings hang on to defeat Canadiens]]                                                                                                    |
+| 2022-12-10 | [[LA Kings Insider]]    | [[FINAL – Kings 4, Canadiens 2 – Danault, Edler, McLellan]]                                                                                                     |
 | 2022-12-07 | [[LA Daily News]]       | [[Kings hope to continue road success in Toronto]]                                                                                                              |
 | 2022-12-07 | [[Mayors Manor]]        | [[Rapid Review - Notes and Highlights from Kings 5-2 Victory in Ottawa]]                                                                                        |
 | 2022-12-07 | [[The Forum Report]]    | [[Playmaking Chart - 12-6 vs Ottawa]]                                                                                                                           |

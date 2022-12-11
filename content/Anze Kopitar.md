@@ -20,6 +20,10 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                                  |
 | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-10 | [[LA Hockey Now]]      | [[Kings Bounce Back With 4-2 Victory Over Canadiens]]                                                                                                  |
+| 2022-12-10 | [[LA Hockey Now]]      | [[Kings vs Canadiens Game 30 - Lines, Notes and How to Watch]]                                                                                         |
+| 2022-12-10 | [[Kings at NHL.com]]   | [[Copley makes 20 saves, Kings hang on to defeat Canadiens]]                                                                                           |
+| 2022-12-10 | [[LA Kings Insider]]   | [[FINAL – Kings 4, Canadiens 2 – Danault, Edler, McLellan]]                                                                                            |
 | 2022-12-09 | [[LA Daily News]]      | [[Kings faced with back-to-back road games after ‘disappointing loss]]                                                                                 |
 | 2022-12-08 | [[LA Hockey Now]]      | [[Kings Consistency Issues Continue in 5-0 Loss to Maple Leafs]]                                                                                       |
 | 2022-12-08 | [[Kings at NHL.com]]   | [[Marner pushes point streak to 21, Maple Leafs blank Kings]]                                                                                          |

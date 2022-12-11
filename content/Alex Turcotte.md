@@ -33,6 +33,7 @@ Alex Turcotte | | C | L | 5' 11" | 185 | 2001-02-26 | Elk Grove, IL, USA | 2019 
 ## Minor League Coverage
 | Date       | Site                  | Title                                                                                                                                        |
 | ---------- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-10 | [[Mayors Manor]]      | [[Ontario Reign Projected Lineup at Tucson Roadrunners - Second-Half of B2B]]                                                                |
 | 2022-12-09 | [[Mayors Manor]]      | [[Ontario Reign Projected Lineup at Tucson Roadrunners - Including Change to Byfield Line]]                                                  |
 | 2022-12-07 | [[Mayors Manor]]      | [[Ontario Reign Projected Lineup vs Henderson Silver Knights - Including Turcotte Update]]                                                   |
 | 2022-12-04 | [[Mayors Manor]]      | [[Ontario Reign Projected Lineup vs Bakersfield Condors - Plus Latest on Turcotte]]                                                          |

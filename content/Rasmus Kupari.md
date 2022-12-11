@@ -89,6 +89,7 @@ priority: high
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                      |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------ |
+| 2022-12-10 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 3, Roadrunners 2 (OT) – Sturm, Kupari]]                              |
 | 2022-12-07 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup vs Henderson Silver Knights - Including Turcotte Update]] |
 | 2022-12-05 | [[Mayors Manor]]     | [[Reign Recap - Byfield, Petersen Help Reign Top Condors 5-2]]                             |
 | 2022-12-02 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup vs Colorado Eagles - Come See Cal]]                       |

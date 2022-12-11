@@ -28,6 +28,8 @@ status: needs-draft-content
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                  |
 | ---------- | -------------------- | -------------------------------------------------------------------------------------- |
+| 2022-12-10 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 4-3 OT win against Tucson]]                     |
+| 2022-12-10 | [[Mayors Manor]]     | [[Reign Recap - Petersen, Byfield Guide Ontario To OT Victory]]                        |
 | 2022-12-09 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 4, Roadrunners 3 (OT) – Sturm, Lee]]                             |
 | 2022-11-20 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup vs Henderson Silver Knights - Searching For Answers]] |
 | 2022-10-29 | [[Mayors Manor]]     | [[Ontario Reign - Projected Lineup vs Bakersfield Condors - Several Changes Included]] |

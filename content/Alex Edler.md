@@ -20,6 +20,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                |
 | ---------- | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-10 | [[LA Kings Insider]]    | [[FINAL – Kings 4, Canadiens 2 – Danault, Edler, McLellan]]                                                                                                                             |
 | 2022-12-09 | [[The Athletic]]        | [[Kings Brandt Clarke heads to world juniors camp, but when might he return]]                                                                        |
 | 2022-12-06 | [[LA Kings Insider]]    | [[12-6 Preview – Iafallo Activated, Will Play Tonight + New Lines, Copley To Start, Kempe at Center]]                                                |
 | 2022-12-04 | [[The Forum Report]]    | [[Edler will sit the occasional game for rest - Waking up with the Kings - December 3]]                                                              |

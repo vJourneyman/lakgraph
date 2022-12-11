@@ -22,6 +22,9 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                 |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-10 | [[The Forum Report]]    | [[Notebook - Kings 4, Canadiens 2]]                                                                                                   |
+| 2022-12-10 | [[The Forum Report]]    | [[Copley to make second start, same lineup otherwise in Montreal]]                                                                    |
+| 2022-12-10 | [[LA Kings Insider]]    | [[FINAL – Kings 4, Canadiens 2 – Danault, Edler, McLellan]]                                                                           |
 | 2022-12-07 | [[LA Kings Insider]]    | [[Practice 12-7 – Quick Twirl in Toronto + Nice Line, Nice Play, Doughty on Activation, Photos, Mammoth Rink]]                        |
 | 2022-12-04 | [[The Forum Report]]    | [[Playmaking Chart - December 3 vs Carolina]]                                                                                         |
 | 2022-12-03 | [[LA Kings Insider]]    | [[12-3 Preview – Todays Vitals + Scouting Carolina, Third Line Thoughts, Kings Recall Dudas]]                                         |

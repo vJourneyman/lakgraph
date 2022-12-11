@@ -21,6 +21,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                  |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-10 | [[LA Kings Insider]]    | [[12-10 Preview – Copley In Net + Same Alignment Expected, Clears on the PK, Durzi and Suzuki]]                                                        |
 | 2022-12-08 | [[LA Kings Insider]]    | [[12-8 Preview – Optional Morning Skate + Durzis Homecoming, Third Line Assessment, Facing The Leafs]]                                                 |
 | 2022-12-07 | [[LA Daily News]]       | [[Kings hope to continue road success in Toronto]]                                                                                                     |
 | 2022-12-07 | [[Mayors Manor]]        | [[Rapid Review - Notes and Highlights from Kings 5-2 Victory in Ottawa]]                                                                               |
