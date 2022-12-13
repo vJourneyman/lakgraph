@@ -69,6 +69,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                      |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------ |
+| 2022-12-11 | [[LA Kings Insider]] | [[12-11 Preview – No Morning Skate + A Good PK Effort, Tonights Mentality, On The Farm]] |
 | 2022-12-07 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup vs Henderson Silver Knights - Including Turcotte Update]] |
 | 2022-12-07 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 1, Silver Knights 3 – Sturm, Moverare]]                              |
 | 2022-12-04 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup vs Bakersfield Condors - Plus Latest on Turcotte]]        |

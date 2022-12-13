@@ -15,6 +15,39 @@ status: in-progress
 
 | Date       | Site                    | Title                                                                                                                          |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-12 | [[Puck Prose]]          | [[NHL 2022-23 Season Weekly Power Rankings - Monday 12-12]]                                                                    |
+| 2022-12-12 | [[The Hockey News]]     | [[TEAM CANADA FINALIZES 2023 WORLD JUNIOR CHAMPIONSHIP ROSTER]]                                                                |
+| 2022-12-12 | [[Hockey Feed]]         | [[Hockey Canada officially releases roster for upcoming World Junior Championships]]                                           |
+| 2022-12-12 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Make Three Transactions]]                                                                                  |
+| 2022-12-12 | [[LA Hockey Now]]       | [[Kings Have Good Options to Replace Arvidsson]]                                                                               |
+| 2022-12-12 | [[LA Daily News]]       | [[High-scoring Kings finding ‘the carelessness is killing us]]                                                                 |
+| 2022-12-12 | [[Hockey Royalty]]      | [[LA Kings recall two, designate Arvidsson as non-roster player]]                                                              |
+| 2022-12-12 | [[Hockey Royalty]]      | [[Week 10 Pacific Division Power Rankings]]                                                                                    |
+| 2022-12-12 | [[Hockey Royalty]]      | [[Ontario Reign - Three stars of the week – 12-5 to 12-11]]                                                                    |
+| 2022-12-12 | [[The Athletic]]        | [[LA Kings unable to build on success once again, McLellan calls out teams ‘carelessness]]                                     |
+| 2022-12-12 | [[The Athletic]]        | [[NHL Player Cards - Los Angeles Kings]]                                                                                       |
+| 2022-12-12 | [[The Forum Report]]    | [[Ziggy Tales - An introduction (and Cool Runnings)]]                                                                          |
+| 2022-12-12 | [[LA Kings Insider]]    | [[Sturm, McLellan, and Blake Seeing Positive Strides in Reshaping of Ontario Reign]]                                           |
+| 2022-12-12 | [[LA Kings Insider]]    | [[Kings Recall Spence and Kupari + Arvidsson and Doughty Updates]]                                                             |
+| 2022-12-11 | [[The Hockey Writers]]  | [[Blue Jackets Notebook - Jenner Sees Progress, Kings 1-3-1 and More]]                                                         |
+| 2022-12-11 | [[SportsNet]]           | [[Kings Doughty out vs Blue Jackets, listed as day-to-day]]                                                                    |
+| 2022-12-11 | [[Pro Hockey Rumors]]   | [[Snapshots - Doughty, Pettersson, McIlrath]]                                                                                  |
+| 2022-12-11 | [[LA Hockey Now]]       | [[Whats Consistency Kings Fall to Blue Jackets 6-5]]                                                                           |
+| 2022-12-11 | [[LA Hockey Now]]       | [[Kings vs Blue Jackets Game 31 - Lines, Notes and How to Watch]]                                                              |
+| 2022-12-11 | [[Natural Stattrick]]   | [[Los Angeles Kings at Columbus Blue Jackets 2022-12-11]]                                                                      |
+| 2022-12-11 | [[Hockey Royalty]]      | [[Gaudreau, Blue Jackets recover for OT victory against Kings]]                                                                |
+| 2022-12-11 | [[Hockey Royalty]]      | [[LA Kings at Blue Jackets projected lineup, betting preview]]                                                                 |
+| 2022-12-11 | [[Hockey Royalty]]      | [[Takeaways - LA Kings 4, Canadiens 2 – Two points are two points]]                                                            |
+| 2022-12-11 | [[Hockey Royalty]]      | [[Ontario Reign - Three takeaways from 3-2 OT win against Tucson]]                                                             |
+| 2022-12-11 | [[Mayors Manor]]        | [[Rapid Review - Notes and Highlights from Kings ‘Careless Loss in Columbus]]                                                  |
+| 2022-12-11 | [[Mayors Manor]]        | [[Projected Lineups - LA Kings at Columbus Blue Jackets - Possible Scouting Event]]                                            |
+| 2022-12-11 | [[Mayors Manor]]        | [[Reign Recap - Kuparis OT Goal Completes Road Sweep Over Tucson]]                                                             |
+| 2022-12-11 | [[Mayors Manor]]        | [[Rapid Review - Notes and Highlights from Kings 4-2 Victory Over the Canadiens]]                                              |
+| 2022-12-11 | [[The Forum Report]]    | [[Playmaking Chart - December 11 at Columbus]]                                                                                 |
+| 2022-12-11 | [[The Forum Report]]    | [[Like his Bally Sports Ohio broadcasts, former LA Kings Live producer Joel Goodling has great stories to tell]]               |
+| 2022-12-11 | [[The Forum Report]]    | [[Playmaking Chart - December 10 at Montreal]]                                                                                 |
+| 2022-12-11 | [[LA Kings Insider]]    | [[FINAL – Kings 5, Blue Jackets 6 (OT) – Kempe, McLellan]]                                                                     |
+| 2022-12-11 | [[LA Kings Insider]]    | [[12-11 Preview – No Morning Skate + A Good PK Effort, Tonights Mentality, On The Farm]]                                       |
 | 2022-12-10 | [[Field Level Media]]   | [[Kings tally early, hold on to topple Habs]]                                                                                  |
 | 2022-12-10 | [[LA Hockey Now]]       | [[Kings Bounce Back With 4-2 Victory Over Canadiens]]                                                                          |
 | 2022-12-10 | [[LA Hockey Now]]       | [[Kings vs Canadiens Game 30 - Lines, Notes and How to Watch]]                                                                 |

@@ -20,6 +20,12 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                                  |
 | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-12 | [[The Athletic]] | [[LA Kings unable to build on success once again, McLellan calls out teams ‘carelessness]] |
+| 2022-12-11 | [[Hockey Royalty]]     | [[Gaudreau, Blue Jackets recover for OT victory against Kings]]                                                                                        |
+| 2022-12-11 | [[Hockey Royalty]]     | [[Takeaways - LA Kings 4, Canadiens 2 – Two points are two points]]                                                                                    |
+| 2022-12-11 | [[Mayors Manor]]       | [[Rapid Review - Notes and Highlights from Kings ‘Careless Loss in Columbus]]                                                                          |
+| 2022-12-11 | [[Mayors Manor]]       | [[Rapid Review - Notes and Highlights from Kings 4-2 Victory Over the Canadiens]]                                                                      |
+| 2022-12-11 | [[The Forum Report]]   | [[Playmaking Chart - December 11 at Columbus]]                                                                                                         |
 | 2022-12-10 | [[LA Hockey Now]]      | [[Kings Bounce Back With 4-2 Victory Over Canadiens]]                                                                                                  |
 | 2022-12-10 | [[LA Hockey Now]]      | [[Kings vs Canadiens Game 30 - Lines, Notes and How to Watch]]                                                                                         |
 | 2022-12-10 | [[Kings at NHL.com]]   | [[Copley makes 20 saves, Kings hang on to defeat Canadiens]]                                                                                           |

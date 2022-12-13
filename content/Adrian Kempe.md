@@ -21,7 +21,12 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                              | Title                                                                                                                                                |
 | ---------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-12-10 | [[LA Kings Insider]]    | [[FINAL – Kings 4, Canadiens 2 – Danault, Edler, McLellan]]                                                                                                                             |
+| 2022-12-12 | [[LA Hockey Now]]                 | [[Kings Have Good Options to Replace Arvidsson]]                                                                                                     |
+| 2022-12-12 | [[Hockey Royalty]]                | [[Week 10 Pacific Division Power Rankings]]                                                                                                          |
+| 2022-12-12 | [[The Athletic]]                  | [[LA Kings unable to build on success once again, McLellan calls out teams ‘carelessness]]                                                           |
+| 2022-12-11 | [[Hockey Royalty]]                | [[Gaudreau, Blue Jackets recover for OT victory against Kings]]                                                                                      |
+| 2022-12-11 | [[The Forum Report]]              | [[Playmaking Chart - December 10 at Montreal]]                                                                                                       |
+| 2022-12-10 | [[LA Kings Insider]]              | [[FINAL – Kings 4, Canadiens 2 – Danault, Edler, McLellan]]                                                                                          |
 | 2022-12-08 | [[LA Hockey Now]]                 | [[Kings vs Maple Leafs Game 29 - Lines, Notes and How to Watch]]                                                                                     |
 | 2022-12-08 | [[LA Kings Insider]]              | [[FINAL – Kings 0, Maple Leafs 5 – Kopitar, McLellan]]                                                                                               |
 | 2022-12-08 | [[LA Kings Insider]]              | [[12-8 Preview – Optional Morning Skate + Durzis Homecoming, Third Line Assessment, Facing The Leafs]]                                               |

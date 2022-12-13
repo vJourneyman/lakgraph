@@ -19,6 +19,8 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                                |
 | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-12 | [[LA Daily News]] | [[High-scoring Kings finding ‘the carelessness is killing us]] |
+| 2022-12-11 | [[Hockey Royalty]]    | [[Gaudreau, Blue Jackets recover for OT victory against Kings]]                                                                      |
 | 2022-12-10 | [[LA Kings Insider]]  | [[12-10 Preview – Copley In Net + Same Alignment Expected, Clears on the PK, Durzi and Suzuki]]                                      |
 | 2022-12-09 | [[LA Hockey Now]]     | [[Kings Issues - Team Needs to Address Lack of Size and Physicality]]                                                                |
 | 2022-12-04 | [[The Forum Report]]  | [[Playmaking Chart - December 3 vs Carolina]]                                                                                        |

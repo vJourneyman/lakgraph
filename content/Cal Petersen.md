@@ -166,6 +166,8 @@ status: stable
 ## Minor League Coverage
 | Date       | Site                    | Title                                                                                       |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------- |
+| 2022-12-12 | [[Puck Prose]]          | [[NHL 2022-23 Season Weekly Power Rankings - Monday 12-12]]                                 |
+| 2022-12-11 | [[LA Kings Insider]]    | [[12-11 Preview – No Morning Skate + A Good PK Effort, Tonights Mentality, On The Farm]]    |
 | 2022-12-10 | [[Hockey Royalty]]      | [[Ontario Reign - Three takeaways from 4-3 OT win against Tucson]]                          |
 | 2022-12-10 | [[Mayors Manor]]        | [[Ontario Reign Projected Lineup at Tucson Roadrunners - Second-Half of B2B]]               |
 | 2022-12-10 | [[Mayors Manor]]        | [[Reign Recap - Petersen, Byfield Guide Ontario To OT Victory]]                             |

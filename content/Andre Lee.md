@@ -28,6 +28,7 @@ status: needs-draft-content
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                  |
 | ---------- | -------------------- | -------------------------------------------------------------------------------------- |
+| 2022-12-12 | [[Hockey Royalty]]   | [[Ontario Reign - Three stars of the week – 12-5 to 12-11]]                            |
 | 2022-12-10 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 4-3 OT win against Tucson]]                     |
 | 2022-12-10 | [[Mayors Manor]]     | [[Reign Recap - Petersen, Byfield Guide Ontario To OT Victory]]                        |
 | 2022-12-09 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 4, Roadrunners 3 (OT) – Sturm, Lee]]                             |
@@ -36,7 +37,7 @@ status: needs-draft-content
 | 2022-10-27 | [[Mayors Manor]]     | [[Reign Recap - Ontario Surge in Standings with Win Over San Jose]]                    |
 | 2022-10-26 | [[Mayors Manor]]     | [[Ontario Reign - Projected Lineup at San Jose Barracuda on Wednesday]]                |
 | 2022-10-22 | [[Mayors Manor]]     | [[Ontario Reign - Projected Lineup vs San Diego Gulls on Saturday]]                    |
-| 2022-10-21 | [[Mayors Manor]] | [[Ontario Reign - Projected Lineup at San Diego on Friday]]                            |
+| 2022-10-21 | [[Mayors Manor]]     | [[Ontario Reign - Projected Lineup at San Diego on Friday]]                            |
 
 
 

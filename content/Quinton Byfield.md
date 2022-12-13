@@ -22,6 +22,8 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-12 | [[Hockey Royalty]]      | [[Ontario Reign - Three stars of the week – 12-5 to 12-11]]                                                                          |
+| 2022-12-11 | [[LA Hockey Now]]       | [[Whats Consistency Kings Fall to Blue Jackets 6-5]]                                                                                 |
 | 2022-12-07 | [[LA Kings Insider]]    | [[REIGN PREVIEW – Ontario vs Henderson, 12-7]]                                                                                       |
 | 2022-12-06 | [[Mayors Manor]]        | [[Projected Lineups - LA Kings at Ottawa Senators , Ready for First Stop of Roadie]]                                                 |
 | 2022-12-01 | [[LA Hockey Now]]       | [[Kopitar Leads Kings Past Coyotes 5-3]]                                                                                             |
@@ -100,6 +102,9 @@ priority: high
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                                                                        |
 | ---------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-11 | [[Hockey Royalty]] | [[Ontario Reign - Three takeaways from 3-2 OT win against Tucson]] |
+| 2022-12-11 | [[Mayors Manor]]     | [[Reign Recap - Kuparis OT Goal Completes Road Sweep Over Tucson]]                                                                           |
+| 2022-12-11 | [[LA Kings Insider]] | [[12-11 Preview – No Morning Skate + A Good PK Effort, Tonights Mentality, On The Farm]]                                                     |
 | 2022-12-10 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 4-3 OT win against Tucson]]                                                                           |
 | 2022-12-10 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup at Tucson Roadrunners - Second-Half of B2B]]                                                                |
 | 2022-12-10 | [[Mayors Manor]]     | [[Reign Recap - Petersen, Byfield Guide Ontario To OT Victory]]                                                                              |

@@ -16,12 +16,19 @@ status: stable
 | ------------ | --- | -------- | ------ | ------ | ------ | ---------- | --------------- | -------------------------------------- |
 | Drew Doughty | 8   | RD       | R      | 6' 1"  | 210    | 1989-12-08 | London, ON, CAN | 2008 LAK, 1st rd, 2nd pk (2nd overall) |
 
-
-
-
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                      |
 | ---------- | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-12 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Make Three Transactions]]                                                                                                              |
+| 2022-12-12 | [[LA Daily News]]       | [[High-scoring Kings finding ‘the carelessness is killing us]]                                                                                             |
+| 2022-12-12 | [[Hockey Royalty]]      | [[LA Kings recall two, designate Arvidsson as non-roster player]]                                                                                          |
+| 2022-12-12 | [[The Athletic]]        | [[LA Kings unable to build on success once again, McLellan calls out teams ‘carelessness]]                                                                 |
+| 2022-12-12 | [[LA Kings Insider]]    | [[Kings Recall Spence and Kupari + Arvidsson and Doughty Updates]]                                                                                         |
+| 2022-12-11 | [[Pro Hockey Rumors]]   | [[Snapshots - Doughty, Pettersson, McIlrath]]                                                                                                              |
+| 2022-12-11 | [[LA Hockey Now]]       | [[Whats Consistency Kings Fall to Blue Jackets 6-5]]                                                                                                       |
+| 2022-12-11 | [[Hockey Royalty]]      | [[Gaudreau, Blue Jackets recover for OT victory against Kings]]                                                                                            |
+| 2022-12-11 | [[Mayors Manor]]        | [[Projected Lineups - LA Kings at Columbus Blue Jackets - Possible Scouting Event]]                                                                        |
+| 2022-12-11 | [[The Forum Report]]    | [[Playmaking Chart - December 10 at Montreal]]                                                                                                             |
 | 2022-12-08 | [[Mayors Manor]]        | [[Projected Lineups - LA Kings at Toronto Maple Leafs, Welcome Home Doughty]]                                                                              |
 | 2022-12-08 | [[The Athletic]]        | [[LeBrun - The NHLs scoring boom has gone supersonic, with wacky scores and no safe leads]]                                                                |
 | 2022-12-07 | [[LA Daily News]]       | [[Kings hope to continue road success in Toronto]]                                                                                                         |

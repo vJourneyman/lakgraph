@@ -19,6 +19,14 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                           |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-12 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Make Three Transactions]]                                                                                                                   |
+| 2022-12-12 | [[LA Hockey Now]]       | [[Kings Have Good Options to Replace Arvidsson]]                                                                                                                |
+| 2022-12-12 | [[LA Daily News]]       | [[High-scoring Kings finding ‘the carelessness is killing us]]                                                                                                  |
+| 2022-12-12 | [[Hockey Royalty]]      | [[LA Kings recall two, designate Arvidsson as non-roster player]]                                                                                               |
+| 2022-12-12 | [[LA Kings Insider]]    | [[Kings Recall Spence and Kupari + Arvidsson and Doughty Updates]]                                                                                              |
+| 2022-12-11 | [[Mayors Manor]]        | [[Rapid Review - Notes and Highlights from Kings 4-2 Victory Over the Canadiens]]                                                                               |
+| 2022-12-11 | [[The Forum Report]]    | [[Playmaking Chart - December 11 at Columbus]]                                                                                                                  |
+| 2022-12-11 | [[The Forum Report]]    | [[Playmaking Chart - December 10 at Montreal]]                                                                                                                  |
 | 2022-12-10 | [[LA Hockey Now]]       | [[Kings Bounce Back With 4-2 Victory Over Canadiens]]                                                                                                           |
 | 2022-12-10 | [[Kings at NHL.com]]    | [[Copley makes 20 saves, Kings hang on to defeat Canadiens]]                                                                                                    |
 | 2022-12-10 | [[LA Kings Insider]]    | [[FINAL – Kings 4, Canadiens 2 – Danault, Edler, McLellan]]                                                                                                     |
@@ -111,7 +119,7 @@ status: stable
 | 2022-09-30 | [[LA Kings Insider]]    | [[After a mentally and physically challenging summer, Viktor Arvidsson is looking to the bright side in camp]]                                                  |
 | 2022-09-30 | [[LA Kings Insider]]    | [[Day 9 Primer – Today’s Groups + Arvidsson and Durzi with main group, Wagner clears waivers]]                                                                  |
 | 2022-09-29 | [[LA Kings Insider]]    | [[Angeles Analysis – Thoughts From The First Week Of Training Camp]]                                                                                            |
-| 2022-09-27 | [[LA Kings Insider]]    | [[Day 6 Notes – Injury Updates + Grundstrom Opportunity, Anderson Debut and Kempe joins ATKM]]                                       |
+| 2022-09-27 | [[LA Kings Insider]]    | [[Day 6 Notes – Injury Updates + Grundstrom Opportunity, Anderson Debut and Kempe joins ATKM]]                                                                  |
 
 
 

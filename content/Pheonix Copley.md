@@ -21,6 +21,12 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                          |
 | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-12 | [[Puck Prose]] | [[NHL 2022-23 Season Weekly Power Rankings - Monday 12-12]] |
+| 2022-12-12 | [[The Athletic]] | [[LA Kings unable to build on success once again, McLellan calls out teams ‘carelessness]] |
+| 2022-12-11 | [[LA Hockey Now]] | [[Kings vs Blue Jackets Game 31 - Lines, Notes and How to Watch]] |
+| 2022-12-11 | [[Hockey Royalty]]     | [[LA Kings at Blue Jackets projected lineup, betting preview]]                                                                 |
+| 2022-12-11 | [[Hockey Royalty]]     | [[Takeaways - LA Kings 4, Canadiens 2 – Two points are two points]]                                                            |
+| 2022-12-11 | [[Mayors Manor]]       | [[Rapid Review - Notes and Highlights from Kings 4-2 Victory Over the Canadiens]]                                              |
 | 2022-12-10 | [[LA Hockey Now]]      | [[Kings Bounce Back With 4-2 Victory Over Canadiens]]                                                                          |
 | 2022-12-10 | [[LA Hockey Now]]      | [[Kings vs Canadiens Game 30 - Lines, Notes and How to Watch]]                                                                 |
 | 2022-12-10 | [[Kings at NHL.com]]   | [[Copley makes 20 saves, Kings hang on to defeat Canadiens]]                                                                   |

@@ -22,6 +22,9 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                 |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-12 | [[LA Daily News]]       | [[High-scoring Kings finding ‘the carelessness is killing us]]                                                                        |
+| 2022-12-11 | [[The Forum Report]]    | [[Playmaking Chart - December 11 at Columbus]]                                                                                        |
+| 2022-12-11 | [[LA Kings Insider]]    | [[12-11 Preview – No Morning Skate + A Good PK Effort, Tonights Mentality, On The Farm]]                                              |
 | 2022-12-10 | [[The Forum Report]]    | [[Notebook - Kings 4, Canadiens 2]]                                                                                                   |
 | 2022-12-10 | [[The Forum Report]]    | [[Copley to make second start, same lineup otherwise in Montreal]]                                                                    |
 | 2022-12-10 | [[LA Kings Insider]]    | [[FINAL – Kings 4, Canadiens 2 – Danault, Edler, McLellan]]                                                                           |

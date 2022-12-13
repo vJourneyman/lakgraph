@@ -22,6 +22,11 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                     |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-12 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Make Three Transactions]]                                                                                             |
+| 2022-12-12 | [[LA Hockey Now]]       | [[Kings Have Good Options to Replace Arvidsson]]                                                                                          |
+| 2022-12-12 | [[LA Daily News]]       | [[High-scoring Kings finding ‘the carelessness is killing us]]                                                                            |
+| 2022-12-12 | [[Hockey Royalty]]      | [[LA Kings recall two, designate Arvidsson as non-roster player]]                                                                         |
+| 2022-12-12 | [[LA Kings Insider]]    | [[Kings Recall Spence and Kupari + Arvidsson and Doughty Updates]]                                                                        |
 | 2022-12-01 | [[Hockey Royalty]]      | [[LA Kings make transaction moves ahead of Thursdays game]]                                                                               |
 | 2022-12-01 | [[Mayors Manor]]        | [[Projected Lineups - LA Kings vs AZ Coyotes, Here Come the Kids]]                                                                        |
 | 2022-12-01 | [[The Forum Report]]    | [[Playmaking Chart - 11-29 vs Seattle]]                                                                                                   |
@@ -89,6 +94,9 @@ priority: high
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                      |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------ |
+| 2022-12-11 | [[Hockey Royalty]] | [[Ontario Reign - Three takeaways from 3-2 OT win against Tucson]] |
+| 2022-12-11 | [[Mayors Manor]] | [[Reign Recap - Kuparis OT Goal Completes Road Sweep Over Tucson]] |
+| 2022-12-11 | [[LA Kings Insider]] | [[12-11 Preview – No Morning Skate + A Good PK Effort, Tonights Mentality, On The Farm]] |
 | 2022-12-10 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 3, Roadrunners 2 (OT) – Sturm, Kupari]]                              |
 | 2022-12-07 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup vs Henderson Silver Knights - Including Turcotte Update]] |
 | 2022-12-05 | [[Mayors Manor]]     | [[Reign Recap - Byfield, Petersen Help Reign Top Condors 5-2]]                             |

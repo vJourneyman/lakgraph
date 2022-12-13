@@ -20,6 +20,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                     |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-12 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Make Three Transactions]]                                                                                             |
 | 2022-12-08 | [[LA Kings Insider]]    | [[12-8 Preview – Optional Morning Skate + Durzis Homecoming, Third Line Assessment, Facing The Leafs]]                                    |
 | 2022-12-01 | [[Hockey Royalty]]      | [[LA Kings Shot Contribution Leaders]]                                                                                                    |
 | 2022-11-24 | [[Hockey Royalty]]      | [[The LA Kings are in need of a change]]                                                                                                  |

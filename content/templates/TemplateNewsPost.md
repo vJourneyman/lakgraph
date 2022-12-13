@@ -12,7 +12,7 @@ status: stable
 
 | Date     | Site | External Link                          | 
 | -------- | ---- | -------------------------------------- |
-| {{date}} |      | [*{{title}}*]()<% tp.file.cursor(1) %> |
+| {{date}} |      | [*{{title}}*]<% tp.file.cursor(1) %> |
 
 ## Contributors
 - <% tp.file.cursor(2) %>
@@ -27,8 +27,7 @@ status: stable
 - <% tp.file.cursor(5) %>
 
 ## Staff
-- 
+- <% tp.file.cursor(6) %>
 
 ## Notes and Quotes
-> 
 

@@ -21,6 +21,8 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-12 | [[The Hockey News]]     | [[TEAM CANADA FINALIZES 2023 WORLD JUNIOR CHAMPIONSHIP ROSTER]]                                                                                     |
+| 2022-12-12 | [[Hockey Feed]]         | [[Hockey Canada officially releases roster for upcoming World Junior Championships]]                                                                |
 | 2022-12-09 | [[The Athletic]]        | [[Kings Brandt Clarke heads to world juniors camp, but when might he return]]                                                                       |
 | 2022-12-08 | [[The Hockey News]]     | [[CLARKE, GUENTHER, WRIGHT LOANED TO CANADAS WORLD JUNIOR CAMP]]                                                                                    |
 | 2022-12-08 | [[LA Hockey Now]]       | [[Kings vs Maple Leafs Game 29 - Lines, Notes and How to Watch]]                                                                                    |

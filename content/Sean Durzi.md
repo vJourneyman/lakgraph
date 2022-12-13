@@ -21,6 +21,10 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                  |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-12 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Make Three Transactions]]                                                                                                          |
+| 2022-12-12 | [[LA Daily News]]       | [[High-scoring Kings finding ‘the carelessness is killing us]]                                                                                         |
+| 2022-12-12 | [[The Athletic]]        | [[LA Kings unable to build on success once again, McLellan calls out teams ‘carelessness]]                                                             |
+| 2022-12-11 | [[The Forum Report]]    | [[Playmaking Chart - December 11 at Columbus]]                                                                                                         |
 | 2022-12-10 | [[LA Kings Insider]]    | [[12-10 Preview – Copley In Net + Same Alignment Expected, Clears on the PK, Durzi and Suzuki]]                                                        |
 | 2022-12-08 | [[LA Kings Insider]]    | [[12-8 Preview – Optional Morning Skate + Durzis Homecoming, Third Line Assessment, Facing The Leafs]]                                                 |
 | 2022-12-07 | [[LA Daily News]]       | [[Kings hope to continue road success in Toronto]]                                                                                                     |

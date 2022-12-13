@@ -22,6 +22,9 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                                      |
 | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-12 | [[LA Daily News]]     | [[High-scoring Kings finding ‘the carelessness is killing us]]                                                                             |
+| 2022-12-11 | [[The Forum Report]]  | [[Playmaking Chart - December 11 at Columbus]]                                                                                             |
+| 2022-12-11 | [[The Forum Report]]  | [[Playmaking Chart - December 10 at Montreal]]                                                                                             |
 | 2022-12-08 | [[The Forum Report]]  | [[Playmaking Chart - December 8 at Toronto]]                                                                                               |
 | 2022-12-07 | [[The Forum Report]]  | [[Playmaking Chart - 12-6 vs Ottawa]]                                                                                                      |
 | 2022-12-06 | [[Hockey Royalty]]    | [[LA Kings at Ottawa Senators projected lineup, betting preview]]                                                                          |

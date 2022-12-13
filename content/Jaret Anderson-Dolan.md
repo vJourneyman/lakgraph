@@ -21,6 +21,8 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                                                                      |
 | ---------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-11 | [[Hockey Royalty]]   | [[Gaudreau, Blue Jackets recover for OT victory against Kings]]                                                                                            |
+| 2022-12-11 | [[The Forum Report]] | [[Playmaking Chart - December 11 at Columbus]]                                                                                                             |
 | 2022-12-07 | [[The Forum Report]] | [[Playmaking Chart - 12-6 vs Ottawa]]                                                                                                                      |
 | 2022-11-28 | [[Kings at NHL.com]] | [[The Week That Was, The Week That Is - 11-28]]                                                                                                            |
 | 2022-11-28 | [[LA Kings Insider]] | [[11-28 Practice – Vilardi and Iafallo Skate + Todays Alignment, Second Thoughts, Pinch Hitting]]                                                          |
