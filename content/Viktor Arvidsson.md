@@ -19,6 +19,8 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                           |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-13 | [[Hockey Royalty]]      | [[LA Kings at Buffalo Sabres projected lineup, betting preview]]                                                                                                |
+| 2022-12-13 | [[LA Kings Insider]]    | [[12-13 Preview – Doughty “should be good to go” + JAD in Top 6, Another Response, A BuffalOff Day]]                                                            |
 | 2022-12-12 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Make Three Transactions]]                                                                                                                   |
 | 2022-12-12 | [[LA Hockey Now]]       | [[Kings Have Good Options to Replace Arvidsson]]                                                                                                                |
 | 2022-12-12 | [[LA Daily News]]       | [[High-scoring Kings finding ‘the carelessness is killing us]]                                                                                                  |

@@ -20,7 +20,10 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                                  |
 | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-12-12 | [[The Athletic]] | [[LA Kings unable to build on success once again, McLellan calls out teams ‘carelessness]] |
+| 2022-12-13 | [[The Forum Report]]   | [[Buffalo post-game - “We gave up six goals in the third period Five of them came after the 10-minute mark Thatll tell you enough.”]]                  |
+| 2022-12-13 | [[LA Kings Insider]]   | [[FINAL – Kings 0, Sabres 6 – Kopitar, McLellan]]                                                                                                      |
+| 2022-12-13 | [[LA Kings Insider]]   | [[12-13 Preview – Doughty “should be good to go” + JAD in Top 6, Another Response, A BuffalOff Day]]                                                   |
+| 2022-12-12 | [[The Athletic]]       | [[LA Kings unable to build on success once again, McLellan calls out teams ‘carelessness]]                                                             |
 | 2022-12-11 | [[Hockey Royalty]]     | [[Gaudreau, Blue Jackets recover for OT victory against Kings]]                                                                                        |
 | 2022-12-11 | [[Hockey Royalty]]     | [[Takeaways - LA Kings 4, Canadiens 2 – Two points are two points]]                                                                                    |
 | 2022-12-11 | [[Mayors Manor]]       | [[Rapid Review - Notes and Highlights from Kings ‘Careless Loss in Columbus]]                                                                          |

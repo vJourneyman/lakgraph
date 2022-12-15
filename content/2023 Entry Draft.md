@@ -18,6 +18,7 @@ status: unstarted
 ## Unprocessed Coverage
 | Date | Site | Title |
 | ---- | ---- | ----- |
+| 2022-12-14 | [[The Hockey News]] | [[REACTING TO TEAM FINLAND'S 2023 WORLD JUNIOR ROSTER]](https://thehockeynews.com/news/reacting-to-team-finlands-2023-world-junior-roster) |
 | 2022-12-08 | [[The Hockey News]] | [[REACTING TO TEAM SWEDENS 2023 WORLD JUNIOR ROSTER]](https://thehockeynews.com/news/reacting-to-team-swedens-2023-world-junior-roster) |
 | 2022-11-29 | [[The Hockey News]] | [[GAME TAPE WITH TONY - JAYDEN PERRON]](https://thehockeynews.com/video/game-tape-with-tony-featuring-jayden-perron) |
 | 2022-11-27 | [[The Hockey News]] | [[2023 NHL DRAFT STOCK WATCH - EARLY-SEASON RISERS AND FALLERS]](https://thehockeynews.com/news/2023-nhl-draft-stock-watch-early-season-risers-and-fallers) |

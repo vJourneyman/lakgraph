@@ -22,6 +22,7 @@ Jordan Spence | 58 | D | R | 5' 10" | 180 | 2001-02-24 | Manly, AUS | -   2019 L
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                     |
 | ---------- | --------------------- | --------------------------------------------------------------------------------------------------------- |
+| 2022-12-13 | [[Hockey Royalty]] | [[LA Kings at Buffalo Sabres projected lineup, betting preview]] |
 | 2022-12-12 | [[Pro Hockey Rumors]] | [[Los Angeles Kings Make Three Transactions]]                                                             |
 | 2022-12-12 | [[LA Hockey Now]]     | [[Kings Have Good Options to Replace Arvidsson]]                                                          |
 | 2022-12-12 | [[LA Daily News]]     | [[High-scoring Kings finding ‘the carelessness is killing us]]                                            |

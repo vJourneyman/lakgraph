@@ -21,8 +21,9 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                 |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-12-12 | [[The Athletic]] | [[LA Kings unable to build on success once again, McLellan calls out teams ‘carelessness]] |
-| 2022-12-11 | [[LA Hockey Now]] | [[Whats Consistency Kings Fall to Blue Jackets 6-5]] |
+| 2022-12-13 | [[Hockey Royalty]]      | [[LA Kings at Buffalo Sabres projected lineup, betting preview]]                                                                                      |
+| 2022-12-12 | [[The Athletic]]        | [[LA Kings unable to build on success once again, McLellan calls out teams ‘carelessness]]                                                            |
+| 2022-12-11 | [[LA Hockey Now]]       | [[Whats Consistency Kings Fall to Blue Jackets 6-5]]                                                                                                  |
 | 2022-12-11 | [[Hockey Royalty]]      | [[Gaudreau, Blue Jackets recover for OT victory against Kings]]                                                                                       |
 | 2022-12-11 | [[Hockey Royalty]]      | [[LA Kings at Blue Jackets projected lineup, betting preview]]                                                                                        |
 | 2022-12-08 | [[Kings at NHL.com]]    | [[Marner pushes point streak to 21, Maple Leafs blank Kings]]                                                                                         |
