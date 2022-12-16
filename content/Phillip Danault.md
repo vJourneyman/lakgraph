@@ -22,6 +22,8 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                 |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-14 | [[The Athletic]] | [[LA Kings, Anaheim Ducks blanked a combined 13-0 in brutal night for SoCal hockey]] |
+| 2022-12-14 | [[LA Kings Insider]] | [[Practice 12-14 – Todays “Cleanse” + A Tale of 2 Halves, Bump-Up Breakdowns, Salin To WJC]] |
 | 2022-12-12 | [[LA Daily News]]       | [[High-scoring Kings finding ‘the carelessness is killing us]]                                                                        |
 | 2022-12-11 | [[The Forum Report]]    | [[Playmaking Chart - December 11 at Columbus]]                                                                                        |
 | 2022-12-11 | [[LA Kings Insider]]    | [[12-11 Preview – No Morning Skate + A Good PK Effort, Tonights Mentality, On The Farm]]                                              |

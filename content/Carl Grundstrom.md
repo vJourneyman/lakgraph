@@ -22,6 +22,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                          |
 | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-14 | [[The Athletic]] | [[LA Kings, Anaheim Ducks blanked a combined 13-0 in brutal night for SoCal hockey]] |
 | 2022-12-12 | [[LA Daily News]]     | [[High-scoring Kings finding ‘the carelessness is killing us]]                                                                 |
 | 2022-12-10 | [[LA Kings Insider]]  | [[12-10 Preview – Copley In Net + Same Alignment Expected, Clears on the PK, Durzi and Suzuki]]                                |
 | 2022-11-22 | [[The Athletic]]      | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]]                                                      |

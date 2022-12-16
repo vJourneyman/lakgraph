@@ -20,6 +20,8 @@ status: UnprocessedContent
 ## NHL  Coverage
 | Date       | Site                              | Title                                                                                                                                                      |
 | ---------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-14 | [[The Athletic]] | [[LA Kings, Anaheim Ducks blanked a combined 13-0 in brutal night for SoCal hockey]] |
+| 2022-12-14 | [[The Forum Report]] | [[Playmaking Chart - December 13 at Buffalo]] |
 | 2022-12-12 | [[The Athletic]] | [[LA Kings unable to build on success once again, McLellan calls out teams ‘carelessness]] |
 | 2022-12-11 | [[Hockey Royalty]] | [[Takeaways - LA Kings 4, Canadiens 2 – Two points are two points]] |
 | 2022-12-11 | [[The Forum Report]] | [[Playmaking Chart - December 11 at Columbus]] |

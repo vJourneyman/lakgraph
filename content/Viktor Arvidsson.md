@@ -19,6 +19,9 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                           |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-14 | [[Hockey Royalty]]      | [[Takeaways - LA Kings 0, Sabres 6 – They gave up]]                                                                                                             |
+| 2022-12-14 | [[The Athletic]]        | [[LA Kings, Anaheim Ducks blanked a combined 13-0 in brutal night for SoCal hockey]]                                                                            |
+| 2022-12-14 | [[The Forum Report]]    | [[Playmaking Chart - December 13 at Buffalo]]                                                                                                                   |
 | 2022-12-13 | [[Hockey Royalty]]      | [[LA Kings at Buffalo Sabres projected lineup, betting preview]]                                                                                                |
 | 2022-12-13 | [[LA Kings Insider]]    | [[12-13 Preview – Doughty “should be good to go” + JAD in Top 6, Another Response, A BuffalOff Day]]                                                            |
 | 2022-12-12 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Make Three Transactions]]                                                                                                                   |

@@ -21,6 +21,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                                           |
 | ---------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-14 | [[The Athletic]] | [[LA Kings, Anaheim Ducks blanked a combined 13-0 in brutal night for SoCal hockey]] |
 | 2022-12-13 | [[LA Kings Insider]]   | [[12-13 Preview – Doughty “should be good to go” + JAD in Top 6, Another Response, A BuffalOff Day]]                                                            |
 | 2022-12-12 | [[LA Daily News]]      | [[High-scoring Kings finding ‘the carelessness is killing us]]                                                                                                  |
 | 2022-12-10 | [[LA Kings Insider]]   | [[12-10 Preview – Copley In Net + Same Alignment Expected, Clears on the PK, Durzi and Suzuki]]                                                                 |

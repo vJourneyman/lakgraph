@@ -21,6 +21,8 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                                                                      |
 | ---------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-14 | [[Hockey Royalty]]   | [[Takeaways - LA Kings 0, Sabres 6 – They gave up]]                                                                                                        |
+| 2022-12-14 | [[The Forum Report]] | [[Playmaking Chart - December 13 at Buffalo]]                                                                                                              |
 | 2022-12-13 | [[Mayors Manor]]     | [[Projected Lineups - LA Kings at Buffalo Sabres - aka The Smurf Bowl]]                                                                                    |
 | 2022-12-13 | [[LA Kings Insider]] | [[12-13 Preview – Doughty “should be good to go” + JAD in Top 6, Another Response, A BuffalOff Day]]                                                       |
 | 2022-12-11 | [[Hockey Royalty]]   | [[Gaudreau, Blue Jackets recover for OT victory against Kings]]                                                                                            |

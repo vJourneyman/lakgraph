@@ -21,6 +21,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                              | Title                                                                                                                                                |
 | ---------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-14 | [[Hockey Royalty]]                | [[Takeaways - LA Kings 0, Sabres 6 – They gave up]]                                                                                                  |
 | 2022-12-12 | [[LA Hockey Now]]                 | [[Kings Have Good Options to Replace Arvidsson]]                                                                                                     |
 | 2022-12-12 | [[Hockey Royalty]]                | [[Week 10 Pacific Division Power Rankings]]                                                                                                          |
 | 2022-12-12 | [[The Athletic]]                  | [[LA Kings unable to build on success once again, McLellan calls out teams ‘carelessness]]                                                           |

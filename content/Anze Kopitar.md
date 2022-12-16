@@ -20,6 +20,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                                  |
 | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-14 | [[LA Hockey Now]] | [[Kings Need to Break Out of Funk, But How]] |
 | 2022-12-13 | [[The Forum Report]]   | [[Buffalo post-game - “We gave up six goals in the third period Five of them came after the 10-minute mark Thatll tell you enough.”]]                  |
 | 2022-12-13 | [[LA Kings Insider]]   | [[FINAL – Kings 0, Sabres 6 – Kopitar, McLellan]]                                                                                                      |
 | 2022-12-13 | [[LA Kings Insider]]   | [[12-13 Preview – Doughty “should be good to go” + JAD in Top 6, Another Response, A BuffalOff Day]]                                                   |

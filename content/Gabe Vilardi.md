@@ -22,7 +22,8 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                              | Title                                                                                                                                                  |
 | ---------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-12-12 | [[LA Hockey Now]] | [[Kings Have Good Options to Replace Arvidsson]] |
+| 2022-12-14 | [[Hockey Royalty]]                | [[Takeaways - LA Kings 0, Sabres 6 – They gave up]]                                                                                                    |
+| 2022-12-12 | [[LA Hockey Now]]                 | [[Kings Have Good Options to Replace Arvidsson]]                                                                                                       |
 | 2022-12-06 | [[Hockey Royalty]]                | [[LA Kings at Ottawa Senators projected lineup, betting preview]]                                                                                      |
 | 2022-12-04 | [[LA Kings Insider]]              | [[Practice 12-4 – Iafallo “available” on trip + Todays Alignment, Edlers Character, Goaltending Overview]]                                             |
 | 2022-12-02 | [[Pro Hockey Rumors]]             | [[What Your Team Is Thankful For - Los Angeles Kings]]                                                                                                 |

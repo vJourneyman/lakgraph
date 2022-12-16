@@ -22,6 +22,8 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                                      |
 | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-14 | [[LA Hockey Now]] | [[Kings Need to Break Out of Funk, But How]] |
+| 2022-12-14 | [[The Forum Report]] | [[Playmaking Chart - December 13 at Buffalo]] |
 | 2022-12-12 | [[LA Daily News]]     | [[High-scoring Kings finding ‘the carelessness is killing us]]                                                                             |
 | 2022-12-11 | [[The Forum Report]]  | [[Playmaking Chart - December 11 at Columbus]]                                                                                             |
 | 2022-12-11 | [[The Forum Report]]  | [[Playmaking Chart - December 10 at Montreal]]                                                                                             |

@@ -19,6 +19,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                      |
 | ---------- | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-14 | [[LA Hockey Now]] | [[Kings Need to Break Out of Funk, But How]] |
 | 2022-12-13 | [[Action Network]]      | [[NHL Odds, Pick, Prediction - Kings vs Sabres Tuesday Betting Preview (December 13)]]                                                                     |
 | 2022-12-13 | [[Mayors Manor]]        | [[Projected Lineups - LA Kings at Buffalo Sabres - aka The Smurf Bowl]]                                                                                    |
 | 2022-12-13 | [[LA Kings Insider]]    | [[12-13 Preview – Doughty “should be good to go” + JAD in Top 6, Another Response, A BuffalOff Day]]                                                       |

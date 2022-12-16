@@ -21,6 +21,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                                |
 | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-14 | [[LA Kings Insider]] | [[Practice 12-14 – Todays “Cleanse” + A Tale of 2 Halves, Bump-Up Breakdowns, Salin To WJC]] |
 | 2022-12-13 | [[Mayors Manor]] | [[Projected Lineups - LA Kings at Buffalo Sabres - aka The Smurf Bowl]] |
 | 2022-12-13 | [[LA Kings Insider]]  | [[12-13 Preview – Doughty “should be good to go” + JAD in Top 6, Another Response, A BuffalOff Day]]                                 |
 | 2022-12-08 | [[LA Hockey Now]]     | [[Kings vs Maple Leafs Game 29 - Lines, Notes and How to Watch]]                                                                     |
