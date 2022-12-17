@@ -22,7 +22,8 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                          |
 | ---------- | --------------------- | -------------------------------------------------------------------------------------------------------------- |
-| 2022-12-12 | [[LA Hockey Now]] | [[Kings Have Good Options to Replace Arvidsson]] |
+| 2022-12-16 | [[Pro Hockey Rumors]] | [[Los Angeles Kings Loan Three To AHL]]                                                                        |
+| 2022-12-12 | [[LA Hockey Now]]     | [[Kings Have Good Options to Replace Arvidsson]]                                                               |
 | 2022-12-10 | [[LA Hockey Now]]     | [[Kings vs Canadiens Game 30 - Lines, Notes and How to Watch]]                                                 |
 | 2022-12-09 | [[LA Kings Insider]]  | [[Samuel Fagemo has found his second NHL opportunity filled with firsts]]                                      |
 | 2022-12-05 | [[Kings at NHL.com]]  | [[The Week That Was, The Week That Is - 12-5]]                                                                 |
@@ -53,25 +54,26 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 
 
 ## Minor League Coverage
-| Date       | Site                 | Title                                                                                         |
-| ---------- | -------------------- | --------------------------------------------------------------------------------------------- |
-| 2022-11-28 | [[Mayors Manor]] | [[Reign Recap - Byfield, Fagemo, Turcotte Lead Ontario to Sunday Victory]] |
-| 2022-11-21 | [[Hockey Royalty]] | [[Takeaways - Ontario Reign 3, Henderson 2 – Finally]] |
-| 2022-11-20 | [[Mayors Manor]]     | [[Reign Recap - Clarke and Byfield Score, Get Ontario Back to Their Winning Ways]]            |
-| 2022-11-11 | [[The AHL]]          | [[Weekend notebook - Reign loaded again with young stars]]                                    |
-| 2022-11-11 | [[Mayors Manor]]     | [[Reign Recap - Revamped Lineup Comes Up Short in Shootout Loss at San Jose]]                 |
-| 2022-11-10 | [[Mayors Manor]]     | [[Ontario Reign - Projected Lineup at San Jose - With Trio of Top Kings Prospects Returning]] |
-| 2022-11-03 | [[Mayors Manor]]     | [[Ontario Reign - Projected Lineup vs Colorado Eagles - Fagemo Out]]                          |
-| 2022-10-30 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 4-3 win against Bakersfield]]                          |
-| 2022-10-28 | [[Hockey Royalty]]   | [[LA Kings - 2022-23 prospect rankings, the top five]]                                        |
-| 2022-10-23 | [[Mayors Manor]]     | [[Reign Recap and Highlights - Kupari and Fagemo Keep Train Rolling Over Gulls]]              |
-| 2022-10-21 | [[Kings at NHL.com]] | [[LA Kings Prospect Report, 10-21]]                                                           |
-| 2022-10-19 | [[Mayors Manor]]     | [[LA Kings Weekly Reign Report, October 16, 2022]]                                            |
-| 2022-10-19 | [[LA Kings Insider]] | [[High scoring forwards have Ontario Reign off to hot start - LA Kings Insider]]              |
-| 2022-10-18 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Henderson, 10-18 - LA Kings Insider]]                            |
-| 2022-10-16 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 2, Condors 3 – Sturm, Fagemo - LA Kings Insider]]                       |
-| 2022-10-16 | [[Mayors Manor]]     | [[Reign Recap and Highlights - Bakersfield Hands Ontario First Loss of the Season]]           |
-| 2022-10-16 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Bakersfield, 10-16 - LA Kings Insider]]                          |
+| Date       | Site                 | Title                                                                                                 |
+| ---------- | -------------------- | ----------------------------------------------------------------------------------------------------- |
+| 2022-12-16 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup at Bakersfield Condors - Plus Notes on Byfield, Fagemo, and Spence]] |
+| 2022-11-28 | [[Mayors Manor]]     | [[Reign Recap - Byfield, Fagemo, Turcotte Lead Ontario to Sunday Victory]]                            |
+| 2022-11-21 | [[Hockey Royalty]]   | [[Takeaways - Ontario Reign 3, Henderson 2 – Finally]]                                                |
+| 2022-11-20 | [[Mayors Manor]]     | [[Reign Recap - Clarke and Byfield Score, Get Ontario Back to Their Winning Ways]]                    |
+| 2022-11-11 | [[The AHL]]          | [[Weekend notebook - Reign loaded again with young stars]]                                            |
+| 2022-11-11 | [[Mayors Manor]]     | [[Reign Recap - Revamped Lineup Comes Up Short in Shootout Loss at San Jose]]                         |
+| 2022-11-10 | [[Mayors Manor]]     | [[Ontario Reign - Projected Lineup at San Jose - With Trio of Top Kings Prospects Returning]]         |
+| 2022-11-03 | [[Mayors Manor]]     | [[Ontario Reign - Projected Lineup vs Colorado Eagles - Fagemo Out]]                                  |
+| 2022-10-30 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 4-3 win against Bakersfield]]                                  |
+| 2022-10-28 | [[Hockey Royalty]]   | [[LA Kings - 2022-23 prospect rankings, the top five]]                                                |
+| 2022-10-23 | [[Mayors Manor]]     | [[Reign Recap and Highlights - Kupari and Fagemo Keep Train Rolling Over Gulls]]                      |
+| 2022-10-21 | [[Kings at NHL.com]] | [[LA Kings Prospect Report, 10-21]]                                                                   |
+| 2022-10-19 | [[Mayors Manor]]     | [[LA Kings Weekly Reign Report, October 16, 2022]]                                                    |
+| 2022-10-19 | [[LA Kings Insider]] | [[High scoring forwards have Ontario Reign off to hot start - LA Kings Insider]]                      |
+| 2022-10-18 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Henderson, 10-18 - LA Kings Insider]]                                    |
+| 2022-10-16 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 2, Condors 3 – Sturm, Fagemo - LA Kings Insider]]                               |
+| 2022-10-16 | [[Mayors Manor]]     | [[Reign Recap and Highlights - Bakersfield Hands Ontario First Loss of the Season]]                   |
+| 2022-10-16 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Bakersfield, 10-16 - LA Kings Insider]]                                  |
 | 2022-10-14 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 8, Canucks 2 – Sturm, Tynan, Grans - LA Kings Insider]]       |
 
 

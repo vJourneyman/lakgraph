@@ -104,7 +104,9 @@ priority: high
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                                                                        |
 | ---------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-12-11 | [[Hockey Royalty]] | [[Ontario Reign - Three takeaways from 3-2 OT win against Tucson]] |
+| 2022-12-16 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup at Bakersfield Condors - Plus Notes on Byfield, Fagemo, and Spence]]                                        |
+| 2022-12-16 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at Bakersfield, 12-16]]                                                                                            |
+| 2022-12-11 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 3-2 OT win against Tucson]]                                                                           |
 | 2022-12-11 | [[Mayors Manor]]     | [[Reign Recap - Kuparis OT Goal Completes Road Sweep Over Tucson]]                                                                           |
 | 2022-12-11 | [[LA Kings Insider]] | [[12-11 Preview – No Morning Skate + A Good PK Effort, Tonights Mentality, On The Farm]]                                                     |
 | 2022-12-10 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 4-3 OT win against Tucson]]                                                                           |

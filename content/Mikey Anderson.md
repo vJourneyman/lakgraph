@@ -20,6 +20,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                                           |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-16 | [[The Forum Report]] | [[Playmaking Chart - December 15 at Boston]]                                                                                    |
 | 2022-12-15 | [[LA Daily News]]    | [[Kings Trevor Moore gets 5-year, $21 million extension]]                                                                       |
 | 2022-12-15 | [[The Forum Report]] | [[Competitive window sharpens as Kings, Moore agree to 5-year, $21M extension]]                                                 |
 | 2022-12-06 | [[LA Hockey Now]]    | [[Hot Start Leads Kings Past Senators 5-2]]                                                                                     |

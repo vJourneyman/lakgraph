@@ -21,6 +21,10 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                              | Title                                                                                                                                                |
 | ---------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-16 | [[LA Daily News]]                 | [[Kings return from tough 6-game road trip on a high note]]                                                                                          |
+| 2022-12-16 | [[Mayors Manor]]                  | [[Rapid Review - Notes and Highlights from Kings OT Victory in Boston]]                                                                              |
+| 2022-12-16 | [[The Forum Report]]              | [[Playmaking Chart - December 15 at Boston]]                                                                                                         |
+| 2022-12-16 | [[LA Kings Insider]]              | [[Five Moore Years! Moore, Blake and McLellan weigh in on a new five-year extension]]                                                                |
 | 2022-12-15 | [[LA Hockey Now]]                 | [[Kings Bounce Back With Massive 3-2 Shootout Victory Over Bruins]]                                                                                  |
 | 2022-12-15 | [[Kings at NHL.com]]              | [[Kempe scores twice, Kings rally past Bruins in shootout]]                                                                                          |
 | 2022-12-15 | [[Kings at NHL.com]]              | [[Kempe scores twice, Kings rally past Bruins in shootout]]                                                                                          |

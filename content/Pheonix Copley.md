@@ -19,6 +19,9 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                 |
 | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-16 | [[LA Hockey Now]]      | [[Kings Have a Pheonix Rising in LA]]                                                                                                 |
+| 2022-12-16 | [[Mayors Manor]]       | [[Rapid Review - Notes and Highlights from Kings OT Victory in Boston]]                                                               |
+| 2022-12-16 | [[The Athletic]]       | [[The NHLs 2022-23 trade market and trying to figure out the buyers and sellers]]                                                     |
 | 2022-12-15 | [[The Hockey Writers]] | [[4 Takeaways From Kings Up and Down December Road Trip]]                                                                             |
 | 2022-12-15 | [[LA Hockey Now]]      | [[Kings Bounce Back With Massive 3-2 Shootout Victory Over Bruins]]                                                                   |
 | 2022-12-15 | [[Kings at NHL.com]]   | [[Kempe scores twice, Kings rally past Bruins in shootout]]                                                                           |

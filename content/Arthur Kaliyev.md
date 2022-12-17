@@ -22,6 +22,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                      |
 | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-16 | [[The Forum Report]]   | [[Playmaking Chart - December 15 at Boston]]                                                                                               |
 | 2022-12-15 | [[The Hockey Writers]] | [[4 Takeaways From Kings Up and Down December Road Trip]]                                                                                  |
 | 2022-12-15 | [[The Forum Report]]   | [[Competitive window sharpens as Kings, Moore agree to 5-year, $21M extension]]                                                            |
 | 2022-12-14 | [[LA Hockey Now]]      | [[Kings Need to Break Out of Funk, But How]]                                                                                               |

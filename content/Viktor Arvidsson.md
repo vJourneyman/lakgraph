@@ -19,6 +19,9 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                           |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-16 | [[Mayors Manor]]        | [[Rapid Review - Notes and Highlights from Kings OT Victory in Boston]]                                                                                         |
+| 2022-12-16 | [[The Athletic]]        | [[The NHLs 2022-23 trade market and trying to figure out the buyers and sellers]]                                                                               |
+| 2022-12-16 | [[LA Kings Insider]]    | [[Five Moore Years! Moore, Blake and McLellan weigh in on a new five-year extension]]                                                                           |
 | 2022-12-15 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Sign Trevor Moore To Five-Year Extension]]                                                                                                  |
 | 2022-12-15 | [[Mayors Manor]]        | [[Projected Lineups - LA Kings at Boston Bruins - End of the Roadie]]                                                                                           |
 | 2022-12-15 | [[The Forum Report]]    | [[Competitive window sharpens as Kings, Moore agree to 5-year, $21M extension]]                                                                                 |

@@ -20,7 +20,9 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                 |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-12-15 | [[Pro Hockey Rumors]] | [[Los Angeles Kings Sign Trevor Moore To Five-Year Extension]] |
+| 2022-12-16 | [[The Athletic]]        | [[The NHLs 2022-23 trade market and trying to figure out the buyers and sellers]]                                                     |
+| 2022-12-16 | [[LA Kings Insider]]    | [[Five Moore Years! Moore, Blake and McLellan weigh in on a new five-year extension]]                                                 |
+| 2022-12-15 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Sign Trevor Moore To Five-Year Extension]]                                                                        |
 | 2022-12-15 | [[The Forum Report]]    | [[Competitive window sharpens as Kings, Moore agree to 5-year, $21M extension]]                                                       |
 | 2022-12-15 | [[LA Kings Insider]]    | [[12-15 Preview – Whats Required in Boston + Copley in net and notes on Kupari, Kopitar, Ovechkin]]                                   |
 | 2022-12-14 | [[The Athletic]]        | [[LA Kings, Anaheim Ducks blanked a combined 13-0 in brutal night for SoCal hockey]]                                                  |

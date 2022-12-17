@@ -23,6 +23,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                          |
 | ---------- | --------------------- | -------------------------------------------------------------------------------------------------------------- |
+| 2022-12-16 | [[Pro Hockey Rumors]] | [[Los Angeles Kings Loan Three To AHL]]                                                                        |
 | 2022-12-11 | [[Pro Hockey Rumors]] | [[Snapshots - Doughty, Pettersson, McIlrath]]                                                                  |
 | 2022-12-10 | [[LA Hockey Now]]     | [[Kings vs Canadiens Game 30 - Lines, Notes and How to Watch]]                                                 |
 | 2022-12-06 | [[Hockey Royalty]]    | [[LA Kings at Ottawa Senators projected lineup, betting preview]]                                              |
@@ -51,15 +52,16 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 
 
 ## Minor League Coverage
-| Date       | Site                 | Title                                                                               |
-| ---------- | -------------------- | ----------------------------------------------------------------------------------- |
-| 2022-11-24 | [[Hockey Royalty]]                | [[Ontario Reign - Three takeaways from 5-1 win against San Jose]]                                                                                                                                                                                                                                                              |
-| 2022-11-23 | [[Hockey Royalty]] | [[Ontario Reign - How are the defensemen prospects doing]] |
-| 2022-11-11 | [[The AHL]]          | [[Weekend notebook - Reign loaded again with young stars]]                          |
-| 2022-11-05 | [[Mayors Manor]]     | [[Ontario Reign - Projected Lineup for Rematch in Colorado - Plus Bjornfot Update]] |
-| 2022-11-04 | [[Mayors Manor]]     | [[Reign Recap - Villalta Stands Tall in Colorado, Earns 2-0 Shutout]]               |
-| 2022-11-02 | [[LA Kings Insider]] | [[Ontario Reign defense takes center stage in teams 6-1 start - LA Kings Insider]]  |
-| 2022-10-16 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Bakersfield, 10-16 - LA Kings Insider]]                |
+| Date       | Site                 | Title                                                                                                 |
+| ---------- | -------------------- | ----------------------------------------------------------------------------------------------------- |
+| 2022-12-16 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup at Bakersfield Condors - Plus Notes on Byfield, Fagemo, and Spence]] |
+| 2022-11-24 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 5-1 win against San Jose]]                                     |
+| 2022-11-23 | [[Hockey Royalty]]   | [[Ontario Reign - How are the defensemen prospects doing]]                                            |
+| 2022-11-11 | [[The AHL]]          | [[Weekend notebook - Reign loaded again with young stars]]                                            |
+| 2022-11-05 | [[Mayors Manor]]     | [[Ontario Reign - Projected Lineup for Rematch in Colorado - Plus Bjornfot Update]]                   |
+| 2022-11-04 | [[Mayors Manor]]     | [[Reign Recap - Villalta Stands Tall in Colorado, Earns 2-0 Shutout]]                                 |
+| 2022-11-02 | [[LA Kings Insider]] | [[Ontario Reign defense takes center stage in teams 6-1 start - LA Kings Insider]]                    |
+| 2022-10-16 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Bakersfield, 10-16 - LA Kings Insider]]                                  |
 | 2022-10-14 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 8, Canucks 2 – Sturm, Tynan, Grans - LA Kings Insider]]      |
 
 

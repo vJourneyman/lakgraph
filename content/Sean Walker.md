@@ -20,6 +20,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                     |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-16 | [[ESPN]]                | [[NHL trade tiers - Way-too-early edition for 2022-23]]                                                                                   |
 | 2022-12-15 | [[The Hockey News]]     | [[KINGS SEAN DURZI LEARNS WHAT IT MEANS TO BE AN NHL STAR]]                                                                               |
 | 2022-12-15 | [[Hockey Royalty]]      | [[The LA Kings have not been good enough]]                                                                                                |
 | 2022-12-14 | [[The Hockey News]]     | [[BRANDT CLARKE PREPARES TO PROVE HIMSELF AT THE WORLD JUNIORS AND BEYOND]]                                                               |

@@ -20,6 +20,9 @@ status: UnprocessedContent
 ## NHL  Coverage
 | Date       | Site                              | Title                                                                                                                                                      |
 | ---------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-16 | [[The Athletic]]                  | [[The NHLs 2022-23 trade market and trying to figure out the buyers and sellers]]                                                                          |
+| 2022-12-16 | [[The Athletic]]                  | [[NHL Power Rankings - A surge into the top 10 and a haiku for every team]]                                                                                |
+| 2022-12-16 | [[LA Kings Insider]]              | [[Five Moore Years! Moore, Blake and McLellan weigh in on a new five-year extension]]                                                                      |
 | 2022-12-15 | [[LA Hockey Now]]                 | [[Kings Bounce Back With Massive 3-2 Shootout Victory Over Bruins]]                                                                                        |
 | 2022-12-15 | [[Kings at NHL.com]]              | [[Kempe scores twice, Kings rally past Bruins in shootout]]                                                                                                |
 | 2022-12-15 | [[Hockey Royalty]]                | [[The LA Kings have not been good enough]]                                                                                                                 |
@@ -194,7 +197,7 @@ status: UnprocessedContent
 | 2022-07-07 | [[Hockey Wilderness]]             | [[Roundtable - Thoughts about the Fiala trade]]                                                                                                            |
 | 2022-07-06 | [[StarTribune]]                   | [[Kevin Fiala really excited to start next step in NHL career with Los Angeles Kings]]                                                                     |
 | 2022-07-05 | [[LA Kings Insider]]              | [[First Reactions from dynamic Kevin Fiala and Rob Blake after blockbuster trade + Other Takeaways - LA Kings Insider]]                                    |
-| 2022-07-04 | [[Hockey Royalty]]              | [[Kevin Fiala - a full scale breakdown on the newest member of the LA Kings]]                                                                              |
+| 2022-07-04 | [[Hockey Royalty]]                | [[Kevin Fiala - a full scale breakdown on the newest member of the LA Kings]]                                                                              |
 
 
 

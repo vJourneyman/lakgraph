@@ -15,6 +15,19 @@ status: in-progress
 
 | Date       | Site                    | Title                                                                                                                          |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-16 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Loan Three To AHL]]                                                                                        |
+| 2022-12-16 | [[ESPN]]                | [[NHL trade tiers - Way-too-early edition for 2022-23]]                                                                        |
+| 2022-12-16 | [[ESPN]]                | [[NHL Power Rankings - 1-32 poll, biggest December games left]]                                                                |
+| 2022-12-16 | [[LA Hockey Now]]       | [[Kings Have a Pheonix Rising in LA]]                                                                                          |
+| 2022-12-16 | [[LA Daily News]]       | [[Kings return from tough 6-game road trip on a high note]]                                                                    |
+| 2022-12-16 | [[Mayors Manor]]        | [[Ontario Reign Projected Lineup at Bakersfield Condors - Plus Notes on Byfield, Fagemo, and Spence]]                          |
+| 2022-12-16 | [[Mayors Manor]]        | [[Rapid Review - Notes and Highlights from Kings OT Victory in Boston]]                                                        |
+| 2022-12-16 | [[The Athletic]]        | [[The NHLs 2022-23 trade market and trying to figure out the buyers and sellers]]                                              |
+| 2022-12-16 | [[The Athletic]]        | [[NHL Power Rankings - A surge into the top 10 and a haiku for every team]]                                                    |
+| 2022-12-16 | [[The Forum Report]]    | [[Playmaking Chart - December 15 at Boston]]                                                                                   |
+| 2022-12-16 | [[LA Kings Insider]]    | [[Fridays Reign Game In Bakersfield Postponed]]                                                                                |
+| 2022-12-16 | [[LA Kings Insider]]    | [[Five Moore Years! Moore, Blake and McLellan weigh in on a new five-year extension]]                                          |
+| 2022-12-16 | [[LA Kings Insider]]    | [[REIGN PREVIEW – Ontario at Bakersfield, 12-16]]                                                                              |
 | 2022-12-15 | [[Puck Prose]]          | [[LA Kings News - Trevor Moore Extended Through 2027-28]]                                                                      |
 | 2022-12-15 | [[The Hockey News]]     | [[KINGS SIGN TREVOR MOORE TO FIVE-YEAR DEAL]]                                                                                  |
 | 2022-12-15 | [[The Hockey News]]     | [[KINGS SEAN DURZI LEARNS WHAT IT MEANS TO BE AN NHL STAR]]                                                                    |

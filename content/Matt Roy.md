@@ -20,6 +20,9 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                           |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-16 | [[ESPN]]                | [[NHL trade tiers - Way-too-early edition for 2022-23]]                                                                                                         |
+| 2022-12-16 | [[The Forum Report]]    | [[Playmaking Chart - December 15 at Boston]]                                                                                                                    |
+| 2022-12-16 | [[LA Kings Insider]]    | [[Five Moore Years! Moore, Blake and McLellan weigh in on a new five-year extension]]                                                                           |
 | 2022-12-15 | [[Hockey Royalty]]      | [[The LA Kings have not been good enough]]                                                                                                                      |
 | 2022-12-12 | [[LA Daily News]]       | [[High-scoring Kings finding ‘the carelessness is killing us]]                                                                                                  |
 | 2022-12-07 | [[The Forum Report]]    | [[Playmaking Chart - 12-6 vs Ottawa]]                                                                                                                           |

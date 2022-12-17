@@ -19,6 +19,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                      |
 | ---------- | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-16 | [[The Forum Report]]    | [[Playmaking Chart - December 15 at Boston]]                                                                                                               |
 | 2022-12-15 | [[The Hockey News]]     | [[KINGS SEAN DURZI LEARNS WHAT IT MEANS TO BE AN NHL STAR]]                                                                                                |
 | 2022-12-15 | [[LA Hockey Now]]       | [[Kings Bounce Back With Massive 3-2 Shootout Victory Over Bruins]]                                                                                        |
 | 2022-12-15 | [[Mayors Manor]]        | [[Projected Lineups - LA Kings at Boston Bruins - End of the Roadie]]                                                                                      |
