@@ -21,7 +21,8 @@ Alex Turcotte | | C | L | 5' 11" | 185 | 2001-02-26 | Elk Grove, IL, USA | 2019 
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------ |
-| 2022-11-23 | [[Mayors Manor]] | [[Ontario Reign Projected Lineup vs San Jose Barracuda - Looking to Build Momentum]] |
+| 2022-12-15 | [[The Forum Report]]    | [[Competitive window sharpens as Kings, Moore agree to 5-year, $21M extension]]      |
+| 2022-11-23 | [[Mayors Manor]]        | [[Ontario Reign Projected Lineup vs San Jose Barracuda - Looking to Build Momentum]] |
 | 2022-11-13 | [[LA Kings Insider]]    | [[REIGN FINAL – Reign 1, Gulls 4 – Sturm, Turcotte, Clarke]]                         |
 | 2022-10-11 | [[LA Daily News]]       | [[GM Rob Blake looking to see Kings reach another level]]                            |
 | 2022-10-10 | [[LA Daily News]]       | [[2022-23 Kings hockey - Five burning questions]]                                    |

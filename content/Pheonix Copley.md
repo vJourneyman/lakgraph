@@ -16,11 +16,15 @@ status: stable
 | -------------- | --- | -------- | ------- | ------ | ------ | ---------- | ------------------- | ----- |
 | Pheonix Copley | 29  | G        | L       | 6' 4"  | 200    | 1992-01-18 | North Pole, AK, USA |       | 
 
-
-
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                 |
 | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-15 | [[The Hockey Writers]] | [[4 Takeaways From Kings Up and Down December Road Trip]]                                                                             |
+| 2022-12-15 | [[LA Hockey Now]]      | [[Kings Bounce Back With Massive 3-2 Shootout Victory Over Bruins]]                                                                   |
+| 2022-12-15 | [[Kings at NHL.com]]   | [[Kempe scores twice, Kings rally past Bruins in shootout]]                                                                           |
+| 2022-12-15 | [[Mayors Manor]]       | [[Projected Lineups - LA Kings at Boston Bruins - End of the Roadie]]                                                                 |
+| 2022-12-15 | [[LA Kings Insider]]   | [[FINAL – Kings 3, Bruins 2 (SO) – Kempe, Moore, Copley, McLellan]]                                                                   |
+| 2022-12-15 | [[LA Kings Insider]]   | [[12-15 Preview – Whats Required in Boston + Copley in net and notes on Kupari, Kopitar, Ovechkin]]                                   |
 | 2022-12-13 | [[Action Network]]     | [[NHL Odds, Pick, Prediction - Kings vs Sabres Tuesday Betting Preview (December 13)]]                                                |
 | 2022-12-13 | [[LA Hockey Now]]      | [[Kings vs Sabres Game 32 - Lines, Notes and How to Watch]]                                                                           |
 | 2022-12-13 | [[Hockey Royalty]]     | [[LA Kings at Buffalo Sabres projected lineup, betting preview]]                                                                      |
@@ -57,7 +61,7 @@ status: stable
 | 2022-12-01 | [[Hockey Royalty]]     | [[LA Kings make transaction moves ahead of Thursdays game]]                                                                           |
 | 2022-12-01 | [[The Forum Report]]   | [[McLellan downplays Petersen drama, praises call-ups Fagemo and Bjornfot, and hints at Madden, Copley plans]]                        |
 | 2022-11-30 | [[The Athletic]]       | [[Kings place Cal Petersen on waivers - What went wrong for the goalie and whats next]]                                               |
-| 2022-12-01 | [[The Forum Report]] | [[Blakes press conference elicits more questions than answers]] |
+| 2022-12-01 | [[The Forum Report]]   | [[Blakes press conference elicits more questions than answers]]                                                                       |
 
 
 

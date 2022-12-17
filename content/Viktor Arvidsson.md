@@ -19,6 +19,10 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                           |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-15 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Sign Trevor Moore To Five-Year Extension]]                                                                                                  |
+| 2022-12-15 | [[Mayors Manor]]        | [[Projected Lineups - LA Kings at Boston Bruins - End of the Roadie]]                                                                                           |
+| 2022-12-15 | [[The Forum Report]]    | [[Competitive window sharpens as Kings, Moore agree to 5-year, $21M extension]]                                                                                 |
+| 2022-12-15 | [[LA Kings Insider]]    | [[12-15 Preview – Whats Required in Boston + Copley in net and notes on Kupari, Kopitar, Ovechkin]]                                                             |
 | 2022-12-14 | [[Hockey Royalty]]      | [[Takeaways - LA Kings 0, Sabres 6 – They gave up]]                                                                                                             |
 | 2022-12-14 | [[The Athletic]]        | [[LA Kings, Anaheim Ducks blanked a combined 13-0 in brutal night for SoCal hockey]]                                                                            |
 | 2022-12-14 | [[The Forum Report]]    | [[Playmaking Chart - December 13 at Buffalo]]                                                                                                                   |

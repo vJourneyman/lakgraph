@@ -20,7 +20,8 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                           |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-12-12 | [[LA Daily News]] | [[High-scoring Kings finding ‘the carelessness is killing us]] |
+| 2022-12-15 | [[Hockey Royalty]]      | [[The LA Kings have not been good enough]]                                                                                                                      |
+| 2022-12-12 | [[LA Daily News]]       | [[High-scoring Kings finding ‘the carelessness is killing us]]                                                                                                  |
 | 2022-12-07 | [[The Forum Report]]    | [[Playmaking Chart - 12-6 vs Ottawa]]                                                                                                                           |
 | 2022-12-06 | [[LA Hockey Now]]       | [[Hot Start Leads Kings Past Senators 5-2]]                                                                                                                     |
 | 2022-12-01 | [[Hockey Royalty]]      | [[LA Kings Shot Contribution Leaders]]                                                                                                                          |

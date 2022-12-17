@@ -21,7 +21,19 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                                           |
 | ---------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-12-14 | [[The Athletic]] | [[LA Kings, Anaheim Ducks blanked a combined 13-0 in brutal night for SoCal hockey]] |
+| 2022-12-15 | [[Puck Prose]]         | [[LA Kings News - Trevor Moore Extended Through 2027-28]]                                                                                                       |
+| 2022-12-15 | [[The Hockey News]]    | [[KINGS SIGN TREVOR MOORE TO FIVE-YEAR DEAL]]                                                                                                                   |
+| 2022-12-15 | [[SportsNet]]          | [[Kings, forward Trevor Moore sign five-year, $21M extension]]                                                                                                  |
+| 2022-12-15 | [[Hockey Feed]]        | [[BREAKING - Kings announce key contract extension]]                                                                                                            |
+| 2022-12-15 | [[Pro Hockey Rumors]]  | [[Los Angeles Kings Sign Trevor Moore To Five-Year Extension]]                                                                                                  |
+| 2022-12-15 | [[LA Hockey Now]]      | [[Breaking - Kings Extend Trevor Moore]]                                                                                                                        |
+| 2022-12-15 | [[LA Daily News]]      | [[Kings Trevor Moore gets 5-year, $21 million extension]]                                                                                                       |
+| 2022-12-15 | [[Kings at NHL.com]]   | [[Kempe scores twice, Kings rally past Bruins in shootout]]                                                                                                     |
+| 2022-12-15 | [[The Athletic]]       | [[Kings sign Trevor Moore to 5-year contract extension with $4.2 million AAV]]                                                                                  |
+| 2022-12-15 | [[The Forum Report]]   | [[Competitive window sharpens as Kings, Moore agree to 5-year, $21M extension]]                                                                                 |
+| 2022-12-15 | [[LA Kings Insider]]   | [[FINAL – Kings 3, Bruins 2 (SO) – Kempe, Moore, Copley, McLellan]]                                                                                             |
+| 2022-12-15 | [[LA Kings Insider]]   | [[Kings sign forward Trevor Moore to five-year contract extension (AAV - $4,200,000)]]                                                                          |
+| 2022-12-14 | [[The Athletic]]       | [[LA Kings, Anaheim Ducks blanked a combined 13-0 in brutal night for SoCal hockey]]                                                                            |
 | 2022-12-13 | [[LA Kings Insider]]   | [[12-13 Preview – Doughty “should be good to go” + JAD in Top 6, Another Response, A BuffalOff Day]]                                                            |
 | 2022-12-12 | [[LA Daily News]]      | [[High-scoring Kings finding ‘the carelessness is killing us]]                                                                                                  |
 | 2022-12-10 | [[LA Kings Insider]]   | [[12-10 Preview – Copley In Net + Same Alignment Expected, Clears on the PK, Durzi and Suzuki]]                                                                 |

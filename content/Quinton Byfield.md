@@ -22,7 +22,8 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-12-14 | [[LA Hockey Now]] | [[Kings Need to Break Out of Funk, But How]] |
+| 2022-12-15 | [[The Forum Report]]    | [[Competitive window sharpens as Kings, Moore agree to 5-year, $21M extension]]                                                      |
+| 2022-12-14 | [[LA Hockey Now]]       | [[Kings Need to Break Out of Funk, But How]]                                                                                         |
 | 2022-12-12 | [[Hockey Royalty]]      | [[Ontario Reign - Three stars of the week – 12-5 to 12-11]]                                                                          |
 | 2022-12-11 | [[LA Hockey Now]]       | [[Whats Consistency Kings Fall to Blue Jackets 6-5]]                                                                                 |
 | 2022-12-07 | [[LA Kings Insider]]    | [[REIGN PREVIEW – Ontario vs Henderson, 12-7]]                                                                                       |

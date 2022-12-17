@@ -17,13 +17,14 @@ priority: high
 | ------------------- | --- | -------- | ------ | ------ | ------ | ---------- | ---------------------- | ---------------------------------------- |
 | [[Phillip Danault]] | 24  | C        | L      | 6' 1"  | 200    | 1996-07-22 | Victoriaville, QC, CAN | 2011 CHI, 1st rd, 26th pk (26th overall) |
 
-
-
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                 |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-12-14 | [[The Athletic]] | [[LA Kings, Anaheim Ducks blanked a combined 13-0 in brutal night for SoCal hockey]] |
-| 2022-12-14 | [[LA Kings Insider]] | [[Practice 12-14 – Todays “Cleanse” + A Tale of 2 Halves, Bump-Up Breakdowns, Salin To WJC]] |
+| 2022-12-15 | [[Pro Hockey Rumors]] | [[Los Angeles Kings Sign Trevor Moore To Five-Year Extension]] |
+| 2022-12-15 | [[The Forum Report]]    | [[Competitive window sharpens as Kings, Moore agree to 5-year, $21M extension]]                                                       |
+| 2022-12-15 | [[LA Kings Insider]]    | [[12-15 Preview – Whats Required in Boston + Copley in net and notes on Kupari, Kopitar, Ovechkin]]                                   |
+| 2022-12-14 | [[The Athletic]]        | [[LA Kings, Anaheim Ducks blanked a combined 13-0 in brutal night for SoCal hockey]]                                                  |
+| 2022-12-14 | [[LA Kings Insider]]    | [[Practice 12-14 – Todays “Cleanse” + A Tale of 2 Halves, Bump-Up Breakdowns, Salin To WJC]]                                          |
 | 2022-12-12 | [[LA Daily News]]       | [[High-scoring Kings finding ‘the carelessness is killing us]]                                                                        |
 | 2022-12-11 | [[The Forum Report]]    | [[Playmaking Chart - December 11 at Columbus]]                                                                                        |
 | 2022-12-11 | [[LA Kings Insider]]    | [[12-11 Preview – No Morning Skate + A Good PK Effort, Tonights Mentality, On The Farm]]                                              |

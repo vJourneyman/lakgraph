@@ -21,6 +21,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                                                                      |
 | ---------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-15 | [[Mayors Manor]]     | [[Projected Lineups - LA Kings at Boston Bruins - End of the Roadie]]                                                                                      |
 | 2022-12-14 | [[Hockey Royalty]]   | [[Takeaways - LA Kings 0, Sabres 6 – They gave up]]                                                                                                        |
 | 2022-12-14 | [[The Forum Report]] | [[Playmaking Chart - December 13 at Buffalo]]                                                                                                              |
 | 2022-12-13 | [[Mayors Manor]]     | [[Projected Lineups - LA Kings at Buffalo Sabres - aka The Smurf Bowl]]                                                                                    |

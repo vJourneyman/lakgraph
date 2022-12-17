@@ -17,11 +17,11 @@ status: stable
 | ------ | --- | -------- | ------ | ------ | ------ | ---- | ---------- | ----- |
 | Mikey Anderson | 44 | LD | L | 6' 0" | 195 | 1999-05-25 | Roseville, MN, USA | 2017 LAK, 4th rd, 10th pk (103rd overall)
 
-
-
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                                           |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-15 | [[LA Daily News]]    | [[Kings Trevor Moore gets 5-year, $21 million extension]]                                                                       |
+| 2022-12-15 | [[The Forum Report]] | [[Competitive window sharpens as Kings, Moore agree to 5-year, $21M extension]]                                                 |
 | 2022-12-06 | [[LA Hockey Now]]    | [[Hot Start Leads Kings Past Senators 5-2]]                                                                                     |
 | 2022-11-28 | [[ESPN]]             | [[Grades for all 32 NHL teams at the quarter mark of 2022-23]]                                                                  |
 | 2022-11-28 | [[The Forum Report]] | [[Playmaking Chart - November 27 vs Ottawa]]                                                                                    |

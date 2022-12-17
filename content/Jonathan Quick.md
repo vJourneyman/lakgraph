@@ -16,12 +16,12 @@ status: stable
 | -------------- | --- | -------- | ------- | ------ | ------ | ---------- | ---------------- | ---------------------------------------- |
 | Jonathan Quick | 32  | G        | L       | 6' 1"  | 220    | 1986-01-21 | Milford, CT, USA | 2005 LAK, 3rd rd, 11th pk (72nd overall) |
 
-
-
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                 |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-12-14 | [[The Hockey News]] | [[BRANDT CLARKE PREPARES TO PROVE HIMSELF AT THE WORLD JUNIORS AND BEYOND]] |
+| 2022-12-15 | [[LA Daily News]]       | [[Kings Trevor Moore gets 5-year, $21 million extension]]                                                                                             |
+| 2022-12-15 | [[Hockey Royalty]]      | [[The LA Kings have not been good enough]]                                                                                                            |
+| 2022-12-14 | [[The Hockey News]]     | [[BRANDT CLARKE PREPARES TO PROVE HIMSELF AT THE WORLD JUNIORS AND BEYOND]]                                                                           |
 | 2022-12-13 | [[Hockey Royalty]]      | [[LA Kings at Buffalo Sabres projected lineup, betting preview]]                                                                                      |
 | 2022-12-12 | [[The Athletic]]        | [[LA Kings unable to build on success once again, McLellan calls out teams ‘carelessness]]                                                            |
 | 2022-12-11 | [[LA Hockey Now]]       | [[Whats Consistency Kings Fall to Blue Jackets 6-5]]                                                                                                  |

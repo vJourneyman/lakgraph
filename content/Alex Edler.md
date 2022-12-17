@@ -20,9 +20,10 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                |
 | ---------- | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-12-14 | [[The Hockey News]] | [[BRANDT CLARKE PREPARES TO PROVE HIMSELF AT THE WORLD JUNIORS AND BEYOND]] |
-| 2022-12-12 | [[The Athletic]] | [[LA Kings unable to build on success once again, McLellan calls out teams ‘carelessness]] |
-| 2022-12-11 | [[The Forum Report]] | [[Playmaking Chart - December 10 at Montreal]] |
+| 2022-12-15 | [[Mayors Manor]]        | [[Projected Lineups - LA Kings at Boston Bruins - End of the Roadie]]                                                                                |
+| 2022-12-14 | [[The Hockey News]]     | [[BRANDT CLARKE PREPARES TO PROVE HIMSELF AT THE WORLD JUNIORS AND BEYOND]]                                                                          |
+| 2022-12-12 | [[The Athletic]]        | [[LA Kings unable to build on success once again, McLellan calls out teams ‘carelessness]]                                                           |
+| 2022-12-11 | [[The Forum Report]]    | [[Playmaking Chart - December 10 at Montreal]]                                                                                                       |
 | 2022-12-11 | [[LA Kings Insider]]    | [[12-11 Preview – No Morning Skate + A Good PK Effort, Tonights Mentality, On The Farm]]                                                             |
 | 2022-12-10 | [[LA Kings Insider]]    | [[FINAL – Kings 4, Canadiens 2 – Danault, Edler, McLellan]]                                                                                          |
 | 2022-12-09 | [[The Athletic]]        | [[Kings Brandt Clarke heads to world juniors camp, but when might he return]]                                                                        |

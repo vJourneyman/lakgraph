@@ -15,11 +15,34 @@ status: in-progress
 
 | Date       | Site                    | Title                                                                                                                          |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-15 | [[Puck Prose]]          | [[LA Kings News - Trevor Moore Extended Through 2027-28]]                                                                      |
+| 2022-12-15 | [[The Hockey News]]     | [[KINGS SIGN TREVOR MOORE TO FIVE-YEAR DEAL]]                                                                                  |
+| 2022-12-15 | [[The Hockey News]]     | [[KINGS SEAN DURZI LEARNS WHAT IT MEANS TO BE AN NHL STAR]]                                                                    |
+| 2022-12-15 | [[The Hockey Writers]]  | [[4 Takeaways From Kings Up and Down December Road Trip]]                                                                      |
+| 2022-12-15 | [[The Hockey Writers]]  | [[NHL Rumors - Kings, Ducks, Oilers, Jets, Canucks]]                                                                           |
+| 2022-12-15 | [[SportsNet]]           | [[Kings, forward Trevor Moore sign five-year, $21M extension]]                                                                 |
+| 2022-12-15 | [[Hockey Feed]]         | [[BREAKING - Kings announce key contract extension]]                                                                           |
+| 2022-12-15 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Sign Trevor Moore To Five-Year Extension]]                                                                 |
+| 2022-12-15 | [[LA Hockey Now]]       | [[Kings Bounce Back With Massive 3-2 Shootout Victory Over Bruins]]                                                            |
+| 2022-12-15 | [[LA Hockey Now]]       | [[Breaking - Kings Extend Trevor Moore]]                                                                                       |
+| 2022-12-15 | [[LA Hockey Now]]       | [[Kings vs Bruins Game 33 - Lines, Notes and How to Watch]]                                                                    |
+| 2022-12-15 | [[Natural Stattrick]]   | [[Los Angeles Kings at Boston Bruins 2022-12-15]]                                                                              |
+| 2022-12-15 | [[LA Daily News]]       | [[Kings Trevor Moore gets 5-year, $21 million extension]]                                                                      |
+| 2022-12-15 | [[Kings at NHL.com]]    | [[Kempe scores twice, Kings rally past Bruins in shootout]]                                                                    |
+| 2022-12-15 | [[Hockey Royalty]]      | [[LA Kings at Boston Bruins projected lineup, betting preview]]                                                                |
+| 2022-12-15 | [[Hockey Royalty]]      | [[The LA Kings have not been good enough]]                                                                                     |
+| 2022-12-15 | [[Mayors Manor]]        | [[Projected Lineups - LA Kings at Boston Bruins - End of the Roadie]]                                                          |
+| 2022-12-15 | [[The Athletic]]        | [[Kings sign Trevor Moore to 5-year contract extension with $4.2 million AAV]]                                                 |
+| 2022-12-15 | [[The Forum Report]]    | [[Competitive window sharpens as Kings, Moore agree to 5-year, $21M extension]]                                                |
+| 2022-12-15 | [[LA Kings Insider]]    | [[FINAL – Kings 3, Bruins 2 (SO) – Kempe, Moore, Copley, McLellan]]                                                            |
+| 2022-12-15 | [[LA Kings Insider]]    | [[Kings sign forward Trevor Moore to five-year contract extension (AAV - $4,200,000)]]                                         |
+| 2022-12-15 | [[LA Kings Insider]]    | [[12-15 Preview – Whats Required in Boston + Copley in net and notes on Kupari, Kopitar, Ovechkin]]                            |
 | 2022-12-14 | [[The Hockey News]]     | [[BRANDT CLARKE PREPARES TO PROVE HIMSELF AT THE WORLD JUNIORS AND BEYOND]]                                                    |
 | 2022-12-14 | [[LA Sports Nation]]    | [[The Los Angeles Kings an Average Hockey Team Stats Say Yes]]                                                                 |
 | 2022-12-14 | [[LA Hockey Now]]       | [[Kings Need to Break Out of Funk, But How]]                                                                                   |
 | 2022-12-14 | [[LA Daily News]]       | [[Kings follow woeful finish in Buffalo with tough task in Boston]]                                                            |
 | 2022-12-14 | [[Hockey Royalty]]      | [[Takeaways - LA Kings 0, Sabres 6 – They gave up]]                                                                            |
+| 2022-12-14 | [[Mayors Manor]]        | [[7 Things You Need to Know About the USA-Canada Rivalry Series Coming to LA]]                                                 |
 | 2022-12-14 | [[Mayors Manor]]        | [[Rapid Review - Notes and Highlights from Kings 20 Minute Beatdown in Buffalo]]                                               |
 | 2022-12-14 | [[The Athletic]]        | [[LA Kings, Anaheim Ducks blanked a combined 13-0 in brutal night for SoCal hockey]]                                           |
 | 2022-12-14 | [[The Athletic]]        | [[NHL Future Power Rankings - Projecting the 2025-26 standings]]                                                               |

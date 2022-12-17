@@ -20,11 +20,15 @@ status: UnprocessedContent
 ## NHL  Coverage
 | Date       | Site                              | Title                                                                                                                                                      |
 | ---------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-12-14 | [[The Athletic]] | [[LA Kings, Anaheim Ducks blanked a combined 13-0 in brutal night for SoCal hockey]] |
-| 2022-12-14 | [[The Forum Report]] | [[Playmaking Chart - December 13 at Buffalo]] |
-| 2022-12-12 | [[The Athletic]] | [[LA Kings unable to build on success once again, McLellan calls out teams ‘carelessness]] |
-| 2022-12-11 | [[Hockey Royalty]] | [[Takeaways - LA Kings 4, Canadiens 2 – Two points are two points]] |
-| 2022-12-11 | [[The Forum Report]] | [[Playmaking Chart - December 11 at Columbus]] |
+| 2022-12-15 | [[LA Hockey Now]]                 | [[Kings Bounce Back With Massive 3-2 Shootout Victory Over Bruins]]                                                                                        |
+| 2022-12-15 | [[Kings at NHL.com]]              | [[Kempe scores twice, Kings rally past Bruins in shootout]]                                                                                                |
+| 2022-12-15 | [[Hockey Royalty]]                | [[The LA Kings have not been good enough]]                                                                                                                 |
+| 2022-12-15 | [[The Forum Report]]              | [[Competitive window sharpens as Kings, Moore agree to 5-year, $21M extension]]                                                                            |
+| 2022-12-14 | [[The Athletic]]                  | [[LA Kings, Anaheim Ducks blanked a combined 13-0 in brutal night for SoCal hockey]]                                                                       |
+| 2022-12-14 | [[The Forum Report]]              | [[Playmaking Chart - December 13 at Buffalo]]                                                                                                              |
+| 2022-12-12 | [[The Athletic]]                  | [[LA Kings unable to build on success once again, McLellan calls out teams ‘carelessness]]                                                                 |
+| 2022-12-11 | [[Hockey Royalty]]                | [[Takeaways - LA Kings 4, Canadiens 2 – Two points are two points]]                                                                                        |
+| 2022-12-11 | [[The Forum Report]]              | [[Playmaking Chart - December 11 at Columbus]]                                                                                                             |
 | 2022-12-10 | [[The Forum Report]]              | [[Notebook - Kings 4, Canadiens 2]]                                                                                                                        |
 | 2022-12-10 | [[LA Kings Insider]]              | [[FINAL – Kings 4, Canadiens 2 – Danault, Edler, McLellan]]                                                                                                |
 | 2022-12-06 | [[Kings at NHL.com]]              | [[Arvidsson scores twice in Kings win against Senators]]                                                                                                   |

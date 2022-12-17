@@ -17,12 +17,12 @@ priority: high
 | ------------- | --- | -------- | ------ | ------ | ------ | ---------- | ---------- | ---------------------------------------- |
 | Rasmus Kupari | 89    | C        | R      | 6'2"   | 200    | 2000-03-15 | Kotka, FIN | 2018 LAK, 1st rd, 20th pk (20th overall) |
  
-
-
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                     |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-12-13 | [[Hockey Royalty]] | [[LA Kings at Buffalo Sabres projected lineup, betting preview]] |
+| 2022-12-15 | [[Mayors Manor]]        | [[Projected Lineups - LA Kings at Boston Bruins - End of the Roadie]]                                                                     |
+| 2022-12-15 | [[LA Kings Insider]]    | [[12-15 Preview – Whats Required in Boston + Copley in net and notes on Kupari, Kopitar, Ovechkin]]                                       |
+| 2022-12-13 | [[Hockey Royalty]]      | [[LA Kings at Buffalo Sabres projected lineup, betting preview]]                                                                          |
 | 2022-12-12 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Make Three Transactions]]                                                                                             |
 | 2022-12-12 | [[LA Hockey Now]]       | [[Kings Have Good Options to Replace Arvidsson]]                                                                                          |
 | 2022-12-12 | [[LA Daily News]]       | [[High-scoring Kings finding ‘the carelessness is killing us]]                                                                            |

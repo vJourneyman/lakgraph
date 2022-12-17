@@ -21,6 +21,11 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                              | Title                                                                                                                                                |
 | ---------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-15 | [[LA Hockey Now]]                 | [[Kings Bounce Back With Massive 3-2 Shootout Victory Over Bruins]]                                                                                  |
+| 2022-12-15 | [[Kings at NHL.com]]              | [[Kempe scores twice, Kings rally past Bruins in shootout]]                                                                                          |
+| 2022-12-15 | [[Kings at NHL.com]]              | [[Kempe scores twice, Kings rally past Bruins in shootout]]                                                                                          |
+| 2022-12-15 | [[The Forum Report]]              | [[Competitive window sharpens as Kings, Moore agree to 5-year, $21M extension]]                                                                      |
+| 2022-12-15 | [[LA Kings Insider]]              | [[FINAL – Kings 3, Bruins 2 (SO) – Kempe, Moore, Copley, McLellan]]                                                                                  |
 | 2022-12-14 | [[Hockey Royalty]]                | [[Takeaways - LA Kings 0, Sabres 6 – They gave up]]                                                                                                  |
 | 2022-12-12 | [[LA Hockey Now]]                 | [[Kings Have Good Options to Replace Arvidsson]]                                                                                                     |
 | 2022-12-12 | [[Hockey Royalty]]                | [[Week 10 Pacific Division Power Rankings]]                                                                                                          |
