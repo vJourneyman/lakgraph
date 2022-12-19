@@ -20,7 +20,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                           |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-12-17 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 2, Condors 0 – Sturm, Petersen, Lee]] |
+| 2022-12-18 | [[Hockey Royalty]]      | [[Ontario Reign - Three takeaways from 2-0 win against Bakersfield]]                                                                                            |
 | 2022-12-15 | [[Hockey Royalty]]      | [[The LA Kings have not been good enough]]                                                                                                                      |
 | 2022-12-06 | [[The Hockey Writers]]  | [[Los Angeles Kings - 3 Trade Targets to Shake Up Goaltending Depth]]                                                                                           |
 | 2022-12-04 | [[LA Kings Insider]]    | [[Practice 12-4 – Iafallo “available” on trip + Todays Alignment, Edlers Character, Goaltending Overview]]                                                      |
@@ -168,6 +168,8 @@ status: stable
 ## Minor League Coverage
 | Date       | Site                    | Title                                                                                       |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------- |
+| 2022-12-18 | [[Mayors Manor]] | [[Reign Recap - Cal Petersens Shutout Leads Reign To Victory On Teddy Bear Toss Night]] |
+| 2022-12-17 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 2, Condors 0 – Sturm, Petersen, Lee]] |
 | 2022-12-12 | [[Puck Prose]]          | [[NHL 2022-23 Season Weekly Power Rankings - Monday 12-12]]                                 |
 | 2022-12-11 | [[LA Kings Insider]]    | [[12-11 Preview – No Morning Skate + A Good PK Effort, Tonights Mentality, On The Farm]]    |
 | 2022-12-10 | [[Hockey Royalty]]      | [[Ontario Reign - Three takeaways from 4-3 OT win against Tucson]]                          |

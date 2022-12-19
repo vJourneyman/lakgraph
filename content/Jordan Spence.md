@@ -20,6 +20,11 @@ status: needs-draft-content
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                           |
 | ---------- | --------------------- | --------------------------------------------------------------------------------------------------------------- |
+| 2022-12-18 | [[Pro Hockey Rumors]] | [[Los Angeles Kings Loan Rasmus Kupari, Jordan Spence To AHL]] |
+| 2022-12-18 | [[Hockey Royalty]]    | [[Takeaways - LA Kings 3, Sharks 2 SO – Turning the tide]]                                                      |
+| 2022-12-18 | [[The Athletic]]      | [[LA Kings finally earn consecutive wins - Pheonix Copley shines, Jordan Spence gets a shot]]                   |
+| 2022-12-18 | [[The Forum Report]]  | [[Playmaking Chart - December 17 vs San Jose]]                                                                  |
+| 2022-12-18 | [[LA Kings Insider]]  | [[Angeles Analysis – I Feel That, Todd]]                                                                        |
 | 2022-12-17 | [[LA Hockey Now]]     | [[Kings Finally Win 2 Straight With Shootout Victory Over Sharks]]                                              |
 | 2022-12-17 | [[LA Hockey Now]]     | [[Kings Vs Sharks Game 34 - Lines, Notes and How to Watch]]                                                     |
 | 2022-12-17 | [[LA Kings Insider]]  | [[12-17 Preview – Full Team Morning Skate + Roster and Lineup Moves, Spences Development, An Interesting Take]] |

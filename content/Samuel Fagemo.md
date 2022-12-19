@@ -57,6 +57,8 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                                 |
 | ---------- | -------------------- | ----------------------------------------------------------------------------------------------------- |
+| 2022-12-18 | [[Mayors Manor]]     | [[Reign Recap - Cal Petersens Shutout Leads Reign To Victory On Teddy Bear Toss Night]]               |
+| 2022-12-17 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 2, Condors 0 – Sturm, Petersen, Lee]]                                           |
 | 2022-12-17 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup vs Bakersfield Condors - Updates on Bjornfot, Fagemo, Others]]       |
 | 2022-12-16 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup at Bakersfield Condors - Plus Notes on Byfield, Fagemo, and Spence]] |
 | 2022-11-28 | [[Mayors Manor]]     | [[Reign Recap - Byfield, Fagemo, Turcotte Lead Ontario to Sunday Victory]]                            |

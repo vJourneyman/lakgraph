@@ -19,6 +19,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                           |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-18 | [[The Athletic]] | [[LA Kings finally earn consecutive wins - Pheonix Copley shines, Jordan Spence gets a shot]] |
 | 2022-12-17 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Loan Two To AHL, Activate Viktor Arvidsson]]                                                                                                |
 | 2022-12-17 | [[LA Daily News]]       | [[Kings get second straight shootout win, beat Sharks]]                                                                                                         |
 | 2022-12-17 | [[Mayors Manor]]        | [[Projected Lineups - LA Kings vs San Jose Sharks - Arvidsson Returns and More]]                                                                                |

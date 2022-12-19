@@ -22,6 +22,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                      |
 | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-18 | [[The Athletic]] | [[LA Kings finally earn consecutive wins - Pheonix Copley shines, Jordan Spence gets a shot]] |
 | 2022-12-17 | [[LA Hockey Now]]      | [[Kings Vs Sharks Game 34 - Lines, Notes and How to Watch]]                                                                                |
 | 2022-12-17 | [[The Athletic]]       | [[NHL future power rankings, take 2 - Reacting to each teams projected standing for 2025-26]]                                              |
 | 2022-12-16 | [[The Forum Report]]   | [[Playmaking Chart - December 15 at Boston]]                                                                                               |

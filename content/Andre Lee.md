@@ -28,6 +28,8 @@ status: needs-draft-content
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                  |
 | ---------- | -------------------- | -------------------------------------------------------------------------------------- |
+| 2022-12-18 | [[Hockey Royalty]] | [[Ontario Reign - Three takeaways from 2-0 win against Bakersfield]] |
+| 2022-12-18 | [[Mayors Manor]] | [[Reign Recap - Cal Petersens Shutout Leads Reign To Victory On Teddy Bear Toss Night]] |
 | 2022-12-17 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 2, Condors 0 – Sturm, Petersen, Lee]] |
 | 2022-12-12 | [[Hockey Royalty]]   | [[Ontario Reign - Three stars of the week – 12-5 to 12-11]]                            |
 | 2022-12-10 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 4-3 OT win against Tucson]]                     |

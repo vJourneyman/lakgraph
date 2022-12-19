@@ -20,6 +20,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                 |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-18 | [[Mayors Manor]] | [[Rapid Review - Notes and Highlights from Kings Reverse Retro Win Over San Jose]] |
 | 2022-12-17 | [[LA Hockey Now]]       | [[Kings Finally Win 2 Straight With Shootout Victory Over Sharks]]                                                                    |
 | 2022-12-17 | [[LA Daily News]]       | [[Kings get second straight shootout win, beat Sharks]]                                                                               |
 | 2022-12-17 | [[Kings at NHL.com]]    | [[Kings top Sharks in 2nd straight shootout win]]                                                                                     |
