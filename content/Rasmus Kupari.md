@@ -20,6 +20,9 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                     |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-17 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Loan Two To AHL, Activate Viktor Arvidsson]]                                                                          |
+| 2022-12-17 | [[Mayors Manor]]        | [[Projected Lineups - LA Kings vs San Jose Sharks - Arvidsson Returns and More]]                                                          |
+| 2022-12-17 | [[LA Kings Insider]]    | [[12-17 Preview – Full Team Morning Skate + Roster and Lineup Moves, Spences Development, An Interesting Take]]                           |
 | 2022-12-16 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Loan Three To AHL]]                                                                                                   |
 | 2022-12-16 | [[Mayors Manor]]        | [[Rapid Review - Notes and Highlights from Kings OT Victory in Boston]]                                                                   |
 | 2022-12-15 | [[Mayors Manor]]        | [[Projected Lineups - LA Kings at Boston Bruins - End of the Roadie]]                                                                     |

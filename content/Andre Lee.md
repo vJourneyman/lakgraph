@@ -28,6 +28,7 @@ status: needs-draft-content
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                  |
 | ---------- | -------------------- | -------------------------------------------------------------------------------------- |
+| 2022-12-17 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 2, Condors 0 – Sturm, Petersen, Lee]] |
 | 2022-12-12 | [[Hockey Royalty]]   | [[Ontario Reign - Three stars of the week – 12-5 to 12-11]]                            |
 | 2022-12-10 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 4-3 OT win against Tucson]]                     |
 | 2022-12-10 | [[Mayors Manor]]     | [[Reign Recap - Petersen, Byfield Guide Ontario To OT Victory]]                        |

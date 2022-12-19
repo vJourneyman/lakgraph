@@ -16,11 +16,13 @@ status: stable
 | ------------------------ | --- | -------- | ------ | ------ | ------ | ---------- | ---------------- | ----- |
 | [[Jaret Anderson-Dolan]] | 28  | C        | L      | 5'11"  | 200    | 1999-09-12 | Calgary, AB, CAN | 2017 LAK, 2nd rd, 10th pk (41st overall)      |
 
-
-
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                                                                      |
 | ---------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-17 | [[LA Hockey Now]]    | [[Kings Finally Win 2 Straight With Shootout Victory Over Sharks]]                                                                                         |
+| 2022-12-17 | [[LA Daily News]]    | [[Kings get second straight shootout win, beat Sharks]]                                                                                                    |
+| 2022-12-17 | [[Kings at NHL.com]] | [[Kings top Sharks in 2nd straight shootout win]]                                                                                                          |
+| 2022-12-17 | [[LA Kings Insider]] | [[FINAL – Kings 3, Sharks 2 (SO) – Anderson-Dolan, Moore, McLellan]]                                                                                       |
 | 2022-12-15 | [[Mayors Manor]]     | [[Projected Lineups - LA Kings at Boston Bruins - End of the Roadie]]                                                                                      |
 | 2022-12-14 | [[Hockey Royalty]]   | [[Takeaways - LA Kings 0, Sabres 6 – They gave up]]                                                                                                        |
 | 2022-12-14 | [[The Forum Report]] | [[Playmaking Chart - December 13 at Buffalo]]                                                                                                              |

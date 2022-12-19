@@ -19,6 +19,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                 |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-17 | [[The Athletic]]        | [[NHL future power rankings, take 2 - Reacting to each teams projected standing for 2025-26]]                                                         |
 | 2022-12-15 | [[LA Daily News]]       | [[Kings Trevor Moore gets 5-year, $21 million extension]]                                                                                             |
 | 2022-12-15 | [[Hockey Royalty]]      | [[The LA Kings have not been good enough]]                                                                                                            |
 | 2022-12-14 | [[The Hockey News]]     | [[BRANDT CLARKE PREPARES TO PROVE HIMSELF AT THE WORLD JUNIORS AND BEYOND]]                                                                           |

@@ -9,36 +9,37 @@ status: needs-draft-content
 
 # Jordan Spence
 
-NHL.com / Ontario Reign | Twitter
--|-
-[Jordan Spence](https://www.nhl.com/player/jordan-spence-8481606) | [@jordanjs224](https://twitter.com/jordanjs224)
+| NHL.com / Ontario Reign                                           | Twitter                                         |
+| ----------------------------------------------------------------- | ----------------------------------------------- |
+| [Jordan Spence](https://www.nhl.com/player/jordan-spence-8481606) | [@jordanjs224](https://twitter.com/jordanjs224) |
 
-Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft 
--|-|-|-|-|-|-|-|-
-Jordan Spence | 58 | D | R | 5' 10" | 180 | 2001-02-24 | Manly, AUS | -   2019 LAK, 4th rd, 2nd pk (95th overall)
- 
-
+| Player        | \#  | Position | Shoots | Height | Weight | Born       | Birthplace | Draft                                       |
+| ------------- | --- | -------- | ------ | ------ | ------ | ---------- | ---------- | ------------------------------------------- |
+| Jordan Spence | 58  | D        | R      | 5' 10" | 180    | 2001-02-24 | Manly, AUS | -   2019 LAK, 4th rd, 2nd pk (95th overall) |
 
 ## NHL  Coverage
-| Date       | Site                  | Title                                                                                                     |
-| ---------- | --------------------- | --------------------------------------------------------------------------------------------------------- |
-| 2022-12-16 | [[Pro Hockey Rumors]] | [[Los Angeles Kings Loan Three To AHL]]                                                                   |
-| 2022-12-15 | [[The Forum Report]]  | [[Competitive window sharpens as Kings, Moore agree to 5-year, $21M extension]]                           |
-| 2022-12-14 | [[LA Hockey Now]]     | [[Kings Need to Break Out of Funk, But How]]                                                              |
-| 2022-12-13 | [[Hockey Royalty]]    | [[LA Kings at Buffalo Sabres projected lineup, betting preview]]                                          |
-| 2022-12-12 | [[Pro Hockey Rumors]] | [[Los Angeles Kings Make Three Transactions]]                                                             |
-| 2022-12-12 | [[LA Hockey Now]]     | [[Kings Have Good Options to Replace Arvidsson]]                                                          |
-| 2022-12-12 | [[LA Daily News]]     | [[High-scoring Kings finding ‘the carelessness is killing us]]                                            |
-| 2022-12-12 | [[Hockey Royalty]]    | [[LA Kings recall two, designate Arvidsson as non-roster player]]                                         |
-| 2022-12-12 | [[LA Kings Insider]]  | [[Kings Recall Spence and Kupari + Arvidsson and Doughty Updates]]                                        |
-| 2022-12-02 | [[LA Kings Insider]]  | [[Rob Blakes Media Availability – Full Video + Notes on Defense, Trades, Clarke, Byfield, Schedule]]      |
-| 2022-12-01 | [[Hockey Royalty]]    | [[LA Kings make transaction moves ahead of Thursdays game]]                                               |
-| 2022-12-01 | [[LA Kings Insider]]  | [[Blake and McLellan Talk Roster Moves – Bjornfot/Fagemo/Copley to LAK, Spence, Kupari, Petersen to ONT]] |
-| 2022-11-30 | [[LA Daily News]]     | [[Anze Kopitar scores twice as Kings rally to beat Coyotes]]                                              |
-| 2022-11-29 | [[LA Kings Insider]]  | [[Roster Moves - Kings recall Fagemo and Spence, assign Andersson to Ontairo]]                            |
-| 2022-10-23 | [[The Forum Report]]  | [[Waking up with the Kings - October 23]]                                                                 |
-| 2022-10-10 | [[LA Kings Insider]]  | [[Kings Announce Opening-Night Roster and Roster Moves - LA Kings Insider]]                               |
-| 2022-10-07 | [[LA Kings Insider]]  | [[Day 15 Primer – The Finale + Roster Moves]]                                                             |
+| Date       | Site                  | Title                                                                                                           |
+| ---------- | --------------------- | --------------------------------------------------------------------------------------------------------------- |
+| 2022-12-17 | [[LA Hockey Now]]     | [[Kings Finally Win 2 Straight With Shootout Victory Over Sharks]]                                              |
+| 2022-12-17 | [[LA Hockey Now]]     | [[Kings Vs Sharks Game 34 - Lines, Notes and How to Watch]]                                                     |
+| 2022-12-17 | [[LA Kings Insider]]  | [[12-17 Preview – Full Team Morning Skate + Roster and Lineup Moves, Spences Development, An Interesting Take]] |
+| 2022-12-16 | [[Pro Hockey Rumors]] | [[Los Angeles Kings Loan Three To AHL]]                                                                         |
+| 2022-12-15 | [[The Forum Report]]  | [[Competitive window sharpens as Kings, Moore agree to 5-year, $21M extension]]                                 |
+| 2022-12-14 | [[LA Hockey Now]]     | [[Kings Need to Break Out of Funk, But How]]                                                                    |
+| 2022-12-13 | [[Hockey Royalty]]    | [[LA Kings at Buffalo Sabres projected lineup, betting preview]]                                                |
+| 2022-12-12 | [[Pro Hockey Rumors]] | [[Los Angeles Kings Make Three Transactions]]                                                                   |
+| 2022-12-12 | [[LA Hockey Now]]     | [[Kings Have Good Options to Replace Arvidsson]]                                                                |
+| 2022-12-12 | [[LA Daily News]]     | [[High-scoring Kings finding ‘the carelessness is killing us]]                                                  |
+| 2022-12-12 | [[Hockey Royalty]]    | [[LA Kings recall two, designate Arvidsson as non-roster player]]                                               |
+| 2022-12-12 | [[LA Kings Insider]]  | [[Kings Recall Spence and Kupari + Arvidsson and Doughty Updates]]                                              |
+| 2022-12-02 | [[LA Kings Insider]]  | [[Rob Blakes Media Availability – Full Video + Notes on Defense, Trades, Clarke, Byfield, Schedule]]            |
+| 2022-12-01 | [[Hockey Royalty]]    | [[LA Kings make transaction moves ahead of Thursdays game]]                                                     |
+| 2022-12-01 | [[LA Kings Insider]]  | [[Blake and McLellan Talk Roster Moves – Bjornfot/Fagemo/Copley to LAK, Spence, Kupari, Petersen to ONT]]       |
+| 2022-11-30 | [[LA Daily News]]     | [[Anze Kopitar scores twice as Kings rally to beat Coyotes]]                                                    |
+| 2022-11-29 | [[LA Kings Insider]]  | [[Roster Moves - Kings recall Fagemo and Spence, assign Andersson to Ontairo]]                                  |
+| 2022-10-23 | [[The Forum Report]]  | [[Waking up with the Kings - October 23]]                                                                       |
+| 2022-10-10 | [[LA Kings Insider]]  | [[Kings Announce Opening-Night Roster and Roster Moves - LA Kings Insider]]                                     |
+| 2022-10-07 | [[LA Kings Insider]]  | [[Day 15 Primer – The Finale + Roster Moves]]                                                                   |
 | 2022-09-26 | [[LA Kings Insider]] | [[9-26 Preview – Projected Lineup + Back-To-Back Thoughts, JADs Focus, Spence, Moverare debuts]] |
 
 

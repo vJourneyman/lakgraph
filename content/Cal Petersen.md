@@ -20,6 +20,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                           |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-17 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 2, Condors 0 – Sturm, Petersen, Lee]] |
 | 2022-12-15 | [[Hockey Royalty]]      | [[The LA Kings have not been good enough]]                                                                                                                      |
 | 2022-12-06 | [[The Hockey Writers]]  | [[Los Angeles Kings - 3 Trade Targets to Shake Up Goaltending Depth]]                                                                                           |
 | 2022-12-04 | [[LA Kings Insider]]    | [[Practice 12-4 – Iafallo “available” on trip + Todays Alignment, Edlers Character, Goaltending Overview]]                                                      |

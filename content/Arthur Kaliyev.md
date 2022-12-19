@@ -22,6 +22,8 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                      |
 | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-17 | [[LA Hockey Now]]      | [[Kings Vs Sharks Game 34 - Lines, Notes and How to Watch]]                                                                                |
+| 2022-12-17 | [[The Athletic]]       | [[NHL future power rankings, take 2 - Reacting to each teams projected standing for 2025-26]]                                              |
 | 2022-12-16 | [[The Forum Report]]   | [[Playmaking Chart - December 15 at Boston]]                                                                                               |
 | 2022-12-15 | [[The Hockey Writers]] | [[4 Takeaways From Kings Up and Down December Road Trip]]                                                                                  |
 | 2022-12-15 | [[The Forum Report]]   | [[Competitive window sharpens as Kings, Moore agree to 5-year, $21M extension]]                                                            |

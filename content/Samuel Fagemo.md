@@ -22,6 +22,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                          |
 | ---------- | --------------------- | -------------------------------------------------------------------------------------------------------------- |
+| 2022-12-17 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 2, Condors 0 – Sturm, Petersen, Lee]] |
 | 2022-12-16 | [[Pro Hockey Rumors]] | [[Los Angeles Kings Loan Three To AHL]]                                                                        |
 | 2022-12-12 | [[LA Hockey Now]]     | [[Kings Have Good Options to Replace Arvidsson]]                                                               |
 | 2022-12-10 | [[LA Hockey Now]]     | [[Kings vs Canadiens Game 30 - Lines, Notes and How to Watch]]                                                 |
@@ -56,6 +57,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                                 |
 | ---------- | -------------------- | ----------------------------------------------------------------------------------------------------- |
+| 2022-12-17 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup vs Bakersfield Condors - Updates on Bjornfot, Fagemo, Others]]       |
 | 2022-12-16 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup at Bakersfield Condors - Plus Notes on Byfield, Fagemo, and Spence]] |
 | 2022-11-28 | [[Mayors Manor]]     | [[Reign Recap - Byfield, Fagemo, Turcotte Lead Ontario to Sunday Victory]]                            |
 | 2022-11-21 | [[Hockey Royalty]]   | [[Takeaways - Ontario Reign 3, Henderson 2 – Finally]]                                                |

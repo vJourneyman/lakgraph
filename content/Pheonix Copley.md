@@ -19,6 +19,10 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                 |
 | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-17 | [[LA Hockey Now]]      | [[Kings Finally Win 2 Straight With Shootout Victory Over Sharks]]                                                                    |
+| 2022-12-17 | [[Kings at NHL.com]]   | [[Kings top Sharks in 2nd straight shootout win]]                                                                                     |
+| 2022-12-17 | [[LA Kings Insider]]   | [[FINAL – Kings 3, Sharks 2 (SO) – Anderson-Dolan, Moore, McLellan]]                                                                  |
+| 2022-12-17 | [[LA Kings Insider]]   | [[12-17 Preview – Full Team Morning Skate + Roster and Lineup Moves, Spences Development, An Interesting Take]]                       |
 | 2022-12-16 | [[LA Hockey Now]]      | [[Kings Have a Pheonix Rising in LA]]                                                                                                 |
 | 2022-12-16 | [[Mayors Manor]]       | [[Rapid Review - Notes and Highlights from Kings OT Victory in Boston]]                                                               |
 | 2022-12-16 | [[The Athletic]]       | [[The NHLs 2022-23 trade market and trying to figure out the buyers and sellers]]                                                     |

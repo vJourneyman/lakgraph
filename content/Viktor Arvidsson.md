@@ -19,6 +19,10 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                           |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-17 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Loan Two To AHL, Activate Viktor Arvidsson]]                                                                                                |
+| 2022-12-17 | [[LA Daily News]]       | [[Kings get second straight shootout win, beat Sharks]]                                                                                                         |
+| 2022-12-17 | [[Mayors Manor]]        | [[Projected Lineups - LA Kings vs San Jose Sharks - Arvidsson Returns and More]]                                                                                |
+| 2022-12-17 | [[LA Kings Insider]]    | [[12-17 Preview – Full Team Morning Skate + Roster and Lineup Moves, Spences Development, An Interesting Take]]                                                 |
 | 2022-12-16 | [[Mayors Manor]]        | [[Rapid Review - Notes and Highlights from Kings OT Victory in Boston]]                                                                                         |
 | 2022-12-16 | [[The Athletic]]        | [[The NHLs 2022-23 trade market and trying to figure out the buyers and sellers]]                                                                               |
 | 2022-12-16 | [[LA Kings Insider]]    | [[Five Moore Years! Moore, Blake and McLellan weigh in on a new five-year extension]]                                                                           |

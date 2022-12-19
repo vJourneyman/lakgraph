@@ -22,6 +22,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-17 | [[The Athletic]]        | [[NHL future power rankings, take 2 - Reacting to each teams projected standing for 2025-26]]                                        |
 | 2022-12-15 | [[The Forum Report]]    | [[Competitive window sharpens as Kings, Moore agree to 5-year, $21M extension]]                                                      |
 | 2022-12-14 | [[LA Hockey Now]]       | [[Kings Need to Break Out of Funk, But How]]                                                                                         |
 | 2022-12-12 | [[Hockey Royalty]]      | [[Ontario Reign - Three stars of the week – 12-5 to 12-11]]                                                                          |

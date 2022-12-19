@@ -28,9 +28,10 @@ Date | Site |  Title
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                              |
 | ---------- | -------------------- | -------------------------------------------------------------------------------------------------- |
-| 2022-11-27 | [[Mayors Manor]] | [[Reign Recap - Ontario Flat Against Tucson, Drop Opener of Weekend Series]] |
-| 2022-11-26 | [[Hockey Royalty]] | [[Ontario Reign - Jacob Doty and Akil Thomas are out indefinitely]] |
-| 2022-11-26 | [[LA Kings Insider]] | [[Updates - Andersson, Moverare Loaned, Kings Injury Latest, Thomas, Doty headed for surgery]] |
+| 2022-12-17 | [[Hockey Royalty]]   | [[Ontario Reign - What does the future hold for Akil Thomas]]                                      |
+| 2022-11-27 | [[Mayors Manor]]     | [[Reign Recap - Ontario Flat Against Tucson, Drop Opener of Weekend Series]]                       |
+| 2022-11-26 | [[Hockey Royalty]]   | [[Ontario Reign - Jacob Doty and Akil Thomas are out indefinitely]]                                |
+| 2022-11-26 | [[LA Kings Insider]] | [[Updates - Andersson, Moverare Loaned, Kings Injury Latest, Thomas, Doty headed for surgery]]     |
 | 2022-11-25 | [[Mayors Manor]]     | [[REPORT - Akil Thomas to Have Season-Ending Surgery]]                                             |
 | 2022-11-20 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 3-1 loss to Henderson]]                                     |
 | 2022-11-20 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup vs Henderson Silver Knights - Searching For Answers]]             |

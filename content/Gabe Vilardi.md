@@ -22,6 +22,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                              | Title                                                                                                                                                  |
 | ---------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-17 | [[The Athletic]]                  | [[NHL future power rankings, take 2 - Reacting to each teams projected standing for 2025-26]]                                                          |
 | 2022-12-15 | [[The Forum Report]]              | [[Competitive window sharpens as Kings, Moore agree to 5-year, $21M extension]]                                                                        |
 | 2022-12-14 | [[Hockey Royalty]]                | [[Takeaways - LA Kings 0, Sabres 6 – They gave up]]                                                                                                    |
 | 2022-12-12 | [[LA Hockey Now]]                 | [[Kings Have Good Options to Replace Arvidsson]]                                                                                                       |

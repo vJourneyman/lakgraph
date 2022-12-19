@@ -21,8 +21,9 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-12-14 | [[The Hockey News]] | [[BRANDT CLARKE PREPARES TO PROVE HIMSELF AT THE WORLD JUNIORS AND BEYOND]] |
-| 2022-12-14 | [[LA Hockey Now]] | [[Kings Need to Break Out of Funk, But How]] |
+| 2022-12-17 | [[The Athletic]]        | [[NHL future power rankings, take 2 - Reacting to each teams projected standing for 2025-26]]                                                       |
+| 2022-12-14 | [[The Hockey News]]     | [[BRANDT CLARKE PREPARES TO PROVE HIMSELF AT THE WORLD JUNIORS AND BEYOND]]                                                                         |
+| 2022-12-14 | [[LA Hockey Now]]       | [[Kings Need to Break Out of Funk, But How]]                                                                                                        |
 | 2022-12-12 | [[The Hockey News]]     | [[TEAM CANADA FINALIZES 2023 WORLD JUNIOR CHAMPIONSHIP ROSTER]]                                                                                     |
 | 2022-12-12 | [[Hockey Feed]]         | [[Hockey Canada officially releases roster for upcoming World Junior Championships]]                                                                |
 | 2022-12-09 | [[The Athletic]]        | [[Kings Brandt Clarke heads to world juniors camp, but when might he return]]                                                                       |

@@ -20,6 +20,9 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                 |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-17 | [[LA Hockey Now]]       | [[Kings Finally Win 2 Straight With Shootout Victory Over Sharks]]                                                                    |
+| 2022-12-17 | [[LA Daily News]]       | [[Kings get second straight shootout win, beat Sharks]]                                                                               |
+| 2022-12-17 | [[Kings at NHL.com]]    | [[Kings top Sharks in 2nd straight shootout win]]                                                                                     |
 | 2022-12-16 | [[The Athletic]]        | [[The NHLs 2022-23 trade market and trying to figure out the buyers and sellers]]                                                     |
 | 2022-12-16 | [[LA Kings Insider]]    | [[Five Moore Years! Moore, Blake and McLellan weigh in on a new five-year extension]]                                                 |
 | 2022-12-15 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Sign Trevor Moore To Five-Year Extension]]                                                                        |

@@ -17,12 +17,10 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 -|-|-|-|-|-|-|-|-
 [[Tobias Bjornfot]] | 7 | LD | L | 6' 0" | 200 | 2001-04-06 | Upplands Vasby, SWE | 2019 LAK, 1st rd, 22nd pk (22nd overall)
 
-
-
-
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                          |
 | ---------- | --------------------- | -------------------------------------------------------------------------------------------------------------- |
+| 2022-12-17 | [[The Hockey Writers]] | [[Revisiting the Maple Leafs Jake Muzzin Trade]] |
 | 2022-12-16 | [[Pro Hockey Rumors]] | [[Los Angeles Kings Loan Three To AHL]]                                                                        |
 | 2022-12-11 | [[Pro Hockey Rumors]] | [[Snapshots - Doughty, Pettersson, McIlrath]]                                                                  |
 | 2022-12-10 | [[LA Hockey Now]]     | [[Kings vs Canadiens Game 30 - Lines, Notes and How to Watch]]                                                 |
@@ -54,6 +52,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                                 |
 | ---------- | -------------------- | ----------------------------------------------------------------------------------------------------- |
+| 2022-12-17 | [[Mayors Manor]] | [[Ontario Reign Projected Lineup vs Bakersfield Condors - Updates on Bjornfot, Fagemo, Others]] |
 | 2022-12-16 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup at Bakersfield Condors - Plus Notes on Byfield, Fagemo, and Spence]] |
 | 2022-11-24 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 5-1 win against San Jose]]                                     |
 | 2022-11-23 | [[Hockey Royalty]]   | [[Ontario Reign - How are the defensemen prospects doing]]                                            |
