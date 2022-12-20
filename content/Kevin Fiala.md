@@ -20,6 +20,7 @@ status: UnprocessedContent
 ## NHL  Coverage
 | Date       | Site                              | Title                                                                                                                                                      |
 | ---------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-19 | [[Action Network]]                | [[NHL Odds, Preview, Prediction - Ducks vs Kings (December 20)]]                                                                                           |
 | 2022-12-17 | [[LA Daily News]]                 | [[Kings get second straight shootout win, beat Sharks]]                                                                                                    |
 | 2022-12-16 | [[The Athletic]]                  | [[The NHLs 2022-23 trade market and trying to figure out the buyers and sellers]]                                                                          |
 | 2022-12-16 | [[The Athletic]]                  | [[NHL Power Rankings - A surge into the top 10 and a haiku for every team]]                                                                                |

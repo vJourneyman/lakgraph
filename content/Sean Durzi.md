@@ -21,6 +21,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                  |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-19 | [[LA Kings Insider]]    | [[Practice 12-19 – Good To Be Back! Injury Updates, Penalty Kill Timing, Connors To Team USA]]                                                         |
 | 2022-12-17 | [[The Hockey Writers]]  | [[Revisiting the Maple Leafs Jake Muzzin Trade]]                                                                                                       |
 | 2022-12-15 | [[The Hockey News]]     | [[KINGS SEAN DURZI LEARNS WHAT IT MEANS TO BE AN NHL STAR]]                                                                                            |
 | 2022-12-12 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Make Three Transactions]]                                                                                                          |

@@ -20,7 +20,9 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                     |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-12-18 | [[Pro Hockey Rumors]] | [[Los Angeles Kings Loan Rasmus Kupari, Jordan Spence To AHL]] |
+| 2022-12-19 | [[LA Kings Insider]]    | [[Practice 12-19 – Good To Be Back! Injury Updates, Penalty Kill Timing, Connors To Team USA]]                                            |
+| 2022-12-19 | [[LA Kings Insider]]    | [[A Look Ahead + Monday Morning Roster Moves, Lemieux Skating Again]]                                                                     |
+| 2022-12-18 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Loan Rasmus Kupari, Jordan Spence To AHL]]                                                                            |
 | 2022-12-18 | [[The Forum Report]]    | [[Playmaking Chart - December 17 vs San Jose]]                                                                                            |
 | 2022-12-18 | [[LA Kings Insider]]    | [[Angeles Analysis – I Feel That, Todd]]                                                                                                  |
 | 2022-12-17 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Loan Two To AHL, Activate Viktor Arvidsson]]                                                                          |

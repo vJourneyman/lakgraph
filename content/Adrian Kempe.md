@@ -21,6 +21,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                              | Title                                                                                                                                                |
 | ---------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-19 | [[The Fourth Period]]             | [[LAK AT 34 - INFLECTION POINT]]                                                                                                                     |
 | 2022-12-17 | [[LA Hockey Now]]                 | [[Kings Vs Sharks Game 34 - Lines, Notes and How to Watch]]                                                                                          |
 | 2022-12-17 | [[Mayors Manor]]                  | [[Projected Lineups - LA Kings vs San Jose Sharks - Arvidsson Returns and More]]                                                                     |
 | 2022-12-17 | [[LA Kings Insider]]              | [[12-17 Preview – Full Team Morning Skate + Roster and Lineup Moves, Spences Development, An Interesting Take]]                                      |

@@ -22,6 +22,8 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                              | Title                                                                                                                                                  |
 | ---------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-19 | [[Action Network]]                | [[NHL Odds, Preview, Prediction - Ducks vs Kings (December 20)]]                                                                                       |
+| 2022-12-19 | [[LA Hockey Now]]                 | [[Despite Production Drying Up, Vilardi Still Effective With His B Game]]                                                                              |
 | 2022-12-18 | [[The Forum Report]]              | [[Playmaking Chart - December 17 vs San Jose]]                                                                                                         |
 | 2022-12-17 | [[The Athletic]]                  | [[NHL future power rankings, take 2 - Reacting to each teams projected standing for 2025-26]]                                                          |
 | 2022-12-15 | [[The Forum Report]]              | [[Competitive window sharpens as Kings, Moore agree to 5-year, $21M extension]]                                                                        |

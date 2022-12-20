@@ -22,6 +22,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                     |
 | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-19 | [[LA Kings Insider]]   | [[Practice 12-19 – Good To Be Back! Injury Updates, Penalty Kill Timing, Connors To Team USA]]                            |
 | 2022-12-09 | [[LA Hockey Now]]      | [[Kings Issues - Team Needs to Address Lack of Size and Physicality]]                                                     |
 | 2022-12-01 | [[Mayors Manor]]       | [[LA Kings GM Rob Blake Gives His State of the Season After 25 Games]]                                                    |
 | 2022-12-01 | [[The Forum Report]]   | [[Blakes press conference elicits more questions than answers]]                                                           |

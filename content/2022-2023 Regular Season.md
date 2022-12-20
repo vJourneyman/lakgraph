@@ -15,6 +15,16 @@ status: in-progress
 
 | Date       | Site                    | Title                                                                                                                          |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-19 | [[Action Network]]      | [[NHL Odds, Preview, Prediction - Ducks vs Kings (December 20)]]                                                               |
+| 2022-12-19 | [[Puck Prose]]          | [[NHL 2022-23 Season Weekly Power Rankings - Monday 12-19]]                                                                    |
+| 2022-12-19 | [[The Fourth Period]]   | [[LAK AT 34 - INFLECTION POINT]]                                                                                               |
+| 2022-12-19 | [[LA Hockey Now]]       | [[Despite Production Drying Up, Vilardi Still Effective With His B Game]]                                                      |
+| 2022-12-19 | [[LA Daily News]]       | [[Kings, Ducks both seek to gain a little momentum in Tuesday matchup]]                                                        |
+| 2022-12-19 | [[Hockey Royalty]]      | [[LA Kings prospect update – Week of 12-12]]                                                                                   |
+| 2022-12-19 | [[Hockey Royalty]]      | [[Week 11 Pacific Division Power Rankings]]                                                                                    |
+| 2022-12-19 | [[The Athletic]]        | [[Weekend NHL rankings - David Pastrnaks contract, Blues questions and the mediocre 5]]                                        |
+| 2022-12-19 | [[LA Kings Insider]]    | [[Practice 12-19 – Good To Be Back! Injury Updates, Penalty Kill Timing, Connors To Team USA]]                                 |
+| 2022-12-19 | [[LA Kings Insider]]    | [[A Look Ahead + Monday Morning Roster Moves, Lemieux Skating Again]]                                                          |
 | 2022-12-18 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Loan Rasmus Kupari, Jordan Spence To AHL]]                                                                 |
 | 2022-12-18 | [[Hockey Royalty]]      | [[Takeaways - LA Kings 3, Sharks 2 SO – Turning the tide]]                                                                     |
 | 2022-12-18 | [[Hockey Royalty]]      | [[Ontario Reign - Three takeaways from 2-0 win against Bakersfield]]                                                           |

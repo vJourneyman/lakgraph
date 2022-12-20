@@ -20,6 +20,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                |
 | ---------- | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-19 | [[The Fourth Period]]   | [[LAK AT 34 - INFLECTION POINT]]                                                                                                                     |
 | 2022-12-15 | [[Mayors Manor]]        | [[Projected Lineups - LA Kings at Boston Bruins - End of the Roadie]]                                                                                |
 | 2022-12-14 | [[The Hockey News]]     | [[BRANDT CLARKE PREPARES TO PROVE HIMSELF AT THE WORLD JUNIORS AND BEYOND]]                                                                          |
 | 2022-12-12 | [[The Athletic]]        | [[LA Kings unable to build on success once again, McLellan calls out teams ‘carelessness]]                                                           |

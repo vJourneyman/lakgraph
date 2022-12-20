@@ -20,6 +20,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                     |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-19 | [[The Fourth Period]]   | [[LAK AT 34 - INFLECTION POINT]]                                                                                                          |
 | 2022-12-16 | [[ESPN]]                | [[NHL trade tiers - Way-too-early edition for 2022-23]]                                                                                   |
 | 2022-12-15 | [[The Hockey News]]     | [[KINGS SEAN DURZI LEARNS WHAT IT MEANS TO BE AN NHL STAR]]                                                                               |
 | 2022-12-15 | [[Hockey Royalty]]      | [[The LA Kings have not been good enough]]                                                                                                |

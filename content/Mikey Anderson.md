@@ -20,7 +20,8 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                                           |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-12-18 | [[The Athletic]] | [[LA Kings finally earn consecutive wins - Pheonix Copley shines, Jordan Spence gets a shot]] |
+| 2022-12-19 | [[LA Kings Insider]] | [[Practice 12-19 – Good To Be Back! Injury Updates, Penalty Kill Timing, Connors To Team USA]]                                  |
+| 2022-12-18 | [[The Athletic]]     | [[LA Kings finally earn consecutive wins - Pheonix Copley shines, Jordan Spence gets a shot]]                                   |
 | 2022-12-18 | [[The Forum Report]] | [[Playmaking Chart - December 17 vs San Jose]]                                                                                  |
 | 2022-12-17 | [[The Athletic]]     | [[NHL future power rankings, take 2 - Reacting to each teams projected standing for 2025-26]]                                   |
 | 2022-12-16 | [[The Forum Report]] | [[Playmaking Chart - December 15 at Boston]]                                                                                    |
