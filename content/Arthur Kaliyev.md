@@ -22,7 +22,11 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                      |
 | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-12-18 | [[The Athletic]] | [[LA Kings finally earn consecutive wins - Pheonix Copley shines, Jordan Spence gets a shot]] |
+| 2022-12-20 | [[LA Hockey Now]]      | [[Kings Brush Ducks Aside 4-1 For Third Straight Win]]                                                                                     |
+| 2022-12-20 | [[LA Daily News]]      | [[Game Day - On the Ducks-Kings rivalry and franchises futures]]                                                                           |
+| 2022-12-20 | [[The Forum Report]]   | [[Playmaking Chart - December 20 vs Anaheim]]                                                                                              |
+| 2022-12-20 | [[LA Kings Insider]]   | [[FINAL – Kings 4, Ducks 1 – Copley, Fiala, Iafallo, McLellan]]                                                                            |
+| 2022-12-18 | [[The Athletic]]       | [[LA Kings finally earn consecutive wins - Pheonix Copley shines, Jordan Spence gets a shot]]                                              |
 | 2022-12-17 | [[LA Hockey Now]]      | [[Kings Vs Sharks Game 34 - Lines, Notes and How to Watch]]                                                                                |
 | 2022-12-17 | [[The Athletic]]       | [[NHL future power rankings, take 2 - Reacting to each teams projected standing for 2025-26]]                                              |
 | 2022-12-16 | [[The Forum Report]]   | [[Playmaking Chart - December 15 at Boston]]                                                                                               |
@@ -113,7 +117,7 @@ priority: high
 | 2022-10-11 | [[The Fourth Period]]  | [[Steaks and Stakes — The Fourth Period]]                                                                                                  |
 | 2022-10-11 | [[Hockey Royalty]]     | [[Could LA Kings Kaliyev Have a Big 2022-2023 Season]]                                                                                     |
 | 2022-10-10 | [[LA Times]]           | [[Five things to watch for as LA Kings embark on new NHL season - Los Angeles Times]]                                                      |
-| 2022-10-08 | [[LA Kings Insider]]  | [[PRESEASON FINAL – Kings 6, Ducks 3 – Arvidsson, Kaliyev, McLellan]]                                                         |
+| 2022-10-08 | [[LA Kings Insider]]   | [[PRESEASON FINAL – Kings 6, Ducks 3 – Arvidsson, Kaliyev, McLellan]]                                                                      |
 
 ## Minor League Coverage
 Date | Site |  Title

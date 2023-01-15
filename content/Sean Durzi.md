@@ -21,6 +21,9 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                  |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-20 | [[LA Hockey Now]] | [[Kings Brush Ducks Aside 4-1 For Third Straight Win]] |
+| 2022-12-20 | [[LA Daily News]]       | [[Kings put away Ducks for third 3-game win streak of season]]                                                                                         |
+| 2022-12-20 | [[The Forum Report]]    | [[Playmaking Chart - December 20 vs Anaheim]]                                                                                                          |
 | 2022-12-19 | [[LA Kings Insider]]    | [[Practice 12-19 – Good To Be Back! Injury Updates, Penalty Kill Timing, Connors To Team USA]]                                                         |
 | 2022-12-17 | [[The Hockey Writers]]  | [[Revisiting the Maple Leafs Jake Muzzin Trade]]                                                                                                       |
 | 2022-12-15 | [[The Hockey News]]     | [[KINGS SEAN DURZI LEARNS WHAT IT MEANS TO BE AN NHL STAR]]                                                                                            |

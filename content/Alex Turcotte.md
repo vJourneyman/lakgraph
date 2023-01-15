@@ -19,21 +19,22 @@ Alex Turcotte | | C | L | 5' 11" | 185 | 2001-02-26 | Elk Grove, IL, USA | 2019 
  
 
 ## NHL  Coverage
-| Date       | Site                    | Title                                                                                |
-| ---------- | ----------------------- | ------------------------------------------------------------------------------------ |
-| 2022-12-15 | [[The Forum Report]]    | [[Competitive window sharpens as Kings, Moore agree to 5-year, $21M extension]]      |
-| 2022-11-23 | [[Mayors Manor]]        | [[Ontario Reign Projected Lineup vs San Jose Barracuda - Looking to Build Momentum]] |
-| 2022-11-13 | [[LA Kings Insider]]    | [[REIGN FINAL – Reign 1, Gulls 4 – Sturm, Turcotte, Clarke]]                         |
-| 2022-10-11 | [[LA Daily News]]       | [[GM Rob Blake looking to see Kings reach another level]]                            |
-| 2022-10-10 | [[LA Daily News]]       | [[2022-23 Kings hockey - Five burning questions]]                                    |
-| 2022-10-10 | [[LA Kings on YouTube]] | [[GM Rob Blake speaks to the media before the 2022-23 Regular Season]]               |
-| 2022-10-04 | [[LA Kings Insider]]    | [[LA Kings announce roster moves, trim training camp roster to 34 players]]          |
+| Date       | Site                      | Title                                                                                                     |
+| ---------- | ------------------------- | --------------------------------------------------------------------------------------------------------- |
+| 2022-12-15 | [[The Forum Report]]      | [[Competitive window sharpens as Kings, Moore agree to 5-year, $21M extension]]                           |
+| 2022-11-23 | [[Mayors Manor]]          | [[Ontario Reign Projected Lineup vs San Jose Barracuda - Looking to Build Momentum]]                      |
+| 2022-11-13 | [[LA Kings Insider]]      | [[REIGN FINAL – Reign 1, Gulls 4 – Sturm, Turcotte, Clarke]]                                              |
+| 2022-10-11 | [[LA Daily News]]         | [[GM Rob Blake looking to see Kings reach another level]]                                                 |
+| 2022-10-10 | [[LA Daily News]]         | [[2022-23 Kings hockey - Five burning questions]]                                                         |
+| 2022-10-10 | [[LA Kings on YouTube]]   | [[GM Rob Blake speaks to the media before the 2022-23 Regular Season]]                                    |
+| 2022-10-04 | [[LA Kings Insider]]      | [[LA Kings announce roster moves, trim training camp roster to 34 players]]                               |
 | 2022-09-12 | [[legorock99 on YouTube]] | [[LA KINGS PROSPECTS - Alex Turcotte VS Moritz Seider, Trevor Zegras - Detroit Red Wings, Anaheim Ducks]] |
 
 
 ## Minor League Coverage
 | Date       | Site                  | Title                                                                                                                                        |
 | ---------- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-20 | [[LA Kings Insider]]  | [[REIGN FINAL – Wranglers 4, Reign 1 – Sturm]]                                                                                               |
 | 2022-12-10 | [[Mayors Manor]]      | [[Ontario Reign Projected Lineup at Tucson Roadrunners - Second-Half of B2B]]                                                                |
 | 2022-12-09 | [[Mayors Manor]]      | [[Ontario Reign Projected Lineup at Tucson Roadrunners - Including Change to Byfield Line]]                                                  |
 | 2022-12-07 | [[Mayors Manor]]      | [[Ontario Reign Projected Lineup vs Henderson Silver Knights - Including Turcotte Update]]                                                   |

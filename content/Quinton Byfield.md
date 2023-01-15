@@ -105,8 +105,10 @@ priority: high
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                                                                        |
 | ---------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-12-18 | [[Mayors Manor]] | [[Reign Recap - Cal Petersens Shutout Leads Reign To Victory On Teddy Bear Toss Night]] |
-| 2022-12-17 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 2, Condors 0 – Sturm, Petersen, Lee]] |
+| 2022-12-20 | [[Mayors Manor]] | [[Quinton Byfield Wont Return to NHL for At Least Another Week]] |
+| 2022-12-20 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at Calgary, 12-20]]                                                                                                |
+| 2022-12-18 | [[Mayors Manor]]     | [[Reign Recap - Cal Petersens Shutout Leads Reign To Victory On Teddy Bear Toss Night]]                                                      |
+| 2022-12-17 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 2, Condors 0 – Sturm, Petersen, Lee]]                                                                                  |
 | 2022-12-16 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup at Bakersfield Condors - Plus Notes on Byfield, Fagemo, and Spence]]                                        |
 | 2022-12-16 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at Bakersfield, 12-16]]                                                                                            |
 | 2022-12-11 | [[Hockey Royalty]]   | [[Ontario Reign - Three takeaways from 3-2 OT win against Tucson]]                                                                           |

@@ -19,6 +19,8 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                           |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-20 | [[LA Kings Insider]] | [[FINAL – Kings 4, Ducks 1 – Copley, Fiala, Iafallo, McLellan]] |
+| 2022-12-20 | [[LA Kings Insider]] | [[12-20 Preview – Copley Expected In Net + Third Line Makeup, Air Jordan, Freeway Faceoff]] |
 | 2022-12-18 | [[The Athletic]] | [[LA Kings finally earn consecutive wins - Pheonix Copley shines, Jordan Spence gets a shot]] |
 | 2022-12-17 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Loan Two To AHL, Activate Viktor Arvidsson]]                                                                                                |
 | 2022-12-17 | [[LA Daily News]]       | [[Kings get second straight shootout win, beat Sharks]]                                                                                                         |

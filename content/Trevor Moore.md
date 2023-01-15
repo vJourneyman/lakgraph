@@ -21,6 +21,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                                           |
 | ---------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-20 | [[LA Daily News]] | [[Kings put away Ducks for third 3-game win streak of season]] |
 | 2022-12-19 | [[The Fourth Period]]  | [[LAK AT 34 - INFLECTION POINT]]                                                                                                                                |
 | 2022-12-18 | [[Mayors Manor]]       | [[Rapid Review - Notes and Highlights from Kings Reverse Retro Win Over San Jose]]                                                                              |
 | 2022-12-18 | [[The Athletic]]       | [[LA Kings finally earn consecutive wins - Pheonix Copley shines, Jordan Spence gets a shot]]                                                                   |

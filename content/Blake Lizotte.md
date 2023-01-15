@@ -19,6 +19,8 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                                                |
 | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-20 | [[LA Kings Insider]] | [[FINAL – Kings 4, Ducks 1 – Copley, Fiala, Iafallo, McLellan]] |
+| 2022-12-20 | [[LA Kings Insider]] | [[12-20 Preview – Copley Expected In Net + Third Line Makeup, Air Jordan, Freeway Faceoff]] |
 | 2022-12-18 | [[The Athletic]]      | [[LA Kings finally earn consecutive wins - Pheonix Copley shines, Jordan Spence gets a shot]]                                        |
 | 2022-12-14 | [[LA Kings Insider]]  | [[Practice 12-14 – Todays “Cleanse” + A Tale of 2 Halves, Bump-Up Breakdowns, Salin To WJC]]                                         |
 | 2022-12-12 | [[LA Daily News]]     | [[High-scoring Kings finding ‘the carelessness is killing us]]                                                                       |

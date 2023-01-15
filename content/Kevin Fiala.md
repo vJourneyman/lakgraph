@@ -20,6 +20,11 @@ status: UnprocessedContent
 ## NHL  Coverage
 | Date       | Site                              | Title                                                                                                                                                      |
 | ---------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-20 | [[LA Hockey Now]]       | [[Kings vs Ducks Game 35 - Lines, Notes and How to Watch]]                                                                                                                                                                                                                                       |
+| 2022-12-20 | [[LA Daily News]]                 | [[Kings put away Ducks for third 3-game win streak of season]]                                                                                             |
+| 2022-12-20 | [[LA Daily News]]                 | [[Game Day - On the Ducks-Kings rivalry and franchises futures]]                                                                                           |
+| 2022-12-20 | [[The Forum Report]]              | [[Playmaking Chart - December 20 vs Anaheim]]                                                                                                              |
+| 2022-12-20 | [[LA Kings Insider]]              | [[FINAL – Kings 4, Ducks 1 – Copley, Fiala, Iafallo, McLellan]]                                                                                            |
 | 2022-12-19 | [[Action Network]]                | [[NHL Odds, Preview, Prediction - Ducks vs Kings (December 20)]]                                                                                           |
 | 2022-12-17 | [[LA Daily News]]                 | [[Kings get second straight shootout win, beat Sharks]]                                                                                                    |
 | 2022-12-16 | [[The Athletic]]                  | [[The NHLs 2022-23 trade market and trying to figure out the buyers and sellers]]                                                                          |

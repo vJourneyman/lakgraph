@@ -20,7 +20,10 @@ status: needs-draft-content
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                           |
 | ---------- | --------------------- | --------------------------------------------------------------------------------------------------------------- |
-| 2022-12-19 | [[LA Kings Insider]] | [[Practice 12-19 – Good To Be Back! Injury Updates, Penalty Kill Timing, Connors To Team USA]] |
+| 2022-12-20 | [[LA Daily News]] | [[Ducks Dostal, McTavish and Kings Spence enjoy unique journeys to NHL]] |
+| 2022-12-20 | [[Mayors Manor]]      | [[Quinton Byfield Wont Return to NHL for At Least Another Week]]                                                |
+| 2022-12-20 | [[LA Kings Insider]]  | [[12-20 Preview – Copley Expected In Net + Third Line Makeup, Air Jordan, Freeway Faceoff]]                     |
+| 2022-12-19 | [[LA Kings Insider]]  | [[Practice 12-19 – Good To Be Back! Injury Updates, Penalty Kill Timing, Connors To Team USA]]                  |
 | 2022-12-19 | [[LA Kings Insider]]  | [[A Look Ahead + Monday Morning Roster Moves, Lemieux Skating Again]]                                           |
 | 2022-12-18 | [[Pro Hockey Rumors]] | [[Los Angeles Kings Loan Rasmus Kupari, Jordan Spence To AHL]]                                                  |
 | 2022-12-18 | [[Hockey Royalty]]    | [[Takeaways - LA Kings 3, Sharks 2 SO – Turning the tide]]                                                      |

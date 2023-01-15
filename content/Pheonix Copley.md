@@ -19,6 +19,11 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                 |
 | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-20 | [[LA Hockey Now]]      | [[Kings Brush Ducks Aside 4-1 For Third Straight Win]]                                                                                |
+| 2022-12-20 | [[LA Hockey Now]]      | [[Kings vs Ducks Game 35 - Lines, Notes and How to Watch]]                                                                            |
+| 2022-12-20 | [[LA Daily News]]      | [[Kings put away Ducks for third 3-game win streak of season]]                                                                        |
+| 2022-12-20 | [[LA Kings Insider]]   | [[FINAL – Kings 4, Ducks 1 – Copley, Fiala, Iafallo, McLellan]]                                                                       |
+| 2022-12-20 | [[LA Kings Insider]]   | [[12-20 Preview – Copley Expected In Net + Third Line Makeup, Air Jordan, Freeway Faceoff]]                                           |
 | 2022-12-19 | [[Action Network]]     | [[NHL Odds, Preview, Prediction - Ducks vs Kings (December 20)]]                                                                      |
 | 2022-12-19 | [[The Fourth Period]]  | [[LAK AT 34 - INFLECTION POINT]]                                                                                                      |
 | 2022-12-19 | [[LA Daily News]]      | [[Kings, Ducks both seek to gain a little momentum in Tuesday matchup]]                                                               |
