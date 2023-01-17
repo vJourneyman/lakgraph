@@ -19,6 +19,19 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                 |
 | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-22 | [[LA Hockey Now]]      | [[Kings vs Flames Game 36 - Lines, Notes and How to Watch]]                                                                           |
+| 2022-12-22 | [[LA Daily News]]      | [[Kings beat Calgary in overtime, win fourth straight game]]                                                                          |
+| 2022-12-22 | [[Hockey Royalty]]     | [[LA Kings vs Calgary Flames Projected Lineups, Odds, Notes]]                                                                         |
+| 2022-12-22 | [[The Forum Report]]   | [[Talking Copley, goaltending, Bostons “Pooh Bear” jersey with Bill Ranford]]                                                         |
+| 2022-12-22 | [[LA Kings Insider]]   | [[12-22 Preview – Optional Skate Today + Line 2(00-Feet), McLellan on PP, Moore Joins ATKM]]                                          |
+| 2022-12-21 | [[LA Times]]           | [[Column - Poised goaltender Pheonix Copley is the surprise Christmas gift the Kings needed]]                                         |
+| 2022-12-21 | [[The Hockey News]]    | [[NHL POWER RANKINGS - WISH LIST EDITION AS BRUINS STAY TOPS]]                                                                        |
+| 2022-12-21 | [[LA Sports Nation]]   | [[Los Angeles Kings - Is Copley the new Starter]]                                                                                     |
+| 2022-12-21 | [[LA Daily News]]      | [[Kings test 3-game winning streak with back-to-back set]]                                                                            |
+| 2022-12-21 | [[Kings at NHL.com]]   | [[12-20 FINAL - Kings 4, Ducks 1]]                                                                                                    |
+| 2022-12-21 | [[Hockey Royalty]]     | [[Takeaways - LA Kings 4, Ducks 1 – Satisfying Win]]                                                                                  |
+| 2022-12-21 | [[The Athletic]]       | [[How Pheonix Copley and Lukáš Dostál have flipped the script on Kings, Ducks goaltending]]                                           |
+| 2022-12-21 | [[LA Kings Insider]]   | [[A “confident and calm” Pheonix Copley proving to be a great fit with the LA Kings]]                                                 |
 | 2022-12-20 | [[LA Hockey Now]]      | [[Kings Brush Ducks Aside 4-1 For Third Straight Win]]                                                                                |
 | 2022-12-20 | [[LA Hockey Now]]      | [[Kings vs Ducks Game 35 - Lines, Notes and How to Watch]]                                                                            |
 | 2022-12-20 | [[LA Daily News]]      | [[Kings put away Ducks for third 3-game win streak of season]]                                                                        |

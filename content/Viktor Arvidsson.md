@@ -19,6 +19,8 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                           |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-22 | [[LA Kings Insider]] | [[12-22 Preview – Optional Skate Today + Line 2(00-Feet), McLellan on PP, Moore Joins ATKM]] |
+| 2022-12-21 | [[LA Kings Insider]] | [[A “confident and calm” Pheonix Copley proving to be a great fit with the LA Kings]] |
 | 2022-12-20 | [[LA Kings Insider]] | [[FINAL – Kings 4, Ducks 1 – Copley, Fiala, Iafallo, McLellan]] |
 | 2022-12-20 | [[LA Kings Insider]] | [[12-20 Preview – Copley Expected In Net + Third Line Makeup, Air Jordan, Freeway Faceoff]] |
 | 2022-12-18 | [[The Athletic]] | [[LA Kings finally earn consecutive wins - Pheonix Copley shines, Jordan Spence gets a shot]] |

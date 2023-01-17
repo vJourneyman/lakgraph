@@ -27,6 +27,7 @@ status: unstarted
 ## Minor League Coverage
 | Date | Site | Title |
 | ---- | ---- | ----- |
+| 2022-12-22 | [[Kings at NHL.com]] | [[LA Kings Make Roster Transactions]] |
 | 2022-12-04 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 5, Condors 2 – Sturm, Allard, Gaunce]] |
 | 2022-12-04 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario vs Bakersfield, 12-4]] |
 

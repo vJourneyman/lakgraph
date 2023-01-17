@@ -34,6 +34,7 @@ Alex Turcotte | | C | L | 5' 11" | 185 | 2001-02-26 | Elk Grove, IL, USA | 2019 
 ## Minor League Coverage
 | Date       | Site                  | Title                                                                                                                                        |
 | ---------- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-21 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at Calgary, 12-21]] |
 | 2022-12-20 | [[LA Kings Insider]]  | [[REIGN FINAL – Wranglers 4, Reign 1 – Sturm]]                                                                                               |
 | 2022-12-10 | [[Mayors Manor]]      | [[Ontario Reign Projected Lineup at Tucson Roadrunners - Second-Half of B2B]]                                                                |
 | 2022-12-09 | [[Mayors Manor]]      | [[Ontario Reign Projected Lineup at Tucson Roadrunners - Including Change to Byfield Line]]                                                  |

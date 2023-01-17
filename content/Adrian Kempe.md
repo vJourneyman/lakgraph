@@ -21,6 +21,10 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                              | Title                                                                                                                                                |
 | ---------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-22 | [[LA Daily News]]                 | [[Kings beat Calgary in overtime, win fourth straight game]]                                                                                         |
+| 2022-12-22 | [[LA Kings Insider]]              | [[FINAL – Kings 4, Flames 3 (OT) – Kempe, Lizotte, McLellan]]                                                                                        |
+| 2022-12-21 | [[Kings at NHL.com]]              | [[Soccer Kings]]                                                                                                                                     |
+| 2022-12-21 | [[LA Kings Insider]]              | [[Practice 12-21 – Short Skate Today + How Consistent Is Consistent, THAT Goal, Forever A King]]                                                     |
 | 2022-12-19 | [[The Fourth Period]]             | [[LAK AT 34 - INFLECTION POINT]]                                                                                                                     |
 | 2022-12-17 | [[LA Hockey Now]]                 | [[Kings Vs Sharks Game 34 - Lines, Notes and How to Watch]]                                                                                          |
 | 2022-12-17 | [[Mayors Manor]]                  | [[Projected Lineups - LA Kings vs San Jose Sharks - Arvidsson Returns and More]]                                                                     |
@@ -123,7 +127,7 @@ priority: high
 | 2022-10-03 | [[LA Kings Insider]]              | [[With a fresh slate, the work is well underway when it comes to the LA Kings power play]]                                                           |
 | 2022-09-28 | [[The Athletic]]                  | [[Kings Kevin Fiala on meshing with Kopitar and playing on a ‘dangerous line]]                                                                       |
 | 2022-07-11 | [[LA Daily News]]                 | [[NHL free agency - Kings look to polish their improved roster]]                                                                                     |
-| 2022-07-05 | [[LA Kings Insider]] | [[First Reactions from dynamic Kevin Fiala and Rob Blake after blockbuster trade + Other Takeaways - LA Kings Insider]] |
+| 2022-07-05 | [[LA Kings Insider]]              | [[First Reactions from dynamic Kevin Fiala and Rob Blake after blockbuster trade + Other Takeaways - LA Kings Insider]]                              |
 
 
 ## Minor League Coverage

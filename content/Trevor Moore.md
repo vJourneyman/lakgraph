@@ -21,6 +21,8 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                                           |
 | ---------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-22 | [[LA Kings Insider]] | [[12-22 Preview – Optional Skate Today + Line 2(00-Feet), McLellan on PP, Moore Joins ATKM]] |
+| 2022-12-21 | [[LA Kings Insider]] | [[A “confident and calm” Pheonix Copley proving to be a great fit with the LA Kings]] |
 | 2022-12-20 | [[LA Daily News]] | [[Kings put away Ducks for third 3-game win streak of season]] |
 | 2022-12-19 | [[The Fourth Period]]  | [[LAK AT 34 - INFLECTION POINT]]                                                                                                                                |
 | 2022-12-18 | [[Mayors Manor]]       | [[Rapid Review - Notes and Highlights from Kings Reverse Retro Win Over San Jose]]                                                                              |

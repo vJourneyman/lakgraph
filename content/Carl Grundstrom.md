@@ -16,12 +16,11 @@ status: stable
 | --------------- | --- | -------- | ------ | ------ | ------ | ---------- | ---------- | ---------------------------------------- |
 | Carl Grundstrom | 91  | RW       | L      | 6' 0"  | 195    | 1997-12-01 | Umea, SWE  | 2016 TOR, 2nd rd, 27th pk (57th overall) |
 
-
-
-
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                          |
 | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-22 | [[LA Daily News]] | [[Kings beat Calgary in overtime, win fourth straight game]] |
+| 2022-12-21 | [[LA Kings Insider]]    | [[Practice 12-21 – Short Skate Today + How Consistent Is Consistent, THAT Goal, Forever A King]]                                                                                                                                                                                                 |
 | 2022-12-17 | [[The Hockey Writers]] | [[Revisiting the Maple Leafs Jake Muzzin Trade]]                                                                               |
 | 2022-12-14 | [[The Athletic]]       | [[LA Kings, Anaheim Ducks blanked a combined 13-0 in brutal night for SoCal hockey]]                                           |
 | 2022-12-12 | [[LA Daily News]]      | [[High-scoring Kings finding ‘the carelessness is killing us]]                                                                 |

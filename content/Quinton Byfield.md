@@ -105,6 +105,7 @@ priority: high
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                                                                        |
 | ---------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-21 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at Calgary, 12-21]] |
 | 2022-12-20 | [[Mayors Manor]] | [[Quinton Byfield Wont Return to NHL for At Least Another Week]] |
 | 2022-12-20 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at Calgary, 12-20]]                                                                                                |
 | 2022-12-18 | [[Mayors Manor]]     | [[Reign Recap - Cal Petersens Shutout Leads Reign To Victory On Teddy Bear Toss Night]]                                                      |

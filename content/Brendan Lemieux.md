@@ -16,12 +16,14 @@ status: stable
 | --------------- | --- | -------- | ------ | ------ | ------ | ---------- | --------------- | --------------------------------------- |
 | Brendan Lemieux | 48  | LW       | L      | 6' 1"  | 215    | 1996-03-15 | Denver, CO, USA | 2014 BUF, 2nd rd, 1st pk (31st overall) |
 
-
-
-
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                     |
 | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-22 | [[Pro Hockey Rumors]]  | [[Los Angeles Kings Activate Brendan Lemieux]]                                                                            |
+| 2022-12-22 | [[LA Daily News]]      | [[Kings beat Calgary in overtime, win fourth straight game]]                                                              |
+| 2022-12-22 | [[Kings at NHL.com]]   | [[LA Kings Make Roster Transactions]]                                                                                     |
+| 2022-12-22 | [[Mayors Manor]]       | [[Projected Lineups - LA Kings vs Calgary Flames - Plus Lemieux Activated]]                                               |
+| 2022-12-21 | [[LA Kings Insider]]   | [[Practice 12-21 – Short Skate Today + How Consistent Is Consistent, THAT Goal, Forever A King]]                          |
 | 2022-12-19 | [[LA Kings Insider]]   | [[Practice 12-19 – Good To Be Back! Injury Updates, Penalty Kill Timing, Connors To Team USA]]                            |
 | 2022-12-09 | [[LA Hockey Now]]      | [[Kings Issues - Team Needs to Address Lack of Size and Physicality]]                                                     |
 | 2022-12-01 | [[Mayors Manor]]       | [[LA Kings GM Rob Blake Gives His State of the Season After 25 Games]]                                                    |
@@ -64,7 +66,7 @@ status: stable
 | 2022-10-13 | [[LA Daily News]]      | [[Kings lose to Kraken as Brandt Clarke makes his NHL debut]]                                                             |
 | 2022-10-13 | [[The Forum Report]]   | [[October 13 - McLellan envisions “instinctual” hockey in Clarkes debut - Arvidsson ill - Quick-Jones]]                   |
 | 2022-10-13 | [[LA Kings Insider]]   | [[10-13 Preview - Clarke Debut Expected + Arvidsson out, 19-55-13 Line, Being First - LA Kings Insider]]                  |
-| 2022-09-29 | [[LA Kings Insider]] | [[Blake Lizotte and Brendan Lemieux excited to add Carl Grundstrom to buzzing, physical line]]
+| 2022-09-29 | [[LA Kings Insider]]   | [[Blake Lizotte and Brendan Lemieux excited to add Carl Grundstrom to buzzing, physical line]]                            |
 
 
 

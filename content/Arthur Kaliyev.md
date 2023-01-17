@@ -22,6 +22,8 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                      |
 | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-22 | [[LA Daily News]] | [[Kings beat Calgary in overtime, win fourth straight game]] |
+| 2022-12-21 | [[Kings at NHL.com]]   | [[Soccer Kings]]                                                                                                                           |
 | 2022-12-20 | [[LA Hockey Now]]      | [[Kings Brush Ducks Aside 4-1 For Third Straight Win]]                                                                                     |
 | 2022-12-20 | [[LA Daily News]]      | [[Game Day - On the Ducks-Kings rivalry and franchises futures]]                                                                           |
 | 2022-12-20 | [[The Forum Report]]   | [[Playmaking Chart - December 20 vs Anaheim]]                                                                                              |

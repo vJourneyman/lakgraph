@@ -21,8 +21,10 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                |
 | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-12-20 | [[LA Daily News]] | [[Kings put away Ducks for third 3-game win streak of season]] |
-| 2022-12-20 | [[LA Kings Insider]] | [[FINAL – Kings 4, Ducks 1 – Copley, Fiala, Iafallo, McLellan]] |
+| 2022-12-22 | [[LA Kings Insider]] | [[12-22 Preview – Optional Skate Today + Line 2(00-Feet), McLellan on PP, Moore Joins ATKM]] |
+| 2022-12-21 | [[LA Kings Insider]]   | [[Practice 12-21 – Short Skate Today + How Consistent Is Consistent, THAT Goal, Forever A King]]                                     |
+| 2022-12-20 | [[LA Daily News]]      | [[Kings put away Ducks for third 3-game win streak of season]]                                                                       |
+| 2022-12-20 | [[LA Kings Insider]]   | [[FINAL – Kings 4, Ducks 1 – Copley, Fiala, Iafallo, McLellan]]                                                                      |
 | 2022-12-17 | [[LA Kings Insider]]   | [[12-17 Preview – Full Team Morning Skate + Roster and Lineup Moves, Spences Development, An Interesting Take]]                      |
 | 2022-12-16 | [[Mayors Manor]]       | [[Rapid Review - Notes and Highlights from Kings OT Victory in Boston]]                                                              |
 | 2022-12-16 | [[The Forum Report]]   | [[Playmaking Chart - December 15 at Boston]]                                                                                         |

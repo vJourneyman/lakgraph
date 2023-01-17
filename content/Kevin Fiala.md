@@ -20,7 +20,10 @@ status: UnprocessedContent
 ## NHL  Coverage
 | Date       | Site                              | Title                                                                                                                                                      |
 | ---------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-12-20 | [[LA Hockey Now]]       | [[Kings vs Ducks Game 35 - Lines, Notes and How to Watch]]                                                                                                                                                                                                                                       |
+| 2022-12-21 | [[LA Daily News]]                 | [[Kings test 3-game winning streak with back-to-back set]]                                                                                                 |
+| 2022-12-21 | [[Hockey Royalty]]                | [[Takeaways - LA Kings 4, Ducks 1 – Satisfying Win]]                                                                                                       |
+| 2022-12-21 | [[LA Kings Insider]]              | [[Practice 12-21 – Short Skate Today + How Consistent Is Consistent, THAT Goal, Forever A King]]                                                           |
+| 2022-12-20 | [[LA Hockey Now]]                 | [[Kings vs Ducks Game 35 - Lines, Notes and How to Watch]]                                                                                                 |
 | 2022-12-20 | [[LA Daily News]]                 | [[Kings put away Ducks for third 3-game win streak of season]]                                                                                             |
 | 2022-12-20 | [[LA Daily News]]                 | [[Game Day - On the Ducks-Kings rivalry and franchises futures]]                                                                                           |
 | 2022-12-20 | [[The Forum Report]]              | [[Playmaking Chart - December 20 vs Anaheim]]                                                                                                              |

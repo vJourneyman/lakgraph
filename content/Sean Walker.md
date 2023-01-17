@@ -20,6 +20,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                     |
 | ---------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-21 | [[LA Kings Insider]]    | [[Practice 12-21 – Short Skate Today + How Consistent Is Consistent, THAT Goal, Forever A King]]                                                                                                                                                                                                 |
 | 2022-12-19 | [[The Fourth Period]]   | [[LAK AT 34 - INFLECTION POINT]]                                                                                                          |
 | 2022-12-16 | [[ESPN]]                | [[NHL trade tiers - Way-too-early edition for 2022-23]]                                                                                   |
 | 2022-12-15 | [[The Hockey News]]     | [[KINGS SEAN DURZI LEARNS WHAT IT MEANS TO BE AN NHL STAR]]                                                                               |

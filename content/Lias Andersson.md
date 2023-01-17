@@ -54,6 +54,8 @@ Lias Andersson | 17 | C | L | 6' 1" | 183 | 1998-10-13 | Smogen, SWE | 2017 NYR,
 ## Minor League Coverage
 | Date       | Site                 | Title                                                                                               |
 | ---------- | -------------------- | --------------------------------------------------------------------------------------------------- |
+| 2022-12-21 | [[Mayors Manor]]     | [[Reign Recap - Ontario Comes Up Short Against Calgary, Dropping Back-to-Back Games in Canada]]     |
+| 2022-12-21 | [[LA Kings Insider]] | [[REIGN FINAL – Wranglers 5, Reign 2 – Sturm]]                                                      |
 | 2022-12-10 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup at Tucson Roadrunners - Second-Half of B2B]]                       |
 | 2022-12-10 | [[Mayors Manor]]     | [[Reign Recap - Petersen, Byfield Guide Ontario To OT Victory]]                                     |
 | 2022-11-26 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup vs Tucson Roadrunners - Clarkes Last Stand]]                       |

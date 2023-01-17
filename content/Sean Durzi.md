@@ -21,7 +21,9 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                  |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-12-20 | [[LA Hockey Now]] | [[Kings Brush Ducks Aside 4-1 For Third Straight Win]] |
+| 2022-12-21 | [[Kings at NHL.com]]    | [[Soccer Kings]]                                                                                                                                       |
+| 2022-12-21 | [[LA Kings Insider]]    | [[A “confident and calm” Pheonix Copley proving to be a great fit with the LA Kings]]                                                                  |
+| 2022-12-20 | [[LA Hockey Now]]       | [[Kings Brush Ducks Aside 4-1 For Third Straight Win]]                                                                                                 |
 | 2022-12-20 | [[LA Daily News]]       | [[Kings put away Ducks for third 3-game win streak of season]]                                                                                         |
 | 2022-12-20 | [[The Forum Report]]    | [[Playmaking Chart - December 20 vs Anaheim]]                                                                                                          |
 | 2022-12-19 | [[LA Kings Insider]]    | [[Practice 12-19 – Good To Be Back! Injury Updates, Penalty Kill Timing, Connors To Team USA]]                                                         |
@@ -121,7 +123,7 @@ priority: high
 | 2022-09-30 | [[LA Kings Insider]]    | [[Day 9 Primer – Today’s Groups + Arvidsson and Durzi with main group, Wagner clears waivers]]                                                         |
 | 2022-09-29 | [[LA Kings Insider]]    | [[Angeles Analysis – Thoughts From The First Week Of Training Camp]]                                                                                   |
 | 2022-09-28 | [[LA Kings Insider]]    | [[9-28 Preview – Projected Lineup + Reign Returners, Defensive Camp Battle, Bjornfot Quotes]]                                                          |
-| 2022-09-27 | [[LA Kings Insider]]    | [[Day 6 Notes – Injury Updates + Grundstrom Opportunity, Anderson Debut and Kempe joins ATKM]]                                       |
+| 2022-09-27 | [[LA Kings Insider]]    | [[Day 6 Notes – Injury Updates + Grundstrom Opportunity, Anderson Debut and Kempe joins ATKM]]                                                         |
 
 
 
