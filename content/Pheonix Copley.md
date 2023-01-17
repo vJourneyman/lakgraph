@@ -19,6 +19,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                     | Title                                                                                                                                 |
 | ---------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-24 | [[LA Kings Insider]] | [[Angeles Analysis – Nice To Have Three Days]] |
 | 2022-12-23 | [[The Hockey News]]      | [[THREE GOALIES THE LOS ANGELES KINGS COULD TRY TO ACQUIRE]]                                                                          |
 | 2022-12-23 | [[ESPN]]                 | [[NHL Power Rankings - 1-32 poll, reason for hope for all teams]]                                                                     |
 | 2022-12-23 | [[Hockey Royalty]]       | [[Takeaways - LA Kings 4, Calgary Flames 3 – Fire Extinguishers]]                                                                     |

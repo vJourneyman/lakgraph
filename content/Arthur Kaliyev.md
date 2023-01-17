@@ -22,6 +22,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                     | Title                                                                                                                                      |
 | ---------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-24 | [[LA Hockey Now]] | [[Kings Kaliyev a More Complete and Mature Player This Season]] |
 | 2022-12-23 | [[Hockey Royalty]]       | [[LA Kings at Arizona Coyotes projected lineup, odds, notes]]                                                                              |
 | 2022-12-22 | [[LA Daily News]]        | [[Kings beat Calgary in overtime, win fourth straight game]]                                                                               |
 | 2022-12-21 | [[Kings at NHL dot com]] | [[Soccer Kings]]                                                                                                                           |

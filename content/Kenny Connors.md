@@ -34,6 +34,7 @@ status: stable
 ## Post-Draft Coverage
 | Date       | Site                 | Title                                                                                            |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------------ |
+| 2022-12-25 | [[Mayors Manor]] | [[WJC Preview – LA Kings Prospects to Watch and Tournament Schedule]] |
 | 2022-12-19 | [[LA Kings Insider]] | [[Practice 12-19 – Good To Be Back! Injury Updates, Penalty Kill Timing, Connors To Team USA]]   |
 | 2022-12-05 | [[Mayors Manor]]     | [[Kings 2022 Draftee Kenny Connors Invited to USA World Juniors Camp]]                           |
 | 2022-12-05 | [[LA Kings Insider]] | [[Kenny Connors selected to USA WJC Preliminary Roster + Status of Additional Eligible Players]] |

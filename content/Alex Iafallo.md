@@ -16,11 +16,11 @@ status: stable
 | ------------ | --- | -------- | ------ | ------ | ------ | ---------- | ------------- | ----- |
 | Alex Iafallo | 19  | LW       | L      | 6' 0"  | 200    | 1993-12-21 | Eden, NY, USA |       |
 
-
-
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                |
 | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-24 | [[Kings at NHL dot com]] | [[12-23 FINAL - Kings 1, Coyotes 2 (SO)]] |
+| 2022-12-24 | [[Mayors Manor]] | [[Rapid Review - Notes and Highlights from Kings Shootout Loss in AZ]] |
 | 2022-12-23 | [[LA Kings Insider]] | [[FINAL – Kings 1, Coyotes 2 (SO) – Iafallo, Lemieux, McLellan]] |
 | 2022-12-22 | [[LA Kings Insider]] | [[12-22 Preview – Optional Skate Today + Line 2(00-Feet), McLellan on PP, Moore Joins ATKM]] |
 | 2022-12-21 | [[LA Kings Insider]]   | [[Practice 12-21 – Short Skate Today + How Consistent Is Consistent, THAT Goal, Forever A King]]                                     |

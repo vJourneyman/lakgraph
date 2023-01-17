@@ -21,6 +21,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                                           |
 | ---------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-24 | [[The Hockey Writers]] | [[Kings Moore Earns New Contract With Strong Two-Way Play]] |
 | 2022-12-22 | [[LA Kings Insider]] | [[12-22 Preview – Optional Skate Today + Line 2(00-Feet), McLellan on PP, Moore Joins ATKM]] |
 | 2022-12-21 | [[LA Kings Insider]] | [[A “confident and calm” Pheonix Copley proving to be a great fit with the LA Kings]] |
 | 2022-12-20 | [[LA Daily News]] | [[Kings put away Ducks for third 3-game win streak of season]] |

@@ -19,6 +19,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                     | Title                                                                                                                                |
 | ---------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-24 | [[LA Hockey Now]] | [[Kings Kaliyev a More Complete and Mature Player This Season]] |
 | 2022-12-23 | [[Hockey Royalty]]       | [[Takeaways - LA Kings 4, Calgary Flames 3 – Fire Extinguishers]]                                                                    |
 | 2022-12-23 | [[The Athletic]]         | [[The LA Kings are suddenly on a winning streak Is this the turning point]]                                                          |
 | 2022-12-22 | [[LA Daily News]]        | [[Kings beat Calgary in overtime, win fourth straight game]]                                                                         |

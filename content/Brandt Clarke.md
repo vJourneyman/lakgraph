@@ -21,6 +21,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-25 | [[Mayors Manor]] | [[WJC Preview – LA Kings Prospects to Watch and Tournament Schedule]] |
 | 2022-12-17 | [[The Athletic]]        | [[NHL future power rankings, take 2 - Reacting to each teams projected standing for 2025-26]]                                                       |
 | 2022-12-14 | [[The Hockey News]]     | [[BRANDT CLARKE PREPARES TO PROVE HIMSELF AT THE WORLD JUNIORS AND BEYOND]]                                                                         |
 | 2022-12-14 | [[LA Hockey Now]]       | [[Kings Need to Break Out of Funk, But How]]                                                                                                        |
