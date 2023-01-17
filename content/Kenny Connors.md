@@ -34,6 +34,8 @@ status: stable
 ## Post-Draft Coverage
 | Date       | Site                 | Title                                                                                            |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------------ |
+| 2022-12-26 | [[LA Daily News]] | [[Kings seek to extend points streak vs Las Vegas]] |
+| 2022-12-26 | [[LA Kings Insider]] | [[World Juniors Preview – Clarke, Connors, Salin To Participate in U-20 Tournament]] |
 | 2022-12-25 | [[Mayors Manor]] | [[WJC Preview – LA Kings Prospects to Watch and Tournament Schedule]] |
 | 2022-12-19 | [[LA Kings Insider]] | [[Practice 12-19 – Good To Be Back! Injury Updates, Penalty Kill Timing, Connors To Team USA]]   |
 | 2022-12-05 | [[Mayors Manor]]     | [[Kings 2022 Draftee Kenny Connors Invited to USA World Juniors Camp]]                           |

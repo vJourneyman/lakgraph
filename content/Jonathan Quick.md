@@ -19,6 +19,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                     | Title                                                                                                                                                 |
 | ---------- | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-26 | [[LA Daily News]]        | [[Kings seek to extend points streak vs Las Vegas]]                                                                                                   |
 | 2022-12-24 | [[Kings at NHL dot com]] | [[12-23 FINAL - Kings 1, Coyotes 2 (SO)]]                                                                                                             |
 | 2022-12-24 | [[LA Kings Insider]]     | [[Angeles Analysis – Nice To Have Three Days]]                                                                                                        |
 | 2022-12-23 | [[ESPN]]                 | [[NHL Power Rankings - 1-32 poll, reason for hope for all teams]]                                                                                     |

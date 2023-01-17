@@ -19,6 +19,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                     | Title                                                                                                                     |
 | ---------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-26 | [[LA Daily News]] | [[Kings seek to extend points streak vs Las Vegas]] |
 | 2022-12-23 | [[LA Hockey Now]]        | [[Kings vs Coyotes Game 37 - Lines, Notes and How to Watch]]                                                              |
 | 2022-12-23 | [[Mayors Manor]]         | [[Projected Lineups - LA Kings at Arizona Coyotes - Double Reverse Retro Game]]                                           |
 | 2022-12-23 | [[LA Kings Insider]]     | [[FINAL – Kings 1, Coyotes 2 (SO) – Iafallo, Lemieux, McLellan]]                                                          |

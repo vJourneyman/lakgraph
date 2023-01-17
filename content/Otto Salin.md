@@ -34,11 +34,13 @@ status: needs-draft-content
 
 
 ## Post-Draft Coverage
-| Date       | Site                 | Title                              |
-| ---------- | -------------------- | ---------------------------------- |
-| 2022-12-25 | [[Mayors Manor]] | [[WJC Preview – LA Kings Prospects to Watch and Tournament Schedule]] |
-| 2022-12-14 | [[LA Kings Insider]] | [[Practice 12-14 – Todays “Cleanse” + A Tale of 2 Halves, Bump-Up Breakdowns, Salin To WJC]] |
-| 2022-11-04 | [[Kings at NHL dot com]] | [[LA Kings Prospect Report, 11-4]] |
+| Date       | Site                     | Title                                                                                        |
+| ---------- | ------------------------ | -------------------------------------------------------------------------------------------- |
+| 2022-12-26 | [[LA Daily News]] | [[Kings seek to extend points streak vs Las Vegas]] |
+| 2022-12-26 | [[LA Kings Insider]]     | [[World Juniors Preview – Clarke, Connors, Salin To Participate in U-20 Tournament]]         |
+| 2022-12-25 | [[Mayors Manor]]         | [[WJC Preview – LA Kings Prospects to Watch and Tournament Schedule]]                        |
+| 2022-12-14 | [[LA Kings Insider]]     | [[Practice 12-14 – Todays “Cleanse” + A Tale of 2 Halves, Bump-Up Breakdowns, Salin To WJC]] |
+| 2022-11-04 | [[Kings at NHL dot com]] | [[LA Kings Prospect Report, 11-4]]                                                           |
 
 
 
