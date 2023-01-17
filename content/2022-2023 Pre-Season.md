@@ -75,7 +75,7 @@ status: in-progress
 | 2022-08-11 | [[LA Kings Insider]]            | [[Fi-all In - Fiala talks committing to Kings, second-half success, power-play ambitions and more - LA Kings Insider]]   |
 | 2022-08-06 | [[HockeyBuzz]]                  | [[HockeyBuzz - Ben Shelley - How will Kevin Fialas seven-year contract work out for the Kings]]                          |
 | 2022-08-05 | [[Zone Coverage]]               | [[Good Contracts Stopped Wild From Getting A Deal On Fiala - Zone Coverage]]                                             |
-| 2022-07-27 | [[Kings at NHL.com]]            | [[Kings add Fiala to boost experienced core, spark power play]]                                                          |
+| 2022-07-27 | [[Kings at NHL dot com]]            | [[Kings add Fiala to boost experienced core, spark power play]]                                                          |
 | 2022-07-11 | [[LA Daily News]]               | [[NHL free agency - Kings look to polish their improved roster]]                                                         |
 | 2022-07-07 | [[Hockey Wilderness]]           | [[Roundtable - Thoughts about the Fiala trade]]                                                                          |
 | 2022-07-06 | [[StarTribune]]                 | [[Kevin Fiala really excited to start next step in NHL career with Los Angeles Kings]]                                   |

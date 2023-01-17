@@ -40,7 +40,7 @@ Alex Turcotte | | C | L | 5' 11" | 185 | 2001-02-26 | Elk Grove, IL, USA | 2019 
 | 2022-12-09 | [[Mayors Manor]]      | [[Ontario Reign Projected Lineup at Tucson Roadrunners - Including Change to Byfield Line]]                                                  |
 | 2022-12-07 | [[Mayors Manor]]      | [[Ontario Reign Projected Lineup vs Henderson Silver Knights - Including Turcotte Update]]                                                   |
 | 2022-12-04 | [[Mayors Manor]]      | [[Ontario Reign Projected Lineup vs Bakersfield Condors - Plus Latest on Turcotte]]                                                          |
-| 2022-12-02 | [[Kings at NHL.com]]  | [[LA Kings Prospect Report, 12-2]]                                                                                                           |
+| 2022-12-02 | [[Kings at NHL dot com]]  | [[LA Kings Prospect Report, 12-2]]                                                                                                           |
 | 2022-12-02 | [[LA Kings Insider]]  | [[REIGN PREVIEW – Ontario vs Colorado, 12-2]]                                                                                                |
 | 2022-11-30 | [[The Forum Report]]  | [[Waking up with the Kings - November 30]]                                                                                                   |
 | 2022-11-29 | [[Hockey Royalty]]    | [[Ontario Reign - Three stars of the week – 11-21 to 11-27]]                                                                                 |
@@ -70,7 +70,7 @@ Alex Turcotte | | C | L | 5' 11" | 185 | 2001-02-26 | Elk Grove, IL, USA | 2019 
 | 2022-11-10 | [[ESPN]]              | [[They make you feel like you belong - How Drew Doughty and Anze Kopitar have shaped the Kings]]                                             |
 | 2022-11-10 | [[Pro Hockey Rumors]] | [[Los Angeles Kings Activate Alex Turcotte - Assign To AHL]]                                                                                 |
 | 2022-11-10 | [[LA Daily News]]     | [[Kings prospect Alex Turcotte activated from injured non-roster list]]                                                                      |
-| 2022-11-10 | [[Kings at NHL.com]]  | [[LA Kings Activate Forward Alex Turcotte for Loan to Ontario Reign]]                                                                        |
+| 2022-11-10 | [[Kings at NHL dot com]]  | [[LA Kings Activate Forward Alex Turcotte for Loan to Ontario Reign]]                                                                        |
 | 2022-11-10 | [[Mayors Manor]]      | [[Ontario Reign - Projected Lineup at San Jose - With Trio of Top Kings Prospects Returning]]                                                |
 | 2022-11-10 | [[LA Kings Insider]]  | [[11-10 Preview – Projected Lineup + Chicago Rematch, Importance Of Faceoffs, Turcotte to ONT]]                                              |
 | 2022-11-05 | [[Mayors Manor]]      | [[Ontario Reign - Projected Lineup for Rematch in Colorado - Plus Bjornfot Update]]                                                          |

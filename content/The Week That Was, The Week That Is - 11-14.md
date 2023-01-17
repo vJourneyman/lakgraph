@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site                 | External Link                                                                                                                         |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-14 | [[Kings at NHL.com]] | [*The Week That Was, The Week That Is - 11-14*](https://www.nhl.com/kings/news/the-week-that-was-the-week-that-is---1114/c-337585560) |
+| 2022-11-14 | [[Kings at NHL dot com]] | [*The Week That Was, The Week That Is - 11-14*](https://www.nhl.com/kings/news/the-week-that-was-the-week-that-is---1114/c-337585560) |
 
 ## Contributors
 - [[Jack Jablonski]]
@@ -22,7 +22,7 @@ status: stable
 
 | Date       | Site                 | Title / Internal Link                           |
 | ---------- | -------------------- | ----------------------------------------------- |
-| 2022-11-14 | [[Kings at NHL.com]] | [[The Week That Was, The Week That Is - 11-14]] |
+| 2022-11-14 | [[Kings at NHL dot com]] | [[The Week That Was, The Week That Is - 11-14]] |
 
 ## Players
 - [[Gabe Vilardi]]

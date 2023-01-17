@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site                 | External Link                                                                                                                                  |
 | ---------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-29 | [[Kings at NHL.com]] | [*Kraken recover for high-scoring OT victory against Kings*](https://www.nhl.com/news/seattle-kraken-los-angeles-kings-game-recap/c-338127584) |
+| 2022-11-29 | [[Kings at NHL dot com]] | [*Kraken recover for high-scoring OT victory against Kings*](https://www.nhl.com/news/seattle-kraken-los-angeles-kings-game-recap/c-338127584) |
 
 ## Contributors
 - [[Dan Greenspan]]
@@ -22,7 +22,7 @@ status: stable
 
 | Date       | Site                 | Title / Internal Link                                        |
 | ---------- | -------------------- | ------------------------------------------------------------ |
-| 2022-11-29 | [[Kings at NHL.com]] | [[Kraken recover for high-scoring OT victory against Kings]] |
+| 2022-11-29 | [[Kings at NHL dot com]] | [[Kraken recover for high-scoring OT victory against Kings]] |
 
 ## Players
 - [[Gabe Vilardi]]

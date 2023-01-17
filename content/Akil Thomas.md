@@ -43,7 +43,7 @@ Date | Site |  Title
 | 2022-11-11 | [[Mayors Manor]]     | [[Reign Recap - Revamped Lineup Comes Up Short in Shootout Loss at San Jose]]                      |
 | 2022-11-10 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at San Jose, 11-10]]                                                     |
 | 2022-11-06 | [[Mayors Manor]]     | [[Reign Recap - Ontario Drops Game 2, Settle for a Split in Colorado]]                             |
-| 2022-11-04 | [[Kings at NHL.com]] | [[LA Kings Prospect Report, 11-4]]                                                                 |
+| 2022-11-04 | [[Kings at NHL dot com]] | [[LA Kings Prospect Report, 11-4]]                                                                 |
 | 2022-11-03 | [[LA Kings Insider]] | [[REIGN PREVIEW – Ontario at Colorado, 11-3 - LA Kings Insider]]                                   |
 | 2022-11-02 | [[Hockey Royalty]]   | [[Ontario Reign - Three stars of the week from 10-24 to 10-30]]                                    |
 | 2022-10-31 | [[Mayors Manor]]     | [[LAK Prospects - Weekly Reign Report, October 30, 2022]]                                          |

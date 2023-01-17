@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site | External Link                                                                                                                        |
 | ---------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-12-17 | [[Kings at NHL.com]]     | [*Kings top Sharks in 2nd straight shootout win*](https://www.nhl.com/news/san-jose-sharks-los-angeles-kings-game-recap/c-338784274) |
+| 2022-12-17 | [[Kings at NHL dot com]]     | [*Kings top Sharks in 2nd straight shootout win*](https://www.nhl.com/news/san-jose-sharks-los-angeles-kings-game-recap/c-338784274) |
 
 ## Contributors
 - [[Dan Greenspan]]
@@ -22,7 +22,7 @@ status: stable
 
 | Date       | Site                 | Title / Internal Link                             |
 | ---------- | -------------------- | ------------------------------------------------- |
-| 2022-12-17 | [[Kings at NHL.com]] | [[Kings top Sharks in 2nd straight shootout win]] |
+| 2022-12-17 | [[Kings at NHL dot com]] | [[Kings top Sharks in 2nd straight shootout win]] |
 
 ## Players
 - [[Pheonix Copley]]

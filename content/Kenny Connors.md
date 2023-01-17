@@ -37,12 +37,12 @@ status: stable
 | 2022-12-19 | [[LA Kings Insider]] | [[Practice 12-19 – Good To Be Back! Injury Updates, Penalty Kill Timing, Connors To Team USA]]   |
 | 2022-12-05 | [[Mayors Manor]]     | [[Kings 2022 Draftee Kenny Connors Invited to USA World Juniors Camp]]                           |
 | 2022-12-05 | [[LA Kings Insider]] | [[Kenny Connors selected to USA WJC Preliminary Roster + Status of Additional Eligible Players]] |
-| 2022-12-02 | [[Kings at NHL.com]] | [[LA Kings Prospect Report, 12-2]]                                                               |
+| 2022-12-02 | [[Kings at NHL dot com]] | [[LA Kings Prospect Report, 12-2]]                                                               |
 | 2022-11-28 | [[Hockey Royalty]]   | [[LA Kings Prospect Update – Week of 11-21]]                                                     |
 | 2022-11-21 | [[Hockey Royalty]]   | [[Francesco Pinelli Highlights LA Kings Prospects Update – Week of 11-14]]                       |
 | 2022-11-19 | [[The Athletic]]     | [[NHL future watch - Whos the hottest player in each teams prospect pipeline]]                   |
 | 2022-11-17 | [[LA Kings Insider]] | [[LA Kings prospect Kenny Connors off to flying start as Hockey Easts Rookie of the Month]]      |
-| 2022-11-04 | [[Kings at NHL.com]] | [[LA Kings Prospect Report, 11-4]]                                                               |
+| 2022-11-04 | [[Kings at NHL dot com]] | [[LA Kings Prospect Report, 11-4]]                                                               |
 | 2022-10-22 | [[Mayors Manor]]     | [[And So It Begins – Kings On Kings Crime On TV Today]]                                          |
 
 

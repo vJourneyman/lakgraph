@@ -12,8 +12,8 @@ status: stable
 
 | Date       | Site                 | Link                                                                                                                                        |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-04 | [[Kings at NHL.com]] | [LA Kings Loan Forward Rasmus Kupari to Ontario](https://www.nhl.com/kings/news/la-kings-loan-forward-rasmus-kupari-to-ontario/c-337208814) |
-| 2022-11-04 | [[Kings at NHL.com]] | [[LA Kings Loan Forward Rasmus Kupari to Ontario]]                                                                                          |
+| 2022-11-04 | [[Kings at NHL dot com]] | [LA Kings Loan Forward Rasmus Kupari to Ontario](https://www.nhl.com/kings/news/la-kings-loan-forward-rasmus-kupari-to-ontario/c-337208814) |
+| 2022-11-04 | [[Kings at NHL dot com]] | [[LA Kings Loan Forward Rasmus Kupari to Ontario]]                                                                                          |
 
 ## Contributors
 - 

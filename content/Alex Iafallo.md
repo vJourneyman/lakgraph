@@ -21,6 +21,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                |
 | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-23 | [[LA Kings Insider]] | [[FINAL – Kings 1, Coyotes 2 (SO) – Iafallo, Lemieux, McLellan]] |
 | 2022-12-22 | [[LA Kings Insider]] | [[12-22 Preview – Optional Skate Today + Line 2(00-Feet), McLellan on PP, Moore Joins ATKM]] |
 | 2022-12-21 | [[LA Kings Insider]]   | [[Practice 12-21 – Short Skate Today + How Consistent Is Consistent, THAT Goal, Forever A King]]                                     |
 | 2022-12-20 | [[LA Daily News]]      | [[Kings put away Ducks for third 3-game win streak of season]]                                                                       |
@@ -43,7 +44,7 @@ status: stable
 | 2022-12-06 | [[Pro Hockey Rumors]]  | [[Los Angeles Kings Activate Alex Iafallo]]                                                                                          |
 | 2022-12-06 | [[LA Hockey Now]]      | [[Hot Start Leads Kings Past Senators 5-2]]                                                                                          |
 | 2022-12-06 | [[LA Hockey Now]]      | [[Kings vs Senators Game 28 - Lines, Notes, and How to Watch]]                                                                       |
-| 2022-12-06 | [[Kings at NHL.com]]   | [[Arvidsson scores twice in Kings win against Senators]]                                                                             |
+| 2022-12-06 | [[Kings at NHL dot com]]   | [[Arvidsson scores twice in Kings win against Senators]]                                                                             |
 | 2022-12-06 | [[Mayors Manor]]       | [[Projected Lineups - LA Kings at Ottawa Senators , Ready for First Stop of Roadie]]                                                 |
 | 2022-12-06 | [[The Forum Report]]   | [[Iafallo in, Kempe to center - AJ Jakubec checks in from the World Cup]]                                                            |
 | 2022-12-06 | [[LA Kings Insider]]   | [[12-6 Preview – Iafallo Activated, Will Play Tonight + New Lines, Copley To Start, Kempe at Center]]                                |
@@ -58,7 +59,7 @@ status: stable
 | 2022-11-26 | [[LA Kings Insider]]   | [[Updates - Andersson, Moverare Loaned, Kings Injury Latest, Thomas, Doty headed for surgery]]                                       |
 | 2022-11-23 | [[The Forum Report]]   | [[Iafallo skating lightly - Durzi rejoins practice - how McLellan chooses road starting lineups]]                                    |
 | 2022-11-22 | [[The Athletic]]       | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]]                                                            |
-| 2022-11-17 | [[Kings at NHL.com]]   | [[Super 16 - Devils rise to No 2 - Kings, Flames join rankings]]                                                                     |
+| 2022-11-17 | [[Kings at NHL dot com]]   | [[Super 16 - Devils rise to No 2 - Kings, Flames join rankings]]                                                                     |
 | 2022-11-09 | [[Mayors Manor]]       | [[Quinton Byfield – Where do the Kings Go From Here]]                                                                                |
 | 2022-11-04 | [[LA Hockey Now]]      | [[Kings Daily - Disappointing Loss in Chicago and Ovechkin Makes History]]                                                           |
 | 2022-10-29 | [[Pro Hockey Rumors]]  | [[Los Angeles Kings Recall Rasmus Kupari]]                                                                                           |
@@ -67,7 +68,7 @@ status: stable
 | 2022-10-26 | [[The Forum Report]]   | [[Playmaking Chart - 10-25 vs TBL]]                                                                                                  |
 | 2022-10-25 | [[The Fourth Period]]  | [[LAK at 7 - Now for Something Completely Different — The Fourth Period]]                                                            |
 | 2022-10-25 | [[The Forum Report]]   | [[“Going in the right direction, but inconsistently,” forwards chemistry, identity become key - Quick starts]]                       |
-| 2022-10-24 | [[Kings at NHL.com]]   | [[10-24 - The Week That Was, The Week That Is]]                                                                                      |
+| 2022-10-24 | [[Kings at NHL dot com]]   | [[10-24 - The Week That Was, The Week That Is]]                                                                                      |
 | 2022-10-24 | [[LA Kings Insider]]   | [[10-24 Practice - Kings address areas of focus + McLellan on Lines, Lizotte on Identity, Robitaille Joins ATKM - LA Kings Insider]] |
 | 2022-10-23 | [[Pro Hockey Rumors]]  | [[Alex Iafallo Moved To LTIR, Austin Wagner Recalled]]                                                                               |
 | 2022-10-23 | [[The Forum Report]]   | [[Waking up with the Kings - October 23]]                                                                                            |
@@ -78,7 +79,7 @@ status: stable
 | 2022-10-20 | [[LA Kings Insider]]   | [[10-20 Preview - Starting How It Ended + Growth and Mentality, Third Line Makeup, Byfield On Trust - LA Kings Insider]]             |
 | 2022-10-19 | [[LA Daily News]]      | [[Kings Todd McLellan touts ‘character with the comeback]]                                                                           |
 | 2022-10-18 | [[Pro Hockey Rumors]]  | [[Alex Iafallo Placed On Injured Reserve]]                                                                                           |
-| 2022-10-18 | [[Kings at NHL.com]]   | [[Kings Recall Defenseman Jacob Moverare]]                                                                                           |
+| 2022-10-18 | [[Kings at NHL dot com]]   | [[Kings Recall Defenseman Jacob Moverare]]                                                                                           |
 | 2022-10-18 | [[Hockey Royalty]]     | [[LA Kings Recall Defenseman Jacob Moverare, Place Alex Iafallo on IR]]                                                              |
 | 2022-10-18 | [[Hockey Royalty]]     | [[LA Kings at Nashville Predators Projected Lineups and Betting Preview]]                                                            |
 | 2022-10-18 | [[Hockey Royalty]]     | [[LA Kings 5, Red Wings 4 OT - Danault scores twice, bails out Arvidsson]]                                                           |
@@ -88,7 +89,7 @@ status: stable
 | 2022-10-17 | [[Mayors Manor]]       | [[Rapid Review - Kings Get Back to Even With OT Win in Motor City]]                                                                  |
 | 2022-10-17 | [[The Forum Report]]   | [[No firm Edler, Iafallo updates - “Everybody wanted to win it for Arvy”]]                                                           |
 | 2022-10-17 | [[LA Kings Insider]]   | [[10-17 Preview - Full Morning Skate Today + McLellan on Offense-Defense, Zone Entries and detROYt - LA Kings Insider]]              |
-| 2022-10-16 | [[Kings at NHL.com]]   | [[Kings score seven, hold off late rally by Wild for first win of season]]                                                           |
+| 2022-10-16 | [[Kings at NHL dot com]]   | [[Kings score seven, hold off late rally by Wild for first win of season]]                                                           |
 | 2022-10-16 | [[The Forum Report]]   | [[Possession Chart - 10-15 at MIN]]                                                                                                  |
 | 2022-10-14 | [[The Forum Report]]   | [[Waking up with the Kings - October 14]]                                                                                            |
 | 2022-10-13 | [[LA Kings Insider]]   | [[10-13 Preview - Clarke Debut Expected + Arvidsson out, 19-55-13 Line, Being First - LA Kings Insider]]                             |

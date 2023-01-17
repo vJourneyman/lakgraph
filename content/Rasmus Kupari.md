@@ -68,14 +68,14 @@ priority: high
 | 2022-11-06 | [[The Athletic]]        | [[LA Kings Rasmus Kupari stepping up in Quinton Byfields absence]]                                                                        |
 | 2022-11-05 | [[LA Hockey Now]]       | [[Kings Vs Panthers, Game No 14, Lines, Notes, and How to Watch]]                                                                         |
 | 2022-11-05 | [[LA Daily News]]       | [[Gabe Vilardis goal lifts Kings past Panthers]]                                                                                          |
-| 2022-11-05 | [[Kings at NHL.com]]    | [[LA Kings Recall Forward Rasmus Kupari From Ontario]]                                                                                    |
+| 2022-11-05 | [[Kings at NHL dot com]]    | [[LA Kings Recall Forward Rasmus Kupari From Ontario]]                                                                                    |
 | 2022-11-05 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings vs Florida Panthers on Saturday]]                                                                           |
 | 2022-11-05 | [[LA Kings Insider]]    | [[FINAL - Kings 5, Panthers 4 - Moore, Vilardi, McLellan - LA Kings Insider]]                                                             |
 | 2022-11-05 | [[LA Kings Insider]]    | [[11-5 Preview - Full Team Skate + Striving For Consistency, Ras-matazz- LA Kings Insider]]                                               |
 | 2022-11-04 | [[Pro Hockey Rumors]]   | [[Rasmus Kupari Loaned To AHL]]                                                                                                           |
 | 2022-11-04 | [[LA Hockey Now]]       | [[Kings Daily - Disappointing Loss in Chicago and Ovechkin Makes History]]                                                                |
 | 2022-11-04 | [[LA Daily News]]       | [[Kings find defensive stride as Florida comes to town]]                                                                                  |
-| 2022-11-04 | [[Kings at NHL.com]]    | [[LA Kings Loan Forward Rasmus Kupari to Ontario]]                                                                                        |
+| 2022-11-04 | [[Kings at NHL dot com]]    | [[LA Kings Loan Forward Rasmus Kupari to Ontario]]                                                                                        |
 | 2022-11-04 | [[The Forum Report]]    | [[Playmaking Chart - 11-3-22 at CHI]]                                                                                                     |
 | 2022-11-04 | [[The Forum Report]]    | [[Waking Up with the Kings - November 4]]                                                                                                 |
 | 2022-11-04 | [[LA Kings Insider]]    | [[Angeles Analysis - An Interesting Road Trip - LA Kings Insider]]                                                                        |
@@ -93,7 +93,7 @@ priority: high
 | 2022-10-30 | [[LA Kings Insider]]    | [[Angeles Analysis - Up and Down - LA Kings Insider]]                                                                                     |
 | 2022-10-29 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Recall Rasmus Kupari]]                                                                                                |
 | 2022-10-29 | [[LA Daily News]]       | [[Kings goalie Cal Petersen starts in victory over Toronto]]                                                                              |
-| 2022-10-29 | [[Kings at NHL.com]]    | [[LA Kings Recall Forward Rasmus Kupari]]                                                                                                 |
+| 2022-10-29 | [[Kings at NHL dot com]]    | [[LA Kings Recall Forward Rasmus Kupari]]                                                                                                 |
 | 2022-10-29 | [[Mayors Manor]]        | [[Projected Lineup, Game 10 - LA Kings vs Toronto Maple Leafs, Kupari Recalled]]                                                          |
 | 2022-10-29 | [[The Forum Report]]    | [[Legacy of 2007 class not lost on Simmonds - Clarke sits but has “done a really good job of adapting to the NHL”]]                       |
 | 2022-10-10 | [[LA Kings on YouTube]] | [[GM Rob Blake speaks to the media before the 2022-23 Regular Season]]                                                                    |

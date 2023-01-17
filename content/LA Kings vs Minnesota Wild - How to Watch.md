@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site                 | External Link                                                                                                                     |
 | ---------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-08 | [[Kings at NHL.com]] | [*LA Kings vs Minnesota Wild - How to Watch*](https://www.nhl.com/kings/news/la-kings-vs-minnesota-wild-how-to-watch/c-337340682) |
+| 2022-11-08 | [[Kings at NHL dot com]] | [*LA Kings vs Minnesota Wild - How to Watch*](https://www.nhl.com/kings/news/la-kings-vs-minnesota-wild-how-to-watch/c-337340682) |
 
 ## Contributors
 - [[Jack Jablonski]]
@@ -22,7 +22,7 @@ status: stable
 
 | Date       | Site                 | Title / Internal Link                         |
 | ---------- | -------------------- | --------------------------------------------- |
-| 2022-11-08 | [[Kings at NHL.com]] | [[LA Kings vs Minnesota Wild - How to Watch]] |
+| 2022-11-08 | [[Kings at NHL dot com]] | [[LA Kings vs Minnesota Wild - How to Watch]] |
 
 ## Players
 - [[Anze Kopitar]]

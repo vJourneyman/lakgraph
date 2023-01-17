@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site                 | External Link                                                                                                                                                           |
 | ---------- | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-10 | [[Kings at NHL.com]] | [*Fialas goal with 1 point 4 seconds left gives Kings OT win against Blackhawks*](https://www.nhl.com/news/chicago-blackhawks-los-angeles-kings-game-recap/c-337340864) |
+| 2022-11-10 | [[Kings at NHL dot com]] | [*Fialas goal with 1 point 4 seconds left gives Kings OT win against Blackhawks*](https://www.nhl.com/news/chicago-blackhawks-los-angeles-kings-game-recap/c-337340864) |
 
 ## Contributors
 - [[Dan Greenspan]]
@@ -22,7 +22,7 @@ status: stable
 
 | Date       | Site                 | Title / Internal Link                                                             |
 | ---------- | -------------------- | --------------------------------------------------------------------------------- |
-| 2022-11-10 | [[Kings at NHL.com]] | [[Fialas goal with 1 point 4 seconds left gives Kings OT win against Blackhawks]] |
+| 2022-11-10 | [[Kings at NHL dot com]] | [[Fialas goal with 1 point 4 seconds left gives Kings OT win against Blackhawks]] |
 
 ## Players
 - [[Kevin Fiala]]

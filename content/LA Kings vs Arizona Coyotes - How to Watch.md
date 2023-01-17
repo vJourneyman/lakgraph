@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site                 | External Link                                                                                                                       |
 | ---------- | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-12-01 | [[Kings at NHL.com]] | [*LA Kings vs Arizona Coyotes - How to Watch*](https://www.nhl.com/kings/news/la-kings-vs-arizona-coyotes-how-to-watch/c-338257040) |
+| 2022-12-01 | [[Kings at NHL dot com]] | [*LA Kings vs Arizona Coyotes - How to Watch*](https://www.nhl.com/kings/news/la-kings-vs-arizona-coyotes-how-to-watch/c-338257040) |
 
 ## Contributors
 - [[Jack Jablonski]]
@@ -22,7 +22,7 @@ status: stable
 
 | Date       | Site                 | Title / Internal Link                          |
 | ---------- | -------------------- | ---------------------------------------------- |
-| 2022-12-01 | [[Kings at NHL.com]] | [[LA Kings vs Arizona Coyotes - How to Watch]] |
+| 2022-12-01 | [[Kings at NHL dot com]] | [[LA Kings vs Arizona Coyotes - How to Watch]] |
 
 ## Players
 - [[Anze Kopitar]]

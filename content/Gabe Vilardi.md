@@ -22,7 +22,10 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                              | Title                                                                                                                                                  |
 | ---------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-12-22 | [[LA Daily News]] | [[Kings beat Calgary in overtime, win fourth straight game]] |
+| 2022-12-23 | [[Hockey Royalty]] | [[Takeaways - LA Kings 4, Calgary Flames 3 – Fire Extinguishers]] |
+| 2022-12-23 | [[Mayors Manor]]                  | [[Rapid Review - Notes and Highlights from Kings 4-3 OT Victory Over Flames]]                                                                          |
+| 2022-12-23 | [[The Athletic]]                  | [[The LA Kings are suddenly on a winning streak Is this the turning point]]                                                                            |
+| 2022-12-22 | [[LA Daily News]]                 | [[Kings beat Calgary in overtime, win fourth straight game]]                                                                                           |
 | 2022-12-22 | [[Hockey Royalty]]                | [[LA Kings vs Calgary Flames Projected Lineups, Odds, Notes]]                                                                                          |
 | 2022-12-19 | [[Action Network]]                | [[NHL Odds, Preview, Prediction - Ducks vs Kings (December 20)]]                                                                                       |
 | 2022-12-19 | [[LA Hockey Now]]                 | [[Despite Production Drying Up, Vilardi Still Effective With His B Game]]                                                                              |
@@ -35,12 +38,12 @@ priority: high
 | 2022-12-04 | [[LA Kings Insider]]              | [[Practice 12-4 – Iafallo “available” on trip + Todays Alignment, Edlers Character, Goaltending Overview]]                                             |
 | 2022-12-02 | [[Pro Hockey Rumors]]             | [[What Your Team Is Thankful For - Los Angeles Kings]]                                                                                                 |
 | 2022-12-01 | [[Triple Crown Blog]]             | [[Focus On The Positives]]                                                                                                                             |
-| 2022-12-01 | [[Kings at NHL.com]]              | [[LA Kings vs Arizona Coyotes - How to Watch]]                                                                                                         |
+| 2022-12-01 | [[Kings at NHL dot com]]          | [[LA Kings vs Arizona Coyotes - How to Watch]]                                                                                                         |
 | 2022-12-01 | [[Hockey Royalty]]                | [[LA Kings Shot Contribution Leaders]]                                                                                                                 |
 | 2022-11-29 | [[The Hockey Tactics Newsletter]] | [[First Touch Makes the Play (2)]]                                                                                                                     |
 | 2022-11-29 | [[LA Hockey Now]]                 | [[Kings vs Kraken Game 25 - Lines, Notes and How to Watch]]                                                                                            |
 | 2022-11-29 | [[LA Daily News]]                 | [[Kraken edge Kings in highest-scoring NHL game of season]]                                                                                            |
-| 2022-11-29 | [[Kings at NHL.com]]              | [[Kraken recover for high-scoring OT victory against Kings]]                                                                                           |
+| 2022-11-29 | [[Kings at NHL dot com]]          | [[Kraken recover for high-scoring OT victory against Kings]]                                                                                           |
 | 2022-11-29 | [[Hockey Royalty]]                | [[LA Kings vs Seattle Kraken projected lineup, betting preview]]                                                                                       |
 | 2022-11-29 | [[Mayors Manor]]                  | [[Projected Lineups - LA vs Seattle, Time to Get Kraken at Home]]                                                                                      |
 | 2022-11-29 | [[The Forum Report]]              | [[After historic, 17-goal overtime loss, McLellan describes “mass confusion right now for all of us” as season hinges on rectifying defensive woes]]   |
@@ -60,7 +63,7 @@ priority: high
 | 2022-11-22 | [[LA Hockey Now]]                 | [[Kings Blow Early Lead in 5-3 Loss to Rangers]]                                                                                                       |
 | 2022-11-22 | [[LA Hockey Now]]                 | [[Kings vs Rangers Game 22 - Notes, Lines and How to Watch]]                                                                                           |
 | 2022-11-22 | [[LA Daily News]]                 | [[Kings home winning streak ends as Rangers rally]]                                                                                                    |
-| 2022-11-22 | [[Kings at NHL.com]]              | [[Kreider scores twice in third period in Rangers win against Kings]]                                                                                  |
+| 2022-11-22 | [[Kings at NHL dot com]]          | [[Kreider scores twice in third period in Rangers win against Kings]]                                                                                  |
 | 2022-11-22 | [[Mayors Manor]]                  | [[Projected Lineups - LA Kings vs New York Rangers, Home Sweet Home]]                                                                                  |
 | 2022-11-22 | [[The Athletic]]                  | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]]                                                                              |
 | 2022-11-22 | [[LA Kings Insider]]              | [[FINAL – Kings 3, Rangers 5 – Fiala, Edler, McLellan]]                                                                                                |
@@ -70,21 +73,21 @@ priority: high
 | 2022-11-19 | [[LA Hockey Now]]                 | [[Kings End Road Trip With 3-2 Overtime Loss Against Kraken]]                                                                                          |
 | 2022-11-19 | [[The Forum Report]]              | [[Sean Durzi (lower-body) day-to-day but could play this week - Vilardi draws praise despite point drought - ex-Washingtonian Anderson-Dolan returns]] |
 | 2022-11-19 | [[LA Kings Insider]]              | [[11-19 Preview – No Morning Skate plus Top Line Takeaways, Petersens Evolving Metrics, Ups and Downs]]                                                |
-| 2022-11-17 | [[Kings at NHL.com]]              | [[Super 16 - Devils rise to No 2 - Kings, Flames join rankings]]                                                                                       |
+| 2022-11-17 | [[Kings at NHL dot com]]          | [[Super 16 - Devils rise to No 2 - Kings, Flames join rankings]]                                                                                       |
 | 2022-11-18 | [[The Hockey Writers]]            | [[Kings Gabe Vilardi Providing Scoring Depth in Breakout Season]]                                                                                      |
 | 2022-11-18 | [[The Athletic]]                  | [[NHL Power Rankings - We have a new No 1 and a surprise top-10 entry]]                                                                                |
 | 2022-11-17 | [[The Forum Report]]              | [[Playmaking Chart - 11-16 at EDM]]                                                                                                                    |
 | 2022-11-15 | [[The Hockey Writers]]            | [[NHLs Top-5 Comeback Players of Early 2022-23]]                                                                                                       |
 | 2022-11-14 | [[LA Hockey Now]]                 | [[Kings vs Flames Game No 18 - Lines, Notes, and How to Watch]]                                                                                        |
-| 2022-11-14 | [[Kings at NHL.com]]              | [[The Week That Was, The Week That Is - 11-14]]                                                                                                        |
+| 2022-11-14 | [[Kings at NHL dot com]]          | [[The Week That Was, The Week That Is - 11-14]]                                                                                                        |
 | 2022-11-14 | [[Hockey Royalty]]                | [[A new look at the new look LA Kings power play]]                                                                                                     |
 | 2022-11-13 | [[Action Network]]                | [[NHL Odds, Preview, Prediction - Kings vs Flames (November 14)]]                                                                                      |
 | 2022-11-11 | [[Action Network]]                | [[NHL Odds, Preview, Prediction - Red Wings vs Kings (November 12)]]                                                                                   |
-| 2022-11-10 | [[Kings at NHL.com]]              | [[Tradin Jabs with ESPNs Ray Ferraro]]                                                                                                                 |
+| 2022-11-10 | [[Kings at NHL dot com]]          | [[Tradin Jabs with ESPNs Ray Ferraro]]                                                                                                                 |
 | 2022-11-10 | [[The Athletic]]                  | [[Blackhawks vs Kings conjures fuzzy memories and warns of fuzzier futures]]                                                                           |
 | 2022-11-09 | [[ESPN]]                          | [[NHL small-sample superstars - Predictions on who keeps it up]]                                                                                       |
 | 2022-11-09 | [[LA Daily News]]                 | [[Gabe Vilardi is finding his game with Kings]]                                                                                                        |
-| 2022-11-09 | [[Kings at NHL.com]]              | [[11-8 FINAL - Kings 1, Wild 0]]                                                                                                                       |
+| 2022-11-09 | [[Kings at NHL dot com]]          | [[11-8 FINAL - Kings 1, Wild 0]]                                                                                                                       |
 | 2022-11-09 | [[Mayors Manor]]                  | [[Quinton Byfield – Where do the Kings Go From Here]]                                                                                                  |
 | 2022-11-09 | [[The Athletic]]                  | [[LA Kings are scoring more goals — heres why, and is there a cost involved]]                                                                          |
 | 2022-11-09 | [[The Athletic]]                  | [[Kirill Kaprizov gets match penalty as Wild offense sputters in loss to Kings - ‘Its a joke]]                                                         |
@@ -92,11 +95,11 @@ priority: high
 | 2022-11-08 | [[The Fourth Period]]             | [[LAK AT 14 - ARE YOU NOT ENTERTAINED]]                                                                                                                |
 | 2022-11-08 | [[LA Hockey Now]]                 | [[Kings Vs Wild, Game No 15, lines, Notes, and How to Watch]]                                                                                          |
 | 2022-11-08 | [[LA Daily News]]                 | [[Kings edge Wild as Jonathan Quick outduels Marc-Andre Fleury]]                                                                                       |
-| 2022-11-08 | [[Kings at NHL.com]]              | [[Quick makes 21 saves, Kings shut out Wild]]                                                                                                          |
+| 2022-11-08 | [[Kings at NHL dot com]]          | [[Quick makes 21 saves, Kings shut out Wild]]                                                                                                          |
 | 2022-11-08 | [[Mayors Manor]]                  | [[Rapid Review - Highlights and Notes from Kings Win Over Wild - Second of the Season]]                                                                |
 | 2022-11-08 | [[LA Kings Insider]]              | [[FINAL – Kings 1, Wild 0 – Quick, Roy, McLellan]]                                                                                                     |
 | 2022-11-08 | [[LA Kings Insider]]              | [[11-8 Preview – Optional Skate Today + Line Changes After 5, Kaliyevs Progression, ESPN(2)]]                                                          |
-| 2022-11-07 | [[Kings at NHL.com]]              | [[11-7 - The Week That Was, The Week That Is]]                                                                                                         |
+| 2022-11-07 | [[Kings at NHL dot com]]          | [[11-7 - The Week That Was, The Week That Is]]                                                                                                         |
 | 2022-11-06 | [[Hockey Royalty]]                | [[Takeaways - LA Kings 5, Panthers 4 – Kings get last laugh]]                                                                                          |
 | 2022-11-06 | [[LA Hockey Now]]                 | [[Kings Daily - Vilardis B Game, Bettman Addresses Boston Signing]]                                                                                    |
 | 2022-11-06 | [[LA Hockey Now]]                 | [[Kings Offense Re-Ignites in 5-4 Victory Over Panthers]]                                                                                              |
@@ -112,13 +115,13 @@ priority: high
 | 2022-11-01 | [[The Forum Report]]              | [[Waking up with the Kings - November 1]]                                                                                                              |
 | 2022-11-01 | [[LA Kings Insider]]              | [[11-1 Preview - No Morning Skate in Dallas plus McLellan on Fiala, Doughty-Anderson Pairing, The Big 100 - LA Kings Insider]]                         |
 | 2022-10-31 | [[Field Level Media]]             | [[Kings cruise as Blues drop fifth consecutive game]]                                                                                                  |
-| 2022-10-31 | [[Kings at NHL.com]]              | [[Kings chase Binnington, hand Blues fifth straight loss]]                                                                                             |
+| 2022-10-31 | [[Kings at NHL dot com]]          | [[Kings chase Binnington, hand Blues fifth straight loss]]                                                                                             |
 | 2022-10-31 | [[Hockey Royalty]]                | [[LA Kings - Gabriel Vilardi is the NHLs best early season story]]                                                                                     |
 | 2022-10-31 | [[Mayors Manor]]                  | [[Rapid Review - Highlights from Kings 5-1 Victory in St Louis to Open Road Trip]]                                                                     |
 | 2022-10-31 | [[The Athletic]]                  | [[How Kings Gabriel Vilardi finally arrived - ‘I had more to prove this year]]                                                                         |
 | 2022-10-31 | [[The Forum Report]]              | [[Muzzin, Clifford, Kings reconnect - Byfield “a little bit better” but not with team - Kuparis play away from the puck a good baseline]]              |
 | 2022-10-30 | [[Field Level Media]]             | [[Struggling Blues set to face revived Kings]]                                                                                                         |
-| 2022-10-30 | [[Kings at NHL.com]]              | [[Preview - Blues vs Kings]]                                                                                                                           |
+| 2022-10-30 | [[Kings at NHL dot com]]          | [[Preview - Blues vs Kings]]                                                                                                                           |
 | 2022-10-30 | [[LA Daily News]]                 | [[Kings hit road in search of special-teams improvement]]                                                                                              |
 | 2022-10-30 | [[The Forum Report]]              | [[Waking up with the Kings - October 30]]                                                                                                              |
 | 2022-10-30 | [[LA Kings Insider]]              | [[Armed with a wealth of confidence, a look into Gabe Vilardis high-flying start to the season - LA Kings Insider]]                                    |
@@ -148,19 +151,19 @@ priority: high
 | 2022-10-24 | [[The Forum Report]]              | [[Playmaking Chart - 10-22 at WSH]]                                                                                                                    |
 | 2022-10-22 | [[Action Network]]                | [[NHL Betting Odds, Preview, Prediction - Los Angeles Kings vs Washington Capitals (October 22)]]                                                      |
 | 2022-10-22 | [[The Forum Report]]              | [[Friends sent Clarke gifs after move on Crosby - Lemieuxs effective, simple game - Quick-Kuemper - Edler in]]                                         |
-| 2022-10-20 | [[Kings at NHL.com]]              | [[LA Kings at Pittsburgh Penguins - How to Watch]]                                                                                                     |
+| 2022-10-20 | [[Kings at NHL dot com]]          | [[LA Kings at Pittsburgh Penguins - How to Watch]]                                                                                                     |
 | 2022-10-19 | [[LA Daily News]]                 | [[Kings Todd McLellan touts ‘character with the comeback]]                                                                                             |
 | 2022-10-19 | [[Hockey Royalty]]                | [[LA Kings powerplay breakdown versus Nashville]]                                                                                                      |
 | 2022-10-19 | [[Hockey Royalty]]                | [[LA Kings 4, Predators 3 SO - Matt Roy, Cal Petersen shine in win]]                                                                                   |
 | 2022-10-19 | [[Mayors Manor]]                  | [[Rapid Review - Vilardi Remains Hot, Helps Kings Secure Shootout Win in Nashville]]                                                                   |
 | 2022-10-19 | [[LA Kings Insider]]              | [[A Few More Narratives - Young Guys With Old Plays, Penalty Kill Prowess, Shootout Selection - LA Kings Insider]]                                     |
-| 2022-10-18 | [[Kings at NHL.com]]              | [[10-18 FINAL - Kings 4, Predators 3 (SO)]]                                                                                                            |
+| 2022-10-18 | [[Kings at NHL dot com]]          | [[10-18 FINAL - Kings 4, Predators 3 (SO)]]                                                                                                            |
 | 2022-10-18 | [[Hockey Royalty]]                | [[LA Kings 5, Red Wings 4 OT - Danault scores twice, bails out Arvidsson]]                                                                             |
 | 2022-10-18 | [[LA Kings Insider]]              | [[FINAL - Kings 4, Predators 3 (SO) - Roy, Petersen, McLellan - LA Kings Insider]]                                                                     |
 | 2022-10-17 | [[Mayors Manor]]                  | [[Rapid Review - Kings Get Back to Even With OT Win in Motor City]]                                                                                    |
 | 2022-10-17 | [[The Forum Report]]              | [[No firm Edler, Iafallo updates - “Everybody wanted to win it for Arvy”]]                                                                             |
 | 2022-10-17 | [[LA Kings Insider]]              | [[10-17 Preview - Full Morning Skate Today + McLellan on Offense-Defense, Zone Entries and detROYt - LA Kings Insider]]                                |
-| 2022-10-16 | [[Kings at NHL.com]]              | [[Kings score seven, hold off late rally by Wild for first win of season]]                                                                             |
+| 2022-10-16 | [[Kings at NHL dot com]]          | [[Kings score seven, hold off late rally by Wild for first win of season]]                                                                             |
 | 2022-10-16 | [[The Forum Report]]              | [[Possession Chart - 10-15 at MIN]]                                                                                                                    |
 | 2022-10-16 | [[The Forum Report]]              | [[Waking up with the Kings - October 16]]                                                                                                              |
 | 2022-10-14 | [[The Forum Report]]              | [[Waking up with the Kings - October 14]]                                                                                                              |

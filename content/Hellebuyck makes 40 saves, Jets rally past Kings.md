@@ -12,8 +12,8 @@ status: unstarted
 
 | Date       | Site                 | Link                                                                                                                                |
 | ---------- | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-10-27 | [[Kings at NHL.com]] | [Hellebuyck makes 40 saves, Jets rally past Kings](https://www.nhl.com/news/winnipeg-jets-los-angeles-kings-game-recap/c-336550170) |
-| 2022-10-27 | [[Kings at NHL.com]] | [[Hellebuyck makes 40 saves, Jets rally past Kings]]                                                                                |
+| 2022-10-27 | [[Kings at NHL dot com]] | [Hellebuyck makes 40 saves, Jets rally past Kings](https://www.nhl.com/news/winnipeg-jets-los-angeles-kings-game-recap/c-336550170) |
+| 2022-10-27 | [[Kings at NHL dot com]] | [[Hellebuyck makes 40 saves, Jets rally past Kings]]                                                                                |
 
 ## Contributors
 - [[Dan Greenspan]]

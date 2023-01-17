@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site                 | External Link                                                                                                                               |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-12-06 | [[Kings at NHL.com]] | [*Arvidsson scores twice in Kings win against Senators*](https://www.nhl.com/news/los-angeles-kings-ottawa-senators-game-recap/c-338454698) |
+| 2022-12-06 | [[Kings at NHL dot com]] | [*Arvidsson scores twice in Kings win against Senators*](https://www.nhl.com/news/los-angeles-kings-ottawa-senators-game-recap/c-338454698) |
 
 ## Contributors
 - [[Callum Fraser]]
@@ -22,7 +22,7 @@ status: stable
 
 | Date       | Site                 | Title / Internal Link                                    |
 | ---------- | -------------------- | -------------------------------------------------------- |
-| 2022-12-06 | [[Kings at NHL.com]] | [[Arvidsson scores twice in Kings win against Senators]] |
+| 2022-12-06 | [[Kings at NHL dot com]] | [[Arvidsson scores twice in Kings win against Senators]] |
 
 ## Players
 - [[Viktor Arvidsson]]

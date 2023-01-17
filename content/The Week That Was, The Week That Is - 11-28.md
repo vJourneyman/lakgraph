@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site                 | External Link                                                                                                                         |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-28 | [[Kings at NHL.com]] | [*The Week That Was, The Week That Is - 11-28*](https://www.nhl.com/kings/news/the-week-that-was-the-week-that-is---1128/c-338137782) |
+| 2022-11-28 | [[Kings at NHL dot com]] | [*The Week That Was, The Week That Is - 11-28*](https://www.nhl.com/kings/news/the-week-that-was-the-week-that-is---1128/c-338137782) |
 
 ## Contributors
 - [[Jack Jablonski]]
@@ -22,7 +22,7 @@ status: stable
 
 | Date       | Site                 | Title / Internal Link                           |
 | ---------- | -------------------- | ----------------------------------------------- |
-| 2022-11-28 | [[Kings at NHL.com]] | [[The Week That Was, The Week That Is - 11-28]] |
+| 2022-11-28 | [[Kings at NHL dot com]] | [[The Week That Was, The Week That Is - 11-28]] |
 
 ## Players
 - [[Kevin Fiala]]

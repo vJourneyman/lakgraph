@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site                 | External Link                                                                                                       |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| 2022-12-04 | [[Kings at NHL.com]] | [*12-3 FINAL - Kings 2, Hurricanes 4*](https://www.nhl.com/kings/news/123-final---kings-2-hurricanes-4/c-338386076) |
+| 2022-12-04 | [[Kings at NHL dot com]] | [*12-3 FINAL - Kings 2, Hurricanes 4*](https://www.nhl.com/kings/news/123-final---kings-2-hurricanes-4/c-338386076) |
 
 ## Contributors
 - [[Jack Jablonski]]
@@ -22,7 +22,7 @@ status: stable
 
 | Date       | Site                 | Title / Internal Link                  |
 | ---------- | -------------------- | -------------------------------------- |
-| 2022-12-04 | [[Kings at NHL.com]] | [[12-3 FINAL - Kings 2, Hurricanes 4]] |
+| 2022-12-04 | [[Kings at NHL dot com]] | [[12-3 FINAL - Kings 2, Hurricanes 4]] |
 
 ## Players
 - [[Arthur Kaliyev]]

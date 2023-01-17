@@ -13,8 +13,8 @@ status: stable
 
 | Date       | Site                 | Link                                                                                                                        |
 | ---------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| 2022-10-18 | [[Kings at NHL.com]] | [Kings Recall Defenseman Jacob Moverare](https://www.nhl.com/kings/news/kings-recall-defenseman-jacob-moverare/c-336510044) |
-| 2022-10-18 | [[Kings at NHL.com]] | [[Kings Recall Defenseman Jacob Moverare]]                                                                                  |
+| 2022-10-18 | [[Kings at NHL dot com]] | [Kings Recall Defenseman Jacob Moverare](https://www.nhl.com/kings/news/kings-recall-defenseman-jacob-moverare/c-336510044) |
+| 2022-10-18 | [[Kings at NHL dot com]] | [[Kings Recall Defenseman Jacob Moverare]]                                                                                  |
 
 
 ## Contributors

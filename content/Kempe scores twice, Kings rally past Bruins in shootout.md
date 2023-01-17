@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site                 | External Link                                                                                                                                |
 | ---------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-12-15 | [[Kings at NHL.com]] | [*Kempe scores twice, Kings rally past Bruins in shootout*](https://www.nhl.com/news/los-angeles-kings-boston-bruins-game-recap/c-338680404) |
+| 2022-12-15 | [[Kings at NHL dot com]] | [*Kempe scores twice, Kings rally past Bruins in shootout*](https://www.nhl.com/news/los-angeles-kings-boston-bruins-game-recap/c-338680404) |
 
 ## Contributors
 - [[Joe Pohoryles]]
@@ -22,7 +22,7 @@ status: stable
 
 | Date       | Site                 | Title / Internal Link                                       |
 | ---------- | -------------------- | ----------------------------------------------------------- |
-| 2022-12-15 | [[Kings at NHL.com]] | [[Kempe scores twice, Kings rally past Bruins in shootout]] |
+| 2022-12-15 | [[Kings at NHL dot com]] | [[Kempe scores twice, Kings rally past Bruins in shootout]] |
 
 ## Players
 - [[Trevor Moore]]

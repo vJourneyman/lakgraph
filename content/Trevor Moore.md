@@ -42,7 +42,7 @@ priority: high
 | 2022-12-15 | [[Pro Hockey Rumors]]  | [[Los Angeles Kings Sign Trevor Moore To Five-Year Extension]]                                                                                                  |
 | 2022-12-15 | [[LA Hockey Now]]      | [[Breaking - Kings Extend Trevor Moore]]                                                                                                                        |
 | 2022-12-15 | [[LA Daily News]]      | [[Kings Trevor Moore gets 5-year, $21 million extension]]                                                                                                       |
-| 2022-12-15 | [[Kings at NHL.com]]   | [[Kempe scores twice, Kings rally past Bruins in shootout]]                                                                                                     |
+| 2022-12-15 | [[Kings at NHL dot com]]   | [[Kempe scores twice, Kings rally past Bruins in shootout]]                                                                                                     |
 | 2022-12-15 | [[The Athletic]]       | [[Kings sign Trevor Moore to 5-year contract extension with $4.2 million AAV]]                                                                                  |
 | 2022-12-15 | [[The Forum Report]]   | [[Competitive window sharpens as Kings, Moore agree to 5-year, $21M extension]]                                                                                 |
 | 2022-12-15 | [[LA Kings Insider]]   | [[FINAL – Kings 3, Bruins 2 (SO) – Kempe, Moore, Copley, McLellan]]                                                                                             |
@@ -65,7 +65,7 @@ priority: high
 | 2022-11-21 | [[Hockey Royalty]]     | [[Week 7 Pacific Division Power Rankings]]                                                                                                                      |
 | 2022-11-20 | [[Hockey Royalty]]     | [[Takeaways - Seattle 3, LA Kings 2 OT – A Point Salvaged]]                                                                                                     |
 | 2022-11-20 | [[Mayors Manor]]       | [[Rapid Review - Highlights and Notes from Kings OT Loss to Kraken]]                                                                                            |
-| 2022-11-19 | [[Kings at NHL.com]]   | [[Eberles OT goal gives Kraken win against Kings]]                                                                                                              |
+| 2022-11-19 | [[Kings at NHL dot com]]   | [[Eberles OT goal gives Kraken win against Kings]]                                                                                                              |
 | 2022-11-19 | [[LA Kings Insider]]   | [[FINAL – Kings 2, Kraken 3 (OT) – Petersen, Edler, McLellan]]                                                                                                  |
 | 2022-11-18 | [[Puck Prose]]         | [[Trevor Moores hat trick powers a Los Angeles Kings victory]]                                                                                                  |
 | 2022-11-18 | [[LA Hockey Now]]      | [[Kings Vs Canucks Game 20 - Lines, Notes and How to Watch]]                                                                                                    |
@@ -79,14 +79,14 @@ priority: high
 | 2022-11-17 | [[The Forum Report]]   | [[Waking Up with the Kings - November 17]]                                                                                                                      |
 | 2022-11-17 | [[LA Kings Insider]]   | [[With 300 points in the rearview mirror, Viktor Arvidsson is feeling more like himself by the day]]                                                            |
 | 2022-11-16 | [[LA Hockey Now]]      | [[Trevor Moore Leads Kings Past Oilers 3-1]]                                                                                                                    |
-| 2022-11-16 | [[Kings at NHL.com]]   | [[Moore gets first NHL hat trick, Kings shut down Oilers]]                                                                                                      |
+| 2022-11-16 | [[Kings at NHL dot com]]   | [[Moore gets first NHL hat trick, Kings shut down Oilers]]                                                                                                      |
 | 2022-11-16 | [[The Forum Report]]   | [[Moore hat trick, 29 blocks lead character win as Petersen finds groove “These guys ended our season last year, so there is a little bit of payback in that”]] |
 | 2022-11-16 | [[LA Kings Insider]]   | [[FINAL – Kings 3, Oilers 1 – Moore, Arvidsson, Petersen, McLellan]]                                                                                            |
 | 2022-11-13 | [[Action Network]]     | [[NHL Odds, Preview, Prediction - Kings vs Flames (November 14)]]                                                                                               |
 | 2022-11-12 | [[Hockey Royalty]]     | [[Three ways the LA Kings can improve the powerplay]]                                                                                                           |
 | 2022-11-12 | [[LA Kings Insider]]   | [[11-12 Preview – Petersen in Net + Finding Consistency, PP Zone Entries, Pushing Purple]]                                                                      |
 | 2022-11-11 | [[Hockey Royalty]]     | [[Takeaways - LA Kings 2, Blackhawks 1 – With One Second Left]]                                                                                                 |
-| 2022-11-10 | [[Kings at NHL.com]]   | [[Fialas goal with 1 point 4 seconds left gives Kings OT win against Blackhawks]]                                                                               |
+| 2022-11-10 | [[Kings at NHL dot com]]   | [[Fialas goal with 1 point 4 seconds left gives Kings OT win against Blackhawks]]                                                                               |
 | 2022-11-10 | [[The Forum Report]]   | [[Todd senses “a little frustration” in Kempe, scoreless in five straight as percentages regress]]                                                              |
 | 2022-11-10 | [[LA Kings Insider]]   | [[FINAL – Kings 2, Blackhawks 1 (OT) – Fiala, Danault, McLellan]]                                                                                               |
 | 2022-11-09 | [[The Athletic]]       | [[LA Kings are scoring more goals — heres why, and is there a cost involved]]                                                                                   |
@@ -102,10 +102,10 @@ priority: high
 | 2022-10-28 | [[The Forum Report]]   | [[Playmaking Chart - 10-27 vs WPG]]                                                                                                                             |
 | 2022-10-25 | [[Mayors Manor]]       | [[Projected Lineup - LA Kings vs Tampa Bay Lightning, Game 8]]                                                                                                  |
 | 2022-10-25 | [[The Forum Report]]   | [[“Going in the right direction, but inconsistently,” forwards chemistry, identity become key - Quick starts]]                                                  |
-| 2022-10-24 | [[Kings at NHL.com]]   | [[10-24 - The Week That Was, The Week That Is]]                                                                                                                 |
+| 2022-10-24 | [[Kings at NHL dot com]]   | [[10-24 - The Week That Was, The Week That Is]]                                                                                                                 |
 | 2022-10-24 | [[The Athletic]]       | [[Kings observations - Shaky goaltending, defense, power play and more]]                                                                                        |
 | 2022-10-23 | [[The Forum Report]]   | [[Waking up with the Kings - October 23]]                                                                                                                       |
-| 2022-10-22 | [[Kings at NHL.com]]   | [[Capitals score four in third period to get past Kings]]                                                                                                       |
+| 2022-10-22 | [[Kings at NHL dot com]]   | [[Capitals score four in third period to get past Kings]]                                                                                                       |
 | 2022-10-22 | [[LA Kings Insider]]   | [[FINAL - Kings 3, Capitals 4 - Arvidsson, McLellan - LA Kings Insider]]                                                                                        |
 | 2022-10-20 | [[The Forum Report]]   | [[Possession Chart - 10-18 at NSH]]                                                                                                                             |
 | 2022-10-19 | [[Hockey Royalty]]     | [[LA Kings powerplay breakdown versus Nashville]]                                                                                                               |

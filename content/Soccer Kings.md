@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site                 | External Link                                                             |
 | ---------- | -------------------- | ------------------------------------------------------------------------- |
-| 2022-12-21 | [[Kings at NHL.com]] | [*Soccer Kings*](https://www.nhl.com/kings/news/soccer-kings/c-339049050) |
+| 2022-12-21 | [[Kings at NHL dot com]] | [*Soccer Kings*](https://www.nhl.com/kings/news/soccer-kings/c-339049050) |
 
 ## Contributors
 - [[Jack Jablonski]]
@@ -22,7 +22,7 @@ status: stable
 
 | Date       | Site                 | Title / Internal Link |
 | ---------- | -------------------- | --------------------- |
-| 2022-12-21 | [[Kings at NHL.com]] | [[Soccer Kings]]      |
+| 2022-12-21 | [[Kings at NHL dot com]] | [[Soccer Kings]]      |
 
 ## Players
 - [[Adrian Kempe]]

@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site                 | External Link                                                                                                                                      |
 | ---------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-12-10 | [[Kings at NHL.com]] | [*Copley makes 20 saves, Kings hang on to defeat Canadiens*](https://www.nhl.com/news/los-angeles-kings-montreal-canadiens-game-recap/c-338461434) |
+| 2022-12-10 | [[Kings at NHL dot com]] | [*Copley makes 20 saves, Kings hang on to defeat Canadiens*](https://www.nhl.com/news/los-angeles-kings-montreal-canadiens-game-recap/c-338461434) |
 
 ## Contributors
 - [[Sean Farrell]]
@@ -22,7 +22,7 @@ status: stable
 
 | Date       | Site                 | Title / Internal Link                                        |
 | ---------- | -------------------- | ------------------------------------------------------------ |
-| 2022-12-10 | [[Kings at NHL.com]] | [[Copley makes 20 saves, Kings hang on to defeat Canadiens]] |
+| 2022-12-10 | [[Kings at NHL dot com]] | [[Copley makes 20 saves, Kings hang on to defeat Canadiens]] |
 
 ## Players
 - [[Pheonix Copley]]

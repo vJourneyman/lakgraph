@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site                 | Link                                                                                                          |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------------------------- |
-| 2022-11-04 | [[Kings at NHL.com]] | [*LA Kings Prospect Report, 11-4*](https://www.nhl.com/kings/news/la-kings-prospect-report-114/c-337188610) |
+| 2022-11-04 | [[Kings at NHL dot com]] | [*LA Kings Prospect Report, 11-4*](https://www.nhl.com/kings/news/la-kings-prospect-report-114/c-337188610) |
 
 ## Contributors
 - [[Jack Jablonski]]
@@ -22,7 +22,7 @@ status: stable
 
 | Date       | Site                 | Title / Internal Link              |
 | ---------- | -------------------- | ---------------------------------- |
-| 2022-11-04 | [[Kings at NHL.com]] | [[LA Kings Prospect Report, 11-4]] |
+| 2022-11-04 | [[Kings at NHL dot com]] | [[LA Kings Prospect Report, 11-4]] |
 
 ## Players
 - [[Francesco Pinelli]]

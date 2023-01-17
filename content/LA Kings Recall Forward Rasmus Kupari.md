@@ -12,8 +12,8 @@ status: stable
 
 | Date       | Site                 | Link                                                                                                                      |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| 2022-10-29 | [[Kings at NHL.com]] | [LA Kings Recall Forward Rasmus Kupari](https://www.nhl.com/kings/news/la-kings-recall-forward-rasmus-kupari/c-336946004) |
-| 2022-10-29 | [[Kings at NHL.com]] | [[LA Kings Recall Forward Rasmus Kupari]]                                                                                 |
+| 2022-10-29 | [[Kings at NHL dot com]] | [LA Kings Recall Forward Rasmus Kupari](https://www.nhl.com/kings/news/la-kings-recall-forward-rasmus-kupari/c-336946004) |
+| 2022-10-29 | [[Kings at NHL dot com]] | [[LA Kings Recall Forward Rasmus Kupari]]                                                                                 |
 
 ## Contributors
 - 

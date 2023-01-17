@@ -39,7 +39,7 @@ status: needs-draft-content
 | ---------- | -------------------- | ------------------------------------------------------------------------------------ |
 | 2022-11-11 | [[Hockey Royalty]]   | [[A bigger, stronger Alex Laferriere off to fast start in second year with Harvard]] |
 | 2022-11-07 | [[Hockey Royalty]]   | [[Alex Laferriere Highlights LA Kings Prospects Update – Week of 10-31]]             |
-| 2022-11-04 | [[Kings at NHL.com]] | [[LA Kings Prospect Report, 11-4]]                                                   |
+| 2022-11-04 | [[Kings at NHL dot com]] | [[LA Kings Prospect Report, 11-4]]                                                   |
 | 2022-10-13 | [[Hockey Royalty]]   | [[LA Kings - 2022-23 prospect rankings, 10-6]] |
 
 

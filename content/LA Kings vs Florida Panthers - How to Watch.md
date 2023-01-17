@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site                 | External Link                                                                                                                         |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-05 | [[Kings at NHL.com]] | [*LA Kings vs Florida Panthers - How to Watch*](https://www.nhl.com/kings/news/la-kings-vs-florida-panthers-how-to-watch/c-337238092) |
+| 2022-11-05 | [[Kings at NHL dot com]] | [*LA Kings vs Florida Panthers - How to Watch*](https://www.nhl.com/kings/news/la-kings-vs-florida-panthers-how-to-watch/c-337238092) |
 
 ## Contributors
 - [[Jack Jablonski]]
@@ -22,7 +22,7 @@ status: stable
 
 | Date | Site | Title / Internal Link | 
 | ---- | ---- | --------------------- |
-| 2022-11-05 | [[Kings at NHL.com]]    | [[LA Kings vs Florida Panthers - How to Watch]]               |
+| 2022-11-05 | [[Kings at NHL dot com]]    | [[LA Kings vs Florida Panthers - How to Watch]]               |
 
 ## Players
 - [[Anze Kopitar]]

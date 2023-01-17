@@ -41,21 +41,21 @@
 | 2023-01-04 | [[LA Daily News]] | [[Pheonix Copley leads Kings against NHL-best Boston Bruins]](https://www.dailynews.com/2023/01/04/pheonix-copley-leads-kings-against-nhl-best-boston-bruins/) |
 | 2023-01-03 | [[LA Daily News]] | [[Kings take down another high-profile opponent in Stars]](https://www.dailynews.com/2023/01/03/kings-take-down-another-high-profile-opponent-in-stars/) |
 | 2023-01-02 | [[LA Daily News]] | [[Kings look to rebound against Central-leading Dallas]](https://www.dailynews.com/2023/01/02/kings-look-to-rebound-against-central-leading-dallas/) |
-| 2023-01-10 | [[Kings at NHL.com]] | [[LA Kings vs San Jose Sharks - How to Watch]](https://www.nhl.com/kings/news/la-kings-vs-san-jose-sharks-how-to-watch/c-339798480) |
-| 2023-01-10 | [[Kings at NHL.com]] | [[1-9 FINAL - Kings 6, Oilers 3]](https://www.nhl.com/kings/news/19-final---kings-6-oilers-3/c-339764540) |
-| 2023-01-09 | [[Kings at NHL.com]] | [[LA Kings vs Edmonton Oilers - How to Watch]](https://www.nhl.com/kings/news/la-kings-vs-edmonton-oilers-how-to-watch/c-339735134) |
-| 2023-01-09 | [[Kings at NHL.com]] | [[The Week That Was, The Week That Is - 1-9]](https://www.nhl.com/kings/news/the-week-that-was-the-week-that-is---19/c-339727720) |
-| 2023-01-07 | [[Kings at NHL.com]] | [[LA Kings at Vegas Golden Knights - How to Watch]](https://www.nhl.com/kings/news/la-kings--vegas-golden-knights-how-to-watch/c-339650910) |
-| 2023-01-06 | [[Kings at NHL.com]] | [[LA Kings Prospect Report, 1-6]](https://www.nhl.com/kings/news/la-kings-prospect-report-16/c-339619764) |
-| 2023-01-06 | [[Kings at NHL.com]] | [[LA Kings Make Two Roster Transactions]](https://www.nhl.com/kings/news/la-kings-make-two-roster-transactions/c-339619332) |
-| 2023-01-05 | [[Kings at NHL.com]] | [[Kevin Fiala Named to NHL All-Star Game]](https://www.nhl.com/kings/news/kevin-fiala-named-to-nhl-all-star-game/c-339563474) |
-| 2023-01-05 | [[Kings at NHL.com]] | [[LA Kings Recall Defenseman Jacob Moverare]](https://www.nhl.com/kings/news/la-kings-recall-defenseman-jacob-moverare/c-339563390) |
-| 2023-01-05 | [[Kings at NHL.com]] | [[LA Kings vs Boston Bruins - How to Watch]](https://www.nhl.com/kings/news/la-kings-vs-boston-bruins-how-to-watch/c-339556216) |
-| 2023-01-04 | [[Kings at NHL.com]] | [[1-3 FINAL - Kings 3, Stars 2]](https://www.nhl.com/kings/news/13-final---kings-3-stars-2/c-339529668) |
-| 2023-01-03 | [[Kings at NHL.com]] | [[LA Kings To Honor Defenseman Alex Edler Tonight In Pregame Ceremony]](https://www.nhl.com/kings/news/la-kings-to-honor-defenseman-alex-edler-tonight-in-pregame-ceremony/c-339476876) |
-| 2023-01-03 | [[Kings at NHL.com]] | [[LA Kings vs Dallas Stars - How to Watch]](https://www.nhl.com/kings/news/la-kings-vs-dallas-stars-how-to-watch/c-339471390) |
-| 2023-01-02 | [[Kings at NHL.com]] | [[The Week That Was, The Week That Is - 1-2]](https://www.nhl.com/kings/news/the-week-that-was-the-week-that-is---12/c-339446498) |
-| 2023-01-01 | [[Kings at NHL.com]] | [[12-31 FINAL - Kings 2, Flyers 4]](https://www.nhl.com/kings/news/1231-final---kings-2-flyers-4/c-339416664) |
+| 2023-01-10 | [[Kings at NHL dot com]] | [[LA Kings vs San Jose Sharks - How to Watch]](https://www.nhl.com/kings/news/la-kings-vs-san-jose-sharks-how-to-watch/c-339798480) |
+| 2023-01-10 | [[Kings at NHL dot com]] | [[1-9 FINAL - Kings 6, Oilers 3]](https://www.nhl.com/kings/news/19-final---kings-6-oilers-3/c-339764540) |
+| 2023-01-09 | [[Kings at NHL dot com]] | [[LA Kings vs Edmonton Oilers - How to Watch]](https://www.nhl.com/kings/news/la-kings-vs-edmonton-oilers-how-to-watch/c-339735134) |
+| 2023-01-09 | [[Kings at NHL dot com]] | [[The Week That Was, The Week That Is - 1-9]](https://www.nhl.com/kings/news/the-week-that-was-the-week-that-is---19/c-339727720) |
+| 2023-01-07 | [[Kings at NHL dot com]] | [[LA Kings at Vegas Golden Knights - How to Watch]](https://www.nhl.com/kings/news/la-kings--vegas-golden-knights-how-to-watch/c-339650910) |
+| 2023-01-06 | [[Kings at NHL dot com]] | [[LA Kings Prospect Report, 1-6]](https://www.nhl.com/kings/news/la-kings-prospect-report-16/c-339619764) |
+| 2023-01-06 | [[Kings at NHL dot com]] | [[LA Kings Make Two Roster Transactions]](https://www.nhl.com/kings/news/la-kings-make-two-roster-transactions/c-339619332) |
+| 2023-01-05 | [[Kings at NHL dot com]] | [[Kevin Fiala Named to NHL All-Star Game]](https://www.nhl.com/kings/news/kevin-fiala-named-to-nhl-all-star-game/c-339563474) |
+| 2023-01-05 | [[Kings at NHL dot com]] | [[LA Kings Recall Defenseman Jacob Moverare]](https://www.nhl.com/kings/news/la-kings-recall-defenseman-jacob-moverare/c-339563390) |
+| 2023-01-05 | [[Kings at NHL dot com]] | [[LA Kings vs Boston Bruins - How to Watch]](https://www.nhl.com/kings/news/la-kings-vs-boston-bruins-how-to-watch/c-339556216) |
+| 2023-01-04 | [[Kings at NHL dot com]] | [[1-3 FINAL - Kings 3, Stars 2]](https://www.nhl.com/kings/news/13-final---kings-3-stars-2/c-339529668) |
+| 2023-01-03 | [[Kings at NHL dot com]] | [[LA Kings To Honor Defenseman Alex Edler Tonight In Pregame Ceremony]](https://www.nhl.com/kings/news/la-kings-to-honor-defenseman-alex-edler-tonight-in-pregame-ceremony/c-339476876) |
+| 2023-01-03 | [[Kings at NHL dot com]] | [[LA Kings vs Dallas Stars - How to Watch]](https://www.nhl.com/kings/news/la-kings-vs-dallas-stars-how-to-watch/c-339471390) |
+| 2023-01-02 | [[Kings at NHL dot com]] | [[The Week That Was, The Week That Is - 1-2]](https://www.nhl.com/kings/news/the-week-that-was-the-week-that-is---12/c-339446498) |
+| 2023-01-01 | [[Kings at NHL dot com]] | [[12-31 FINAL - Kings 2, Flyers 4]](https://www.nhl.com/kings/news/1231-final---kings-2-flyers-4/c-339416664) |
 | 2023-01-10 | [[Hockey Royalty]] | [[LA Kings Rumor Roundup]](https://hockeyroyalty.com/2023/01/10/la-kings-rumor-roundup/) |
 | 2023-01-10 | [[Hockey Royalty]] | [[LA Kings prospect update – Week of 1-2]](https://hockeyroyalty.com/2023/01/10/la-kings-prospect-update-week-of-1-2/) |
 | 2023-01-10 | [[Hockey Royalty]] | [[Takeaways - LA Kings 6, Oilers 3 – Special Powers]](https://hockeyroyalty.com/2023/01/10/takeaways-la-kings-6-oilers-3-special-powers/) |

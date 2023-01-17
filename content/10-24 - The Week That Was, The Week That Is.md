@@ -12,8 +12,8 @@ status: stable
 
 | Date       | Site                 | Link                                                                                                                                |
 | ---------- | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-10-24 | [[Kings at NHL.com]] | [10-24 - The Week That Was, The Week That Is](https://www.nhl.com/kings/news/1024---the-week-that-was-the-week-that-is/c-336733264) |
-| 2022-10-24 | [[Kings at NHL.com]] | [[10-24 - The Week That Was, The Week That Is]]                                                                                     |
+| 2022-10-24 | [[Kings at NHL dot com]] | [10-24 - The Week That Was, The Week That Is](https://www.nhl.com/kings/news/1024---the-week-that-was-the-week-that-is/c-336733264) |
+| 2022-10-24 | [[Kings at NHL dot com]] | [[10-24 - The Week That Was, The Week That Is]]                                                                                     |
 
 ## Contributors
 - [[Jack Jablonski]]

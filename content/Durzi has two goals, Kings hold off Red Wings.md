@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site                 | External Link                                                                                                                          |
 | ---------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-12 | [[Kings at NHL.com]] | [*Durzi has two goals, Kings hold off Red Wings*](https://www.nhl.com/news/detroit-red-wings-los-angeles-kings-game-recap/c-337505100) |
+| 2022-11-12 | [[Kings at NHL dot com]] | [*Durzi has two goals, Kings hold off Red Wings*](https://www.nhl.com/news/detroit-red-wings-los-angeles-kings-game-recap/c-337505100) |
 
 ## Contributors
 - [[Dan Greenspan]]
@@ -23,7 +23,7 @@ status: stable
 
 | Date       | Site                 | Title / Internal Link                             |
 | ---------- | -------------------- | ------------------------------------------------- |
-| 2022-11-12 | [[Kings at NHL.com]] | [[Durzi has two goals, Kings hold off Red Wings]] |
+| 2022-11-12 | [[Kings at NHL dot com]] | [[Durzi has two goals, Kings hold off Red Wings]] |
 
 ## Players
 - [[Sean Durzi]]

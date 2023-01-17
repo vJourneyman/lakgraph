@@ -13,8 +13,8 @@ status: stable
 
 | Date       | Site                 | Link                                                                                                                                           |
 | ---------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-10-22 | [[Kings at NHL.com]] | [Capitals score four in third period to get past Kings](https://www.nhl.com/news/los-angeles-kings-washington-capitals-game-recap/c-336231912) |
-| 2022-10-22 | [[Kings at NHL.com]] | [[Capitals score four in third period to get past Kings]]                                                                                      |
+| 2022-10-22 | [[Kings at NHL dot com]] | [Capitals score four in third period to get past Kings](https://www.nhl.com/news/los-angeles-kings-washington-capitals-game-recap/c-336231912) |
+| 2022-10-22 | [[Kings at NHL dot com]] | [[Capitals score four in third period to get past Kings]]                                                                                      |
 
 ## Contributors
 - [[Harvey Valentine]]

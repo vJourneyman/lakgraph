@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site | External Link                                                                                                                                         |
 | ---------- | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-05 | [[Kings at NHL.com]]     | [*LA Kings Recall Forward Rasmus Kupari From Ontario*](https://www.nhl.com/kings/news/la-kings-recall-forward-rasmus-kupari-from-ontario/c-337234688) |
+| 2022-11-05 | [[Kings at NHL dot com]]     | [*LA Kings Recall Forward Rasmus Kupari From Ontario*](https://www.nhl.com/kings/news/la-kings-recall-forward-rasmus-kupari-from-ontario/c-337234688) |
 
 ## Contributors
 - 
@@ -22,7 +22,7 @@ status: stable
 
 | Date | Site | Title / Internal Link | 
 | ---- | ---- | --------------------- |
-| 2022-11-05 | [[Kings at NHL.com]]    | [[LA Kings Recall Forward Rasmus Kupari From Ontario]] |
+| 2022-11-05 | [[Kings at NHL dot com]]    | [[LA Kings Recall Forward Rasmus Kupari From Ontario]] |
 
 ## Players
 - [[Rasmus Kupari]]

@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site                 | External Link                                                                                                                                                       |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-28 | [[Kings at NHL.com]] | [*LA Kings Loan Defenseman Frederic Allard to Ontario Reign*](https://www.nhl.com/kings/news/la-kings-loan-defenseman-frederic-allard-to-ontario-reign/c-338130024) |
+| 2022-11-28 | [[Kings at NHL dot com]] | [*LA Kings Loan Defenseman Frederic Allard to Ontario Reign*](https://www.nhl.com/kings/news/la-kings-loan-defenseman-frederic-allard-to-ontario-reign/c-338130024) |
 
 ## Contributors
 - 
@@ -22,7 +22,7 @@ status: stable
 
 | Date | Site | Title / Internal Link | 
 | ---- | ---- | --------------------- |
-| 2022-11-28 | [[Kings at NHL.com]]              | [[LA Kings Loan Defenseman Frederic Allard to Ontario Reign]]                                                                                                                                                                                                                                                                  |
+| 2022-11-28 | [[Kings at NHL dot com]]              | [[LA Kings Loan Defenseman Frederic Allard to Ontario Reign]]                                                                                                                                                                                                                                                                  |
 
 ## Players
 - [[Frederic Allard]]

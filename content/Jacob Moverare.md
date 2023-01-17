@@ -26,7 +26,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 | 2022-11-28 | [[LA Kings Insider]]    | [[11-28 Practice – Vilardi and Iafallo Skate + Todays Alignment, Second Thoughts, Pinch Hitting]]                                                      |
 | 2022-11-27 | [[The Forum Report]]    | [[Clarke, Andersson, Allard up, but Moverare absence raises questions - quick LAK-OTT preview]]                                                        |
 | 2022-11-26 | [[Pro Hockey Rumors]]   | [[Kings Assign Lias Andersson And Jacob Moverare To The AHL]]                                                                                          |
-| 2022-11-26 | [[Kings at NHL.com]]    | [[LA Kings Loan Two Players to Ontario Reign]]                                                                                                         |
+| 2022-11-26 | [[Kings at NHL dot com]]    | [[LA Kings Loan Two Players to Ontario Reign]]                                                                                                         |
 | 2022-11-26 | [[LA Kings Insider]]    | [[Updates - Andersson, Moverare Loaned, Kings Injury Latest, Thomas, Doty headed for surgery]]                                                         |
 | 2022-11-22 | [[Mayors Manor]]        | [[Projected Lineups - LA Kings vs New York Rangers, Home Sweet Home]]                                                                                  |
 | 2022-11-21 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Recall Three Players From AHL]]                                                                                                    |
@@ -39,7 +39,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 | 2022-11-19 | [[Hockey Royalty]]      | [[Takeaways - Vancouver 4, LA Kings 1 – A Forgettable Night]]                                                                                          |
 | 2022-11-19 | [[Mayors Manor]]        | [[Projected Lineups - LA Kings at Seattle Kraken, Trying to Get Back to Even]]                                                                         |
 | 2022-11-19 | [[The Forum Report]]    | [[Sean Durzi (lower-body) day-to-day but could play this week - Vilardi draws praise despite point drought - ex-Washingtonian Anderson-Dolan returns]] |
-| 2022-11-14 | [[Kings at NHL.com]]    | [[The Week That Was, The Week That Is - 11-14]]                                                                                                        |
+| 2022-11-14 | [[Kings at NHL dot com]]    | [[The Week That Was, The Week That Is - 11-14]]                                                                                                        |
 | 2022-11-14 | [[Hockey Royalty]]      | [[LA Kings at Calgary Flames projected lineup, betting preview]]                                                                                       |
 | 2022-11-14 | [[LA Kings Insider]]    | [[11-14 Preview – JAD Confirmed To Play, His Focus Tonight + Vitals, Improvements, Photos]]                                                            |
 | 2022-11-13 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Place Brendan Lemieux On IR - Recall Jacob Moverare, Lias Andersson]]                                                              |
@@ -55,7 +55,7 @@ Player | \# | Position | Shoots | Height | Weight | Born | Birthplace | Draft
 | 2022-10-21 | [[Hockey Royalty]]      | [[LA Kings at Washington Capitals projected lineups, betting preview]]                                                                                 |
 | 2022-10-20 | [[Hockey Royalty]]      | [[LA Kings at Pittsburgh Penguins projected lineups, betting preview]]                                                                                 |
 | 2022-10-18 | [[Pro Hockey Rumors]]   | [[Alex Iafallo Placed On Injured Reserve]]                                                                                                             |
-| 2022-10-18 | [[Kings at NHL.com]]    | [[Kings Recall Defenseman Jacob Moverare]]                                                                                                             |
+| 2022-10-18 | [[Kings at NHL dot com]]    | [[Kings Recall Defenseman Jacob Moverare]]                                                                                                             |
 | 2022-10-18 | [[Hockey Royalty]]      | [[LA Kings Recall Defenseman Jacob Moverare, Place Alex Iafallo on IR]]                                                                                |
 | 2022-10-18 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings at Nashville Predators, Game 5]]                                                                                         |
 | 2022-10-18 | [[LA Kings Insider]]    | [[Kings recall Jacob Moverare from Ontario + Alexes out tonight, Iafallo to IR - LA Kings Insider]]                                                    |

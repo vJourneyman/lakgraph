@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site                 | External Link                                                                                                                                             |
 | ---------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-07-27 | [[Kings at NHL.com]] | [*Kings add Fiala to boost experienced core, spark power play*](https://www.nhl.com/news/los-angeles-kings-roster-changes-for-2022-23-season/c-335093752) |
+| 2022-07-27 | [[Kings at NHL dot com]] | [*Kings add Fiala to boost experienced core, spark power play*](https://www.nhl.com/news/los-angeles-kings-roster-changes-for-2022-23-season/c-335093752) |
 
 ## Contributors
 - [[Jon Lane]]
@@ -22,7 +22,7 @@ status: stable
 
 | Date       | Site                 | Title / Internal Link                                           |
 | ---------- | -------------------- | --------------------------------------------------------------- |
-| 2022-07-27 | [[Kings at NHL.com]] | [[Kings add Fiala to boost experienced core, spark power play]] |
+| 2022-07-27 | [[Kings at NHL dot com]] | [[Kings add Fiala to boost experienced core, spark power play]] |
 
 ## Players
 - [[Kevin Fiala]]

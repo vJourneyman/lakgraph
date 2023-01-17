@@ -12,12 +12,12 @@ status: unstarted
 | Date       | Site                  | Title                                                                                                                   |
 | ---------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | 2022-09-27 | [[NHLPA]]             | [[KEVIN FIALA REUNITES WITH FORMER TEAMMATES, AIMS FOR STANDOUT SEASON IN LA]]                                          |
-| 2022-09-05 | [[Kings at NHL.com]]  | [[Fiala talks starting over with Kings in Q and A with NHL.com]]                                                        |
+| 2022-09-05 | [[Kings at NHL dot com]]  | [[Fiala talks starting over with Kings in Q and A with NHL.com]]                                                        |
 | 2022-08-21 | [[Zone Coverage]]     | [[We will Find Out Who Fueled the Fiala-Boldy Duos Success Soon - Zone Coverage]]                                       |
 | 2022-08-11 | [[LA Kings Insider]]  | [[Fi-all In - Fiala talks committing to Kings, second-half success, power-play ambitions and more - LA Kings Insider]]  |
 | 2022-08-06 | [[HockeyBuzz]]        | [[HockeyBuzz - Ben Shelley - How will Kevin Fialas seven-year contract work out for the Kings]]                         |
 | 2022-08-05 | [[Zone Coverage]]     | [[Good Contracts Stopped Wild From Getting A Deal On Fiala - Zone Coverage]]                                            |
-| 2022-07-27 | [[Kings at NHL.com]]  | [[Kings add Fiala to boost experienced core, spark power play]]                                                         |
+| 2022-07-27 | [[Kings at NHL dot com]]  | [[Kings add Fiala to boost experienced core, spark power play]]                                                         |
 | 2022-07-11 | [[LA Daily News]]     | [[NHL free agency - Kings look to polish their improved roster]]                                                        |
 | 2022-07-07 | [[Hockey Wilderness]] | [[Roundtable - Thoughts about the Fiala trade]]                                                                         |
 | 2022-07-06 | [[StarTribune]]       | [[Kevin Fiala really excited to start next step in NHL career with Los Angeles Kings]]                                  |
@@ -45,7 +45,7 @@ status: unstarted
 | 2022-05-19 | [[www.hockeywilderness.com]] | [[What a Kevin Fiala trade might look like]](https://www.hockeywilderness.com/2022/5/19/23123264/nhl-trade-rumors-kevin-fiala-minnesota-wild-ottawa-senators-los-angeles-kings-new-jersey-devils)
 | 2022-05-17 | [[www.startribune.com]] | [[Wilds Kevin Fiala knows he could be gone despite best season of career]](https://www.startribune.com/kevin-fiala-minnesota-wild-trade-free-agent-salary-cap-30-goal-scorer/600173815/)
 | 2022-05-15 | [[Eyes on Isles]] | [[Islanders Could Target Kevin Fiala in a "Hockey Trade"]](https://eyesonisles.com/posts/islanders-could-target-kevin-fiala-in-a-hockey-trade-01g33zq36adx)
-| 2022-05-01 | [[Kings at NHL.com]] | [[The evolution of Kevin Fiala]](https://www.nhl.com/wild/news/kevin-fiala-evolution-playoff/c-333646468)
+| 2022-05-01 | [[Kings at NHL dot com]] | [[The evolution of Kevin Fiala]](https://www.nhl.com/wild/news/kevin-fiala-evolution-playoff/c-333646468)
 | 2022-04-30 | [[www.startribune.com]] | [[Wilds Kevin Fiala playing his best hockey but thinks he has much, much more to go]](https://www.startribune.com/wilds-kevin-fiala-playing-his-best-hockey-but-thinks-he-has-much-much-more-to-go/600169495/)
 | 2022-04-23 | [[www.twincities.com]] | [[Wilds Kevin Fiala wanted to become a more complete player It shows.]]
 | 2022-01-18 | [[zonecoverage.com]] | [[How Long Will the Boldy-Fiala Connection Last - Zone Coverage]](https://zonecoverage.com/2022/wild/how-long-will-the-boldy-fiala-connection-last/)

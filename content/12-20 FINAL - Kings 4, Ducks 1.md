@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site                 | External Link                                                                                               |
 | ---------- | -------------------- | ----------------------------------------------------------------------------------------------------------- |
-| 2022-12-21 | [[Kings at NHL.com]] | [*12-20 FINAL - Kings 4, Ducks 1*](https://www.nhl.com/kings/news/1220-final---kings-4-ducks-1/c-339049142) |
+| 2022-12-21 | [[Kings at NHL dot com]] | [*12-20 FINAL - Kings 4, Ducks 1*](https://www.nhl.com/kings/news/1220-final---kings-4-ducks-1/c-339049142) |
 
 ## Contributors
 - [[Jack Jablonski]]
@@ -22,7 +22,7 @@ status: stable
 
 | Date       | Site                 | Title / Internal Link              |
 | ---------- | -------------------- | ---------------------------------- |
-| 2022-12-21 | [[Kings at NHL.com]] | [[12-20 FINAL - Kings 4, Ducks 1]] |
+| 2022-12-21 | [[Kings at NHL dot com]] | [[12-20 FINAL - Kings 4, Ducks 1]] |
 
 ## Players
 - [[Pheonix Copley]]

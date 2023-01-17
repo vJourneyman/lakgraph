@@ -13,8 +13,8 @@ status: stable
 
 | Date       | Site                 | Link                                                                                                                                      |
 | ---------- | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-10-19 | [[Kings at NHL.com]] | [Adrian Kempe reflects back on first hat trick](https://www.nhl.com/kings/news/adrian-kempe-reflects-back-on-first-hat-trick/c-336550966) |
-| 2022-10-19 | [[Kings at NHL.com]] | [[Adrian Kempe reflects back on first hat trick]]                                                                                         |
+| 2022-10-19 | [[Kings at NHL dot com]] | [Adrian Kempe reflects back on first hat trick](https://www.nhl.com/kings/news/adrian-kempe-reflects-back-on-first-hat-trick/c-336550966) |
+| 2022-10-19 | [[Kings at NHL dot com]] | [[Adrian Kempe reflects back on first hat trick]]                                                                                         |
 
 ## Contributors
 - [[Mike Commito]]

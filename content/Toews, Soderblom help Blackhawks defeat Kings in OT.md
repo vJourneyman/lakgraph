@@ -12,8 +12,8 @@ status: stable
 
 | Date       | Site                 | Link                                                                                                                                        |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-03 | [[Kings at NHL.com]] | [Toews, Soderblom help Blackhawks defeat Kings in OT](https://www.nhl.com/news/los-angeles-kings-chicago-blackhawks-game-recap/c-337120176) |
-| 2022-11-03 | [[Kings at NHL.com]] | [[Toews, Soderblom help Blackhawks defeat Kings in OT]]                                                                                     |
+| 2022-11-03 | [[Kings at NHL dot com]] | [Toews, Soderblom help Blackhawks defeat Kings in OT](https://www.nhl.com/news/los-angeles-kings-chicago-blackhawks-game-recap/c-337120176) |
+| 2022-11-03 | [[Kings at NHL dot com]] | [[Toews, Soderblom help Blackhawks defeat Kings in OT]]                                                                                     |
 
 ## Contributors
 - [[Bruce Miles]]

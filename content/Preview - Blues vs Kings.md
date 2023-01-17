@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site                 | External Link                                                                                                         |
 | ---------- | -------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| 2022-10-30 | [[Kings at NHL.com]] | [*Preview - Blues vs. Kings*](https://www.nhl.com/blues/news/st-louis-blues-los-angeles-kings-game-preview/c-337014638) |
+| 2022-10-30 | [[Kings at NHL dot com]] | [*Preview - Blues vs. Kings*](https://www.nhl.com/blues/news/st-louis-blues-los-angeles-kings-game-preview/c-337014638) |
 
 ## Contributors
 - [[Chris Pinkert]]
@@ -23,7 +23,7 @@ status: stable
 
 | Date       | Site                 | Title / Internal Link        |
 | ---------- | -------------------- | ---------------------------- |
-| 2022-10-30 | [[Kings at NHL.com]] | [[Preview - Blues vs Kings]] |
+| 2022-10-30 | [[Kings at NHL dot com]] | [[Preview - Blues vs Kings]] |
 
 ## Players
 - [[Gabe Vilardi]]

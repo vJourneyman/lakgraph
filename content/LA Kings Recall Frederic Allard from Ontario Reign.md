@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site                 | External Link                                                                                                                                         |
 | ---------- | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-27 | [[Kings at NHL.com]] | [*LA Kings Recall Frederic Allard from Ontario Reign*](https://www.nhl.com/kings/news/la-kings-recall-frederic-allard-from-ontario-reign/c-338106196) |
+| 2022-11-27 | [[Kings at NHL dot com]] | [*LA Kings Recall Frederic Allard from Ontario Reign*](https://www.nhl.com/kings/news/la-kings-recall-frederic-allard-from-ontario-reign/c-338106196) |
 
 ## Contributors
 - 
@@ -22,7 +22,7 @@ status: stable
 
 | Date       | Site                 | Title / Internal Link                                  |
 | ---------- | -------------------- | ------------------------------------------------------ |
-| 2022-11-27 | [[Kings at NHL.com]] | [[LA Kings Recall Frederic Allard from Ontario Reign]] |
+| 2022-11-27 | [[Kings at NHL dot com]] | [[LA Kings Recall Frederic Allard from Ontario Reign]] |
 
 ## Players
 - [[Frederic Allard]]

@@ -20,6 +20,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                 | Title                                                                                                                           |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-23 | [[The Forum Report]] | [[Playmaking Chart - 12-22 vs Calgary]] |
 | 2022-12-19 | [[LA Kings Insider]] | [[Practice 12-19 – Good To Be Back! Injury Updates, Penalty Kill Timing, Connors To Team USA]]                                  |
 | 2022-12-18 | [[The Athletic]]     | [[LA Kings finally earn consecutive wins - Pheonix Copley shines, Jordan Spence gets a shot]]                                   |
 | 2022-12-18 | [[The Forum Report]] | [[Playmaking Chart - December 17 vs San Jose]]                                                                                  |
@@ -36,7 +37,7 @@ status: stable
 | 2022-11-22 | [[The Athletic]]     | [[LA Kings at the quarter mark - Whose stock is up, whose stock is down]]                                                       |
 | 2022-11-19 | [[The Forum Report]] | [[Playmaking Chart - November 18 at Vancouver]]                                                                                 |
 | 2022-11-10 | [[ESPN]]             | [[They make you feel like you belong - How Drew Doughty and Anze Kopitar have shaped the Kings]]                                |
-| 2022-11-08 | [[Kings at NHL.com]] | [[LA Kings vs Minnesota Wild - How to Watch]]                                                                                   |
+| 2022-11-08 | [[Kings at NHL dot com]] | [[LA Kings vs Minnesota Wild - How to Watch]]                                                                                   |
 | 2022-11-05 | [[LA Kings Insider]] | [[11-5 Preview - Full Team Skate + Striving For Consistency, Ras-matazz- LA Kings Insider]]                                     |
 | 2022-11-02 | [[LA Kings Insider]] | [[By The Numbers - What The Metrics Say Through 12 Games - LA Kings Insider]]                                                   |
 | 2022-11-01 | [[The Forum Report]] | [[Playmaking Chart - 10-31 vs St Louis]]                                                                                        |

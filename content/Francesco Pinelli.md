@@ -37,9 +37,9 @@ Francesco Pinelli | | C | L | 6' 1" | 185 | 2003-04-11 | Stoney Creek, ONT, CAN 
 | 2022-12-05 | [[Hockey Royalty]]   | [[LA Kings prospect update – Week of 11-28]]                                                                          |
 | 2022-11-21 | [[Hockey Royalty]]   | [[Francesco Pinelli Highlights LA Kings Prospects Update – Week of 11-14]]                                            |
 | 2022-11-09 | [[LA Kings Insider]] | [[Hot out of the gates, Kings prospect Francesco Pinelli building momentum with OHL-Kitchener]]                       |
-| 2022-11-04 | [[Kings at NHL.com]] | [[LA Kings Prospect Report, 11-4]]                                                                                    |
+| 2022-11-04 | [[Kings at NHL dot com]] | [[LA Kings Prospect Report, 11-4]]                                                                                    |
 | 2022-10-26 | [[LA Kings Insider]] | [[10-26 Practice - Todays Alignment + First Line Makes Progress, The JADebut, Pinellis Hot Start - LA Kings Insider]] |
-| 2022-10-21 | [[Kings at NHL.com]] | [[LA Kings Prospect Report, 10-21]]                                                                                   |
+| 2022-10-21 | [[Kings at NHL dot com]] | [[LA Kings Prospect Report, 10-21]]                                                                                   |
 | 2022-09-28 | [[LA Kings Insider]] | [[9-28 Preview – Projected Lineup + Reign Returners, Defensive Camp Battle, Bjornfot Quotes]]                         |
 
 

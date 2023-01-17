@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site                 | External Link                                                                                                                                                                       |
 | ---------- | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-10 | [[Kings at NHL.com]] | [*LA Kings Activate Forward Alex Turcotte for Loan to Ontario Reign*](https://www.nhl.com/kings/news/la-kings-activate-forward-alex-turcotte-for-loan-to-ontario-reign/c-337432262) |
+| 2022-11-10 | [[Kings at NHL dot com]] | [*LA Kings Activate Forward Alex Turcotte for Loan to Ontario Reign*](https://www.nhl.com/kings/news/la-kings-activate-forward-alex-turcotte-for-loan-to-ontario-reign/c-337432262) |
 
 ## Contributors
 - 
@@ -22,7 +22,7 @@ status: stable
 
 | Date       | Site                 | Title / Internal Link                                                 |
 | ---------- | -------------------- | --------------------------------------------------------------------- |
-| 2022-11-10 | [[Kings at NHL.com]] | [[LA Kings Activate Forward Alex Turcotte for Loan to Ontario Reign]] |
+| 2022-11-10 | [[Kings at NHL dot com]] | [[LA Kings Activate Forward Alex Turcotte for Loan to Ontario Reign]] |
 
 ## Players
 - [[Alex Turcotte]]

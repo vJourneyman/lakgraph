@@ -25,7 +25,7 @@ status: stable
 | 2022-12-18 | [[LA Kings Insider]] | [[Angeles Analysis – I Feel That, Todd]]                                                                                                                   |
 | 2022-12-17 | [[LA Hockey Now]]    | [[Kings Finally Win 2 Straight With Shootout Victory Over Sharks]]                                                                                         |
 | 2022-12-17 | [[LA Daily News]]    | [[Kings get second straight shootout win, beat Sharks]]                                                                                                    |
-| 2022-12-17 | [[Kings at NHL.com]] | [[Kings top Sharks in 2nd straight shootout win]]                                                                                                          |
+| 2022-12-17 | [[Kings at NHL dot com]] | [[Kings top Sharks in 2nd straight shootout win]]                                                                                                          |
 | 2022-12-17 | [[LA Kings Insider]] | [[FINAL – Kings 3, Sharks 2 (SO) – Anderson-Dolan, Moore, McLellan]]                                                                                       |
 | 2022-12-15 | [[Mayors Manor]]     | [[Projected Lineups - LA Kings at Boston Bruins - End of the Roadie]]                                                                                      |
 | 2022-12-14 | [[Hockey Royalty]]   | [[Takeaways - LA Kings 0, Sabres 6 – They gave up]]                                                                                                        |
@@ -35,7 +35,7 @@ status: stable
 | 2022-12-11 | [[Hockey Royalty]]   | [[Gaudreau, Blue Jackets recover for OT victory against Kings]]                                                                                            |
 | 2022-12-11 | [[The Forum Report]] | [[Playmaking Chart - December 11 at Columbus]]                                                                                                             |
 | 2022-12-07 | [[The Forum Report]] | [[Playmaking Chart - 12-6 vs Ottawa]]                                                                                                                      |
-| 2022-11-28 | [[Kings at NHL.com]] | [[The Week That Was, The Week That Is - 11-28]]                                                                                                            |
+| 2022-11-28 | [[Kings at NHL dot com]] | [[The Week That Was, The Week That Is - 11-28]]                                                                                                            |
 | 2022-11-28 | [[LA Kings Insider]] | [[11-28 Practice – Vilardi and Iafallo Skate + Todays Alignment, Second Thoughts, Pinch Hitting]]                                                          |
 | 2022-11-26 | [[LA Daily News]]    | [[Kings seek power surge with 4-game homestand]]                                                                                                           |
 | 2022-11-26 | [[Hockey Royalty]]   | [[Takeaways - LA Kings 5, SJ Sharks 2- ‘Much needed win]]                                                                                                  |

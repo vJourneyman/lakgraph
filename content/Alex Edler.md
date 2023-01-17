@@ -55,7 +55,7 @@ status: stable
 | 2022-10-25 | [[The Hockey News]]     | [[Los Angeles Kings Goaltending Must Tighten Up To Win A Playoff Round]]                                                                             |
 | 2022-10-25 | [[Hockey Royalty]]      | [[LA Kings vs Tampa Bay Lightning projected lineup, betting preview]]                                                                                |
 | 2022-10-25 | [[LA Kings Insider]]    | [[10-25 Preview - Potential Alignment + Facing The Bolts, Grundstroms Metrics, Clarke on Firsts - LA Kings Insider]]                                 |
-| 2022-10-22 | [[Kings at NHL.com]]    | [[Capitals score four in third period to get past Kings]]                                                                                            |
+| 2022-10-22 | [[Kings at NHL dot com]]    | [[Capitals score four in third period to get past Kings]]                                                                                            |
 | 2022-10-22 | [[The Forum Report]]    | [[Friends sent Clarke gifs after move on Crosby - Lemieuxs effective, simple game - Quick-Kuemper - Edler in]]                                       |
 | 2022-10-22 | [[LA Kings Insider]]    | [[10-22 Preview - Full Team Skate in Washington + Edler Returns, Preaching Defense, Fourth Line Fury - LA Kings Insider]]                            |
 | 2022-10-21 | [[Montreal Hockey Now]] | [[Montreal Canadiens and LA Kings Could Rekindle Trade Talks]]                                                                                       |

@@ -13,8 +13,8 @@ status: stable
 
 | Date       | Site                 | Link                                                                                                                                                       |
 | ---------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-10-20 | [[Kings at NHL.com]] | [Penguins rout Kings, Sullivan earns 300th win as Pittsburgh coach](https://www.nhl.com/news/los-angeles-kings-pittsburgh-penguins-game-recap/c-336230268) |
-| 2022-10-20 | [[Kings at NHL.com]] | [[Penguins rout Kings, Sullivan earns 300th win as Pittsburgh coach]]                                                                                      |
+| 2022-10-20 | [[Kings at NHL dot com]] | [Penguins rout Kings, Sullivan earns 300th win as Pittsburgh coach](https://www.nhl.com/news/los-angeles-kings-pittsburgh-penguins-game-recap/c-336230268) |
+| 2022-10-20 | [[Kings at NHL dot com]] | [[Penguins rout Kings, Sullivan earns 300th win as Pittsburgh coach]]                                                                                      |
 
 ## Contributors
 - [[Wes Crosby]]

@@ -21,9 +21,11 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                              | Title                                                                                                                                                |
 | ---------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-23 | [[Mayors Manor]] | [[Rapid Review - Notes and Highlights from Kings 4-3 OT Victory Over Flames]] |
+| 2022-12-23 | [[The Athletic]]                  | [[The LA Kings are suddenly on a winning streak Is this the turning point]]                                                                          |
 | 2022-12-22 | [[LA Daily News]]                 | [[Kings beat Calgary in overtime, win fourth straight game]]                                                                                         |
 | 2022-12-22 | [[LA Kings Insider]]              | [[FINAL – Kings 4, Flames 3 (OT) – Kempe, Lizotte, McLellan]]                                                                                        |
-| 2022-12-21 | [[Kings at NHL.com]]              | [[Soccer Kings]]                                                                                                                                     |
+| 2022-12-21 | [[Kings at NHL dot com]]          | [[Soccer Kings]]                                                                                                                                     |
 | 2022-12-21 | [[LA Kings Insider]]              | [[Practice 12-21 – Short Skate Today + How Consistent Is Consistent, THAT Goal, Forever A King]]                                                     |
 | 2022-12-19 | [[The Fourth Period]]             | [[LAK AT 34 - INFLECTION POINT]]                                                                                                                     |
 | 2022-12-17 | [[LA Hockey Now]]                 | [[Kings Vs Sharks Game 34 - Lines, Notes and How to Watch]]                                                                                          |
@@ -34,8 +36,8 @@ priority: high
 | 2022-12-16 | [[The Forum Report]]              | [[Playmaking Chart - December 15 at Boston]]                                                                                                         |
 | 2022-12-16 | [[LA Kings Insider]]              | [[Five Moore Years! Moore, Blake and McLellan weigh in on a new five-year extension]]                                                                |
 | 2022-12-15 | [[LA Hockey Now]]                 | [[Kings Bounce Back With Massive 3-2 Shootout Victory Over Bruins]]                                                                                  |
-| 2022-12-15 | [[Kings at NHL.com]]              | [[Kempe scores twice, Kings rally past Bruins in shootout]]                                                                                          |
-| 2022-12-15 | [[Kings at NHL.com]]              | [[Kempe scores twice, Kings rally past Bruins in shootout]]                                                                                          |
+| 2022-12-15 | [[Kings at NHL dot com]]          | [[Kempe scores twice, Kings rally past Bruins in shootout]]                                                                                          |
+| 2022-12-15 | [[Kings at NHL dot com]]          | [[Kempe scores twice, Kings rally past Bruins in shootout]]                                                                                          |
 | 2022-12-15 | [[The Forum Report]]              | [[Competitive window sharpens as Kings, Moore agree to 5-year, $21M extension]]                                                                      |
 | 2022-12-15 | [[LA Kings Insider]]              | [[FINAL – Kings 3, Bruins 2 (SO) – Kempe, Moore, Copley, McLellan]]                                                                                  |
 | 2022-12-14 | [[Hockey Royalty]]                | [[Takeaways - LA Kings 0, Sabres 6 – They gave up]]                                                                                                  |
@@ -76,7 +78,7 @@ priority: high
 | 2022-11-19 | [[LA Kings Insider]]              | [[11-19 Preview – No Morning Skate plus Top Line Takeaways, Petersens Evolving Metrics, Ups and Downs]]                                              |
 | 2022-11-16 | [[LA Kings Insider]]              | [[11-16 Preview – Petersen Off First plus Mental Readiness, Kempe Off The Schneid, McHugh Talks LAK]]                                                |
 | 2022-11-14 | [[LA Hockey Now]]                 | [[Kings vs Flames Game No 18 - Lines, Notes, and How to Watch]]                                                                                      |
-| 2022-11-14 | [[Kings at NHL.com]]              | [[The Week That Was, The Week That Is - 11-14]]                                                                                                      |
+| 2022-11-14 | [[Kings at NHL dot com]]          | [[The Week That Was, The Week That Is - 11-14]]                                                                                                      |
 | 2022-11-14 | [[The Forum Report]]              | [[Darryl Sutter has always known about Adrian Kempes “mature game”]]                                                                                 |
 | 2022-11-14 | [[The Forum Report]]              | [[November 14 morning skate quotes - Darryl Sutter]]                                                                                                 |
 | 2022-11-13 | [[LA Hockey Now]]                 | [[Kings Experimenting With New Look Power Play]]                                                                                                     |
@@ -105,13 +107,13 @@ priority: high
 | 2022-10-25 | [[The Fourth Period]]             | [[LAK at 7 - Now for Something Completely Different — The Fourth Period]]                                                                            |
 | 2022-10-24 | [[The Athletic]]                  | [[Kings observations - Shaky goaltending, defense, power play and more]]                                                                             |
 | 2022-10-24 | [[LA Kings Insider]]              | [[10-24 Practice - Kings address areas of focus + McLellan on Lines, Lizotte on Identity, Robitaille Joins ATKM - LA Kings Insider]]                 |
-| 2022-10-19 | [[Kings at NHL.com]]              | [[Adrian Kempe reflects back on first hat trick]]                                                                                                    |
+| 2022-10-19 | [[Kings at NHL dot com]]          | [[Adrian Kempe reflects back on first hat trick]]                                                                                                    |
 | 2022-10-19 | [[Hockey Royalty]]                | [[LA Kings powerplay breakdown versus Nashville]]                                                                                                    |
 | 2022-10-18 | [[ESPN]]                          | [[2022-23 NHL Rank - Top player predictions across teams]]                                                                                           |
 | 2022-10-18 | [[The Forum Report]]              | [[Possession Chart - 10-17 at DET]]                                                                                                                  |
 | 2022-10-17 | [[Mayors Manor]]                  | [[Rapid Review - Kings Get Back to Even With OT Win in Motor City]]                                                                                  |
 | 2022-10-16 | [[ESPN]]                          | [[Kings vs Wild - NHL Game Recap - October 15, 2022 - ESPN]]                                                                                         |
-| 2022-10-16 | [[Kings at NHL.com]]              | [[Kings score seven, hold off late rally by Wild for first win of season]]                                                                           |
+| 2022-10-16 | [[Kings at NHL dot com]]          | [[Kings score seven, hold off late rally by Wild for first win of season]]                                                                           |
 | 2022-10-16 | [[Hockey Royalty]]                | [[Three takeaways from LA Kings 7-6 wild win vs Minnesota]]                                                                                          |
 | 2022-10-16 | [[The Athletic]]                  | [[Kevin Fiala felt right at home in Minnesota return - ‘I feel pretty confident in this arena]]                                                      |
 | 2022-10-16 | [[The Forum Report]]              | [[Possession Chart - 10-15 at MIN]]                                                                                                                  |

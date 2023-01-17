@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site                 | External Link                                                                                                         |
 | ---------- | -------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-10 | [[Kings at NHL.com]] | [*Tradin Jabs with ESPNs Ray Ferraro*](https://www.nhl.com/kings/news/tradin-jabs-with-espns-ray-ferraro/c-337419910) |
+| 2022-11-10 | [[Kings at NHL dot com]] | [*Tradin Jabs with ESPNs Ray Ferraro*](https://www.nhl.com/kings/news/tradin-jabs-with-espns-ray-ferraro/c-337419910) |
 
 ## Contributors
 - [[Jack Jablonski]]
@@ -22,7 +22,7 @@ status: stable
 
 | Date       | Site                 | Title / Internal Link                  |
 | ---------- | -------------------- | -------------------------------------- |
-| 2022-11-10 | [[Kings at NHL.com]] | [[Tradin Jabs with ESPNs Ray Ferraro]] |
+| 2022-11-10 | [[Kings at NHL dot com]] | [[Tradin Jabs with ESPNs Ray Ferraro]] |
 
 ## Players
 - [[Gabe Vilardi]]

@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site                 | External Link                                                                                                                                            |
 | ---------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-12-11 | [[Kings at NHL.com]] | [*Gaudreau, Blue Jackets recover for OT victory against Kings*](https://www.nhl.com/news/los-angeles-kings-columbus-blue-jackets-game-recap/c-338462098) |
+| 2022-12-11 | [[Kings at NHL dot com]] | [*Gaudreau, Blue Jackets recover for OT victory against Kings*](https://www.nhl.com/news/los-angeles-kings-columbus-blue-jackets-game-recap/c-338462098) |
 
 ## Contributors
 - [[Craig Merz]]

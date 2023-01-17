@@ -86,7 +86,7 @@ status: needs-draft-content
 | 2022-10-28 | [[Hockey Royalty]]      | [[LA Kings - 2022-23 prospect rankings, the top five]]                                                |
 | 2022-10-25 | [[Mayors Manor]]        | [[LAK Prospects - Weekly Reign Report – October 24, 2022]]                                            |
 | 2022-10-21 | [[Montreal Hockey Now]] | [[Montreal Canadiens and LA Kings Could Rekindle Trade Talks]]                                        |
-| 2022-10-21 | [[Kings at NHL.com]]    | [[LA Kings Prospect Report, 10-21]]                                                                   |
+| 2022-10-21 | [[Kings at NHL dot com]]    | [[LA Kings Prospect Report, 10-21]]                                                                   |
 | 2022-10-19 | [[Mayors Manor]]        | [[LA Kings Weekly Reign Report, October 16, 2022]]                                                    |
 | 2022-10-18 | [[LA Kings Insider]]    | [[REIGN PREVIEW – Ontario vs Henderson, 10-18 - LA Kings Insider]]                                    |
 | 2022-10-16 | [[LA Kings Insider]]    | [[REIGN PREVIEW – Ontario vs Bakersfield, 10-16 - LA Kings Insider]]                                  |

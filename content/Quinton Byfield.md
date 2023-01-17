@@ -40,7 +40,7 @@ priority: high
 | 2022-11-08 | [[The Fourth Period]]   | [[LAK AT 14 - ARE YOU NOT ENTERTAINED]]                                                                                              |
 | 2022-11-08 | [[Hockey Royalty]]      | [[LA Kings vs Minnesota Wild projected lineup, betting preview]]                                                                     |
 | 2022-11-07 | [[Hockey Royalty]]      | [[Byfield loaned to Ontario for conditioning stint]]                                                                                 |
-| 2022-11-07 | [[Kings at NHL.com]]    | [[11-7 - The Week That Was, The Week That Is]]                                                                                       |
+| 2022-11-07 | [[Kings at NHL dot com]]    | [[11-7 - The Week That Was, The Week That Is]]                                                                                       |
 | 2022-11-07 | [[LA Hockey Now]]       | [[Stanos Daily - Byfields Conditioning Stint, Tkachuks Suspension and Bruins Saga Continues]]                                        |
 | 2022-11-07 | [[LA Daily News]]       | [[High scoring Kings prepare to face the Wild]]                                                                                      |
 | 2022-11-06 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Loan Quinton Byfield To AHL]]                                                                                    |
@@ -128,7 +128,7 @@ priority: high
 | 2022-12-05 | [[Mayors Manor]]     | [[Reign Recap - Byfield, Petersen Help Reign Top Condors 5-2]]                                                                               |
 | 2022-12-04 | [[Mayors Manor]]     | [[Ontario Reign Projected Lineup vs Bakersfield Condors - Plus Latest on Turcotte]]                                                          |
 | 2022-12-04 | [[LA Kings Insider]] | [[REIGN FINAL – Reign 5, Condors 2 – Sturm, Allard, Gaunce]]                                                                                 |
-| 2022-12-02 | [[Kings at NHL.com]] | [[LA Kings Prospect Report, 12-2]]                                                                                                           |
+| 2022-12-02 | [[Kings at NHL dot com]] | [[LA Kings Prospect Report, 12-2]]                                                                                                           |
 | 2022-12-02 | [[Hockey Royalty]]   | [[LA Kings - Time to start trusting the prospects]]                                                                                          |
 | 2022-12-02 | [[Mayors Manor]]     | [[Reign Recap - Petersen Soars to 3-1 Victory in Return vs Eagles]]                                                                          |
 | 2022-12-02 | [[LA Kings Insider]] | [[Rob Blakes Media Availability – Full Video + Notes on Defense, Trades, Clarke, Byfield, Schedule]]                                         |

@@ -27,7 +27,7 @@ status: NeedsDetails
 ## Minor League Coverage
 | Date       | Site                 | Title                              |
 | ---------- | -------------------- | ---------------------------------- |
-| 2022-11-04 | [[Kings at NHL.com]] | [[LA Kings Prospect Report, 11-4]] |
+| 2022-11-04 | [[Kings at NHL dot com]] | [[LA Kings Prospect Report, 11-4]] |
 
 
 

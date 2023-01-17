@@ -13,8 +13,8 @@ status: stable
 
 | Date       | Site                 | Link                                                                                                                                    |
 | ---------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-10-20 | [[Kings at NHL.com]] | [LA Kings at Pittsburgh Penguins - How to Watch](https://www.nhl.com/kings/news/la-kings--pittsburgh-penguins-how-to-watch/c-336589810) |
-| 2022-10-20 | [[Kings at NHL.com]] | [[LA Kings at Pittsburgh Penguins - How to Watch]]                                                                                      |
+| 2022-10-20 | [[Kings at NHL dot com]] | [LA Kings at Pittsburgh Penguins - How to Watch](https://www.nhl.com/kings/news/la-kings--pittsburgh-penguins-how-to-watch/c-336589810) |
+| 2022-10-20 | [[Kings at NHL dot com]] | [[LA Kings at Pittsburgh Penguins - How to Watch]]                                                                                      |
 
 ## Contributors
 - [[Jack Jablonski]]

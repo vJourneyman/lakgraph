@@ -47,10 +47,10 @@ priority: high
 | 2022-12-02 | [[LA Kings Insider]]    | [[Rob Blakes Media Availability – Full Video + Notes on Defense, Trades, Clarke, Byfield, Schedule]]                                                |
 | 2022-12-01 | [[Mayors Manor]]        | [[LA Kings GM Rob Blake Gives His State of the Season After 25 Games]]                                                                              |
 | 2022-12-01 | [[The Forum Report]]    | [[Blakes press conference elicits more questions than answers]]                                                                                     |
-| 2022-11-28 | [[Kings at NHL.com]]    | [[The Week That Was, The Week That Is - 11-28]]                                                                                                     |
+| 2022-11-28 | [[Kings at NHL dot com]]    | [[The Week That Was, The Week That Is - 11-28]]                                                                                                     |
 | 2022-11-28 | [[LA Kings Insider]]    | [[Recapping Brandt Clarkes AHL conditioning loan as he re-joins the Kings]]                                                                         |
 | 2022-11-27 | [[Pro Hockey Rumors]]   | [[Los Angeles Kings Recall Lias Andersson, Brandt Clarke, Frederic Allard]]                                                                         |
-| 2022-11-27 | [[Kings at NHL.com]]    | [[LA Kings Recall Two Players from Ontario Reign]]                                                                                                  |
+| 2022-11-27 | [[Kings at NHL dot com]]    | [[LA Kings Recall Two Players from Ontario Reign]]                                                                                                  |
 | 2022-11-27 | [[Mayors Manor]]        | [[Upcoming Plan for Kings Rookie D-man Brandt Clarke]]                                                                                              |
 | 2022-11-27 | [[The Forum Report]]    | [[Clarke, Andersson, Allard up, but Moverare absence raises questions - quick LAK-OTT preview]]                                                     |
 | 2022-11-27 | [[LA Kings Insider]]    | [[11-27 Preview – Todays Rushes + PP Puck Movement, Anderson on Activation, Roster Moves]]                                                          |
@@ -64,7 +64,7 @@ priority: high
 | 2022-11-12 | [[Mayors Manor]]        | [[Projected Lineup - LA Kings vs Detroit Red Wings - Plus Important Note on Clarke]]                                                                |
 | 2022-11-11 | [[LA Kings Insider]]    | [[11-11 Practice – Diving into lineup changes and the state of the power play with Todd McLellan]]                                                  |
 | 2022-11-10 | [[ESPN]]                | [[They make you feel like you belong - How Drew Doughty and Anze Kopitar have shaped the Kings]]                                                    |
-| 2022-11-10 | [[Kings at NHL.com]]    | [[Tradin Jabs with ESPNs Ray Ferraro]]                                                                                                              |
+| 2022-11-10 | [[Kings at NHL dot com]]    | [[Tradin Jabs with ESPNs Ray Ferraro]]                                                                                                              |
 | 2022-11-10 | [[Hockey Royalty]]      | [[LA Kings vs Chicago Blackhawks projected lineup, betting preview]]                                                                                |
 | 2022-11-08 | [[The Fourth Period]]   | [[LAK AT 14 - ARE YOU NOT ENTERTAINED]]                                                                                                             |
 | 2022-11-08 | [[Hockey Royalty]]      | [[LA Kings vs Minnesota Wild projected lineup, betting preview]]                                                                                    |
@@ -109,7 +109,7 @@ priority: high
 | 2022-10-23 | [[Mayors Manor]]        | [[Six Games Down, Whats Next For Kings Rookie Brandt Clarke]]                                                                                       |
 | 2022-10-22 | [[The Forum Report]]    | [[Friends sent Clarke gifs after move on Crosby - Lemieuxs effective, simple game - Quick-Kuemper - Edler in]]                                      |
 | 2022-10-21 | [[Montreal Hockey Now]] | [[Montreal Canadiens and LA Kings Could Rekindle Trade Talks]]                                                                                      |
-| 2022-10-21 | [[Kings at NHL.com]]    | [[LA Kings Prospect Report, 10-21]]                                                                                                                 |
+| 2022-10-21 | [[Kings at NHL dot com]]    | [[LA Kings Prospect Report, 10-21]]                                                                                                                 |
 | 2022-10-21 | [[LA Daily News]]       | [[Kings hope to end 5-game road trip on a high note]]                                                                                               |
 | 2022-10-21 | [[Hockey Royalty]]      | [[Quotes, notes and video from the LA Kings 6-1 loss in Pittsburgh]]                                                                                |
 | 2022-10-21 | [[Hockey Royalty]]      | [[Three Takeaways from the LA Kings 6-1 loss to the Penguins]]                                                                                      |
@@ -182,7 +182,7 @@ priority: high
 | 2022-11-17 | [[TSN.ca]]            | [[Insider Trading - Injuries forcing Jets to consider all options]]                                                                          |
 | 2022-11-17 | [[Pro Hockey Rumors]] | [[Snapshots - Pastujov, Wedgewood, Kings Defense]]                                                                                           |
 | 2022-11-15 | [[Mayors Manor]]      | [[Brandt Clarke on Being Sent Down, Adjusting to AHL Life]]                                                                                  |
-| 2022-11-14 | [[Kings at NHL.com]]  | [[The Week That Was, The Week That Is - 11-14]]                                                                                              |
+| 2022-11-14 | [[Kings at NHL dot com]]  | [[The Week That Was, The Week That Is - 11-14]]                                                                                              |
 | 2022-11-14 | [[Hockey Royalty]]    | [[LA Kings at Calgary Flames projected lineup, betting preview]]                                                                             |
 | 2022-11-13 | [[Mayors Manor]]      | [[Reign Recap - Concerns Mounting as Ontario Drops Fourth Straight]]                                                                         |
 | 2022-11-13 | [[Mayors Manor]]      | [[Ontario Reign Projected Lineup vs San Diego - Brandt Clarke Debut Among Myriad of Changes]]                                                |

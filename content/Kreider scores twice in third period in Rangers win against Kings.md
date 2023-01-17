@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site                 | External Link                                                                                                                                             |
 | ---------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-22 | [[Kings at NHL.com]] | [*Kreider scores twice in third period in Rangers win against Kings*](https://www.nhl.com/news/new-york-rangers-los-angeles-kings-game-recap/c-337666520) |
+| 2022-11-22 | [[Kings at NHL dot com]] | [*Kreider scores twice in third period in Rangers win against Kings*](https://www.nhl.com/news/new-york-rangers-los-angeles-kings-game-recap/c-337666520) |
 
 ## Contributors
 - [[Dan Greenspan]]
@@ -22,7 +22,7 @@ status: stable
 
 | Date       | Site                 | Title / Internal Link                                                 |
 | ---------- | -------------------- | --------------------------------------------------------------------- |
-| 2022-11-22 | [[Kings at NHL.com]] | [[Kreider scores twice in third period in Rangers win against Kings]] |
+| 2022-11-22 | [[Kings at NHL dot com]] | [[Kreider scores twice in third period in Rangers win against Kings]] |
 
 ## Players
 - [[Kevin Fiala]]

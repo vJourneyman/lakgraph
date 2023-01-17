@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site                 | External Link                                                                                                                                  |
 | ---------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-17 | [[Kings at NHL.com]] | [*Super 16 - Devils rise to No 2 - Kings, Flames join rankings*](https://www.nhl.com/news/super-16-nhl-power-rankings-november-17/c-337675800) |
+| 2022-11-17 | [[Kings at NHL dot com]] | [*Super 16 - Devils rise to No 2 - Kings, Flames join rankings*](https://www.nhl.com/news/super-16-nhl-power-rankings-november-17/c-337675800) |
 
 ## Contributors
 - 
@@ -23,7 +23,7 @@ status: stable
 
 | Date       | Site                 | Title / Internal Link                                            |
 | ---------- | -------------------- | ---------------------------------------------------------------- |
-| 2022-11-17 | [[Kings at NHL.com]] | [[Super 16 - Devils rise to No 2 - Kings, Flames join rankings]] |
+| 2022-11-17 | [[Kings at NHL dot com]] | [[Super 16 - Devils rise to No 2 - Kings, Flames join rankings]] |
 
 ## Players
 - [[Jonathan Quick]]

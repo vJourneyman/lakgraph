@@ -37,7 +37,7 @@ status: needs-draft-content
 ## Post-Draft Coverage
 | Date | Site | Title |
 | ---- | ---- | ----- |
-| 2022-12-02 | [[Kings at NHL.com]] | [[LA Kings Prospect Report, 12-2]] |
+| 2022-12-02 | [[Kings at NHL dot com]] | [[LA Kings Prospect Report, 12-2]] |
 | 2022-10-13 | [[Hockey Royalty]] | [[LA Kings - 2022-23 prospect rankings, 10-6]]                                                                              |
 
 

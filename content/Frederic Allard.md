@@ -22,9 +22,9 @@ status: unstarted
 | Date       | Site                  | Title                                                                                           |
 | ---------- | --------------------- | ----------------------------------------------------------------------------------------------- |
 | 2022-11-28 | [[Pro Hockey Rumors]] | [[Los Angeles Kings Re-Assign Frederic Allard]] |
-| 2022-11-28 | [[Kings at NHL.com]]  | [[LA Kings Loan Defenseman Frederic Allard to Ontario Reign]]                                   |
+| 2022-11-28 | [[Kings at NHL dot com]]  | [[LA Kings Loan Defenseman Frederic Allard to Ontario Reign]]                                   |
 | 2022-11-27 | [[Pro Hockey Rumors]] | [[Los Angeles Kings Recall Lias Andersson, Brandt Clarke, Frederic Allard]]                     |
-| 2022-11-27 | [[Kings at NHL.com]]  | [[LA Kings Recall Frederic Allard from Ontario Reign]]                                          |
+| 2022-11-27 | [[Kings at NHL dot com]]  | [[LA Kings Recall Frederic Allard from Ontario Reign]]                                          |
 | 2022-11-27 | [[Mayors Manor]]      | [[Projected Lineups - LA vs Ottawa, Kings Hungry for a Home Victory]]                           |
 | 2022-11-27 | [[The Forum Report]]  | [[Clarke, Andersson, Allard up, but Moverare absence raises questions - quick LAK-OTT preview]] |
 | 2022-11-27 | [[LA Kings Insider]] | [[11-27 Preview – Todays Rushes + PP Puck Movement, Anderson on Activation, Roster Moves]] |

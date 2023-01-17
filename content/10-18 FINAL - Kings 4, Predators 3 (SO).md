@@ -13,8 +13,8 @@ status: stable
 
 | Date       | Site                 | Link                                                                                                                      |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| 2022-10-18 | [[Kings at NHL.com]] | [10-18 FINAL - Kings 4, Predators 3 (SO)](https://www.nhl.com/kings/news/1018-final---kings-4-predators-3-so/c-336559594) |
-| 2022-10-18 | [[Kings at NHL.com]] | [[10-18 FINAL - Kings 4, Predators 3 (SO)]]                                                                               |
+| 2022-10-18 | [[Kings at NHL dot com]] | [10-18 FINAL - Kings 4, Predators 3 (SO)](https://www.nhl.com/kings/news/1018-final---kings-4-predators-3-so/c-336559594) |
+| 2022-10-18 | [[Kings at NHL dot com]] | [[10-18 FINAL - Kings 4, Predators 3 (SO)]]                                                                               |
 
 ## Contributors
 - [[Jack Jablonski]]

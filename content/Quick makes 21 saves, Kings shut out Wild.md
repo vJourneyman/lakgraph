@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site                 | External Link                                                                                                                   |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-08 | [[Kings at NHL.com]] | [*Quick makes 21 saves, Kings shut out Wild*](https://www.nhl.com/news/minnesota-wild-los-angeles-kings-game-recap/c-337287266) |
+| 2022-11-08 | [[Kings at NHL dot com]] | [*Quick makes 21 saves, Kings shut out Wild*](https://www.nhl.com/news/minnesota-wild-los-angeles-kings-game-recap/c-337287266) |
 
 ## Contributors
 - [[Dan Greenspan]]
@@ -22,7 +22,7 @@ status: stable
 
 | Date       | Site                 | Title / Internal Link                         |
 | ---------- | -------------------- | --------------------------------------------- |
-| 2022-11-08 | [[Kings at NHL.com]] | [[Quick makes 21 saves, Kings shut out Wild]] |
+| 2022-11-08 | [[Kings at NHL dot com]] | [[Quick makes 21 saves, Kings shut out Wild]] |
 
 ## Players
 - [[Jonathan Quick]]

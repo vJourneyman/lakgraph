@@ -13,8 +13,8 @@ status: stable
 
 | Date       | Site                 | Link                                                                                                        |
 | ---------- | -------------------- | ----------------------------------------------------------------------------------------------------------- |
-| 2022-10-21 | [[Kings at NHL.com]] | [LA Kings Prospect Report, 10-21](https://www.nhl.com/kings/news/la-kings-prospect-report-1021/c-336636584) |
-| 2022-10-21 | [[Kings at NHL.com]] | [[LA Kings Prospect Report, 10-21]]                                                                         |
+| 2022-10-21 | [[Kings at NHL dot com]] | [LA Kings Prospect Report, 10-21](https://www.nhl.com/kings/news/la-kings-prospect-report-1021/c-336636584) |
+| 2022-10-21 | [[Kings at NHL dot com]] | [[LA Kings Prospect Report, 10-21]]                                                                         |
 
 ## Contributors
 - [[Jack Jablonski]]

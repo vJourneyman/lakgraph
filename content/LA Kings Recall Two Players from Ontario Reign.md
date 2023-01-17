@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site                 | External Link                                                                                                                                 |
 | ---------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-27 | [[Kings at NHL.com]] | [*LA Kings Recall Two Players from Ontario Reign*](https://www.nhl.com/kings/news/la-kings-recall-two-players-from-ontario-reign/c-338103280) |
+| 2022-11-27 | [[Kings at NHL dot com]] | [*LA Kings Recall Two Players from Ontario Reign*](https://www.nhl.com/kings/news/la-kings-recall-two-players-from-ontario-reign/c-338103280) |
 
 ## Contributors
 - 
@@ -22,7 +22,7 @@ status: stable
 
 | Date       | Site                 | Title / Internal Link                              |
 | ---------- | -------------------- | -------------------------------------------------- |
-| 2022-11-27 | [[Kings at NHL.com]] | [[LA Kings Recall Two Players from Ontario Reign]] |
+| 2022-11-27 | [[Kings at NHL dot com]] | [[LA Kings Recall Two Players from Ontario Reign]] |
 
 ## Players
 - [[Lias Andersson]]

@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site                 | External Link                                                                                                                                        |
 | ---------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-12-08 | [[Kings at NHL.com]] | [*Marner pushes point streak to 21, Maple Leafs blank Kings*](https://www.nhl.com/news/los-angeles-kings-toronto-maple-leafs-game-recap/c-338458986) |
+| 2022-12-08 | [[Kings at NHL dot com]] | [*Marner pushes point streak to 21, Maple Leafs blank Kings*](https://www.nhl.com/news/los-angeles-kings-toronto-maple-leafs-game-recap/c-338458986) |
 
 ## Contributors
 - [[Dave McCarthy]]
@@ -22,7 +22,7 @@ status: stable
 
 | Date       | Site                 | Title / Internal Link                                         |
 | ---------- | -------------------- | ------------------------------------------------------------- |
-| 2022-12-08 | [[Kings at NHL.com]] | [[Marner pushes point streak to 21, Maple Leafs blank Kings]] |
+| 2022-12-08 | [[Kings at NHL dot com]] | [[Marner pushes point streak to 21, Maple Leafs blank Kings]] |
 
 ## Players
 - [[Jonathan Quick]]

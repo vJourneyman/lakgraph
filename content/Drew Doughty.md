@@ -19,6 +19,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                      |
 | ---------- | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-23 | [[The Forum Report]] | [[Playmaking Chart - 12-22 vs Calgary]] |
 | 2022-12-18 | [[The Forum Report]] | [[Playmaking Chart - December 17 vs San Jose]] |
 | 2022-12-16 | [[The Forum Report]]    | [[Playmaking Chart - December 15 at Boston]]                                                                                                               |
 | 2022-12-15 | [[The Hockey News]]     | [[KINGS SEAN DURZI LEARNS WHAT IT MEANS TO BE AN NHL STAR]]                                                                                                |
@@ -76,10 +77,10 @@ status: stable
 | 2022-11-11 | [[The Athletic]]        | [[NHL99 - Drew Doughtys fearless, tireless, fiery style created a legacy in LA]]                                                                           |
 | 2022-11-10 | [[ESPN]]                | [[They make you feel like you belong - How Drew Doughty and Anze Kopitar have shaped the Kings]]                                                           |
 | 2022-11-10 | [[The Athletic]]        | [[Blackhawks vs Kings conjures fuzzy memories and warns of fuzzier futures]]                                                                               |
-| 2022-11-09 | [[Kings at NHL.com]]    | [[11-8 FINAL - Kings 1, Wild 0]]                                                                                                                           |
+| 2022-11-09 | [[Kings at NHL dot com]]    | [[11-8 FINAL - Kings 1, Wild 0]]                                                                                                                           |
 | 2022-11-09 | [[The Athletic]]        | [[Kirill Kaprizov gets match penalty as Wild offense sputters in loss to Kings - ‘Its a joke]]                                                             |
 | 2022-11-09 | [[The Forum Report]]    | [[Waking up with the Kings - November 9]]                                                                                                                  |
-| 2022-11-08 | [[Kings at NHL.com]]    | [[LA Kings vs Minnesota Wild - How to Watch]]                                                                                                              |
+| 2022-11-08 | [[Kings at NHL dot com]]    | [[LA Kings vs Minnesota Wild - How to Watch]]                                                                                                              |
 | 2022-11-08 | [[The Forum Report]]    | [[Frustrated by penalty imbalance, Evason alleges Kaprizov hit Doughty with glove, not stick - Doughty didnt see replay, “but it felt like a stick”]]      |
 | 2022-11-08 | [[The Forum Report]]    | [[Lineup notes - depth skill sustaining leagues offensive surge - Fiala has a”a good feeling” about tonight]]                                              |
 | 2022-11-08 | [[LA Kings Insider]]    | [[FINAL – Kings 1, Wild 0 – Quick, Roy, McLellan]]                                                                                                         |
@@ -100,7 +101,7 @@ status: stable
 | 2022-10-21 | [[The Forum Report]]    | [[Forechecks improvements - Doughty thinks Clarke “looks like an NHL-ready player,” prefers summer World Cup]]                                             |
 | 2022-10-21 | [[LA Kings Insider]]    | [[Kings go off-ice in Washington, McLellan and Doughty detail benefits of a different type of practice - LA Kings Insider]]                                |
 | 2022-10-18 | [[ESPN]]                | [[2022-23 NHL Rank - Top player predictions across teams]]                                                                                                 |
-| 2022-10-16 | [[Kings at NHL.com]]    | [[Kings score seven, hold off late rally by Wild for first win of season]]                                                                                 |
+| 2022-10-16 | [[Kings at NHL dot com]]    | [[Kings score seven, hold off late rally by Wild for first win of season]]                                                                                 |
 | 2022-10-14 | [[The Athletic]]        | [[Duhatschek - Nazem Kadri Flames observations, the Krakens improvements, the Kings struggle]]                                                             |
 | 2022-10-14 | [[The Athletic]]        | [[Brandt Clarkes NHL debut - Shift-by-shift analysis of the LA Kings rookie]]                                                                              |
 | 2022-10-12 | [[The Forum Report]]    | [[Possession Chart - October 11 vs VGK]]                                                                                                                   |

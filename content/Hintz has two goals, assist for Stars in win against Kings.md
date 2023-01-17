@@ -12,8 +12,8 @@ status: stable
 
 | Date       | Site                 | Link                                                                                                                                         |
 | ---------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-01 | [[Kings at NHL.com]] | [Hintz has two goals, assist for Stars in win against Kings](https://www.nhl.com/news/los-angeles-kings-dallas-stars-game-recap/c-337027896) |
-| 2022-11-01 | [[Kings at NHL.com]] | [[Hintz has two goals, assist for Stars in win against Kings]]                                                                               |
+| 2022-11-01 | [[Kings at NHL dot com]] | [Hintz has two goals, assist for Stars in win against Kings](https://www.nhl.com/news/los-angeles-kings-dallas-stars-game-recap/c-337027896) |
+| 2022-11-01 | [[Kings at NHL dot com]] | [[Hintz has two goals, assist for Stars in win against Kings]]                                                                               |
 
 ## Contributors
 - [[Taylor Baird]]

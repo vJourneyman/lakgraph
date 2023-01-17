@@ -34,7 +34,7 @@ status: needs-draft-content
 ## Post-Draft Coverage
 | Date | Site | Title |
 | ---- | ---- | ----- |
-| 2022-10-21 | [[Kings at NHL.com]] | [[LA Kings Prospect Report, 10-21]]                                                                         |
+| 2022-10-21 | [[Kings at NHL dot com]] | [[LA Kings Prospect Report, 10-21]]                                                                         |
 
 
 

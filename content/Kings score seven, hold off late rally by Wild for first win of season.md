@@ -12,8 +12,8 @@ status: unstarted
 
 | Date       | Site    | Link                                                                                                                                                       |
 | ---------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-10-16 | [[Kings at NHL.com]] | [Kings score seven, hold off late rally by Wild for first win of season](https://www.nhl.com/news/los-angeles-kings-minnesota-wild-game-recap/c-335870572) |
-| 2022-10-16 | [[Kings at NHL.com]] | [[Kings score seven, hold off late rally by Wild for first win of season]]                                                                                 |
+| 2022-10-16 | [[Kings at NHL dot com]] | [Kings score seven, hold off late rally by Wild for first win of season](https://www.nhl.com/news/los-angeles-kings-minnesota-wild-game-recap/c-335870572) |
+| 2022-10-16 | [[Kings at NHL dot com]] | [[Kings score seven, hold off late rally by Wild for first win of season]]                                                                                 |
 
 ## Contributors
 - [[Jessi Pierce]]

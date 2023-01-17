@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site                 | External Link                                                                                                       |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| 2022-12-22 | [[Kings at NHL.com]] | [*LA Kings Make Roster Transactions*](https://www.nhl.com/kings/news/la-kings-make-roster-transactions/c-339102092) |
+| 2022-12-22 | [[Kings at NHL dot com]] | [*LA Kings Make Roster Transactions*](https://www.nhl.com/kings/news/la-kings-make-roster-transactions/c-339102092) |
 
 ## Contributors
 - 
@@ -22,7 +22,7 @@ status: stable
 
 | Date       | Site                 | Title / Internal Link                 |
 | ---------- | -------------------- | ------------------------------------- |
-| 2022-12-22 | [[Kings at NHL.com]] | [[LA Kings Make Roster Transactions]] |
+| 2022-12-22 | [[Kings at NHL dot com]] | [[LA Kings Make Roster Transactions]] |
 
 ## Players
 - [[Brendan Lemieux]]

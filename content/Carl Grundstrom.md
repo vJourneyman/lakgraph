@@ -29,7 +29,7 @@ status: stable
 | 2022-11-20 | [[The Forum Report]]   | [[Playmaking Chart - November 19 at Seattle]]                                                                                  |
 | 2022-11-13 | [[The Forum Report]]   | [[Playmaking Chart - 11-12 vs Detroit]]                                                                                        |
 | 2022-11-13 | [[The Forum Report]]   | [[Waking up with the Kings - November 13]]                                                                                     |
-| 2022-11-12 | [[Kings at NHL.com]]   | [[Durzi has two goals, Kings hold off Red Wings]]                                                                              |
+| 2022-11-12 | [[Kings at NHL dot com]]   | [[Durzi has two goals, Kings hold off Red Wings]]                                                                              |
 | 2022-11-12 | [[The Forum Report]]   | [[Effective in a role not easily replicated, Lemieux “probably going to be out for a little while”]]                           |
 | 2022-11-12 | [[The Forum Report]]   | [[Inside Kupari, Fiala and Grundstroms chemistry - remembering the 2001 Detroit-LA playoff back-to-back]]                      |
 | 2022-11-12 | [[LA Kings Insider]]   | [[FINAL – Kings 4, Red Wings 3 – Durzi, Grundstrom, McLellan]]                                                                 |
@@ -37,14 +37,14 @@ status: stable
 | 2022-11-09 | [[The Forum Report]]   | [[Waking up with the Kings - November 9]]                                                                                      |
 | 2022-11-08 | [[LA Kings Insider]]   | [[11-8 Preview – Optional Skate Today + Line Changes After 5, Kaliyevs Progression, ESPN(2)]]                                  |
 | 2022-11-07 | [[Hockey Royalty]]     | [[Byfield loaned to Ontario for conditioning stint]]                                                                           |
-| 2022-11-07 | [[Kings at NHL.com]]   | [[11-7 - The Week That Was, The Week That Is]]                                                                                 |
+| 2022-11-07 | [[Kings at NHL dot com]]   | [[11-7 - The Week That Was, The Week That Is]]                                                                                 |
 | 2022-11-04 | [[The Forum Report]]   | [[Playmaking Chart - 11-3-22 at CHI]]                                                                                          |
 | 2022-11-04 | [[The Forum Report]]   | [[Waking Up with the Kings - November 4]]                                                                                      |
 | 2022-11-02 | [[LA Hockey Now]]      | [[Kings Undone by Stars Explosive Power Play in 5-2 Loss]]                                                                     |
 | 2022-11-01 | [[LA Kings Insider]]   | [[FINAL - Kings 2, Stars 5 - Kopitar, Danault, McLellan - LA Kings Insider]]                                                   |
 | 2022-11-01 | [[LA Kings Insider]]   | [[11-1 Preview - No Morning Skate in Dallas plus McLellan on Fiala, Doughty-Anderson Pairing, The Big 100 - LA Kings Insider]] |
 | 2022-10-31 | [[Field Level Media]]  | [[Kings cruise as Blues drop fifth consecutive game]]                                                                          |
-| 2022-10-31 | [[Kings at NHL.com]]   | [[Kings chase Binnington, hand Blues fifth straight loss]]                                                                     |
+| 2022-10-31 | [[Kings at NHL dot com]]   | [[Kings chase Binnington, hand Blues fifth straight loss]]                                                                     |
 | 2022-10-31 | [[The Forum Report]]   | [[Quick on successfully defending a 3-on-0 - Grundstrom thriving within team schematics]]                                      |
 | 2022-10-31 | [[LA Kings Insider]]   | [[FINAL - Kings 5, Blues 1 - Grundstrom, McLellan - LA Kings Insider]]                                                         |
 | 2022-10-26 | [[The Forum Report]]   | [[Playmaking Chart - 10-25 vs TBL]]                                                                                            |

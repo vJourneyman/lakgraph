@@ -12,8 +12,8 @@ status: stable
 
 | Date       | Site                 | Link                                                                                                                                       |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-10-31 | [[Kings at NHL.com]] | [Kings chase Binnington, hand Blues fifth straight loss](https://www.nhl.com/news/los-angeles-kings-st-louis-blues-game-recap/c-336560486) |
-| 2022-10-31 | [[Kings at NHL.com]] | [[Kings chase Binnington, hand Blues fifth straight loss]]                                                                                 |
+| 2022-10-31 | [[Kings at NHL dot com]] | [Kings chase Binnington, hand Blues fifth straight loss](https://www.nhl.com/news/los-angeles-kings-st-louis-blues-game-recap/c-336560486) |
+| 2022-10-31 | [[Kings at NHL dot com]] | [[Kings chase Binnington, hand Blues fifth straight loss]]                                                                                 |
 
 ## Contributors
 - [[Lou Korac]]

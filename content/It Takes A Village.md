@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site                 | External Link                                                                         |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------- |
-| 2022-11-23 | [[Kings at NHL.com]] | [*It Takes A Village*](https://www.nhl.com/kings/news/it-takes-a-village/c-337941664) |
+| 2022-11-23 | [[Kings at NHL dot com]] | [*It Takes A Village*](https://www.nhl.com/kings/news/it-takes-a-village/c-337941664) |
 
 ## Contributors
 - [[Deborah Lew]]
@@ -22,7 +22,7 @@ status: stable
 
 | Date       | Site                 | Title / Internal Link  |
 | ---------- | -------------------- | ---------------------- |
-| 2022-11-23 | [[Kings at NHL.com]] | [[It Takes A Village]] |
+| 2022-11-23 | [[Kings at NHL dot com]] | [[It Takes A Village]] |
 
 ## Players
 - [[Arthur Kaliyev]]

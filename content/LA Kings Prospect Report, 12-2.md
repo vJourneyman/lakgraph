@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site                 | External Link                                                                                               |
 | ---------- | -------------------- | ----------------------------------------------------------------------------------------------------------- |
-| 2022-12-02 | [[Kings at NHL.com]] | [*LA Kings Prospect Report, 12-2*](https://www.nhl.com/kings/news/la-kings-prospect-report-122/c-338310498) |
+| 2022-12-02 | [[Kings at NHL dot com]] | [*LA Kings Prospect Report, 12-2*](https://www.nhl.com/kings/news/la-kings-prospect-report-122/c-338310498) |
 
 ## Contributors
 - [[Jack Jablonski]]
@@ -22,7 +22,7 @@ status: stable
 
 | Date       | Site                 | Title / Internal Link              |
 | ---------- | -------------------- | ---------------------------------- |
-| 2022-12-02 | [[Kings at NHL.com]] | [[LA Kings Prospect Report, 12-2]] |
+| 2022-12-02 | [[Kings at NHL dot com]] | [[LA Kings Prospect Report, 12-2]] |
 
 ## Players
 - [[Quinton Byfield]]

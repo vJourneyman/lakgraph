@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site                 | External Link                                                                                                                        |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-11-19 | [[Kings at NHL.com]] | [*Eberles OT goal gives Kraken win against Kings*](https://www.nhl.com/news/los-angeles-kings-seattle-kraken-game-recap/c-337630048) |
+| 2022-11-19 | [[Kings at NHL dot com]] | [*Eberles OT goal gives Kraken win against Kings*](https://www.nhl.com/news/los-angeles-kings-seattle-kraken-game-recap/c-337630048) |
 
 ## Contributors
 - [[Andy Eide]]
@@ -22,7 +22,7 @@ status: stable
 
 | Date       | Site                 | Title / Internal Link                              |
 | ---------- | -------------------- | -------------------------------------------------- |
-| 2022-11-19 | [[Kings at NHL.com]] | [[Eberles OT goal gives Kraken win against Kings]] |
+| 2022-11-19 | [[Kings at NHL dot com]] | [[Eberles OT goal gives Kraken win against Kings]] |
 
 ## Players
 - [[Phillip Danault]]

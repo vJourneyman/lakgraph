@@ -12,8 +12,8 @@ status: unstarted
 
 | Date       | Site                 | Link                                                                                                                                             |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-10-17 | [[Kings at NHL.com]] | [Danaults second goal gives Kings OT win against Red Wings](https://www.nhl.com/news/los-angeles-kings-detroit-red-wings-game-recap/c-335933386) |
-| 2022-10-17 | [[Kings at NHL.com]]  | [[Danaults second goal gives Kings OT win against Red Wings]]                                                                     |
+| 2022-10-17 | [[Kings at NHL dot com]] | [Danaults second goal gives Kings OT win against Red Wings](https://www.nhl.com/news/los-angeles-kings-detroit-red-wings-game-recap/c-335933386) |
+| 2022-10-17 | [[Kings at NHL dot com]]  | [[Danaults second goal gives Kings OT win against Red Wings]]                                                                     |
 
 ## Contributors
 - [[Dave Hogg]]

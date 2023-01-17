@@ -21,7 +21,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                  |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-12-21 | [[Kings at NHL.com]]    | [[Soccer Kings]]                                                                                                                                       |
+| 2022-12-21 | [[Kings at NHL dot com]]    | [[Soccer Kings]]                                                                                                                                       |
 | 2022-12-21 | [[LA Kings Insider]]    | [[A “confident and calm” Pheonix Copley proving to be a great fit with the LA Kings]]                                                                  |
 | 2022-12-20 | [[LA Hockey Now]]       | [[Kings Brush Ducks Aside 4-1 For Third Straight Win]]                                                                                                 |
 | 2022-12-20 | [[LA Daily News]]       | [[Kings put away Ducks for third 3-game win streak of season]]                                                                                         |
@@ -69,7 +69,7 @@ priority: high
 | 2022-11-18 | [[LA Kings Insider]]    | [[11-18 Preview – Full-Team Skate in VAN + Playing “Kings Hockey”, Shot Blocking and Edler talks HOF]]                                                 |
 | 2022-11-17 | [[TSN.ca]]              | [[Insider Trading - Injuries forcing Jets to consider all options]]                                                                                    |
 | 2022-11-15 | [[The Forum Report]]    | [[Waking Up with the Kings - November 15]]                                                                                                             |
-| 2022-11-14 | [[Kings at NHL.com]]    | [[The Week That Was, The Week That Is - 11-14]]                                                                                                        |
+| 2022-11-14 | [[Kings at NHL dot com]]    | [[The Week That Was, The Week That Is - 11-14]]                                                                                                        |
 | 2022-11-14 | [[Hockey Royalty]]      | [[Week 6 Pacific Division Power Rankings]]                                                                                                             |
 | 2022-11-13 | [[Field Level Media]]   | [[Streaking Kings hit road to test rekindled Flames]]                                                                                                  |
 | 2022-11-13 | [[LA Daily News]]       | [[Kings prepare to start of road trip in Calgary]]                                                                                                     |
@@ -78,7 +78,7 @@ priority: high
 | 2022-11-13 | [[The Forum Report]]    | [[Playmaking Chart - 11-12 vs Detroit]]                                                                                                                |
 | 2022-11-12 | [[LA Hockey Now]]       | [[Kings Stay Hot With 4-3 Victory Over Red Wings]]                                                                                                     |
 | 2022-11-12 | [[LA Daily News]]       | [[Kings extend win streak with victory over Red Wings]]                                                                                                |
-| 2022-11-12 | [[Kings at NHL.com]]    | [[Durzi has two goals, Kings hold off Red Wings]]                                                                                                      |
+| 2022-11-12 | [[Kings at NHL dot com]]    | [[Durzi has two goals, Kings hold off Red Wings]]                                                                                                      |
 | 2022-11-12 | [[LA Kings Insider]]    | [[FINAL – Kings 4, Red Wings 3 – Durzi, Grundstrom, McLellan]]                                                                                         |
 | 2022-11-09 | [[The Athletic]]        | [[LA Kings are scoring more goals — heres why, and is there a cost involved]]                                                                          |
 | 2022-11-09 | [[LA Kings Insider]]    | [[11-9 Practice – Winning 1-0, McLellan on Quick and Power Play, Roys Growth and Consistency]]                                                         |

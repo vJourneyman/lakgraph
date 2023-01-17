@@ -49,7 +49,7 @@ status: stable
 | 2022-11-30 | [[The Forum Report]]    | [[Waking up with the Kings - November 30]]                                                                                                                      |
 | 2022-11-30 | [[LA Kings Insider]]    | [[Reports - Petersen placed on waivers + Kings cancel todays on-ice practice]]                                                                                  |
 | 2022-11-29 | [[LA Daily News]]       | [[Kraken edge Kings in highest-scoring NHL game of season]]                                                                                                     |
-| 2022-11-29 | [[Kings at NHL.com]]    | [[Kraken recover for high-scoring OT victory against Kings]]                                                                                                    |
+| 2022-11-29 | [[Kings at NHL dot com]]    | [[Kraken recover for high-scoring OT victory against Kings]]                                                                                                    |
 | 2022-11-29 | [[The Forum Report]]    | [[After historic, 17-goal overtime loss, McLellan describes “mass confusion right now for all of us” as season hinges on rectifying defensive woes]]            |
 | 2022-11-28 | [[ESPN]]                | [[Grades for all 32 NHL teams at the quarter mark of 2022-23]]                                                                                                  |
 | 2022-11-27 | [[The Fourth Period]]   | [[LAK AT 23 - YOU NEVER KNOW ]]                                                                                                                                 |
@@ -63,12 +63,12 @@ status: stable
 | 2022-11-22 | [[LA Kings Insider]]    | [[FINAL – Kings 3, Rangers 5 – Fiala, Edler, McLellan]]                                                                                                         |
 | 2022-11-22 | [[LA Kings Insider]]    | [[11-22 Preview – Potential Alignment + Fiala talks comfort level, Penalties and Kill, Rushing Rangers]]                                                        |
 | 2022-11-20 | [[Hockey Royalty]]      | [[Takeaways - Seattle 3, LA Kings 2 OT – A Point Salvaged]]                                                                                                     |
-| 2022-11-19 | [[Kings at NHL.com]]    | [[Eberles OT goal gives Kraken win against Kings]]                                                                                                              |
+| 2022-11-19 | [[Kings at NHL dot com]]    | [[Eberles OT goal gives Kraken win against Kings]]                                                                                                              |
 | 2022-11-19 | [[Hockey Royalty]]      | [[LA Kings at Seattle Kraken projected lineup, betting preview]]                                                                                                |
 | 2022-11-19 | [[The Forum Report]]    | [[Sean Durzi (lower-body) day-to-day but could play this week - Vilardi draws praise despite point drought - ex-Washingtonian Anderson-Dolan returns]]          |
 | 2022-11-19 | [[LA Kings Insider]]    | [[FINAL – Kings 2, Kraken 3 (OT) – Petersen, Edler, McLellan]]                                                                                                  |
 | 2022-11-19 | [[LA Kings Insider]]    | [[11-19 Preview – No Morning Skate plus Top Line Takeaways, Petersens Evolving Metrics, Ups and Downs]]                                                         |
-| 2022-11-17 | [[Kings at NHL.com]]    | [[Super 16 - Devils rise to No 2 - Kings, Flames join rankings]]                                                                                                |
+| 2022-11-17 | [[Kings at NHL dot com]]    | [[Super 16 - Devils rise to No 2 - Kings, Flames join rankings]]                                                                                                |
 | 2022-11-17 | [[Field Level Media]]   | [[With coachs job security in question, Canucks prep to face Kings]]                                                                                            |
 | 2022-11-17 | [[LA Daily News]]       | [[Kings head to Pacific Northwest for back-to-back set]]                                                                                                        |
 | 2022-11-17 | [[Hockey Royalty]]      | [[Takeaways - LA Kings 3, Edmonton 1 – A Great Defensive Effort]]                                                                                               |
@@ -80,7 +80,7 @@ status: stable
 | 2022-11-16 | [[The Forum Report]]    | [[Moore hat trick, 29 blocks lead character win as Petersen finds groove “These guys ended our season last year, so there is a little bit of payback in that”]] |
 | 2022-11-16 | [[LA Kings Insider]]    | [[FINAL – Kings 3, Oilers 1 – Moore, Arvidsson, Petersen, McLellan]]                                                                                            |
 | 2022-11-16 | [[LA Kings Insider]]    | [[11-16 Preview – Petersen Off First plus Mental Readiness, Kempe Off The Schneid, McHugh Talks LAK]]                                                           |
-| 2022-11-14 | [[Kings at NHL.com]]    | [[The Week That Was, The Week That Is - 11-14]]                                                                                                                 |
+| 2022-11-14 | [[Kings at NHL dot com]]    | [[The Week That Was, The Week That Is - 11-14]]                                                                                                                 |
 | 2022-11-13 | [[Action Network]]      | [[NHL Odds, Preview, Prediction - Kings vs Flames (November 14)]]                                                                                               |
 | 2022-11-13 | [[Hockey Royalty]]      | [[Takeaways - LA Kings 4, Red Wings 3 – A Perfect Homestand]]                                                                                                   |
 | 2022-11-13 | [[Mayors Manor]]        | [[Rapid Review - Highlights and Notes from Kings Fourth Straight Win, Perfect Homestand]]                                                                       |
@@ -102,7 +102,7 @@ status: stable
 | 2022-11-02 | [[LA Hockey Now]]       | [[Kings Undone by Stars Explosive Power Play in 5-2 Loss]]                                                                                                      |
 | 2022-11-02 | [[The Forum Report]]    | [[Playmaking Chart - 11-1-22 at DAL]]                                                                                                                           |
 | 2022-11-02 | [[The Forum Report]]    | [[Reaction in Dallas - Todd on 11-7 - Colin Miller on Calder Cup teammate Adrian Kempe - “You could tell early on that he was going to be a stud”]]             |
-| 2022-11-01 | [[Kings at NHL.com]]    | [[Hintz has two goals, assist for Stars in win against Kings]]                                                                                                  |
+| 2022-11-01 | [[Kings at NHL dot com]]    | [[Hintz has two goals, assist for Stars in win against Kings]]                                                                                                  |
 | 2022-11-01 | [[Hockey Royalty]]      | [[LA Kings at Dallas Stars projected lineup, betting preview]]                                                                                                  |
 | 2022-11-01 | [[LA Kings Insider]]    | [[11-1 Preview - No Morning Skate in Dallas plus McLellan on Fiala, Doughty-Anderson Pairing, The Big 100 - LA Kings Insider]]                                  |
 | 2022-10-31 | [[Hockey Royalty]]      | [[LA Kings at St Louis Blues projected lineup, betting preview]]                                                                                                |
@@ -125,9 +125,9 @@ status: stable
 | 2022-10-21 | [[Hockey Royalty]]      | [[Three Takeaways from the LA Kings 6-1 loss to the Penguins]]                                                                                                  |
 | 2022-10-21 | [[The Athletic]]        | [[NHL goalie confidence meter 2022-23 - Our early-season ratings for all 32 teams]]                                                                             |
 | 2022-10-21 | [[The Forum Report]]    | [[Waking up with the Kings - October 21]]                                                                                                                       |
-| 2022-10-20 | [[Kings at NHL.com]]    | [[LA Kings at Pittsburgh Penguins - How to Watch]]                                                                                                              |
+| 2022-10-20 | [[Kings at NHL dot com]]    | [[LA Kings at Pittsburgh Penguins - How to Watch]]                                                                                                              |
 | 2022-10-20 | [[Hockey Royalty]]      | [[LA Kings at Pittsburgh Penguins projected lineups, betting preview]]                                                                                          |
-| 2022-10-20 | [[Kings at NHL.com]]    | [[Penguins rout Kings, Sullivan earns 300th win as Pittsburgh coach]]                                                                                           |
+| 2022-10-20 | [[Kings at NHL dot com]]    | [[Penguins rout Kings, Sullivan earns 300th win as Pittsburgh coach]]                                                                                           |
 | 2022-10-20 | [[The Athletic]]        | [[LA Kings Cal Petersen pulled, and hears it from coach — He has to be better]]                                                                                 |
 | 2022-10-20 | [[The Forum Report]]    | [[McLellan addresses Petersens start - “Weve got to get him going Hes got to play like he can play”]]                                                           |
 | 2022-10-20 | [[The Forum Report]]    | [[Petersen starts - Edler cleared - Carter on culture, 10th reunion]]                                                                                           |
@@ -138,7 +138,7 @@ status: stable
 | 2022-10-19 | [[The Forum Report]]    | [[Waking up with the Kings - October 19]]                                                                                                                       |
 | 2022-10-19 | [[LA Kings Insider]]    | [[Angeles Analysis - Good To See You, Positive Trends - LA Kings Insider]]                                                                                      |
 | 2022-10-19 | [[LA Kings Insider]]    | [[A Few More Narratives - Young Guys With Old Plays, Penalty Kill Prowess, Shootout Selection - LA Kings Insider]]                                              |
-| 2022-10-18 | [[Kings at NHL.com]]    | [[10-18 FINAL - Kings 4, Predators 3 (SO)]]                                                                                                                     |
+| 2022-10-18 | [[Kings at NHL dot com]]    | [[10-18 FINAL - Kings 4, Predators 3 (SO)]]                                                                                                                     |
 | 2022-10-18 | [[Hockey Royalty]]      | [[LA Kings Recall Defenseman Jacob Moverare, Place Alex Iafallo on IR]]                                                                                         |
 | 2022-10-18 | [[Hockey Royalty]]      | [[LA Kings at Nashville Predators Projected Lineups and Betting Preview]]                                                                                       |
 | 2022-10-18 | [[LA Kings Insider]]    | [[FINAL - Kings 4, Predators 3 (SO) - Roy, Petersen, McLellan - LA Kings Insider]]                                                                              |

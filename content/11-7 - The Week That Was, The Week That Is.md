@@ -22,7 +22,7 @@ status: stable
 
 | Date | Site | Title / Internal Link | 
 | ---- | ---- | --------------------- |
-| 2022-11-07 | [[Kings at NHL.com]]    | [[11-7 - The Week That Was, The Week That Is]]                            |
+| 2022-11-07 | [[Kings at NHL dot com]]    | [[11-7 - The Week That Was, The Week That Is]]                            |
 
 ## Players
 - [[Gabe Vilardi]]

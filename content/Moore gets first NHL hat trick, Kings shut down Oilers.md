@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site                 | External Link                                                                                                                                 |
 | ---------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-11-16 | [[Kings at NHL.com]] | [*Moore gets first NHL hat trick, Kings shut down Oilers*](https://www.nhl.com/news/los-angeles-kings-edmonton-oilers-game-recap/c-337585986) |
+| 2022-11-16 | [[Kings at NHL dot com]] | [*Moore gets first NHL hat trick, Kings shut down Oilers*](https://www.nhl.com/news/los-angeles-kings-edmonton-oilers-game-recap/c-337585986) |
 
 ## Contributors
 - [[Dan Greenspan]]
@@ -22,7 +22,7 @@ status: stable
 
 | Date       | Site                 | Title / Internal Link                                      |
 | ---------- | -------------------- | ---------------------------------------------------------- |
-| 2022-11-16 | [[Kings at NHL.com]] | [[Moore gets first NHL hat trick, Kings shut down Oilers]] |
+| 2022-11-16 | [[Kings at NHL dot com]] | [[Moore gets first NHL hat trick, Kings shut down Oilers]] |
 
 ## Players
 - [[Trevor Moore]]

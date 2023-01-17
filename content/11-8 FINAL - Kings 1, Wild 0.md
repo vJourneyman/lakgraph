@@ -12,7 +12,7 @@ status: stable
 
 | Date       | Site                 | External Link                                                                                           |
 | ---------- | -------------------- | ------------------------------------------------------------------------------------------------------- |
-| 2022-11-09 | [[Kings at NHL.com]] | [*11-8 FINAL - Kings 1, Wild 0*](https://www.nhl.com/kings/news/118-final---kings-1-wild-0/c-337401150) |
+| 2022-11-09 | [[Kings at NHL dot com]] | [*11-8 FINAL - Kings 1, Wild 0*](https://www.nhl.com/kings/news/118-final---kings-1-wild-0/c-337401150) |
 
 ## Contributors
 - [[Jack Jablonski]]
@@ -22,7 +22,7 @@ status: stable
 
 | Date       | Site                 | Title / Internal Link            |
 | ---------- | -------------------- | -------------------------------- |
-| 2022-11-09 | [[Kings at NHL.com]] | [[11-8 FINAL - Kings 1, Wild 0]] |
+| 2022-11-09 | [[Kings at NHL dot com]] | [[11-8 FINAL - Kings 1, Wild 0]] |
 
 ## Players
 - [[Drew Doughty]]

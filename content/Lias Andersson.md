@@ -23,22 +23,22 @@ Lias Andersson | 17 | C | L | 6' 1" | 183 | 1998-10-13 | Smogen, SWE | 2017 NYR,
 | Date       | Site                  | Title                                                                                                 |
 | ---------- | --------------------- | ----------------------------------------------------------------------------------------------------- |
 | 2022-11-29 | [[LA Kings Insider]]  | [[Roster Moves - Kings recall Fagemo and Spence, assign Andersson to Ontairo]]                        |
-| 2022-11-28 | [[Kings at NHL.com]]  | [[The Week That Was, The Week That Is - 11-28]]                                                       |
+| 2022-11-28 | [[Kings at NHL dot com]]  | [[The Week That Was, The Week That Is - 11-28]]                                                       |
 | 2022-11-28 | [[The Forum Report]]  | [[Playmaking Chart - November 27 vs Ottawa]]                                                          |
 | 2022-11-27 | [[Pro Hockey Rumors]] | [[Los Angeles Kings Recall Lias Andersson, Brandt Clarke, Frederic Allard]]                           |
 | 2022-11-27 | [[LA Hockey Now]]     | [[Two Kaliyev Goals Earn Kings a Point in Overtime Loss to Senators]]                                 |
-| 2022-11-27 | [[Kings at NHL.com]]  | [[LA Kings Recall Two Players from Ontario Reign]]                                                    |
+| 2022-11-27 | [[Kings at NHL dot com]]  | [[LA Kings Recall Two Players from Ontario Reign]]                                                    |
 | 2022-11-27 | [[The Forum Report]]  | [[Clarke, Andersson, Allard up, but Moverare absence raises questions - quick LAK-OTT preview]]       |
 | 2022-11-27 | [[LA Kings Insider]]  | [[11-27 Preview – Todays Rushes + PP Puck Movement, Anderson on Activation, Roster Moves]]            |
 | 2022-11-26 | [[Pro Hockey Rumors]] | [[Kings Assign Lias Andersson And Jacob Moverare To The AHL]]                                         |
-| 2022-11-26 | [[Kings at NHL.com]]  | [[LA Kings Loan Two Players to Ontario Reign]]                                                        |
+| 2022-11-26 | [[Kings at NHL dot com]]  | [[LA Kings Loan Two Players to Ontario Reign]]                                                        |
 | 2022-11-26 | [[LA Kings Insider]]  | [[Updates - Andersson, Moverare Loaned, Kings Injury Latest, Thomas, Doty headed for surgery]]        |
 | 2022-11-21 | [[Pro Hockey Rumors]] | [[Los Angeles Kings Recall Three Players From AHL]]                                                   |
 | 2022-11-21 | [[LA Kings Insider]]  | [[11-21 Practice – Todays Alignment + Fiala/Kopitar/Kempe reunited, Moverare on Debut, Roster Moves]] |
 | 2022-11-20 | [[Hockey Royalty]]    | [[Los Angeles Kings Loan Three Players To AHL]]                                                       |
 | 2022-11-19 | [[LA Hockey Now]]     | [[Kings vs Kraken Game 21 - Lines, Notes and How to Watch]]                                           |
 | 2022-11-19 | [[Mayors Manor]]      | [[Projected Lineups - LA Kings at Seattle Kraken, Trying to Get Back to Even]]                        |
-| 2022-11-14 | [[Kings at NHL.com]]  | [[The Week That Was, The Week That Is - 11-14]]                                                       |
+| 2022-11-14 | [[Kings at NHL dot com]]  | [[The Week That Was, The Week That Is - 11-14]]                                                       |
 | 2022-11-14 | [[Hockey Royalty]]    | [[LA Kings at Calgary Flames projected lineup, betting preview]]                                      |
 | 2022-11-14 | [[LA Kings Insider]]  | [[11-14 Preview – JAD Confirmed To Play, His Focus Tonight + Vitals, Improvements, Photos]]           |
 | 2022-11-13 | [[Pro Hockey Rumors]] | [[Los Angeles Kings Place Brendan Lemieux On IR - Recall Jacob Moverare, Lias Andersson]]             |
