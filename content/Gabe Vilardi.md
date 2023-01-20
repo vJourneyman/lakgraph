@@ -22,6 +22,8 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                              | Title                                                                                                                                                  |
 | ---------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-27 | [[LA Hockey Now]] | [[Kings Close Gap on Golden Knights With 4-2 Win]] |
+| 2022-12-27 | [[LA Daily News]] | [[Surging Kings outlast Golden Knights in Pacific showdown]] |
 | 2022-12-23 | [[Hockey Royalty]] | [[Takeaways - LA Kings 4, Calgary Flames 3 – Fire Extinguishers]] |
 | 2022-12-23 | [[Mayors Manor]]                  | [[Rapid Review - Notes and Highlights from Kings 4-3 OT Victory Over Flames]]                                                                          |
 | 2022-12-23 | [[The Athletic]]                  | [[The LA Kings are suddenly on a winning streak Is this the turning point]]                                                                            |

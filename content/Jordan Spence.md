@@ -20,6 +20,10 @@ status: needs-draft-content
 ## NHL  Coverage
 | Date       | Site                  | Title                                                                                                           |
 | ---------- | --------------------- | --------------------------------------------------------------------------------------------------------------- |
+| 2022-12-27 | [[Pro Hockey Rumors]] | [[Kings Recall Three, Place Arthur Kaliyev On IR]] |
+| 2022-12-27 | [[Kings at NHL dot com]] | [[LA Kings Announce Four Roster Moves]] |
+| 2022-12-27 | [[Mayors Manor]]         | [[Projected Lineups - LA Kings vs Vegas Golden Knights - Several Changes Likely]]                                                                                                                                                   |
+| 2022-12-27 | [[LA Kings Insider]] | [[Kings Recall Byfield, Kupari, Spence + Kaliyev to Injured Reserve]] |
 | 2022-12-20 | [[LA Daily News]] | [[Ducks Dostal, McTavish and Kings Spence enjoy unique journeys to NHL]] |
 | 2022-12-20 | [[Mayors Manor]]      | [[Quinton Byfield Wont Return to NHL for At Least Another Week]]                                                |
 | 2022-12-20 | [[LA Kings Insider]]  | [[12-20 Preview – Copley Expected In Net + Third Line Makeup, Air Jordan, Freeway Faceoff]]                     |

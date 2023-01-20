@@ -20,6 +20,7 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                   | Title                                                                                                                                                  |
 | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-27 | [[The Forum Report]] | [[Playmaking Chart - 12-23 at Arizona (+ Mullett Arena photos)]] |
 | 2022-12-19 | [[Action Network]] | [[NHL Odds, Preview, Prediction - Ducks vs Kings (December 20)]] |
 | 2022-12-15 | [[LA Hockey Now]]      | [[Kings Bounce Back With Massive 3-2 Shootout Victory Over Bruins]]                                                                                    |
 | 2022-12-15 | [[Mayors Manor]]       | [[Projected Lineups - LA Kings at Boston Bruins - End of the Roadie]]                                                                                  |

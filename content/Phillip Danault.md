@@ -20,6 +20,9 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                     | Title                                                                                                                                 |
 | ---------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-27 | [[LA Hockey Now]] | [[Kings Close Gap on Golden Knights With 4-2 Win]] |
+| 2022-12-27 | [[LA Daily News]] | [[Surging Kings outlast Golden Knights in Pacific showdown]] |
+| 2022-12-27 | [[LA Kings Insider]] | [[FINAL – Kings 4, Golden Knights 2 – Iafallo, Danault, Arvidsson, McLellan]] |
 | 2022-12-23 | [[Hockey Royalty]]       | [[Takeaways - LA Kings 4, Calgary Flames 3 – Fire Extinguishers]]                                                                     |
 | 2022-12-20 | [[LA Daily News]]        | [[Kings put away Ducks for third 3-game win streak of season]]                                                                        |
 | 2022-12-19 | [[Action Network]]       | [[NHL Odds, Preview, Prediction - Ducks vs Kings (December 20)]]                                                                      |

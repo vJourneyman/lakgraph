@@ -19,6 +19,8 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                     | Title                                                                                                                     |
 | ---------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-27 | [[Hockey Royalty]] | [[LA Kings vs Vegas Golden Knights projected lineup, odds, notes]] |
+| 2022-12-27 | [[LA Kings Insider]] | [[12-27 Preview – Moore Out, Byfield In + Coming Off The Break, 1 versus 2, QBs Focal Points]] |
 | 2022-12-26 | [[LA Daily News]] | [[Kings seek to extend points streak vs Las Vegas]] |
 | 2022-12-23 | [[LA Hockey Now]]        | [[Kings vs Coyotes Game 37 - Lines, Notes and How to Watch]]                                                              |
 | 2022-12-23 | [[Mayors Manor]]         | [[Projected Lineups - LA Kings at Arizona Coyotes - Double Reverse Retro Game]]                                           |

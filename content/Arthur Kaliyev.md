@@ -22,7 +22,13 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                     | Title                                                                                                                                      |
 | ---------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2022-12-24 | [[LA Hockey Now]] | [[Kings Kaliyev a More Complete and Mature Player This Season]] |
+| 2022-12-27 | [[Pro Hockey Rumors]] | [[Kings Recall Three, Place Arthur Kaliyev On IR]] |
+| 2022-12-27 | [[LA Hockey Now]] | [[Kings vs Golden Knights Game 38 - Lines, Notes and How to Watch]] |
+| 2022-12-27 | [[LA Daily News]]        | [[Surging Kings outlast Golden Knights in Pacific showdown]]                                                                               |
+| 2022-12-27 | [[Kings at NHL dot com]] | [[LA Kings Announce Four Roster Moves]]                                                                                                    |
+| 2022-12-27 | [[Mayors Manor]]         | [[Projected Lineups - LA Kings vs Vegas Golden Knights - Several Changes Likely]]                                                          |
+| 2022-12-27 | [[LA Kings Insider]]     | [[Kings Recall Byfield, Kupari, Spence + Kaliyev to Injured Reserve]]                                                                      |
+| 2022-12-24 | [[LA Hockey Now]]        | [[Kings Kaliyev a More Complete and Mature Player This Season]]                                                                            |
 | 2022-12-23 | [[Hockey Royalty]]       | [[LA Kings at Arizona Coyotes projected lineup, odds, notes]]                                                                              |
 | 2022-12-22 | [[LA Daily News]]        | [[Kings beat Calgary in overtime, win fourth straight game]]                                                                               |
 | 2022-12-21 | [[Kings at NHL dot com]] | [[Soccer Kings]]                                                                                                                           |

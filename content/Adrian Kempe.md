@@ -21,6 +21,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                              | Title                                                                                                                                                |
 | ---------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-27 | [[LA Kings Insider]] | [[12-27 Preview – Moore Out, Byfield In + Coming Off The Break, 1 versus 2, QBs Focal Points]] |
 | 2022-12-23 | [[Mayors Manor]] | [[Rapid Review - Notes and Highlights from Kings 4-3 OT Victory Over Flames]] |
 | 2022-12-23 | [[The Athletic]]                  | [[The LA Kings are suddenly on a winning streak Is this the turning point]]                                                                          |
 | 2022-12-22 | [[LA Daily News]]                 | [[Kings beat Calgary in overtime, win fourth straight game]]                                                                                         |

@@ -21,6 +21,7 @@ priority: high
 ## NHL  Coverage
 | Date       | Site                    | Title                                                                                                                                                  |
 | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2022-12-27 | [[LA Kings Insider]] | [[12-27 Preview – Moore Out, Byfield In + Coming Off The Break, 1 versus 2, QBs Focal Points]] |
 | 2022-12-21 | [[Kings at NHL dot com]]    | [[Soccer Kings]]                                                                                                                                       |
 | 2022-12-21 | [[LA Kings Insider]]    | [[A “confident and calm” Pheonix Copley proving to be a great fit with the LA Kings]]                                                                  |
 | 2022-12-20 | [[LA Hockey Now]]       | [[Kings Brush Ducks Aside 4-1 For Third Straight Win]]                                                                                                 |

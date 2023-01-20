@@ -19,7 +19,12 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                     | Title                                                                                                                                 |
 | ---------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
-| 2022-12-24 | [[LA Kings Insider]] | [[Angeles Analysis – Nice To Have Three Days]] |
+| 2022-12-27 | [[LA Daily News]]        | [[Surging Kings outlast Golden Knights in Pacific showdown]]                                                                          |
+| 2022-12-27 | [[Hockey Royalty]]       | [[LA Kings vs Vegas Golden Knights projected lineup, odds, notes]]                                                                    |
+| 2022-12-27 | [[Mayors Manor]]         | [[Projected Lineups - LA Kings vs Vegas Golden Knights - Several Changes Likely]]                                                     |
+| 2022-12-27 | [[LA Kings Insider]]     | [[FINAL – Kings 4, Golden Knights 2 – Iafallo, Danault, Arvidsson, McLellan]]                                                         |
+| 2022-12-27 | [[LA Kings Insider]]     | [[12-27 Preview – Moore Out, Byfield In + Coming Off The Break, 1 versus 2, QBs Focal Points]]                                        |
+| 2022-12-24 | [[LA Kings Insider]]     | [[Angeles Analysis – Nice To Have Three Days]]                                                                                        |
 | 2022-12-23 | [[The Hockey News]]      | [[THREE GOALIES THE LOS ANGELES KINGS COULD TRY TO ACQUIRE]]                                                                          |
 | 2022-12-23 | [[ESPN]]                 | [[NHL Power Rankings - 1-32 poll, reason for hope for all teams]]                                                                     |
 | 2022-12-23 | [[Hockey Royalty]]       | [[Takeaways - LA Kings 4, Calgary Flames 3 – Fire Extinguishers]]                                                                     |

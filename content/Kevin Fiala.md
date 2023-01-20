@@ -20,6 +20,7 @@ status: UnprocessedContent
 ## NHL  Coverage
 | Date       | Site                              | Title                                                                                                                                                      |
 | ---------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-27 | [[Hockey Royalty]] | [[Week 12 Pacific Division Power Rankings]] |
 | 2022-12-21 | [[LA Daily News]]                 | [[Kings test 3-game winning streak with back-to-back set]]                                                                                                 |
 | 2022-12-21 | [[Hockey Royalty]]                | [[Takeaways - LA Kings 4, Ducks 1 – Satisfying Win]]                                                                                                       |
 | 2022-12-21 | [[LA Kings Insider]]              | [[Practice 12-21 – Short Skate Today + How Consistent Is Consistent, THAT Goal, Forever A King]]                                                           |

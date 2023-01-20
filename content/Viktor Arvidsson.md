@@ -19,6 +19,8 @@ status: stable
 ## NHL  Coverage
 | Date       | Site                     | Title                                                                                                                                                           |
 | ---------- | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2022-12-27 | [[LA Hockey Now]] | [[Kings Close Gap on Golden Knights With 4-2 Win]] |
+| 2022-12-27 | [[LA Kings Insider]] | [[FINAL – Kings 4, Golden Knights 2 – Iafallo, Danault, Arvidsson, McLellan]] |
 | 2022-12-23 | [[Hockey Royalty]]       | [[Takeaways - LA Kings 4, Calgary Flames 3 – Fire Extinguishers]]                                                                                               |
 | 2022-12-22 | [[LA Kings Insider]]     | [[12-22 Preview – Optional Skate Today + Line 2(00-Feet), McLellan on PP, Moore Joins ATKM]]                                                                    |
 | 2022-12-21 | [[LA Kings Insider]]     | [[A “confident and calm” Pheonix Copley proving to be a great fit with the LA Kings]]                                                                           |
